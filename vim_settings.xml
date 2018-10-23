@@ -284,12 +284,12 @@
         <mark key="." line="3" column="100" />
         <mark key="^" line="3" column="19" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/package.json" timestamp="1540298201544">
+      <file name="C:/dev/definiens/vt.portal/package.json" timestamp="1540299164163">
         <mark key="'" line="32" column="17" />
-        <mark key="[" line="33" column="34" />
-        <mark key="]" line="33" column="34" />
-        <mark key="^" line="33" column="37" />
-        <mark key="." line="33" column="34" />
+        <mark key="[" line="32" column="70" />
+        <mark key="]" line="32" column="68" />
+        <mark key="." line="32" column="68" />
+        <mark key="^" line="32" column="68" />
       </file>
       <file name="/advanced-search-results.po.ts" timestamp="1539877336476">
         <mark key="[" line="39" column="0" />
@@ -750,7 +750,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>ng lint</text>
       </register>
       <register name="/" type="4">
         <text>lint</text>
@@ -759,7 +759,7 @@
         <text encoding="base64">ICAgICJsaW50IjogInRzbGludCAtcCB0c2NvbmZpZy5qc29uIiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJ0c2xpbnQiOiAiIgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -777,25 +777,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZygnRW50ZXJpbmcgIlRoZW4gQWxsIFNpdGUgbWVtYmVycyBhcmUgYXNzaWduZWQgd2l0aCB0aGVpciB1c2VyIHJvbGUgdG8gdGhlIFByb2plY3QgU2l0ZSInKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0ICogYXMgY2hhaSBmcm9tICdjaGFpJzsK</text>
+        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZygnRW50ZXJpbmcgIlRoZW4gQWxsIFNpdGUgbWVtYmVycyBhcmUgYXNzaWduZWQgd2l0aCB0aGVpciB1c2VyIHJvbGUgdG8gdGhlIFByb2plY3QgU2l0ZSInKTsK</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5sb2coJ2NoZWNrICcgKyBmb2xkZXJOYW1lICsgJyBpcyBwcmVzZW50OiAnICsgaXNGb2xkZXJOYW1lUHJlc2VudCk7Cg==</text>
+        <text encoding="base64">Ly8gaW1wb3J0ICogYXMgY2hhaSBmcm9tICdjaGFpJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5sb2coYGN1cnJlbnRGb2xkZXJOYW1lID0+ICR7Zm9sZGVyTmFtZX1gKTsK</text>
+        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5sb2coJ2NoZWNrICcgKyBmb2xkZXJOYW1lICsgJyBpcyBwcmVzZW50OiAnICsgaXNGb2xkZXJOYW1lUHJlc2VudCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKCdFbnRlcmluZyAiY2hlY2sgcHJvamVjdCB0ZW1wbGF0ZSBmb2xkZXIgIihbXiJdKikiIGlzIHByZXNlbnQiIC0tPiAnICsgZm9sZGVyU3RyaW5ncyk7Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5sb2coYGN1cnJlbnRGb2xkZXJOYW1lID0+ICR7Zm9sZGVyTmFtZX1gKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhgVXNlciB2ZXJpZmllZCAtICR7Y3VyclRlc3RVc2VyLnVzZXJOYW1lfWApOwo=</text>
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKCdFbnRlcmluZyAiY2hlY2sgcHJvamVjdCB0ZW1wbGF0ZSBmb2xkZXIgIihbXiJdKikiIGlzIHByZXNlbnQiIC0tPiAnICsgZm9sZGVyU3RyaW5ncyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -852,8 +852,8 @@
         <entry>reg</entry>
         <entry>%s/value/normalizedValue/gc</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>set list</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
