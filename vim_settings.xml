@@ -92,12 +92,12 @@
         <mark key="." line="69" column="21" />
         <mark key="^" line="69" column="21" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/state/effects/project-ui.effects.ts" timestamp="1540406216522">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="15" column="44" />
-        <mark key="]" line="15" column="53" />
-        <mark key="." line="15" column="53" />
-        <mark key="^" line="15" column="53" />
+      <file name="C:/dev/definiens/vt.portal/src/app/state/effects/project-ui.effects.ts" timestamp="1540406375811">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="13" column="38" />
+        <mark key="]" line="13" column="53" />
+        <mark key="." line="13" column="53" />
+        <mark key="^" line="13" column="53" />
       </file>
       <file name="C:/dev/veritrova/alfresco.e2e/config/environments.ts" timestamp="1538736319511">
         <mark key="[" line="2" column="8" />
@@ -344,7 +344,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="42" filename="C:/dev/definiens/alfresco.e2e/page_objects/site/advanced-search-results.po.ts" />
       <jump line="60" column="20" filename="C:/dev/definiens/alfresco.e2e/page_objects/site/advanced-search-results.po.ts" />
       <jump line="61" column="21" filename="C:/dev/definiens/alfresco.e2e/page_objects/site/advanced-search-results.po.ts" />
       <jump line="26" column="17" filename="C:/dev/definiens/alfresco.e2e/page_objects/site/advanced-search.po.ts" />
@@ -439,11 +438,12 @@
       <jump line="155" column="0" filename="C:/dev/definiens/vt.portal/src/app/state/effects/projects.effect.ts" />
       <jump line="26" column="1" filename="C:/dev/definiens/vt.portal/src/app/state/effects/project-ui.effects.ts" />
       <jump line="1" column="0" filename="C:/dev/definiens/vt.portal/src/app/state/effects/projects.effect.ts" />
-      <jump line="13" column="0" filename="C:/dev/definiens/vt.portal/src/app/state/effects/project-ui.effects.ts" />
       <jump line="28" column="0" filename="C:/dev/definiens/vt.portal/src/app/state/effects/project-ui.effects.ts" />
       <jump line="21" column="0" filename="C:/dev/definiens/vt.portal/src/app/state/effects/project-ui.effects.ts" />
       <jump line="38" column="0" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/state/effects/block-ui.effects.ts" />
       <jump line="40" column="2" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/state/effects/block-ui.effects.ts" />
+      <jump line="13" column="38" filename="C:/dev/definiens/vt.portal/src/app/state/effects/project-ui.effects.ts" />
+      <jump line="25" column="0" filename="C:/dev/definiens/vt.portal/src/app/state/effects/project-ui.effects.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -521,7 +521,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>BlockUiActions.NAVIGATE</text>
+        <text>.ofType(ProjectActions.LOAD_MY_MEMBERSHIP_SUCCESS)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2FkQWN0aW9uXD4=</text>
