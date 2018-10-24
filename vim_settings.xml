@@ -67,12 +67,12 @@
         <mark key="^" line="3" column="39" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/state/actions/project-ui.actions.ts" timestamp="1540407477434">
+      <file name="C:/dev/definiens/vt.portal/src/app/state/actions/project-ui.actions.ts" timestamp="1540407526611">
         <mark key="'" line="24" column="38" />
-        <mark key="[" line="22" column="42" />
-        <mark key="]" line="22" column="44" />
-        <mark key="." line="22" column="44" />
-        <mark key="^" line="22" column="43" />
+        <mark key="[" line="27" column="23" />
+        <mark key="]" line="28" column="1" />
+        <mark key="." line="28" column="1" />
+        <mark key="^" line="28" column="1" />
       </file>
       <file name="C:/dev/definiens/alfresco.e2e/features/login.feature" timestamp="1540366674749">
         <mark key="[" line="0" column="0" />
@@ -271,12 +271,12 @@
         <mark key="^" line="4" column="39" />
         <mark key="." line="4" column="39" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/state/reducers/project-ui.reducer.ts" timestamp="1540407384435">
-        <mark key="'" line="33" column="5" />
-        <mark key="[" line="38" column="8" />
-        <mark key="]" line="39" column="5" />
-        <mark key="." line="39" column="5" />
-        <mark key="^" line="39" column="5" />
+      <file name="C:/dev/definiens/vt.portal/src/app/state/reducers/project-ui.reducer.ts" timestamp="1540407637386">
+        <mark key="'" line="20" column="76" />
+        <mark key="[" line="43" column="8" />
+        <mark key="]" line="43" column="25" />
+        <mark key="." line="43" column="25" />
+        <mark key="^" line="43" column="25" />
       </file>
       <file name="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/equalization/equalization-panel/services/equalization-panel-queries.service.ts" timestamp="1540383198585">
         <mark key="'" line="0" column="0" />
@@ -388,7 +388,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="39" filename="C:/dev/definiens/alfresco.e2e/features/slide-filter-by-metadata.feature" />
       <jump line="7" column="4" filename="C:/dev/definiens/alfresco.e2e/page_objects/utils/alfresco-node-property-utils.ts" />
       <jump line="31" column="6" filename="C:/dev/definiens/alfresco.e2e/page_objects/utils/alfresco-node-property-utils.ts" />
       <jump line="28" column="6" filename="C:/dev/definiens/alfresco.e2e/page_objects/utils/alfresco-node-property-utils.ts" />
@@ -488,6 +487,7 @@
       <jump line="17" column="27" filename="C:/dev/definiens/vt.portal/src/app/state/reducers/project-ui.reducer.ts" />
       <jump line="28" column="5" filename="C:/dev/definiens/vt.portal/src/app/state/reducers/project-ui.reducer.ts" />
       <jump line="33" column="5" filename="C:/dev/definiens/vt.portal/src/app/state/reducers/project-ui.reducer.ts" />
+      <jump line="20" column="76" filename="C:/dev/definiens/vt.portal/src/app/state/reducers/project-ui.reducer.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -565,7 +565,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>TAB</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2FkQWN0aW9uXD4=</text>
@@ -613,7 +613,7 @@
         <text encoding="base64">ICAgICAgd2l0aExhdGVzdEZyb20odGhpcy5wcm9qZWN0c1F1ZXJpZXMuZ2V0QWxsUHJvamVjdHNNZW1iZXJzaGlwcygpKSwK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>35,39t40</text>
       </register>
     </registers>
     <search>
@@ -649,9 +649,6 @@
         <entry encoding="base64">XDxsb2FkQWN0aW9uXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>22,29t30</entry>
-        <entry>22,29t29</entry>
-        <entry>61t67</entry>
         <entry>72d</entry>
         <entry>71d</entry>
         <entry>73,90d</entry>
@@ -669,6 +666,9 @@
         <entry>.,28d</entry>
         <entry>.,+4t18</entry>
         <entry>w</entry>
+        <entry>35,;+5t40</entry>
+        <entry>35,;5t40</entry>
+        <entry>35,39t40</entry>
       </history-cmd>
       <history-expr />
       <history-input />
