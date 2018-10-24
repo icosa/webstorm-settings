@@ -47,11 +47,12 @@
         <mark key="." line="3" column="32" />
         <mark key="^" line="3" column="32" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/state/actions/project-ui.actions.ts" timestamp="1540406587845">
-        <mark key="[" line="4" column="74" />
-        <mark key="]" line="4" column="74" />
-        <mark key="." line="4" column="54" />
-        <mark key="^" line="3" column="54" />
+      <file name="C:/dev/definiens/vt.portal/src/app/state/actions/project-ui.actions.ts" timestamp="1540406760534">
+        <mark key="'" line="5" column="38" />
+        <mark key="[" line="21" column="18" />
+        <mark key="]" line="21" column="42" />
+        <mark key="." line="21" column="42" />
+        <mark key="^" line="21" column="42" />
       </file>
       <file name="C:/dev/definiens/alfresco.e2e/features/login.feature" timestamp="1540366674749">
         <mark key="[" line="0" column="0" />
@@ -358,8 +359,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="20" filename="C:/dev/definiens/alfresco.e2e/page_objects/site/advanced-search-results.po.ts" />
-      <jump line="61" column="21" filename="C:/dev/definiens/alfresco.e2e/page_objects/site/advanced-search-results.po.ts" />
       <jump line="26" column="17" filename="C:/dev/definiens/alfresco.e2e/page_objects/site/advanced-search.po.ts" />
       <jump line="7" column="13" filename="C:/dev/definiens/alfresco.e2e/page_objects/utils/alfresco-world-context.ts" />
       <jump line="25" column="2" filename="C:/dev/definiens/alfresco.e2e/helpers/hooks.ts" />
@@ -458,6 +457,8 @@
       <jump line="40" column="2" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/state/effects/block-ui.effects.ts" />
       <jump line="13" column="38" filename="C:/dev/definiens/vt.portal/src/app/state/effects/project-ui.effects.ts" />
       <jump line="25" column="0" filename="C:/dev/definiens/vt.portal/src/app/state/effects/project-ui.effects.ts" />
+      <jump line="19" column="34" filename="C:/dev/definiens/vt.portal/src/app/state/actions/project-ui.actions.ts" />
+      <jump line="5" column="38" filename="C:/dev/definiens/vt.portal/src/app/state/actions/project-ui.actions.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -535,13 +536,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Viewer</text>
+        <text>TOGGLE_ANNOTATION_SET_CREATION_BUTTON</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2FkQWN0aW9uXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>[Portal][Project UI]</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IFRPR0dMRV9BTk5PVEFUSU9OX1NFVF9DUkVBVElPTl9CVVRUT04gPSAnW1BvcnRhbF1bUHJvamVjdCBVSV0gVE9HR0xFX0FOTk9UQVRJT05fU0VUX0NSRUFUSU9OX0JVVFRPTic7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -583,7 +584,7 @@
         <text encoding="base64">ICAgICAgICAgIC5waXBlKHRha2UoMSkpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>.,28d</text>
+        <text>.,+4t18</text>
       </register>
     </registers>
     <search>
@@ -619,7 +620,6 @@
         <entry encoding="base64">XDxsb2FkQWN0aW9uXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>46d</entry>
         <entry>22,29t30</entry>
         <entry>22,29t29</entry>
         <entry>61t67</entry>
@@ -639,6 +639,7 @@
         <entry>q</entry>
         <entry>wq</entry>
         <entry>.,28d</entry>
+        <entry>.,+4t18</entry>
       </history-cmd>
       <history-expr />
       <history-input />
