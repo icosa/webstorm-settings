@@ -60,11 +60,12 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="73" column="45" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/pages/project-overview-page/project-overview-page.component.ts" timestamp="1540383084902">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="35" column="56" />
+      <file name="C:/dev/definiens/vt.portal/src/app/pages/project-overview-page/project-overview-page.component.ts" timestamp="1540383716906">
+        <mark key="'" line="18" column="50" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="49" column="6" />
+        <mark key="." line="43" column="76" />
+        <mark key="^" line="43" column="75" />
       </file>
       <file name="C:/dev/definiens/alfresco.e2e/page_objects/utils/element-utils.ts" timestamp="1540364147386">
         <mark key="[" line="34" column="38" />
@@ -79,10 +80,12 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="40" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/pages/project-overview-page/state/project-overview-page.queries.ts" timestamp="1540383125423">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="C:/dev/definiens/vt.portal/src/app/pages/project-overview-page/state/project-overview-page.queries.ts" timestamp="1540383754705">
+        <mark key="'" line="38" column="1" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="25" column="10" />
       </file>
       <file name="C:/dev/definiens/alfresco.e2e/features/step_definitions/conversion.steps.ts" timestamp="1540361776081">
         <mark key="'" line="52" column="0" />
@@ -107,10 +110,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="35" filename="C:/dev/definiens/alfresco.e2e/package.json" />
-      <jump line="21" column="54" filename="C:/dev/definiens/alfresco.e2e/features/step_definitions/slide-filter-by-metadata.steps.ts" />
-      <jump line="30" column="77" filename="C:/dev/definiens/alfresco.e2e/features/step_definitions/slide-filter-by-metadata.steps.ts" />
-      <jump line="43" column="19" filename="C:/dev/definiens/alfresco.e2e/features/step_definitions/slide-filter-by-metadata.steps.ts" />
       <jump line="22" column="23" filename="C:/dev/definiens/alfresco.e2e/features/step_definitions/slide-filter-by-metadata.steps.ts" />
       <jump line="3" column="23" filename="C:/dev/definiens/alfresco.e2e/page_objects/site/advanced-search-results.po.ts" />
       <jump line="46" column="42" filename="C:/dev/definiens/alfresco.e2e/page_objects/site/advanced-search-results.po.ts" />
@@ -207,6 +206,10 @@
       <jump line="0" column="0" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/equalization/equalization-panel/services/equalization-panel-queries.service.ts" />
       <jump line="13" column="41" filename="C:/dev/definiens/vt.portal/src/app/pages/project-overview-page/project-overview-page.component.ts" />
       <jump line="16" column="3" filename="C:/dev/definiens/vt.portal/src/app/pages/project-overview-page/state/project-overview-page.queries.ts" />
+      <jump line="18" column="50" filename="C:/dev/definiens/vt.portal/src/app/pages/project-overview-page/project-overview-page.component.ts" />
+      <jump line="23" column="52" filename="C:/dev/definiens/vt.portal/src/app/pages/project-overview-page/state/project-overview-page.queries.ts" />
+      <jump line="3" column="0" filename="C:/dev/definiens/vt.portal/src/app/pages/project-overview-page/state/project-overview-page.queries.ts" />
+      <jump line="33" column="1" filename="C:/dev/definiens/vt.portal/src/app/pages/project-overview-page/state/project-overview-page.queries.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -284,16 +287,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>EqualizationPanelQueries</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="/" type="4">
         <text>hype</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICBwdWJsaWMgZ2V0Q3VycmVudFNsaWRlSWQodmlld2VySWQ6IHN0cmluZyk6IE9ic2VydmFibGU8c3RyaW5nPiB7CiAgICByZXR1cm4gdGhpcy5jcm9zc0VudGl0eVF1ZXJpZXMuc2xpZGVCeVZpZXdlcklkKHZpZXdlcklkKQogICAgICAucGlwZSgKICAgICAgICBmaWx0ZXIoc2xpZGUgPT4gISFzbGlkZSksCiAgICAgICAgbWFwKHNsaWRlID0+IHNsaWRlLmlkKQogICAgICApOwogIH0=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHRoaXMuZGV0YWlsZWRQcm9qZWN0SW5mbyQgPSB0aGlzLnByb2plY3RJZCQucGlwZSgKICAgICAgc3dpdGNoTWFwKGlkID0+IHRoaXMucHJvamVjdHNRdWVyaWVzLmdldERldGFpbGVkUHJvamVjdEluZm8oaWQpLnBpcGUodGFrZSgxKSkpLAogICAgICBzaGFyZVJlcGxheSgxKQogICAgKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgY3Jvc3NFbnRpdHlRdWVyaWVzOiBhbnksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -304,35 +307,35 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgbmF2UXVlcmllczogTmF2aWdhdGlvblF1ZXJpZXMsCiAgICBwcml2YXRlIHByb2plY3RzUXVlcmllczogUHJvamVjdHNRdWVyaWVzLAogICAgcHJpdmF0ZSBwcm9qZWN0c1VpUXVlcmllczogUHJvamVjdHNVaVF1ZXJpZXMsCiAgICBwcml2YXRlIGNyb3NzRW50aXR5UXVlcmllczogYW55LAogICkgeyB9CgogIHB1YmxpYyBnZXRDdXJyZW50U2xpZGVJZCh2aWV3ZXJJZDogc3RyaW5nKTogT2JzZXJ2YWJsZTxzdHJpbmc+IHsKICAgIHJldHVybiB0aGlzLmNyb3NzRW50aXR5UXVlcmllcy5zbGlkZUJ5Vmlld2VySWQodmlld2VySWQpCiAgICAgIC5waXBlKAogICAgICAgIGZpbHRlcihzbGlkZSA9PiAhIXNsaWRlKSwKICAgICAgICBtYXAoc2xpZGUgPT4gc2xpZGUuaWQpCiAgICAgICk7CiAgfQp9Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ewogICAg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgbmF2UXVlcmllczogTmF2aWdhdGlvblF1ZXJpZXMsCiAgICBwcml2YXRlIHByb2plY3RzUXVlcmllczogUHJvamVjdHNRdWVyaWVzLAogICAgcHJpdmF0ZSBwcm9qZWN0c1VpUXVlcmllczogUHJvamVjdHNVaVF1ZXJpZXMsCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgY3Jvc3NFbnRpdHlRdWVyaWVzOiBhbnksCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmlld2VyVWlRdWVyaWVzOiBWaWV3ZXJVaVF1ZXJpZXMsCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgbmF2UXVlcmllczogTmF2aWdhdGlvblF1ZXJpZXMsCiAgICBwcml2YXRlIHByb2plY3RzUXVlcmllczogUHJvamVjdHNRdWVyaWVzLAogICAgcHJpdmF0ZSBwcm9qZWN0c1VpUXVlcmllczogUHJvamVjdHNVaVF1ZXJpZXMsCiAgICBwcml2YXRlIGNyb3NzRW50aXR5UXVlcmllczogYW55LAogICkgeyB9CgogIHB1YmxpYyBnZXRDdXJyZW50U2xpZGVJZCh2aWV3ZXJJZDogc3RyaW5nKTogT2JzZXJ2YWJsZTxzdHJpbmc+IHsKICAgIHJldHVybiB0aGlzLmNyb3NzRW50aXR5UXVlcmllcy5zbGlkZUJ5Vmlld2VySWQodmlld2VySWQpCiAgICAgIC5waXBlKAogICAgICAgIGZpbHRlcihzbGlkZSA9PiAhIXNsaWRlKSwKICAgICAgICBtYXAoc2xpZGUgPT4gc2xpZGUuaWQpCiAgICAgICk7CiAgfQp9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ3Jvc3NFbnRpdHlRdWVyaWVzLCBWaWV3ZXJVaVF1ZXJpZXMgfSBmcm9tICcuLi8uLi8uLi8uLi9zdGF0ZS9xdWVyaWVzJzsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgbmF2UXVlcmllczogTmF2aWdhdGlvblF1ZXJpZXMsCiAgICBwcml2YXRlIHByb2plY3RzUXVlcmllczogUHJvamVjdHNRdWVyaWVzLAogICAgcHJpdmF0ZSBwcm9qZWN0c1VpUXVlcmllczogUHJvamVjdHNVaVF1ZXJpZXMsCg==</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRXF1YWxpemF0aW9uUHJlc2V0U3RhdGVCeVNsaWRlSWQsIElDaGFubmVsUHJlZmVyZW5jZSB9IGZyb20gJy4uLy4uLy4uLy4uL21vZGVsL2VxdWFsaXphdGlvbic7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmlld2VyVWlRdWVyaWVzOiBWaWV3ZXJVaVF1ZXJpZXMsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY29tYmluZUxhdGVzdCB9IGZyb20gJ3J4anMvb2JzZXJ2YWJsZS9jb21iaW5lTGF0ZXN0JzsK</text>
+        <text encoding="base64">aW1wb3J0IHsgQ3Jvc3NFbnRpdHlRdWVyaWVzLCBWaWV3ZXJVaVF1ZXJpZXMgfSBmcm9tICcuLi8uLi8uLi8uLi9zdGF0ZS9xdWVyaWVzJzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU2xpZGUgfSBmcm9tICcuLi8uLi8uLi8uLi9tb2RlbCc7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgRXF1YWxpemF0aW9uUHJlc2V0U3RhdGVCeVNsaWRlSWQsIElDaGFubmVsUHJlZmVyZW5jZSB9IGZyb20gJy4uLy4uLy4uLy4uL21vZGVsL2VxdWFsaXphdGlvbic7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgcHVibGljIGdldENoYW5uZWxQcmVmZXJlbmNlcyh2aWV3ZXJJZDogc3RyaW5nKTogT2JzZXJ2YWJsZTxJQ2hhbm5lbFByZWZlcmVuY2VbXT4gewogICAgcmV0dXJuIHRoaXMuZ2V0Vmlld2VyU2xpZGVBbmRDdXN0b21pemVkUHJlc2V0cyh2aWV3ZXJJZCkKICAgICAgLnBpcGUoCiAgICAgICAgbWFwKChbc2xpZGUsIHNsaWRlRXF1YWxpemF0aW9uUHJlc2V0c106IFtTbGlkZSwgRXF1YWxpemF0aW9uUHJlc2V0U3RhdGVCeVNsaWRlSWRdKSA9PiB7CiAgICAgICAgICAvLyBJbml0aWFsaXplIGZvcm0gd2hlbmV2ZXIgc2xpZGUgY2hhbm5lbHMgb3IgZXF1YWxpemF0aW9uIHByZXNldCBpcyBjaGFuZ2VkCiAgICAgICAgICBpZiAoc2xpZGVFcXVhbGl6YXRpb25QcmVzZXRzLmhhc093blByb3BlcnR5KHNsaWRlLmlkKSkgewogICAgICAgICAgICByZXR1cm4gc2xpZGVFcXVhbGl6YXRpb25QcmVzZXRzW3NsaWRlLmlkXTsKICAgICAgICAgIH0KCiAgICAgICAgICByZXR1cm4gc2xpZGUuZXF1YWxpemF0aW9uUHJlc2V0OwogICAgICAgIH0pCiAgICAgICk7CiAgfQoKICBwdWJsaWMgZ2V0RXF1YWxpemF0aW9uQ2hhbm5lbEVkaXRNb2RlKHZpZXdlcklkOiBzdHJpbmcpOiBPYnNlcnZhYmxlPGJvb2xlYW4+IHsKICAgIHJldHVybiB0aGlzLnZpZXdlclVpUXVlcmllcy5lcXVhbGl6YXRpb25DaGFubmVsRWRpdE1vZGUodmlld2VySWQpOwogIH0KCiAgcHVibGljIGdldEN1cnJlbnRTbGlkZVByZXNldHNNb2RpZmllZCh2aWV3ZXJJZDogc3RyaW5nKTogT2JzZXJ2YWJsZTxib29sZWFuPiB7CiAgICByZXR1cm4gdGhpcy5nZXRWaWV3ZXJTbGlkZUFuZEN1c3RvbWl6ZWRQcmVzZXRzKHZpZXdlcklkKQogICAgICAucGlwZSgKICAgICAgICBtYXAoKFtzbGlkZSwgc2xpZGVFcXVhbGl6YXRpb25QcmVzZXRzXSkgPT4gewogICAgICAgICAgcmV0dXJuIHNsaWRlRXF1YWxpemF0aW9uUHJlc2V0cy5oYXNPd25Qcm9wZXJ0eShzbGlkZS5pZCk7CiAgICAgICAgfSkKICAgICAgKTsKICB9CgogIHByaXZhdGUgZ2V0Vmlld2VyU2xpZGVBbmRDdXN0b21pemVkUHJlc2V0cyh2aWV3ZXJJZDogc3RyaW5nKTogT2JzZXJ2YWJsZTxbU2xpZGUsIEVxdWFsaXphdGlvblByZXNldFN0YXRlQnlTbGlkZUlkXT4gewogICAgY29uc3QgY3VycmVudFNsaWRlJCA9IHRoaXMuY3Jvc3NFbnRpdHlRdWVyaWVzLnNsaWRlQnlWaWV3ZXJJZCh2aWV3ZXJJZCkKICAgICAgLnBpcGUoZmlsdGVyKHNsaWRlID0+ICEhc2xpZGUpKTsKCiAgICAvLyBVc2UgY29tYmluZUxhdGVzdCBhcyBlaXRoZXIgdGhlIHByZXNldHMgaW4gdGhlIHNsaWRlIGNhbiBjaGFuZ2Ugb3Igdmlld2VyIHByZXNldHMgY2FuIGNoYW5nZQogICAgcmV0dXJuIGNvbWJpbmVMYXRlc3QoCiAgICAgIGN1cnJlbnRTbGlkZSQsCiAgICAgIHRoaXMudmlld2VyVWlRdWVyaWVzLmVxdWFsaXphdGlvbk9wdGlvbnModmlld2VySWQpCiAgICApOwogIH0K</text>
+        <text encoding="base64">aW1wb3J0IHsgY29tYmluZUxhdGVzdCB9IGZyb20gJ3J4anMvb2JzZXJ2YWJsZS9jb21iaW5lTGF0ZXN0JzsK</text>
       </register>
       <register name=":" type="4">
-        <text>23,60d</text>
+        <text>47,50ya</text>
       </register>
     </registers>
     <search>
@@ -368,13 +371,9 @@
         <entry>hype</entry>
       </history-search>
       <history-cmd>
-        <entry>set list</entry>
-        <entry>reg</entry>
         <entry>set hls</entry>
         <entry>set nohls</entry>
         <entry>set inc</entry>
-        <entry>vs</entry>
-        <entry>q</entry>
         <entry>65y</entry>
         <entry>41d</entry>
         <entry>50d</entry>
@@ -388,6 +387,10 @@
         <entry>65,100d</entry>
         <entry>w</entry>
         <entry>23,60d</entry>
+        <entry>e .</entry>
+        <entry>vs</entry>
+        <entry>q</entry>
+        <entry>47,50ya</entry>
       </history-cmd>
       <history-expr />
       <history-input />
