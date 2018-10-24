@@ -331,7 +331,8 @@
         <mark key="." line="0" column="17" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/state/effects/block-ui.effects.ts" timestamp="1540406141385">
+      <file name="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/state/effects/block-ui.effects.ts" timestamp="1540406279338">
+        <mark key="'" line="40" column="2" />
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="36" />
       </file>
@@ -343,8 +344,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="0" filename="C:/dev/definiens/alfresco.e2e/page_objects/site/advanced-search-results.po.ts" />
-      <jump line="59" column="16" filename="C:/dev/definiens/alfresco.e2e/page_objects/site/advanced-search-results.po.ts" />
       <jump line="27" column="42" filename="C:/dev/definiens/alfresco.e2e/page_objects/site/advanced-search-results.po.ts" />
       <jump line="60" column="20" filename="C:/dev/definiens/alfresco.e2e/page_objects/site/advanced-search-results.po.ts" />
       <jump line="61" column="21" filename="C:/dev/definiens/alfresco.e2e/page_objects/site/advanced-search-results.po.ts" />
@@ -443,6 +442,8 @@
       <jump line="13" column="0" filename="C:/dev/definiens/vt.portal/src/app/state/effects/project-ui.effects.ts" />
       <jump line="28" column="0" filename="C:/dev/definiens/vt.portal/src/app/state/effects/project-ui.effects.ts" />
       <jump line="21" column="0" filename="C:/dev/definiens/vt.portal/src/app/state/effects/project-ui.effects.ts" />
+      <jump line="38" column="0" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/state/effects/block-ui.effects.ts" />
+      <jump line="40" column="2" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/state/effects/block-ui.effects.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -523,7 +524,7 @@
         <text>BlockUiActions.NAVIGATE</text>
       </register>
       <register name="/" type="4">
-        <text>take</text>
+        <text encoding="base64">XDxsb2FkQWN0aW9uXD4=</text>
       </register>
       <register name="0" type="4">
         <text>ProjectActions.LOAD_MY_MEMBERSHIP_SUCCESS</text>
@@ -572,9 +573,9 @@
       </register>
     </registers>
     <search>
-      <last-search>take</last-search>
+      <last-search encoding="base64">XDxsb2FkQWN0aW9uXD4=</last-search>
       <last-offset />
-      <last-pattern>take</last-pattern>
+      <last-pattern encoding="base64">XDxsb2FkQWN0aW9uXD4=</last-pattern>
       <last-replace>normalizedValue</last-replace>
       <last-substitute>value</last-substitute>
       <last-dir>1</last-dir>
@@ -582,7 +583,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXROb2RlUGF0aFw+</entry>
         <entry>by</entry>
         <entry>-d[1-9]</entry>
         <entry>FilterCategory.</entry>
@@ -602,6 +602,7 @@
         <entry>link</entry>
         <entry>hype</entry>
         <entry>take</entry>
+        <entry encoding="base64">XDxsb2FkQWN0aW9uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>46d</entry>
