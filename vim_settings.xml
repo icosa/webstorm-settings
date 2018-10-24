@@ -47,6 +47,12 @@
         <mark key="." line="3" column="32" />
         <mark key="^" line="3" column="32" />
       </file>
+      <file name="C:/dev/definiens/vt.portal/src/app/state/actions/project-ui.actions.ts" timestamp="1540406587845">
+        <mark key="[" line="4" column="74" />
+        <mark key="]" line="4" column="74" />
+        <mark key="." line="4" column="54" />
+        <mark key="^" line="3" column="54" />
+      </file>
       <file name="C:/dev/definiens/alfresco.e2e/features/login.feature" timestamp="1540366674749">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -529,13 +535,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.ofType(ProjectActions.LOAD_MY_MEMBERSHIP_SUCCESS)</text>
+        <text>Viewer</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2FkQWN0aW9uXD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">W0ltYWdlIFZpZXdlcl1bVmlld2VyIFVJXSA=</text>
+        <text>[Portal][Project UI]</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
