@@ -197,12 +197,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="6" column="72" />
       </file>
-      <file name="C:/dev/definiens/portal.e2e/src/portal-test-context.ts" timestamp="1540454702737">
-        <mark key="'" line="165" column="1" />
-        <mark key="[" line="288" column="5" />
-        <mark key="]" line="290" column="0" />
-        <mark key="." line="290" column="0" />
-        <mark key="^" line="290" column="0" />
+      <file name="C:/dev/definiens/portal.e2e/src/portal-test-context.ts" timestamp="1540454749165">
+        <mark key="'" line="169" column="1" />
+        <mark key="[" line="166" column="26" />
+        <mark key="]" line="166" column="26" />
+        <mark key="." line="166" column="26" />
+        <mark key="^" line="171" column="25" />
       </file>
       <file name="C:/dev/definiens/alfresco.e2e/page_objects/site/project-site.po.ts" timestamp="1539626752588">
         <mark key="'" line="14" column="0" />
@@ -231,6 +231,9 @@
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
         <mark key="^" line="0" column="2" />
+      </file>
+      <file name="C:/dev/definiens/portal.e2e/features/step_definitions/image-viewer.steps/image-viewer-page.steps.ts" timestamp="1540454795616">
+        <mark key="'" line="6" column="34" />
       </file>
       <file name="C:/dev/veritrova/alfresco.e2e/features/step_definitions/project.steps.ts" timestamp="1539157290370">
         <mark key="'" line="135" column="0" />
@@ -293,6 +296,9 @@
         <mark key="]" line="23" column="0" />
         <mark key="^" line="22" column="0" />
         <mark key="." line="23" column="0" />
+      </file>
+      <file name="C:/dev/definiens/vt.portal/.angular-cli.json" timestamp="1540298113774">
+        <mark key="'" line="60" column="3" />
       </file>
       <file name="C:/dev/definiens/alfresco.e2e/page_objects/site/site-members.po.ts" timestamp="1539629190325">
         <mark key="'" line="4" column="39" />
@@ -425,7 +431,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="0" filename="C:/dev/definiens/vt.portal/component_tests/tests/project-overview/test-workflow-box-status-spec.ts" />
       <jump line="113" column="0" filename="C:/dev/definiens/vt.portal/component_tests/tests/project-overview/test-workflow-box-status-spec.ts" />
       <jump line="159" column="15" filename="C:/dev/definiens/vt.portal/component_tests/tests/project-overview/test-workflow-box-status-spec.ts" />
       <jump line="4" column="27" filename="C:/dev/definiens/vt.portal/component_tests/utils/fake-auth-token.ts" />
@@ -525,6 +530,7 @@
       <jump line="40" column="0" filename="C:/dev/definiens/portal.e2e/src/portal-test-context.ts" />
       <jump line="41" column="16" filename="C:/dev/definiens/portal.e2e/src/portal-test-context.ts" />
       <jump line="165" column="1" filename="C:/dev/definiens/portal.e2e/src/portal-test-context.ts" />
+      <jump line="6" column="34" filename="C:/dev/definiens/portal.e2e/features/step_definitions/image-viewer.steps/image-viewer-page.steps.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -602,13 +608,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_config</text>
+        <text>AlfrescoWorldContext</text>
       </register>
       <register name="/" type="4">
         <text>[Project]</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">CmV4cG9ydCBjb25zdCB3b3JsZENvbnN0cnVjdG9yID0gKGZ1bmN0aW9uICgpIHsKICByZXR1cm4gQWxmcmVzY29Xb3JsZENvbnRleHQ7Cn0pKCk7</text>
+        <text>PortalTestContext</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHRoaXMuX2NvbmZpZyA9IEpTT04ucGFyc2UoSlNPTi5zdHJpbmdpZnkoY29uZmlnKSk7Cg==</text>
