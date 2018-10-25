@@ -197,12 +197,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="6" column="72" />
       </file>
-      <file name="C:/dev/definiens/portal.e2e/src/portal-test-context.ts" timestamp="1540454586549">
-        <mark key="'" line="41" column="0" />
-        <mark key="[" line="34" column="37" />
-        <mark key="]" line="35" column="1" />
-        <mark key="." line="35" column="1" />
-        <mark key="^" line="35" column="1" />
+      <file name="C:/dev/definiens/portal.e2e/src/portal-test-context.ts" timestamp="1540454702737">
+        <mark key="'" line="165" column="1" />
+        <mark key="[" line="288" column="5" />
+        <mark key="]" line="290" column="0" />
+        <mark key="." line="290" column="0" />
+        <mark key="^" line="290" column="0" />
       </file>
       <file name="C:/dev/definiens/alfresco.e2e/page_objects/site/project-site.po.ts" timestamp="1539626752588">
         <mark key="'" line="14" column="0" />
@@ -425,8 +425,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="17" filename="C:/dev/definiens/vt.portal/package.json" />
-      <jump line="168" column="2" filename="C:/dev/definiens/vt.portal/component_tests/tests/project-overview/test-workflow-box-status-spec.ts" />
       <jump line="38" column="0" filename="C:/dev/definiens/vt.portal/component_tests/tests/project-overview/test-workflow-box-status-spec.ts" />
       <jump line="113" column="0" filename="C:/dev/definiens/vt.portal/component_tests/tests/project-overview/test-workflow-box-status-spec.ts" />
       <jump line="159" column="15" filename="C:/dev/definiens/vt.portal/component_tests/tests/project-overview/test-workflow-box-status-spec.ts" />
@@ -525,6 +523,8 @@
       <jump line="21" column="0" filename="C:/dev/definiens/vt.portal/src/app/state/actions/project-ui.actions.ts" />
       <jump line="25" column="0" filename="C:/dev/definiens/vt.portal/src/app/state/actions/project-ui.actions.ts" />
       <jump line="40" column="0" filename="C:/dev/definiens/portal.e2e/src/portal-test-context.ts" />
+      <jump line="41" column="16" filename="C:/dev/definiens/portal.e2e/src/portal-test-context.ts" />
+      <jump line="165" column="1" filename="C:/dev/definiens/portal.e2e/src/portal-test-context.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -607,11 +607,11 @@
       <register name="/" type="4">
         <text>[Project]</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMuX2NvbmZpZyA9IEpTT04ucGFyc2UoSlNPTi5zdHJpbmdpZnkoX2NvbmZpZykpOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ID0gSlNPTi5wYXJzZShKU09OLnN0cmluZ2lmeShjb25maWcpKQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3RvcihfY29uZmlnOiBFbnZpcm9ubWVudENvbmZpZykgewogICAgdGhpcy5fY29uZmlnID0gSlNPTi5wYXJzZShKU09OLnN0cmluZ2lmeShfY29uZmlnKSk7CiAgfQo=</text>
+        <text encoding="base64">ICAgIHRoaXMuX2NvbmZpZyA9IEpTT04ucGFyc2UoSlNPTi5zdHJpbmdpZnkoY29uZmlnKSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -623,31 +623,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IFNFVF9TSE9XX1NMSURFX1VQTE9BRF9QQUdFID0gJ1tQb3J0YWxdW1Byb2plY3QgVUldIFNFVF9TSE9XX1NMSURFX1VQTE9BRF9QQUdFJzsK</text>
+        <text encoding="base64">ICBjb25zdHJ1Y3RvcihfY29uZmlnOiBFbnZpcm9ubWVudENvbmZpZykgewogICAgdGhpcy5fY29uZmlnID0gSlNPTi5wYXJzZShKU09OLnN0cmluZ2lmeShfY29uZmlnKSk7CiAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB8IFNldFNob3dTbGlkZVVwbG9hZFBhZ2UK</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IFNFVF9TSE9XX1NMSURFX1VQTE9BRF9QQUdFID0gJ1tQb3J0YWxdW1Byb2plY3QgVUldIFNFVF9TSE9XX1NMSURFX1VQTE9BRF9QQUdFJzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB8IFNldFNob3dTbGlkZVVwbG9hZFBhZ2UK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0IGNsYXNzIFNldFNob3dTbGlkZVVwbG9hZFBhZ2UgaW1wbGVtZW50cyBBY3Rpb24gewogIHJlYWRvbmx5IHR5cGUgPSBTRVRfU0hPV19TTElERV9VUExPQURfUEFHRTsKCiAgY29uc3RydWN0b3IocHVibGljIHNob3dTbGlkZVVwbG9hZFRhYjogYm9vbGVhbikgeyB9Cn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnPj4+Pj4+ID4+Pj4+PicsIGFjdGlvbi5tZW1iZXJzaGlwKQo=</text>
+        <text encoding="base64">ZXhwb3J0IGNsYXNzIFNldFNob3dTbGlkZVVwbG9hZFBhZ2UgaW1wbGVtZW50cyBBY3Rpb24gewogIHJlYWRvbmx5IHR5cGUgPSBTRVRfU0hPV19TTElERV9VUExPQURfUEFHRTsKCiAgY29uc3RydWN0b3IocHVibGljIHNob3dTbGlkZVVwbG9hZFRhYjogYm9vbGVhbikgeyB9Cn0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBzaG93U2xpZGVVcGxvYWRQYWdlJDogT2JzZXJ2YWJsZTxib29sZWFuPjsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnPj4+Pj4+ID4+Pj4+PicsIGFjdGlvbi5tZW1iZXJzaGlwKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2hvd1NsaWRlVXBsb2FkUGFnZSQgPSB0aGlzLnN0b3JlLnNlbGVjdChzaG93U2xpZGVVcGxvYWRQYWdlKTsK</text>
+        <text encoding="base64">ICBzaG93U2xpZGVVcGxvYWRQYWdlJDogT2JzZXJ2YWJsZTxib29sZWFuPjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBzaG93U2xpZGVVcGxvYWRQYWdlLAo=</text>
+        <text encoding="base64">ICAgIHRoaXMuc2hvd1NsaWRlVXBsb2FkUGFnZSQgPSB0aGlzLnN0b3JlLnNlbGVjdChzaG93U2xpZGVVcGxvYWRQYWdlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
