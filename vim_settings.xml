@@ -632,9 +632,9 @@
         <mark key="^" line="2" column="38" />
         <mark key="." line="68" column="0" />
       </file>
-      <file name="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/equalization/equalization-panel/equalization-panel.component.spec.ts" timestamp="1540476484043">
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="87" column="7" />
+      <file name="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/equalization/equalization-panel/equalization-panel.component.spec.ts" timestamp="1540476609240">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="57" column="1" />
       </file>
       <file name="C:/dev/veritrova/alfresco.e2e/config/config.base.ts" timestamp="1539081825129">
         <mark key="'" line="34" column="36" />
@@ -839,7 +839,22 @@
         <text>[Project]</text>
       </register>
       <register name="0" type="4">
-        <text>ProjectOverviewPageQueries</text>
+        <text>const mockEqualizationPanelQueries = {
+  slideId$: new BehaviorSubject(false),
+  equalizationChannelEditMode$: new BehaviorSubject(true),
+  presetsModified$: new BehaviorSubject(true),
+  getChannelPreferences() {
+  },
+  getCurrentSlideId() {
+    return this.slideId$;
+  },
+  getEqualizationChannelEditMode() {
+    return this.equalizationChannelEditMode$;
+  },
+  getCurrentSlidePresetsModified() {
+    return this.presetsModified$;
+  },
+};</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
