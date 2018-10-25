@@ -91,10 +91,10 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="13" column="8" />
       </file>
-      <file name="C:/dev/definiens/alfresco.e2e/page_objects/utils/alfresco-world-context.ts" timestamp="1540366925833">
+      <file name="C:/dev/definiens/alfresco.e2e/page_objects/utils/alfresco-world-context.ts" timestamp="1540454467820">
         <mark key="'" line="23" column="0" />
-        <mark key="[" line="60" column="7" />
-        <mark key="]" line="60" column="7" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="23" column="2" />
         <mark key="." line="60" column="7" />
       </file>
       <file name="C:/dev/definiens/alfresco.e2e/features/slide-filter-by-metadata.feature" timestamp="1540366706882">
@@ -600,8 +600,8 @@
       <register name="/" type="4">
         <text>[Project]</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBwdWJsaWMgZ2V0SW5jb21pbmdRY0lkRnJvbVVybCh1cmw6IHN0cmluZyk6IHN0cmluZyB7CiAgICBpZiAoMCA+PSB1cmwuaW5kZXhPZignTVRVPScpKSB7CiAgICAgIHJldHVybiAnJzsKICAgIH0KCiAgICBjb25zdCBsYXN0U2VwYXJhdG9ySW5kZXggPSB1cmwubGFzdEluZGV4T2YoJy8nKTsKICAgIGlmIChsYXN0U2VwYXJhdG9ySW5kZXggPCAwKSB7CiAgICAgIHRocm93IG5ldyBFcnJvcignVW5hYmxlIHRvIGV4dHJhY3QgUUMgaWQgZnJvbSBmaXJzdCByZXN1bHQuIFVucmVjb2duaXplZCB1cmwgZm9ybWF0LicpOwogICAgfQoKICAgIHJldHVybiB1cmwuc3Vic3RyKGxhc3RTZXBhcmF0b3JJbmRleCArIDEpOwogIH0KCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICBjb25zdHJ1Y3Rvcih7IGF0dGFjaCwgcGFyYW1ldGVycyB9KSB7CiAgICB0aGlzLmF0dGFjaCA9IGF0dGFjaDsKICAgIHRoaXMucGFyYW1ldGVycyA9IHBhcmFtZXRlcnM7CiAgfQ==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZXhwb3J0IGNvbnN0IFNFVF9TSE9XX1NMSURFX1VQTE9BRF9QQUdFID0gJ1tQb3J0YWxdW1Byb2plY3QgVUldIFNFVF9TSE9XX1NMSURFX1VQTE9BRF9QQUdFJzsK</text>
