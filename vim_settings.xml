@@ -633,9 +633,9 @@
         <mark key="^" line="2" column="38" />
         <mark key="." line="68" column="0" />
       </file>
-      <file name="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/equalization/equalization-panel/equalization-panel.component.spec.ts" timestamp="1540476609240">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="57" column="1" />
+      <file name="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/equalization/equalization-panel/equalization-panel.component.spec.ts" timestamp="1540476932232">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="118" column="3" />
       </file>
       <file name="C:/dev/veritrova/alfresco.e2e/config/config.base.ts" timestamp="1539081825129">
         <mark key="'" line="34" column="36" />
@@ -839,23 +839,8 @@
       <register name="/" type="4">
         <text>[Project]</text>
       </register>
-      <register name="0" type="4">
-        <text>const mockEqualizationPanelQueries = {
-  slideId$: new BehaviorSubject(false),
-  equalizationChannelEditMode$: new BehaviorSubject(true),
-  presetsModified$: new BehaviorSubject(true),
-  getChannelPreferences() {
-  },
-  getCurrentSlideId() {
-    return this.slideId$;
-  },
-  getEqualizationChannelEditMode() {
-    return this.equalizationChannelEditMode$;
-  },
-  getCurrentSlidePresetsModified() {
-    return this.presetsModified$;
-  },
-};</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IHsgYXN5bmMsIENvbXBvbmVudEZpeHR1cmUsIGZha2VBc3luYywgVGVzdEJlZCwgdGljayB9IGZyb20gJ0Bhbmd1bGFyL2NvcmUvdGVzdGluZyc7CmltcG9ydCB7IEZvcm1zTW9kdWxlIH0gZnJvbSAnQGFuZ3VsYXIvZm9ybXMnOwppbXBvcnQgeyBCeSB9IGZyb20gJ0Bhbmd1bGFyL3BsYXRmb3JtLWJyb3dzZXInOwppbXBvcnQgeyBOb29wQW5pbWF0aW9uc01vZHVsZSB9IGZyb20gJ0Bhbmd1bGFyL3BsYXRmb3JtLWJyb3dzZXIvYW5pbWF0aW9ucyc7CmltcG9ydCB7IENoZWNrYm94LCBDb2xvclBpY2tlciwgU2xpZGVyIH0gZnJvbSAncHJpbWVuZy9wcmltZW5nJzsKaW1wb3J0IHsgQmVoYXZpb3JTdWJqZWN0IH0gZnJvbSAncnhqcy9CZWhhdmlvclN1YmplY3QnOwppbXBvcnQgeyBvZiB9IGZyb20gJ3J4anMvb2JzZXJ2YWJsZS9vZic7CmltcG9ydCB7IEVxdWFsaXphdGlvbkNoYW5uZWxDb21wb25lbnQgfSBmcm9tICcuLi8uLic7CmltcG9ydCB7IElDaGFubmVsUHJlZmVyZW5jZSB9IGZyb20gJy4uLy4uLy4uL21vZGVsL2VxdWFsaXphdGlvbic7CmltcG9ydCB7IENoYW5uZWxFbmFibGVkUGlwZSB9IGZyb20gJy4uLy4uLy4uL3BpcGVzJzsKaW1wb3J0IHsgQWN0aW9uRGlzcGF0Y2hlclNlcnZpY2UgfSBmcm9tICcuLi8uLi8uLi9zZXJ2aWNlcyc7CmltcG9ydCB7IEVxdWFsaXphdGlvblBhbmVsQ29tcG9uZW50IH0gZnJvbSAnLi9lcXVhbGl6YXRpb24tcGFuZWwuY29tcG9uZW50JzsKaW1wb3J0IHsgRXF1YWxpemF0aW9uUGFuZWxRdWVyaWVzIH0gZnJvbSAnLi9zZXJ2aWNlcy9lcXVhbGl6YXRpb24tcGFuZWwtcXVlcmllcy5zZXJ2aWNlJzsKCmNvbnN0IGNoYW5uZWxEYXRhQTogSUNoYW5uZWxQcmVmZXJlbmNlID0gewogIGluZGV4OiAwLAogIGNvbG9yOiB7CiAgICByOiAwLAogICAgZzogMjU1LAogICAgYjogNTAsCiAgfSwKICBuYW1lOiAnY2hhbm5lbCBBJywKICBlbmFibGVkOiB0cnVlLAogIHJhbmdlOiBbNDAsIDYwXSwKICBtaW5MaW1pdDogMTAsCiAgbWF4TGltaXQ6IDkwLAp9OwoKY29uc3QgY2hhbm5lbERhdGFCOiBJQ2hhbm5lbFByZWZlcmVuY2UgPSB7CiAgaW5kZXg6IDEsCiAgY29sb3I6IHsKICAgIHI6IDI1NSwKICAgIGc6IDAsCiAgICBiOiA0MCwKICB9LAogIG5hbWU6ICdjaGFubmVsIEInLAogIGVuYWJsZWQ6IHRydWUsCiAgcmFuZ2U6IFsxMCwgOTBdLAogIG1pbkxpbWl0OiA1LAogIG1heExpbWl0OiA5NSwKfTsKCmNvbnN0IG1vY2tFcXVhbGl6YXRpb25QYW5lbFF1ZXJpZXMgPSB7CiAgc2xpZGVJZCQ6IG5ldyBCZWhhdmlvclN1YmplY3QoZmFsc2UpLAogIGVxdWFsaXphdGlvbkNoYW5uZWxFZGl0TW9kZSQ6IG5ldyBCZWhhdmlvclN1YmplY3QodHJ1ZSksCiAgcHJlc2V0c01vZGlmaWVkJDogbmV3IEJlaGF2aW9yU3ViamVjdCh0cnVlKSwKICBnZXRDaGFubmVsUHJlZmVyZW5jZXMoKSB7CiAgfSwKICBnZXRDdXJyZW50U2xpZGVJZCgpIHsKICAgIHJldHVybiB0aGlzLnNsaWRlSWQkOwogIH0sCiAgZ2V0RXF1YWxpemF0aW9uQ2hhbm5lbEVkaXRNb2RlKCkgewogICAgcmV0dXJuIHRoaXMuZXF1YWxpemF0aW9uQ2hhbm5lbEVkaXRNb2RlJDsKICB9LAogIGdldEN1cnJlbnRTbGlkZVByZXNldHNNb2RpZmllZCgpIHsKICAgIHJldHVybiB0aGlzLnByZXNldHNNb2RpZmllZCQ7CiAgfSwKfTsKCmRlc2NyaWJlKCdFcXVhbGl6YXRpb25QYW5lbENvbXBvbmVudCcsICgpID0+IHsKICBsZXQgZml4dHVyZTogQ29tcG9uZW50Rml4dHVyZTxFcXVhbGl6YXRpb25QYW5lbENvbXBvbmVudD47CiAgbGV0IGNvbXBvbmVudDogRXF1YWxpemF0aW9uUGFuZWxDb21wb25lbnQ7CgogIGJlZm9yZUVhY2goYXN5bmMoKCkgPT4gewogICAgcmV0dXJuIFRlc3RCZWQKICAgICAgLmNvbmZpZ3VyZVRlc3RpbmdNb2R1bGUoewogICAgICAgIGRlY2xhcmF0aW9uczogWwogICAgICAgICAgQ2hlY2tib3gsCiAgICAgICAgICBDb2xvclBpY2tlciwKICAgICAgICAgIEVxdWFsaXphdGlvbkNoYW5uZWxDb21wb25lbnQsCiAgICAgICAgICBFcXVhbGl6YXRpb25QYW5lbENvbXBvbmVudCwKICAgICAgICAgIFNsaWRlciwKICAgICAgICAgIENoYW5uZWxFbmFibGVkUGlwZSwKICAgICAgICBdLAogICAgICAgIGltcG9ydHM6IFsKICAgICAgICAgIEZvcm1zTW9kdWxlLAogICAgICAgICAgTm9vcEFuaW1hdGlvbnNNb2R1bGUsCiAgICAgICAgXSwKICAgICAgfSkKICAgICAgLm92ZXJyaWRlQ29tcG9uZW50KEVxdWFsaXphdGlvblBhbmVsQ29tcG9uZW50LCB7CiAgICAgICAgICBzZXQ6IHsKICAgICAgICAgICAgcHJvdmlkZXJzOiBbCiAgICAgICAgICAgICAgeyBwcm92aWRlOiBFcXVhbGl6YXRpb25QYW5lbFF1ZXJpZXMsIHVzZVZhbHVlOiBtb2NrRXF1YWxpemF0aW9uUGFuZWxRdWVyaWVzIH0sCiAgICAgICAgICAgICAgeyBwcm92aWRlOiBBY3Rpb25EaXNwYXRjaGVyU2VydmljZSwgdXNlVmFsdWU6IHsgZGlzcGF0Y2g6ICgpID0+IHt9IH0gfSwKICAgICAgICAgICAgXSwKICAgICAgICAgIH0sCiAgICAgICAgfQogICAgICApCiAgICAuY29tcGlsZUNvbXBvbmVudHMoKTsKICB9KSk7CgogIGJlZm9yZUVhY2goZmFrZUFzeW5jKCgpID0+IHsKICAgIGZpeHR1cmUgPSBUZXN0QmVkCiAgICAgIC5jcmVhdGVDb21wb25lbnQoRXF1YWxpemF0aW9uUGFuZWxDb21wb25lbnQpOwogICAgY29tcG9uZW50ID0gZml4dHVyZS5jb21wb25lbnRJbnN0YW5jZTsKICB9KSk7CgogIGl0KCdzaG91bGQgY3JlYXRlJywgYXN5bmMgKCkgPT4gewogICAgYXdhaXQgZXhwZWN0KGNvbXBvbmVudCkudG9CZVRydXRoeSgpOwogIH0pOwoKICBpdCgnc2hvdWxkIGNyZWF0ZSBzdWItY29tcG9uZW50IGZvciBlYWNoIGNoYW5uZWwgcHJlZmVyZW5jZScsIGZha2VBc3luYyhhc3luYyAoKSA9PiB7CiAgICAvLyBBcnJhbmdlIC0gU2V0IHVwIGZha2UgY2hhbm5lbCBwcmVmZXJlbmNlcyBxdWVyeQogICAgY29uc3QgcGFuZWxRdWVyaWVzID0gZml4dHVyZS5kZWJ1Z0VsZW1lbnQuaW5qZWN0b3IuZ2V0KEVxdWFsaXphdGlvblBhbmVsUXVlcmllcyk7CiAgICBjb25zdCB0ZXN0Q2hhbm5lbFByZWZlcmVuY2VzID0gW2NoYW5uZWxEYXRhQSwgY2hhbm5lbERhdGFCXTsKICAgIHNweU9uKHBhbmVsUXVlcmllcywgJ2dldENoYW5uZWxQcmVmZXJlbmNlcycpLmFuZC5yZXR1cm5WYWx1ZShvZih0ZXN0Q2hhbm5lbFByZWZlcmVuY2VzKSk7CgogICAgLy8gQWN0IC0gTG9hZCB0aGUgVmlld01vZGVsIGRhdGEgaW50byBVSQogICAgZml4dHVyZS5kZXRlY3RDaGFuZ2VzKCk7CgogICAgLy8gV2FpdCBmb3IgbG9hZGluZyBkYXRhIHRvIGZpbmlzaAogICAgdGljaygpOwoKICAgIGNvbnN0IGNoYW5uZWxDb21wb25lbnRzID0gZml4dHVyZS5kZWJ1Z0VsZW1lbnQucXVlcnlBbGwoQnkuZGlyZWN0aXZlKEVxdWFsaXphdGlvbkNoYW5uZWxDb21wb25lbnQpKTsKCiAgICAvLyBBc3NlcnQKICAgIGF3YWl0IGV4cGVjdChjaGFubmVsQ29tcG9uZW50cy5sZW5ndGgpLnRvRXF1YWwodGVzdENoYW5uZWxQcmVmZXJlbmNlcy5sZW5ndGgpOwogIH0pKTsKfSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IHsgQmFzZVF1ZXJpZXMsIFVzZXJRdWVyaWVzIH0gZnJvbSAnLi4vLi4vbW9kdWxlcy9hdXRoZW50aWNhdGlvbi9zdGF0ZS9xdWVyaWVzJzsK</text>
@@ -897,7 +882,7 @@
         <text encoding="base64">ICAgICAgICBVc2VyUXVlcmllcywK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%y</text>
       </register>
     </registers>
     <search>
@@ -933,7 +918,6 @@
         <entry>[Project]</entry>
       </history-search>
       <history-cmd>
-        <entry>.,44d</entry>
         <entry>.,62ya</entry>
         <entry>.,62d</entry>
         <entry>.,53y</entry>
@@ -953,6 +937,7 @@
         <entry>.,$d</entry>
         <entry>reg</entry>
         <entry>w</entry>
+        <entry>%y</entry>
       </history-cmd>
       <history-expr />
       <history-input />
