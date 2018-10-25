@@ -232,11 +232,12 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="16" column="77" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/pages/project-overview-page/project-overview-page.component.spec.ts" timestamp="1540476590109">
-        <mark key="[" line="71" column="51" />
-        <mark key="]" line="71" column="51" />
-        <mark key="^" line="67" column="5" />
-        <mark key="." line="71" column="51" />
+      <file name="C:/dev/definiens/vt.portal/src/app/pages/project-overview-page/project-overview-page.component.spec.ts" timestamp="1540476759031">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="33" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="C:/dev/veritrova/alfresco.e2e/config/environments.ts" timestamp="1538736319511">
         <mark key="[" line="2" column="8" />
@@ -656,7 +657,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="3" filename="C:/dev/definiens/vt.portal/.angular-cli.json" />
       <jump line="60" column="23" filename="C:/dev/definiens/alfresco.e2e/page_objects/site/site-dashboard.po.ts" />
       <jump line="61" column="60" filename="C:/dev/definiens/alfresco.e2e/page_objects/site/site-dashboard.po.ts" />
       <jump line="66" column="0" filename="C:/dev/definiens/alfresco.e2e/page_objects/site/site-dashboard.po.ts" />
@@ -756,6 +756,7 @@
       <jump line="7" column="0" filename="C:/dev/definiens/portal.e2e/features/analytics-overview.feature" />
       <jump line="171" column="0" filename="C:/dev/definiens/portal.e2e/src/portal-test-context.ts" />
       <jump line="20" column="13" filename="C:/dev/definiens/portal.e2e/src/portal-test-context.ts" />
+      <jump line="17" column="0" filename="C:/dev/definiens/vt.portal/src/app/pages/project-overview-page/project-overview-page.component.spec.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -857,7 +858,7 @@
 };</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgQmFzZVF1ZXJpZXMsIFVzZXJRdWVyaWVzIH0gZnJvbSAnLi4vLi4vbW9kdWxlcy9hdXRoZW50aWNhdGlvbi9zdGF0ZS9xdWVyaWVzJzsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -869,31 +870,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgTmF2aWdhdGlvblF1ZXJpZXMgfSBmcm9tICcuLi8uLi9zdGF0ZS9xdWVyaWVzJzsKaW1wb3J0IHsgUHJvamVjdHNVaVF1ZXJpZXMgfSBmcm9tICcuLi8uLi9zdGF0ZS9xdWVyaWVzL3Byb2plY3QtdWkucXVlcmllcyc7CmltcG9ydCB7IFByb2plY3RzUXVlcmllcyB9IGZyb20gJy4uLy4uL3N0YXRlL3F1ZXJpZXMvcHJvamVjdHMucXVlcmllcyc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IHdvcmxkQ29uc3RydWN0b3IgPSAoZnVuY3Rpb24gKCkgewogIHJldHVybiBBbGZyZXNjb1dvcmxkQ29udGV4dDsKfSkoKTsK</text>
+        <text encoding="base64">ICAgICAgICBCYXNlUXVlcmllcywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBQcm9qZWN0c1F1ZXJpZXMsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBBY3Rpb25EaXNwYXRjaGVyU2VydmljZSwK</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBQcm9qZWN0c1VpUXVlcmllcywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHJlYWRvbmx5IGF0dGFjaDogRnVuY3Rpb247CgogIHByaXZhdGUgcmVhZG9ubHkgcGFyYW1ldGVyczoge1trZXk6IHN0cmluZ106IGFueX0KCg==</text>
+        <text encoding="base64">ICAgICAgICBCYXNlUmVxdWVzdE9wdGlvbnMsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyBAdHMtaWdub3JlCg==</text>
+        <text encoding="base64">ICAgICAgICBNb2NrQmFja2VuZCwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgUG9ydGFsVGVzdENvbnRleHQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICBVc2VyUXVlcmllcywK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
