@@ -117,6 +117,13 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="C:/dev/definiens/portal.e2e/src/support/hooks.ts" timestamp="1540458564706">
+        <mark key="'" line="14" column="39" />
+        <mark key="[" line="0" column="46" />
+        <mark key="]" line="0" column="46" />
+        <mark key="." line="0" column="46" />
+        <mark key="^" line="0" column="46" />
+      </file>
       <file name="C:/dev/definiens/alfresco.e2e/page_objects/header/site-header-menu.po.ts" timestamp="1539790180676">
         <mark key="'" line="26" column="0" />
         <mark key="[" line="2" column="34" />
@@ -130,6 +137,10 @@
         <mark key="]" line="2" column="49" />
         <mark key="." line="32" column="1" />
         <mark key="^" line="32" column="1" />
+      </file>
+      <file name="/package.json" timestamp="1540458235655">
+        <mark key="[" line="57" column="21" />
+        <mark key="]" line="58" column="38" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/state/actions/project.actions.ts" timestamp="1540411271739">
         <mark key="'" line="17" column="13" />
@@ -175,6 +186,11 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
         <mark key="^" line="16" column="77" />
+      </file>
+      <file name="C:/dev/definiens/vt.portal/component_tests/utils/config-generator.ts" timestamp="1540293504338">
+        <mark key="[" line="191" column="0" />
+        <mark key="]" line="191" column="0" />
+        <mark key="." line="191" column="0" />
       </file>
       <file name="C:/dev/definiens/alfresco.e2e/features/step_definitions/conversion.steps.ts" timestamp="1540361776081">
         <mark key="'" line="52" column="0" />
@@ -249,6 +265,11 @@
         <mark key="." line="23" column="54" />
         <mark key="^" line="23" column="54" />
       </file>
+      <file name="C:/dev/definiens/portal.e2e/package.json" timestamp="1540458245690">
+        <mark key="[" line="57" column="21" />
+        <mark key="]" line="58" column="39" />
+        <mark key="." line="57" column="21" />
+      </file>
       <file name="C:/dev/definiens/vt.portal/component_tests/utils/fake-auth-token.ts" timestamp="1540297847820">
         <mark key="'" line="25" column="0" />
         <mark key="[" line="0" column="8" />
@@ -312,21 +333,12 @@
         <mark key="]" line="3" column="20" />
         <mark key="." line="3" column="20" />
       </file>
-      <file name="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/equalization/equalization-panel/services/equalization-panel-queries.service.ts" timestamp="1540383198585">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="21" column="2" />
-      </file>
       <file name="C:/dev/definiens/alfresco.e2e/package.json" timestamp="1540293010606">
         <mark key="'" line="21" column="35" />
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="38" />
         <mark key="^" line="24" column="27" />
         <mark key="." line="24" column="27" />
-      </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/modules/data-browser/components/item-list/item-list.queries.ts" timestamp="1540386685057">
-        <mark key="[" line="19" column="53" />
-        <mark key="]" line="19" column="65" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/state/actions/global.actions.ts" timestamp="1540411436764">
         <mark key="'" line="17" column="0" />
@@ -377,10 +389,6 @@
       <file name="/JavaScript Console" timestamp="1539957841896">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/equalization/equalization-panel/equalization-panel.component.ts" timestamp="1540382963870">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="40" />
-      </file>
       <file name="C:/dev/definiens/vt.portal/src/app/pages/project-overview-page/state/project-overview-page.queries.ts" timestamp="1540413985252">
         <mark key="'" line="47" column="26" />
         <mark key="i" line="46" column="7" />
@@ -406,11 +414,6 @@
         <mark key="." line="9" column="6" />
         <mark key="^" line="102" column="47" />
       </file>
-      <file name="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/state/effects/block-ui.effects.ts" timestamp="1540406279338">
-        <mark key="'" line="40" column="2" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="36" />
-      </file>
       <file name="C:/dev/veritrova/alfresco.e2e/config/config.base.ts" timestamp="1539081825129">
         <mark key="'" line="34" column="36" />
         <mark key="[" line="61" column="0" />
@@ -431,8 +434,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="0" filename="C:/dev/definiens/vt.portal/component_tests/tests/project-overview/test-workflow-box-status-spec.ts" />
-      <jump line="159" column="15" filename="C:/dev/definiens/vt.portal/component_tests/tests/project-overview/test-workflow-box-status-spec.ts" />
       <jump line="4" column="27" filename="C:/dev/definiens/vt.portal/component_tests/utils/fake-auth-token.ts" />
       <jump line="25" column="0" filename="C:/dev/definiens/vt.portal/component_tests/utils/fake-auth-token.ts" />
       <jump line="5" column="10" filename="C:/dev/definiens/vt.portal/.angular-cli.json" />
@@ -531,6 +532,8 @@
       <jump line="41" column="16" filename="C:/dev/definiens/portal.e2e/src/portal-test-context.ts" />
       <jump line="165" column="1" filename="C:/dev/definiens/portal.e2e/src/portal-test-context.ts" />
       <jump line="6" column="34" filename="C:/dev/definiens/portal.e2e/features/step_definitions/image-viewer.steps/image-viewer-page.steps.ts" />
+      <jump line="1" column="26" filename="C:/dev/definiens/portal.e2e/src/support/hooks.ts" />
+      <jump line="13" column="39" filename="C:/dev/definiens/portal.e2e/src/support/hooks.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -608,13 +611,14 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>AlfrescoWorldContext</text>
+        <text>World</text>
       </register>
       <register name="/" type="4">
         <text>[Project]</text>
       </register>
       <register name="0" type="4">
-        <text>PortalTestContext</text>
+        <text>,
+    &quot;shared-protractor-utils&quot;: &quot;^1.0.2&quot;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHRoaXMuX2NvbmZpZyA9IEpTT04ucGFyc2UoSlNPTi5zdHJpbmdpZnkoY29uZmlnKSk7Cg==</text>
