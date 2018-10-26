@@ -231,12 +231,12 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/pages/project-overview-page/project-overview-page.component.ts" timestamp="1540561448399">
-        <mark key="'" line="55" column="44" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="62" column="1" />
+      <file name="C:/dev/definiens/vt.portal/src/app/pages/project-overview-page/project-overview-page.component.ts" timestamp="1540566059048">
+        <mark key="'" line="56" column="44" />
+        <mark key="[" line="51" column="51" />
+        <mark key="]" line="52" column="3" />
+        <mark key="." line="52" column="3" />
+        <mark key="^" line="52" column="3" />
       </file>
       <file name="C:/dev/definiens/alfresco.e2e/config/protractor-conf.ts" timestamp="1540199263788">
         <mark key="[" line="69" column="20" />
@@ -251,12 +251,12 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="16" column="77" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/pages/project-overview-page/project-overview-page.component.spec.ts" timestamp="1540564818346">
-        <mark key="'" line="66" column="10" />
-        <mark key="[" line="116" column="4" />
-        <mark key="]" line="116" column="7" />
-        <mark key="." line="116" column="7" />
-        <mark key="^" line="116" column="7" />
+      <file name="C:/dev/definiens/vt.portal/src/app/pages/project-overview-page/project-overview-page.component.spec.ts" timestamp="1540566123187">
+        <mark key="'" line="69" column="10" />
+        <mark key="[" line="115" column="45" />
+        <mark key="]" line="115" column="45" />
+        <mark key="." line="115" column="45" />
+        <mark key="^" line="115" column="45" />
       </file>
       <file name="C:/dev/veritrova/alfresco.e2e/config/environments.ts" timestamp="1538736319511">
         <mark key="[" line="2" column="8" />
@@ -903,16 +903,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>flubsh</text>
+        <text>X</text>
       </register>
       <register name="/" type="4">
         <text>spyon</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHBhbmVsUXVlcmllcyA9IGZpeHR1cmUuZGVidWdFbGVtZW50LmluamVjdG9yLmdldChFcXVhbGl6YXRpb25QYW5lbFF1ZXJpZXMpOwo=</text>
+      <register name="0" type="4">
+        <text>componentQueries</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgT2JzZXJ2YWJsZSB9IGZyb20gJ3J4anMvT2JzZXJ2YWJsZSc7Cg==</text>
+      <register name="1" type="8">
+        <text />
       </register>
       <register name="q" type="4">
         <keys>
@@ -927,31 +927,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHBhbmVsUXVlcmllcyA9IGZpeHR1cmUuZGVidWdFbGVtZW50LmluamVjdG9yLmdldChQcm9qZWN0T3ZlcnZpZXdQYWdlQ29tcG9uZW50KTsKICAgIGNvbnN0IHRlc3RDaGFubmVsUHJlZmVyZW5jZXMgPSBbY2hhbm5lbERhdGFBLCBjaGFubmVsRGF0YUJdOwogICAgc3B5T24ocGFuZWxRdWVyaWVzLCAnZ2V0Q2hhbm5lbFByZWZlcmVuY2VzJykuYW5kLnJldHVyblZhbHVlKG9mKHRlc3RDaGFubmVsUHJlZmVyZW5jZXMpKTsK</text>
+        <text encoding="base64">aW1wb3J0IHsgT2JzZXJ2YWJsZSB9IGZyb20gJ3J4anMvT2JzZXJ2YWJsZSc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyBwdWJsaWMgd29ya2Zsb3dQaGFzZXMkOiBPYnNlcnZhYmxlPFdvcmtmbG93UGhhc2VbXT47Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHBhbmVsUXVlcmllcyA9IGZpeHR1cmUuZGVidWdFbGVtZW50LmluamVjdG9yLmdldChQcm9qZWN0T3ZlcnZpZXdQYWdlQ29tcG9uZW50KTsKICAgIGNvbnN0IHRlc3RDaGFubmVsUHJlZmVyZW5jZXMgPSBbY2hhbm5lbERhdGFBLCBjaGFubmVsRGF0YUJdOwogICAgc3B5T24ocGFuZWxRdWVyaWVzLCAnZ2V0Q2hhbm5lbFByZWZlcmVuY2VzJykuYW5kLnJldHVyblZhbHVlKG9mKHRlc3RDaGFubmVsUHJlZmVyZW5jZXMpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXY+SGVsbG8hPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAvLyBwdWJsaWMgd29ya2Zsb3dQaGFzZXMkOiBPYnNlcnZhYmxlPFdvcmtmbG93UGhhc2VbXT47Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgLS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXY+SGVsbG8hPC9kaXY+Cg==</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgLS0+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMud29ya2Zsb3dQaGFzZXMkID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8bmctY29udGFpbmVyICpuZ0Zvcj0ibGV0IHBoYXNlIG9mIHRlc3RXb3JrZmxvd1BoYXNlcyQgfCBhc3luYyI+Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMud29ya2Zsb3dQaGFzZXMkID0gCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8bmctY29udGFpbmVyICpuZ0Zvcj0ibGV0IHBoYXNlIG9mIHRlc3RXb3JrZmxvd1BoYXNlcyQgfCBhc3luYyI+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -990,7 +990,6 @@
         <entry>spyon</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/[Project]/[Global]/g</entry>
         <entry>37,39t46</entry>
         <entry>37,39t45</entry>
         <entry>.,$d</entry>
@@ -1009,6 +1008,7 @@
         <entry>.m35</entry>
         <entry>.m25</entry>
         <entry>35m24</entry>
+        <entry>44,49m52</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
