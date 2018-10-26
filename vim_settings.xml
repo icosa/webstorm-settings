@@ -64,6 +64,7 @@
         <mark key="^" line="35" column="31" />
         <mark key="." line="35" column="31" />
       </file>
+      <file name="C:/dev/definiens/vt.portal/node_modules/@ng-bootstrap/ng-bootstrap/tabset/tabset-config.d.ts" timestamp="1540544525756" />
       <file name="C:/dev/definiens/alfresco.e2e/page_objects/site/add-users.po.ts" timestamp="1539630239261">
         <mark key="'" line="101" column="0" />
         <mark key="[" line="75" column="0" />
@@ -71,6 +72,7 @@
         <mark key="^" line="66" column="72" />
         <mark key="." line="75" column="0" />
       </file>
+      <file name="C:/dev/definiens/vt.portal/node_modules/@ng-bootstrap/ng-bootstrap/index.d.ts" timestamp="1540544120415" />
       <file name="C:/dev/veritrova/alfresco.e2e/page_objects/site/site-members.po.ts" timestamp="1539096872281">
         <mark key="'" line="57" column="32" />
         <mark key="[" line="1" column="44" />
@@ -231,23 +233,17 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="16" column="77" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/pages/project-overview-page/project-overview-page.component.spec.ts" timestamp="1540483043157">
-        <mark key="'" line="33" column="30" />
-        <mark key="[" line="49" column="10" />
-        <mark key="]" line="49" column="24" />
-        <mark key="." line="49" column="25" />
-        <mark key="^" line="49" column="25" />
+      <file name="C:/dev/definiens/vt.portal/src/app/pages/project-overview-page/project-overview-page.component.spec.ts" timestamp="1540544688005">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="29" />
+        <mark key="." line="53" column="0" />
+        <mark key="^" line="50" column="22" />
       </file>
       <file name="C:/dev/veritrova/alfresco.e2e/config/environments.ts" timestamp="1538736319511">
         <mark key="[" line="2" column="8" />
         <mark key="]" line="2" column="20" />
         <mark key="." line="1" column="11" />
         <mark key="^" line="1" column="11" />
-      </file>
-      <file name="C:/dev/definiens/vt.portal/component_tests/utils/config-generator.ts" timestamp="1540293504338">
-        <mark key="[" line="191" column="0" />
-        <mark key="]" line="191" column="0" />
-        <mark key="." line="191" column="0" />
       </file>
       <file name="C:/dev/definiens/portal.e2e/features/step_definitions/analytics.steps/analytics.steps.ts" timestamp="1540466092224">
         <mark key="[" line="19" column="26" />
@@ -351,9 +347,9 @@
         <mark key="[" line="9" column="13" />
         <mark key="]" line="9" column="44" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/node_modules/@ng-bootstrap/ng-bootstrap/tabset/tabset.d.ts" timestamp="1540478278015">
-        <mark key="[" line="19" column="21" />
-        <mark key="]" line="19" column="26" />
+      <file name="C:/dev/definiens/vt.portal/node_modules/@ng-bootstrap/ng-bootstrap/tabset/tabset.d.ts" timestamp="1540543656507">
+        <mark key="[" line="85" column="24" />
+        <mark key="]" line="85" column="38" />
         <mark key="^" line="19" column="20" />
         <mark key="." line="19" column="20" />
       </file>
@@ -389,13 +385,8 @@
         <mark key="." line="95" column="0" />
         <mark key="^" line="61" column="4" />
       </file>
-      <file name="C:/dev/definiens/portal.e2e/package.json" timestamp="1540458245690">
-        <mark key="[" line="57" column="21" />
-        <mark key="]" line="57" column="39" />
-        <mark key="." line="57" column="21" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/portal component markup" timestamp="1540482128098">
-        <mark key="'" line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/portal component markup" timestamp="1540543555594">
+        <mark key="'" line="20" column="0" />
         <mark key="[" line="20" column="0" />
         <mark key="]" line="94" column="13" />
         <mark key="." line="108" column="0" />
@@ -467,11 +458,6 @@
         <mark key="]" line="4" column="39" />
         <mark key="^" line="4" column="39" />
         <mark key="." line="4" column="39" />
-      </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/state/reducers/project-ui.reducer.ts" timestamp="1540414421936">
-        <mark key="[" line="3" column="20" />
-        <mark key="]" line="3" column="20" />
-        <mark key="." line="3" column="20" />
       </file>
       <file name="C:/dev/definiens/alfresco.e2e/config/model/users/AlfUser.ts" timestamp="1539267019717">
         <mark key="[" line="3" column="11" />
@@ -675,9 +661,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="0" filename="C:/dev/definiens/alfresco.e2e/page_objects/utils/alfresco-world-context.ts" />
-      <jump line="88" column="33" filename="C:/dev/definiens/alfresco.e2e/page_objects/utils/alfresco-world-context.ts" />
-      <jump line="92" column="2" filename="C:/dev/definiens/alfresco.e2e/page_objects/utils/alfresco-world-context.ts" />
       <jump line="70" column="26" filename="C:/dev/definiens/alfresco.e2e/page_objects/utils/alfresco-world-context.ts" />
       <jump line="71" column="0" filename="C:/dev/definiens/alfresco.e2e/page_objects/utils/alfresco-world-context.ts" />
       <jump line="76" column="0" filename="C:/dev/definiens/alfresco.e2e/page_objects/utils/alfresco-world-context.ts" />
@@ -775,6 +758,9 @@
       <jump line="0" column="0" filename="C:/dev/definiens/vt.portal/src/app/pages/project-overview-page/project-overview-page.component.html" />
       <jump line="25" column="2" filename="C:/dev/definiens/vt.portal/src/app/pages/project-overview-page/project-overview-page.component.html" />
       <jump line="32" column="0" filename="C:/dev/definiens/vt.portal/src/app/pages/project-overview-page/project-overview-page.component.html" />
+      <jump line="20" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/portal component markup" />
+      <jump line="54" column="0" filename="C:/dev/definiens/vt.portal/src/app/pages/project-overview-page/project-overview-page.component.spec.ts" />
+      <jump line="43" column="8" filename="C:/dev/definiens/vt.portal/src/app/pages/project-overview-page/project-overview-page.component.spec.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -861,7 +847,7 @@
         <text>NgbTabsetConfig</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgTmdiVGFic2V0Q29uZmlnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIE5nYlRhYnNldENvbmZpZywK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -876,31 +862,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICA8bmdiLXRhYiBpZD0icHJvamVjdE92ZXJ2aWV3VGFiIiB0aXRsZT0iUHJvamVjdCBPdmVydmlldyI+CiAgICA8bmctdGVtcGxhdGUgbmdiVGFiQ29udGVudD4KICAgICAgPGRpdiAqbmdJZj0iKHdvcmtmbG93UGhhc2VzJCB8IGFzeW5jKSBhcyBwaGFzZXMiIGNsYXNzPSJ3b3JrZmxvd1BoYXNlcy13cmFwcGVyIj4KICAgICAgICA8bmctY29udGFpbmVyICpuZ0Zvcj0ibGV0IHBoYXNlIG9mIHBoYXNlcyI+CiAgICAgICAgICA8dnQtd29ya2Zsb3ctcGhhc2UtaW5kaWNhdG9yCiAgICAgICAgICAgIFtuYW1lXT0icGhhc2UubmFtZSIKICAgICAgICAgICAgW3N0YXR1c109InBoYXNlLnN0YXR1cyIKICAgICAgICAgICAgW2J1dHRvblRpdGxlXT0icGhhc2UuYnV0dG9uVGl0bGUiCiAgICAgICAgICAgIFtidXR0b25FbmFibGVkXT0icGhhc2UuYnV0dG9uRW5hYmxlZCIKICAgICAgICAgICAgKGJ1dHRvbkFjdGlvbik9IndvcmtmbG93UGhhc2VPbkNsaWNrKCRldmVudCkiPgogICAgICAgICAgPC92dC13b3JrZmxvdy1waGFzZS1pbmRpY2F0b3I+CiAgICAgICAgPC9uZy1jb250YWluZXI+CiAgICAgIDwvZGl2PgogICAgICA8ZGl2IGNsYXNzPSJzdW1tYXJ5LXdyYXBwZXIiICpuZ0lmPSJkZXRhaWxlZFByb2plY3RJbmZvJCB8IGFzeW5jIGFzIHByb2plY3RJbmZvIj4KICAgICAgICA8ZGl2IGNsYXNzPSJzdW1tYXJ5Ij4KICAgICAgICAgIDxoMj5Qcm9qZWN0IFN1bW1hcnk8L2gyPgogICAgICAgICAgPHAgY2xhc3M9InN1bW1hcnktdGV4dCI+e3sgcHJvamVjdEluZm8uZGVzY3JpcHRpb24gfX08L3A+CiAgICAgICAgPC9kaXY+CiAgICAgICAgPGRpdiBjbGFzcz0iY29uY2x1c2lvbiI+CiAgICAgICAgICA8aDI+SGlnaCBsZXZlbCBjb25jbHVzaW9uczwvaDI+CiAgICAgICAgICA8cCBjbGFzcz0ic3VtbWFyeS10ZXh0Ij57eyBwcm9qZWN0SW5mby5oaWdoTGV2ZWxDb25jbHVzaW9uIH19PC9wPgogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KICAgICAgPG5nLWNvbnRhaW5lciAqbmdJZj0iKGZpbGVzJCB8IGFzeW5jKSBhcyBmaWxlcyI+CiAgICAgICAgPGRpdiAqbmdJZj0iZmlsZXMubGVuZ3RoIiBjbGFzcz0id2lkZ2V0LWJveCI+CiAgICAgICAgICA8ZGl2IGNsYXNzPSJ3aWRnZXQtaGVhZGVyIj4KICAgICAgICAgICAgPGgyPlJlcG9ydHMgYW5kIERvY3VtZW50czwvaDI+CiAgICAgICAgICAgIDxidXR0b24gKGNsaWNrKT0ib3BlbkF1ZGl0RGlhbG9nKCkiIGNsYXNzPSJnZW5lcmF0ZS1yZXBvcnQiPkdlbmVyYXRlIEF1ZGl0IFJlcG9ydDwvYnV0dG9uPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8dGFibGUgY2xhc3M9ImRvY3VtZW50LXRhYmxlIj4KICAgICAgICAgICAgPHRoZWFkPgogICAgICAgICAgICA8dHI+CiAgICAgICAgICAgICAgPHRoPkRvY3VtZW50PC90aD4KICAgICAgICAgICAgICA8dGg+VmVyc2lvbjwvdGg+CiAgICAgICAgICAgICAgPHRoPk1vZGlmaWVkPC90aD4KICAgICAgICAgICAgPC90cj4KICAgICAgICAgICAgPC90aGVhZD4KICAgICAgICAgICAgPHRib2R5PgogICAgICAgICAgICA8dHIgKm5nRm9yPSJsZXQgZmlsZSBvZiBmaWxlcyIgKGNsaWNrKT0iZ2V0ZmlsZShmaWxlKSI+CiAgICAgICAgICAgICAgPHRkPnt7ZmlsZS5uYW1lfX08L3RkPgogICAgICAgICAgICAgIDx0ZD4ge3tmaWxlLmN1cnJlbnRWZXJzaW9ufX08L3RkPgogICAgICAgICAgICAgIDx0ZD4ge3tmaWxlLmxhc3RNb2RpZmllZEJ5LnRpbWVzdGFtcCB8IGRhdGV9fSB7e2ZpbGUubGFzdE1vZGlmaWVkQnkudXNlckRpc3BsYXlOYW1lfX08L3RkPgogICAgICAgICAgICA8L3RyPgogICAgICAgICAgICA8L3Rib2R5PgogICAgICAgICAgPC90YWJsZT4KICAgICAgICA8L2Rpdj4KICAgICAgPC9uZy1jb250YWluZXI+CiAgICA8L25nLXRlbXBsYXRlPgogIDwvbmdiLXRhYj4KICA8bmdiLXRhYiBpZD0iZGF0YUJyb3dzZXJUYWIiIHRpdGxlPSJDYXNlIExpc3QiPgogICAgPG5nLXRlbXBsYXRlIG5nYlRhYkNvbnRlbnQ+CiAgICAgIDxkaXYgKm5nSWY9Iihwcm9qZWN0SWQkIHwgYXN5bmMpIGFzIHByb2plY3RJZCIgY2xhc3M9ImRhdGFCcm93c2VyLXdyYXBwZXIiPgogICAgICAgIDxkaXYgY2xhc3M9ImRhdGFCcm93c2VyQmFyIj4KICAgICAgICAgIDx2dC1kYXRhYnJvd3Nlci10b2dnbGUtYnV0dG9uIFtwcm9qZWN0SWRdPSJwcm9qZWN0SWQiPjwvdnQtZGF0YWJyb3dzZXItdG9nZ2xlLWJ1dHRvbj4KICAgICAgICAgIDx2dC1kYXRhYnJvd3Nlci1pdGVtLWxpc3Qtc3RhdGUtZmlsdGVyIFtwcm9qZWN0SWRdPSJwcm9qZWN0SWQiPjwvdnQtZGF0YWJyb3dzZXItaXRlbS1saXN0LXN0YXRlLWZpbHRlcj4KICAgICAgICA8L2Rpdj4KICAgICAgICA8dnQtaXRlbS1saXN0CiAgICAgICAgICAoaXRlbUNsaWNrKT0ib25JdGVtQ2xpY2soJGV2ZW50KSIKICAgICAgICAgIFtwcm9qZWN0SWRdPSJwcm9qZWN0SWQiCiAgICAgICAgICAoaXRlbUNsaWNrZWQpPSJvbkl0ZW1DbGljaygkZXZlbnQpIj48L3Z0LWl0ZW0tbGlzdD4KICAgICAgPC9kaXY+CiAgICA8L25nLXRlbXBsYXRlPgogIDwvbmdiLXRhYj4KICA8bmdiLXRhYiBpZD0icHJvcGVydGllc1RhYiIgdGl0bGU9IlByb3BlcnRpZXMiPgogICAgPG5nLXRlbXBsYXRlIG5nYlRhYkNvbnRlbnQ+CiAgICAgIDx2dC1wcm9qZWN0LXByb3BlcnRpZXMtcGFnZT48L3Z0LXByb2plY3QtcHJvcGVydGllcy1wYWdlPgogICAgPC9uZy10ZW1wbGF0ZT4KICA8L25nYi10YWI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIE5nYlRhYnNldENvbmZpZywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PGRpdj5IZWxsbyB0aGVyZSE8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgTmdiVGFic2V0Q29uZmlnLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8bmdiLXRhYiBpZD0icHJvamVjdE92ZXJ2aWV3VGFiIiB0aXRsZT0iUHJvamVjdCBPdmVydmlldyI+CiAgICA8bmctdGVtcGxhdGUgbmdiVGFiQ29udGVudD4KICAgICAgPGRpdiAqbmdJZj0iKHdvcmtmbG93UGhhc2VzJCB8IGFzeW5jKSBhcyBwaGFzZXMiIGNsYXNzPSJ3b3JrZmxvd1BoYXNlcy13cmFwcGVyIj4KICAgICAgICA8bmctY29udGFpbmVyICpuZ0Zvcj0ibGV0IHBoYXNlIG9mIHBoYXNlcyI+CiAgICAgICAgICA8dnQtd29ya2Zsb3ctcGhhc2UtaW5kaWNhdG9yCiAgICAgICAgICAgIFtuYW1lXT0icGhhc2UubmFtZSIKICAgICAgICAgICAgW3N0YXR1c109InBoYXNlLnN0YXR1cyIKICAgICAgICAgICAgW2J1dHRvblRpdGxlXT0icGhhc2UuYnV0dG9uVGl0bGUiCiAgICAgICAgICAgIFtidXR0b25FbmFibGVkXT0icGhhc2UuYnV0dG9uRW5hYmxlZCIKICAgICAgICAgICAgKGJ1dHRvbkFjdGlvbik9IndvcmtmbG93UGhhc2VPbkNsaWNrKCRldmVudCkiPgogICAgICAgICAgPC92dC13b3JrZmxvdy1waGFzZS1pbmRpY2F0b3I+CiAgICAgICAgPC9uZy1jb250YWluZXI+CiAgICAgIDwvZGl2PgogICAgICA8ZGl2IGNsYXNzPSJzdW1tYXJ5LXdyYXBwZXIiICpuZ0lmPSJkZXRhaWxlZFByb2plY3RJbmZvJCB8IGFzeW5jIGFzIHByb2plY3RJbmZvIj4KICAgICAgICA8ZGl2IGNsYXNzPSJzdW1tYXJ5Ij4KICAgICAgICAgIDxoMj5Qcm9qZWN0IFN1bW1hcnk8L2gyPgogICAgICAgICAgPHAgY2xhc3M9InN1bW1hcnktdGV4dCI+e3sgcHJvamVjdEluZm8uZGVzY3JpcHRpb24gfX08L3A+CiAgICAgICAgPC9kaXY+CiAgICAgICAgPGRpdiBjbGFzcz0iY29uY2x1c2lvbiI+CiAgICAgICAgICA8aDI+SGlnaCBsZXZlbCBjb25jbHVzaW9uczwvaDI+CiAgICAgICAgICA8cCBjbGFzcz0ic3VtbWFyeS10ZXh0Ij57eyBwcm9qZWN0SW5mby5oaWdoTGV2ZWxDb25jbHVzaW9uIH19PC9wPgogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KICAgICAgPG5nLWNvbnRhaW5lciAqbmdJZj0iKGZpbGVzJCB8IGFzeW5jKSBhcyBmaWxlcyI+CiAgICAgICAgPGRpdiAqbmdJZj0iZmlsZXMubGVuZ3RoIiBjbGFzcz0id2lkZ2V0LWJveCI+CiAgICAgICAgICA8ZGl2IGNsYXNzPSJ3aWRnZXQtaGVhZGVyIj4KICAgICAgICAgICAgPGgyPlJlcG9ydHMgYW5kIERvY3VtZW50czwvaDI+CiAgICAgICAgICAgIDxidXR0b24gKGNsaWNrKT0ib3BlbkF1ZGl0RGlhbG9nKCkiIGNsYXNzPSJnZW5lcmF0ZS1yZXBvcnQiPkdlbmVyYXRlIEF1ZGl0IFJlcG9ydDwvYnV0dG9uPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8dGFibGUgY2xhc3M9ImRvY3VtZW50LXRhYmxlIj4KICAgICAgICAgICAgPHRoZWFkPgogICAgICAgICAgICA8dHI+CiAgICAgICAgICAgICAgPHRoPkRvY3VtZW50PC90aD4KICAgICAgICAgICAgICA8dGg+VmVyc2lvbjwvdGg+CiAgICAgICAgICAgICAgPHRoPk1vZGlmaWVkPC90aD4KICAgICAgICAgICAgPC90cj4KICAgICAgICAgICAgPC90aGVhZD4KICAgICAgICAgICAgPHRib2R5PgogICAgICAgICAgICA8dHIgKm5nRm9yPSJsZXQgZmlsZSBvZiBmaWxlcyIgKGNsaWNrKT0iZ2V0ZmlsZShmaWxlKSI+CiAgICAgICAgICAgICAgPHRkPnt7ZmlsZS5uYW1lfX08L3RkPgogICAgICAgICAgICAgIDx0ZD4ge3tmaWxlLmN1cnJlbnRWZXJzaW9ufX08L3RkPgogICAgICAgICAgICAgIDx0ZD4ge3tmaWxlLmxhc3RNb2RpZmllZEJ5LnRpbWVzdGFtcCB8IGRhdGV9fSB7e2ZpbGUubGFzdE1vZGlmaWVkQnkudXNlckRpc3BsYXlOYW1lfX08L3RkPgogICAgICAgICAgICA8L3RyPgogICAgICAgICAgICA8L3Rib2R5PgogICAgICAgICAgPC90YWJsZT4KICAgICAgICA8L2Rpdj4KICAgICAgPC9uZy1jb250YWluZXI+CiAgICA8L25nLXRlbXBsYXRlPgogIDwvbmdiLXRhYj4KICA8bmdiLXRhYiBpZD0iZGF0YUJyb3dzZXJUYWIiIHRpdGxlPSJDYXNlIExpc3QiPgogICAgPG5nLXRlbXBsYXRlIG5nYlRhYkNvbnRlbnQ+CiAgICAgIDxkaXYgKm5nSWY9Iihwcm9qZWN0SWQkIHwgYXN5bmMpIGFzIHByb2plY3RJZCIgY2xhc3M9ImRhdGFCcm93c2VyLXdyYXBwZXIiPgogICAgICAgIDxkaXYgY2xhc3M9ImRhdGFCcm93c2VyQmFyIj4KICAgICAgICAgIDx2dC1kYXRhYnJvd3Nlci10b2dnbGUtYnV0dG9uIFtwcm9qZWN0SWRdPSJwcm9qZWN0SWQiPjwvdnQtZGF0YWJyb3dzZXItdG9nZ2xlLWJ1dHRvbj4KICAgICAgICAgIDx2dC1kYXRhYnJvd3Nlci1pdGVtLWxpc3Qtc3RhdGUtZmlsdGVyIFtwcm9qZWN0SWRdPSJwcm9qZWN0SWQiPjwvdnQtZGF0YWJyb3dzZXItaXRlbS1saXN0LXN0YXRlLWZpbHRlcj4KICAgICAgICA8L2Rpdj4KICAgICAgICA8dnQtaXRlbS1saXN0CiAgICAgICAgICAoaXRlbUNsaWNrKT0ib25JdGVtQ2xpY2soJGV2ZW50KSIKICAgICAgICAgIFtwcm9qZWN0SWRdPSJwcm9qZWN0SWQiCiAgICAgICAgICAoaXRlbUNsaWNrZWQpPSJvbkl0ZW1DbGljaygkZXZlbnQpIj48L3Z0LWl0ZW0tbGlzdD4KICAgICAgPC9kaXY+CiAgICA8L25nLXRlbXBsYXRlPgogIDwvbmdiLXRhYj4KICA8bmdiLXRhYiBpZD0icHJvcGVydGllc1RhYiIgdGl0bGU9IlByb3BlcnRpZXMiPgogICAgPG5nLXRlbXBsYXRlIG5nYlRhYkNvbnRlbnQ+CiAgICAgIDx2dC1wcm9qZWN0LXByb3BlcnRpZXMtcGFnZT48L3Z0LXByb2plY3QtcHJvcGVydGllcy1wYWdlPgogICAgPC9uZy10ZW1wbGF0ZT4KICA8L25nYi10YWI+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwcmVzZXRzTW9kaWZpZWQkOiBuZXcgQmVoYXZpb3JTdWJqZWN0KHRydWUpLAo=</text>
+        <text encoding="base64">PGRpdj5IZWxsbyB0aGVyZSE8L2Rpdj4K</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBlcXVhbGl6YXRpb25DaGFubmVsRWRpdE1vZGUkOiBuZXcgQmVoYXZpb3JTdWJqZWN0KHRydWUpLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9LAo=</text>
+        <text encoding="base64">ICBwcmVzZXRzTW9kaWZpZWQkOiBuZXcgQmVoYXZpb3JTdWJqZWN0KHRydWUpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0aGlzLnByZXNldHNNb2RpZmllZCQ7Cg==</text>
+        <text encoding="base64">ICBlcXVhbGl6YXRpb25DaGFubmVsRWRpdE1vZGUkOiBuZXcgQmVoYXZpb3JTdWJqZWN0KHRydWUpLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBnZXRDdXJyZW50U2xpZGVQcmVzZXRzTW9kaWZpZWQoKSB7Cg==</text>
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1014,6 +1000,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
