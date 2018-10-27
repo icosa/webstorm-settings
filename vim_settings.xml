@@ -251,12 +251,12 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="16" column="77" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/pages/project-overview-page/project-overview-page.component.spec.ts" timestamp="1540567001963">
-        <mark key="'" line="69" column="10" />
-        <mark key="[" line="112" column="48" />
-        <mark key="]" line="112" column="52" />
-        <mark key="." line="112" column="52" />
-        <mark key="^" line="112" column="52" />
+      <file name="C:/dev/definiens/vt.portal/src/app/pages/project-overview-page/project-overview-page.component.spec.ts" timestamp="1540648425883">
+        <mark key="'" line="116" column="21" />
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="116" column="105" />
+        <mark key="." line="117" column="19" />
+        <mark key="^" line="117" column="19" />
       </file>
       <file name="C:/dev/veritrova/alfresco.e2e/config/environments.ts" timestamp="1538736319511">
         <mark key="[" line="2" column="8" />
@@ -728,7 +728,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="C:/dev/definiens/vt.portal/src/app/state/effects/projects.effect.ts" />
       <jump line="28" column="0" filename="C:/dev/definiens/vt.portal/src/app/state/effects/project-ui.effects.ts" />
       <jump line="21" column="0" filename="C:/dev/definiens/vt.portal/src/app/state/effects/project-ui.effects.ts" />
       <jump line="38" column="0" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/state/effects/block-ui.effects.ts" />
@@ -828,6 +827,7 @@
       <jump line="33" column="4" filename="C:/dev/definiens/vt.portal/src/app/pages/project-overview-page/project-overview-page.component.html" />
       <jump line="49" column="26" filename="C:/dev/definiens/vt.portal/src/app/pages/project-overview-page/project-overview-page.component.ts" />
       <jump line="56" column="44" filename="C:/dev/definiens/vt.portal/src/app/pages/project-overview-page/project-overview-page.component.ts" />
+      <jump line="116" column="21" filename="C:/dev/definiens/vt.portal/src/app/pages/project-overview-page/project-overview-page.component.spec.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -905,13 +905,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>mockComponentQueries</text>
       </register>
       <register name="/" type="4">
         <text>spyon</text>
       </register>
-      <register name="0" type="4">
-        <text>getShowSlideUploadPage</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIC8vIHNweU9uKGNvbXBvbmVudFF1ZXJpZXMsICdnZXRTaG93U2xpZGVVcGxvYWRQYWdlJykuYW5kLnJldHVyblZhbHVlKGJlaGF2aW9yU3ViamVjdCk7CiAgICAvLyBzcHlPblByb3BlcnR5KGNvbXBvbmVudFF1ZXJpZXMsICdnZXRTaG93U2xpZGVVcGxvYWRQYWdlJywgJ2dldCcpLmFuZC5yZXR1cm5WYWx1ZShiZWhhdmlvclN1YmplY3QpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGRlbGV0ZSBjb21wb25lbnRRdWVyaWVzWydnZXRTaG93U2xpZGVVcGxvYWRQYWdlJ107Cg==</text>
@@ -992,7 +992,6 @@
         <entry>spyon</entry>
       </history-search>
       <history-cmd>
-        <entry>37,39t46</entry>
         <entry>37,39t45</entry>
         <entry>.,$d</entry>
         <entry>reg</entry>
@@ -1011,6 +1010,7 @@
         <entry>.m25</entry>
         <entry>35m24</entry>
         <entry>44,49m52</entry>
+        <entry>e</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
