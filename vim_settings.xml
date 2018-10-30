@@ -603,12 +603,11 @@
         <mark key="^" line="32" column="18" />
         <mark key="." line="32" column="18" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/component_tests/tests/project-overview/test-slide-upload-spec.ts" timestamp="1540914242370">
+      <file name="C:/dev/definiens/vt.portal/component_tests/tests/project-overview/test-slide-upload-spec.ts" timestamp="1540915401662">
         <mark key="'" line="50" column="4" />
-        <mark key="[" line="46" column="16" />
-        <mark key="]" line="47" column="77" />
-        <mark key="." line="47" column="77" />
-        <mark key="^" line="47" column="77" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -798,7 +797,7 @@
         <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGFzeW5jIHdhaXRFbGVtZW50VG9EaXNhcHBlYXIoZWxlbWVudEZpbmRlcjogRWxlbWVudEZpbmRlcikgewogICAgYXdhaXQgYnJvd3Nlci53YWl0KAogICAgICB1bnRpbC5pbnZpc2liaWxpdHlPZihlbGVtZW50RmluZGVyKSwKICAgICAgZGVmYXVsdFdhaXRUaW1lb3V0LAogICAgICAnRWxlbWVudCB0YWtpbmcgdG9vIGxvbmcgdG8gYmVjb21lIGludmlzaWJsZScKICAgICk7CiAgfQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IHRoaXMuc2xpZGVVcGxvYWRUYWIuY2xpY2soKTsK</text>
+        <text encoding="base64">ICAgICAgLy8gdGhpcy5jZy5tZW1iZXJzKHRoaXMucHJvamVjdCwgdGhpcy51c2VyLCAnSW50ZXJuYWxSZWFkT25seScpLAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -822,31 +821,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRkCg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIGV4cGVjdCh0cnVlKS50b0JlRmFsc3koKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGF3YWl0IEZha2VBdXRoVG9rZW4uc2V0UmVmcmVzaFRva2VuKHRoaXMudXNlcik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IGJyb3dzZXIuZ2V0KCcvJyk7CiAgICBhd2FpdCBGYWtlQXV0aFRva2VuLnNldFJlZnJlc2hUb2tlbih0aGlzLnVzZXIpOwo=</text>
+        <text encoding="base64">ICAgIGF3YWl0IHRoaXMuc2xpZGVVcGxvYWRUYWIuY2xpY2soKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhd2FpdCBicm93c2VyLmdldCgnLycpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGRkCg==</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgYXdhaXQgYnJvd3Nlci5nZXQoJy8nKTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8qKiBBc3NlcnQgKi8K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGF3YWl0IGJyb3dzZXIuZ2V0KCcvJyk7CiAgICBhd2FpdCBGYWtlQXV0aFRva2VuLnNldFJlZnJlc2hUb2tlbih0aGlzLnVzZXIpOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBhd2FpdCBicm93c2VyLmdldCgnLycpOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhd2FpdCBicm93c2VyLnNsZWVwKDUwMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgYXdhaXQgYnJvd3Nlci5nZXQoJy8nKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -885,8 +884,6 @@
         <entry>logout</entry>
       </history-search>
       <history-cmd>
-        <entry>%y</entry>
-        <entry>11,16t17</entry>
         <entry>11,16t16</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>65,70p</entry>
@@ -904,6 +901,8 @@
         <entry>20t33</entry>
         <entry>set list</entry>
         <entry>26,+1t31</entry>
+        <entry>38m24</entry>
+        <entry>38m23</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
