@@ -112,6 +112,13 @@
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
+      <file name="C:/dev/definiens/shared-protractor-utils/pageObjects/portal/common-sections/navigation-tabs-bar.section.ts" timestamp="1540907480567">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="25" column="56" />
+        <mark key="]" line="25" column="69" />
+        <mark key="^" line="25" column="69" />
+        <mark key="." line="25" column="69" />
+      </file>
       <file name="C:/dev/definiens/alfresco.e2e/features/slide-filter-by-metadata.feature" timestamp="1540829765276">
         <mark key="'" line="15" column="0" />
       </file>
@@ -590,7 +597,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="0" filename="C:/dev/definiens/vt.portal/src/app/pages/project-overview-page/project-overview-page.component.html" />
       <jump line="20" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/portal component markup" />
       <jump line="39" column="0" filename="C:/dev/definiens/vt.portal/src/app/pages/project-overview-page/project-overview-page.component.spec.ts" />
       <jump line="27" column="19" filename="C:/dev/definiens/vt.portal/.angular-cli.json" />
@@ -690,6 +696,7 @@
       <jump line="43" column="22" filename="C:/dev/definiens/vt.portal/component_tests/tests/project-overview/test-workflow-box-status-xxxx.ts" />
       <jump line="26" column="43" filename="C:/dev/definiens/vt.portal/component_tests/tests/project-overview/test-slide-upload-spec.ts" />
       <jump line="5" column="0" filename="C:/dev/definiens/vt.portal/component_tests/utils/config-generator.ts" />
+      <jump line="23" column="0" filename="C:/dev/definiens/shared-protractor-utils/pageObjects/portal/common-sections/navigation-tabs-bar.section.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -767,13 +774,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>numberOfSlides</text>
+        <text>propertiesTab</text>
       </register>
       <register name="/" type="4">
         <text>prime</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zdCBwcm9qZWN0T3ZlcnZpZXdQYWdlID0gbmV3IFByb2plY3RPdmVydmlld1BhZ2UoKTsK</text>
+        <text encoding="base64">ICBwdWJsaWMgcHJvcGVydGllc1RhYjogRWxlbWVudEZpbmRlciA9ICQoJ3AtdGFidmlldy5wcm9qZWN0LXZpZXcgdWwgbGk6bnRoLWNoaWxkKDMpJyk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -863,9 +870,6 @@
         <entry>prime</entry>
       </history-search>
       <history-cmd>
-        <entry>e</entry>
-        <entry>116m119</entry>
-        <entry>116m118</entry>
         <entry>109d</entry>
         <entry>111,126m109</entry>
         <entry>6t25</entry>
@@ -882,6 +886,9 @@
         <entry>.,62d</entry>
         <entry>153,173t174</entry>
         <entry>q</entry>
+        <entry>.;4t23</entry>
+        <entry>.;+4t23</entry>
+        <entry>.;+3t23</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
