@@ -461,12 +461,12 @@
         <mark key="." line="4" column="50" />
         <mark key="^" line="3" column="47" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/package.json" timestamp="1540908671189">
-        <mark key="'" line="120" column="0" />
-        <mark key="[" line="72" column="5" />
-        <mark key="]" line="72" column="27" />
-        <mark key="." line="72" column="7" />
-        <mark key="^" line="72" column="7" />
+      <file name="C:/dev/definiens/vt.portal/package.json" timestamp="1540917131481">
+        <mark key="'" line="121" column="0" />
+        <mark key="[" line="72" column="37" />
+        <mark key="]" line="72" column="38" />
+        <mark key="." line="72" column="38" />
+        <mark key="^" line="72" column="38" />
       </file>
       <file name="C:/dev/definiens/alfresco.e2e/features/step_definitions/project.steps.ts" timestamp="1540208728026">
         <mark key="'" line="0" column="0" />
@@ -513,7 +513,7 @@
         <mark key="." line="77" column="1" />
         <mark key="^" line="77" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540915757669">
+      <file name="/Dummy.txt" timestamp="1540917824138">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="57" />
         <mark key="." line="0" column="0" />
@@ -533,6 +533,13 @@
         <mark key="]" line="66" column="0" />
         <mark key="^" line="76" column="99" />
         <mark key="." line="76" column="99" />
+      </file>
+      <file name="C:/dev/definiens/vt.portal/component_tests/tests/project-overview/user-role-dependent-tests-spec.ts" timestamp="1540917400759">
+        <mark key="'" line="7" column="34" />
+        <mark key="[" line="7" column="10" />
+        <mark key="]" line="7" column="34" />
+        <mark key="." line="7" column="34" />
+        <mark key="^" line="7" column="34" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/components/upload-slide-component/upload-slide.component.html" timestamp="1540826068972">
         <mark key="'" line="0" column="0" />
@@ -611,7 +618,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="61" filename="C:/dev/definiens/vt.portal/src/app/pages/project-overview-page/project-overview-page.component.spec.ts" />
       <jump line="0" column="0" filename="C:/dev/definiens/vt.portal/src/app/app.module.ts" />
       <jump line="14" column="2" filename="C:/dev/definiens/vt.portal/src/app/app.module.ts" />
       <jump line="57" column="0" filename="C:/dev/definiens/vt.portal/src/app/pages/project-overview-page/project-overview-page.component.spec.ts" />
@@ -711,6 +717,7 @@
       <jump line="27" column="3" filename="C:/dev/definiens/vt.portal/component_tests/tests/project-overview/test-slide-upload-spec.ts" />
       <jump line="19" column="47" filename="C:/dev/definiens/vt.portal/component_tests/tests/project-overview/test-slide-upload-spec.ts" />
       <jump line="49" column="4" filename="C:/dev/definiens/vt.portal/component_tests/tests/project-overview/test-slide-upload-spec.ts" />
+      <jump line="7" column="34" filename="C:/dev/definiens/vt.portal/component_tests/tests/project-overview/user-role-dependent-tests-spec.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -788,7 +795,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>become invisible</text>
+        <text>check slide upload functionality</text>
       </register>
       <register name="/" type="4">
         <text>logout</text>
