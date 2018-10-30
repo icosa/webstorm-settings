@@ -34,12 +34,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/component_tests/tests/project-overview/test-workflow-box-status-spec.ts" timestamp="1540296096596">
-        <mark key="'" line="159" column="15" />
-        <mark key="[" line="179" column="0" />
-        <mark key="]" line="179" column="0" />
-        <mark key="^" line="179" column="6" />
-        <mark key="." line="179" column="0" />
+      <file name="C:/dev/definiens/vt.portal/component_tests/tests/project-overview/test-workflow-box-status-spec.ts" timestamp="1540897321691">
+        <mark key="'" line="7" column="50" />
+        <mark key="[" line="185" column="0" />
+        <mark key="]" line="185" column="12" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="185" column="12" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/components/upload-slide-component/upload-slide.component.ts" timestamp="1540824259759">
         <mark key="'" line="13" column="19" />
@@ -573,7 +573,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="30" filename="C:/dev/definiens/vt.portal/src/app/pages/project-overview-page/project-overview-page.component.spec.ts" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/portal component markup" />
       <jump line="21" column="0" filename="C:/dev/definiens/vt.portal/src/app/pages/project-overview-page/project-overview-page.component.html" />
       <jump line="0" column="0" filename="C:/dev/definiens/vt.portal/src/app/pages/project-overview-page/project-overview-page.component.html" />
@@ -673,6 +672,7 @@
       <jump line="12" column="9" filename="C:/dev/definiens/vt.portal/src/app/components/upload-slide-component/upload-slide.component.spec.ts" />
       <jump line="14" column="0" filename="C:/dev/definiens/alfresco.e2e/features/login.feature" />
       <jump line="57" column="0" filename="C:/dev/definiens/vt.portal/src/app/pages/project-overview-page/project-overview-page.component.ts" />
+      <jump line="7" column="50" filename="C:/dev/definiens/vt.portal/component_tests/tests/project-overview/test-workflow-box-status-spec.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -759,7 +759,7 @@
         <text encoding="base64">ICBAc2tpcAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBuZ09uRGVzdHJveSgpIHsKICAgIHRoaXMuZGVzdHJveWVkJC5uZXh0KHRydWUpOwogICAgdGhpcy5kZXN0cm95ZWQkLmNvbXBsZXRlKCk7CiAgfQoK</text>
+        <text encoding="base64">ICBbW3sgRG9uZTogMSB9LCAxXSwKICAgW3sgRG9uZTogMSwgU2tpcHBlZDogMiB9LCAzXSwKICAgW3sgRG9uZTogMiwgUmVqZWN0ZWQ6IDEgfSwgM11dCiAgICAuZm9yRWFjaCgoW2JvZHksIG51bWJlck9mU2xpZGVzXSkgPT4gewogICAgICBjb25zdCBtZXNzYWdlID0gYGFsbCBzdGF0dXMgYm94ZXMgYXJlIGRvbmUKIHdoZW4gJHtudW1iZXJPZlNsaWRlc30gc2xpZGVzIGV4cGVjdGVkIGFuZCBzbGlkZXMgYXJlIGluIGZvbGxvd2luZyBzdGF0ZSAke0pTT04uc3RyaW5naWZ5KGJvZHkpfWA7CiAgICAgIGl0KG1lc3NhZ2UsIGFzeW5jICgpID0+IHsKICAgICAgICAvLyBzZXQgdGVzdCBzcGVjaWZpYyByZXF1ZXN0cyBvbiBtb2NrIHNlcnZlcgogICAgICAgIGNvbnN0IGNvbmYgPSBbCiAgICAgICAgICAuLi50aGlzLmJhc2VDb25mLAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -783,10 +783,10 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGRlc3Ryb3llZCQgPSBuZXcgUmVwbGF5U3ViamVjdDxib29sZWFuPigxKTsK</text>
+        <text encoding="base64">ICBuZ09uRGVzdHJveSgpIHsKICAgIHRoaXMuZGVzdHJveWVkJC5uZXh0KHRydWUpOwogICAgdGhpcy5kZXN0cm95ZWQkLmNvbXBsZXRlKCk7CiAgfQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBAc2tpcAo=</text>
+        <text encoding="base64">ICBwcml2YXRlIGRlc3Ryb3llZCQgPSBuZXcgUmVwbGF5U3ViamVjdDxib29sZWFuPigxKTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICBAc2tpcAo=</text>
@@ -804,13 +804,13 @@
         <text encoding="base64">ICBAc2tpcAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBAc2tpcAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>153,173t174</text>
       </register>
     </registers>
     <search>
@@ -846,7 +846,6 @@
         <entry>prime</entry>
       </history-search>
       <history-cmd>
-        <entry>35m24</entry>
         <entry>44,49m52</entry>
         <entry>e</entry>
         <entry>116m119</entry>
@@ -866,6 +865,7 @@
         <entry>,62d</entry>
         <entry>.,62d</entry>
         <entry>w</entry>
+        <entry>153,173t174</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -927,6 +927,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
