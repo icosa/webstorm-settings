@@ -546,11 +546,11 @@
         <mark key="[" line="40" column="19" />
         <mark key="]" line="40" column="43" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/state/reducers/index.ts" timestamp="1541180830857">
-        <mark key="'" line="23" column="2" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="C:/dev/definiens/vt.portal/src/app/state/reducers/index.ts" timestamp="1541181005514">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="23" column="24" />
       </file>
       <file name="C:/dev/definiens/alfresco.e2e/features/conversion.feature" timestamp="1540830138210">
         <mark key="[" line="6" column="0" />
@@ -825,7 +825,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>[]</text>
+        <text>annotation</text>
       </register>
       <register name="/" type="4">
         <text>logout</text>
@@ -834,7 +834,7 @@
         <text encoding="base64">ZXhwb3J0IGNvbnN0IGdldEFubm90YXRpb25TdGF0ZSA9IGNyZWF0ZVNlbGVjdG9yKAogIGdldEltYWdlVmlld2VyU3RhdGUsCiAgKHN0YXRlOiBJbWFnZVZpZXdlck1vZHVsZVN0YXRlKSA9PiB7CiAgICByZXR1cm4gc3RhdGUuYW5ub3RhdGlvbjsKICB9Cik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU3RhdGUgfSBmcm9tICcuLi8uLi9hcHAucmVkdWNlcic7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -858,31 +858,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IHsgUHJvamVjdFN0YXRlIH0gZnJvbSAnLi9wcm9qZWN0LnJlZHVjZXInOwo=</text>
+        <text encoding="base64">ICBnZXRJbWFnZVZpZXdlclN0YXRlLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IHsgUHJvamVjdFN0YXRlIH0gZnJvbSAnLi9wcm9qZWN0LnJlZHVjZXInOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgU3RhdGUgfSBmcm9tICcuLi8uLi9hcHAucmVkdWNlcic7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IHsgUHJvamVjdFN0YXRlIH0gZnJvbSAnLi9wcm9qZWN0LnJlZHVjZXInOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgcmVzZXRSZWR1Y2VyIH0gZnJvbSAnLi9yZXNldC5yZWR1Y2VyJzsK</text>
+        <text encoding="base64">ZXhwb3J0IHsgUHJvamVjdFN0YXRlIH0gZnJvbSAnLi9wcm9qZWN0LnJlZHVjZXInOwo=</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTWV0YVJlZHVjZXIgfSBmcm9tICdAbmdyeC9zdG9yZSc7CmltcG9ydCB7IHN0b3JlRnJlZXplIH0gZnJvbSAnbmdyeC1zdG9yZS1mcmVlemUnOwppbXBvcnQgeyBlbnZpcm9ubWVudCB9IGZyb20gJy4uLy4uLy4uL2Vudmlyb25tZW50cy9lbnZpcm9ubWVudCc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICByb3V0ZXI6IHJvdXRlclJlZHVjZXIsCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgcmVzZXRSZWR1Y2VyIH0gZnJvbSAnLi9yZXNldC5yZWR1Y2VyJzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICByb3V0ZXI6IFJvdXRlclJlZHVjZXJTdGF0ZTxSb3V0ZXJTdGF0ZVVybD47Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgTWV0YVJlZHVjZXIgfSBmcm9tICdAbmdyeC9zdG9yZSc7CmltcG9ydCB7IHN0b3JlRnJlZXplIH0gZnJvbSAnbmdyeC1zdG9yZS1mcmVlemUnOwppbXBvcnQgeyBlbnZpcm9ubWVudCB9IGZyb20gJy4uLy4uLy4uL2Vudmlyb25tZW50cy9lbnZpcm9ubWVudCc7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqCiAqIEJ5IGRlZmF1bHQsIEBuZ3J4L3N0b3JlIHVzZXMgY29tYmluZVJlZHVjZXJzIHdpdGggdGhlIHJlZHVjZXIgbWFwIHRvIGNvbXBvc2UgdGhlIHJvb3QgbWV0YS1yZWR1Y2VyLiBUbyBhZGQgbW9yZQogKiBtZXRhLXJlZHVjZXJzLCBwcm92aWRlIGFuIGFycmF5IG9mIG1ldGEtcmVkdWNlcnMgdGhhdCB3aWxsIGJlIGNvbXBvc2VkIHRvIGZvcm0gdGhlIHJvb3QgbWV0YS1yZWR1Y2VyLgogKi8KZXhwb3J0IGNvbnN0IG1ldGFSZWR1Y2VyczogQXJyYXk8TWV0YVJlZHVjZXI8U3RhdGU+PiA9IGVudmlyb25tZW50LnByb2R1Y3Rpb24KICA/IFtyZXNldFJlZHVjZXJdCiAgOiBbc3RvcmVGcmVlemUsIHJlc2V0UmVkdWNlcl07Cg==</text>
+        <text encoding="base64">ICByb3V0ZXI6IHJvdXRlclJlZHVjZXIsCg==</text>
       </register>
       <register name=":" type="4">
         <text>18,35y</text>
