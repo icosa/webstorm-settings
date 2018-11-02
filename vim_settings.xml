@@ -3,22 +3,19 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/definiens/vt.portal/src/app/modules/data-browser/components/item-list/item-list.component.html" timestamp="1540720997730">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="24" column="8" />
-      </file>
-      <file name="C:/dev/definiens/vt.portal/component_tests/tests/project-overview/test-slide-upload.spec.ts" timestamp="1540904585196">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="3" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="C:/dev/veritrova/alfresco.e2e/page_objects/site/document-library.po.ts" timestamp="1539100621310">
         <mark key="'" line="19" column="38" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="49" />
         <mark key="^" line="39" column="1" />
         <mark key="." line="39" column="1" />
+      </file>
+      <file name="C:/dev/definiens/vt.portal/src/app/state/queries/base.queries.ts" timestamp="1541193713759">
+        <mark key="'" line="13" column="2" />
+        <mark key="[" line="21" column="26" />
+        <mark key="]" line="21" column="26" />
+        <mark key="^" line="17" column="15" />
+        <mark key="." line="21" column="26" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/pages/project-properties-page/project-properties-page.component.ts" timestamp="1540667928074">
         <mark key="'" line="18" column="51" />
@@ -27,10 +24,6 @@
         <mark key="^" line="3" column="40" />
         <mark key="." line="3" column="40" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/utils/permissions-utils.ts" timestamp="1540911923393">
-        <mark key="[" line="41" column="17" />
-        <mark key="]" line="41" column="34" />
-      </file>
       <file name="C:/dev/veritrova/shared-protractor-utils/pageObjects/portal/pages/analytics.po/analytics-base.sections.ts" timestamp="1538726512348">
         <mark key="'" line="18" column="0" />
         <mark key="[" line="5" column="0" />
@@ -38,18 +31,18 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
+      <file name="C:/dev/definiens/vt.portal/src/app/state/queries/notifications.queries.ts" timestamp="1541193756491">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="13" column="61" />
+      </file>
       <file name="C:/dev/definiens/vt.portal/component_tests/tests/project-overview/test-workflow-box-status-spec.ts" timestamp="1540897321691">
         <mark key="'" line="7" column="50" />
         <mark key="[" line="185" column="0" />
         <mark key="]" line="185" column="12" />
         <mark key="^" line="6" column="0" />
         <mark key="." line="185" column="12" />
-      </file>
-      <file name="C:/dev/definiens/shared-protractor-utils/utils/protractor-extensions.ts" timestamp="1540914927473">
-        <mark key="[" line="63" column="34" />
-        <mark key="]" line="63" column="53" />
-        <mark key="." line="63" column="53" />
-        <mark key="^" line="63" column="53" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/state/reducers/project.reducer.ts" timestamp="1541179799835">
         <mark key="[" line="38" column="0" />
@@ -70,12 +63,6 @@
         <mark key="^" line="66" column="72" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/components/index.ts" timestamp="1540718900459">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="24" column="12" />
-        <mark key="." line="25" column="0" />
-      </file>
       <file name="C:/dev/veritrova/alfresco.e2e/page_objects/site/site-members.po.ts" timestamp="1539096872281">
         <mark key="'" line="57" column="32" />
         <mark key="[" line="1" column="44" />
@@ -89,10 +76,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="25" column="17" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="C:/dev/definiens/portal.e2e/node_modules/@types/cucumber/index.d.ts" timestamp="1540465222048">
-        <mark key="[" line="89" column="53" />
-        <mark key="]" line="89" column="102" />
       </file>
       <file name="C:/dev/veritrova/alfresco.e2e/page_objects/site/add-users.po.ts" timestamp="1539090493457">
         <mark key="'" line="9" column="13" />
@@ -155,6 +138,12 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="23" column="104" />
       </file>
+      <file name="C:/dev/definiens/vt.portal/src/app/state/queries/project-ui.queries.ts" timestamp="1541193793811">
+        <mark key="[" line="19" column="25" />
+        <mark key="]" line="19" column="25" />
+        <mark key="." line="19" column="25" />
+        <mark key="^" line="19" column="22" />
+      </file>
       <file name="C:/dev/definiens/portal.e2e/src/support/hooks.ts" timestamp="1540458564706">
         <mark key="'" line="14" column="39" />
         <mark key="[" line="0" column="46" />
@@ -176,22 +165,12 @@
         <mark key="." line="32" column="1" />
         <mark key="^" line="32" column="1" />
       </file>
-      <file name="/package.json" timestamp="1540458235655">
-        <mark key="[" line="57" column="21" />
-        <mark key="]" line="58" column="38" />
-      </file>
       <file name="C:/dev/definiens/vt.portal/src/app/state/actions/project.actions.ts" timestamp="1540411271739">
         <mark key="'" line="17" column="13" />
         <mark key="[" line="21" column="44" />
         <mark key="]" line="21" column="62" />
         <mark key="." line="21" column="44" />
         <mark key="^" line="7" column="50" />
-      </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/pages/project-overview-page/project-overview-page.component.html" timestamp="1540894132538">
-        <mark key="[" line="23" column="33" />
-        <mark key="]" line="23" column="33" />
-        <mark key="." line="23" column="33" />
-        <mark key="^" line="23" column="33" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/components/upload-slide-component/state/upload-slide.queries.ts" timestamp="1540824800347">
         <mark key="'" line="24" column="4" />
@@ -213,10 +192,6 @@
         <mark key="]" line="22" column="0" />
         <mark key="^" line="0" column="16" />
         <mark key="." line="22" column="0" />
-      </file>
-      <file name="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/state/actions/viewer-ui.actions.ts" timestamp="1540406464982">
-        <mark key="[" line="24" column="39" />
-        <mark key="]" line="24" column="64" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/state/effects/project-ui.effects.ts" timestamp="1540414288607">
         <mark key="'" line="26" column="0" />
@@ -320,10 +295,6 @@
       <file name="C:/dev/definiens/portal.e2e/features/step_definitions/image-viewer.steps/image-viewer-page.steps.ts" timestamp="1540454795616">
         <mark key="'" line="6" column="34" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/services/index.ts" timestamp="1540666697619">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="74" />
-      </file>
       <file name="C:/dev/definiens/vt.imageviewer/src/app/state/reducers/index.ts" timestamp="1541174758978">
         <mark key="[" line="37" column="1" />
         <mark key="]" line="37" column="0" />
@@ -336,16 +307,6 @@
         <mark key="]" line="9" column="63" />
         <mark key="." line="9" column="63" />
         <mark key="^" line="9" column="62" />
-      </file>
-      <file name="C:/dev/definiens/vt.portal/node_modules/@angular/http/testing/src/mock_backend.d.ts" timestamp="1540549696616">
-        <mark key="[" line="149" column="19" />
-        <mark key="]" line="149" column="38" />
-      </file>
-      <file name="C:/dev/definiens/vt.portal/node_modules/@ng-bootstrap/ng-bootstrap/tabset/tabset.d.ts" timestamp="1540543656507">
-        <mark key="[" line="85" column="24" />
-        <mark key="]" line="85" column="38" />
-        <mark key="^" line="19" column="20" />
-        <mark key="." line="19" column="20" />
       </file>
       <file name="C:/dev/definiens/vt.portal/protractor.conf.js" timestamp="1540909559339">
         <mark key="[" line="14" column="46" />
@@ -399,22 +360,12 @@
         <mark key="^" line="22" column="39" />
         <mark key="." line="22" column="39" />
       </file>
-      <file name="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/equalization/equalization-panel/equalization-panel.component.html" timestamp="1540824123264">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="130" />
-      </file>
       <file name="C:/dev/veritrova/alfresco.e2e/page_objects/dialogs/create-site-dialog.po.ts" timestamp="1539007247102">
         <mark key="'" line="4" column="13" />
         <mark key="[" line="63" column="10" />
         <mark key="]" line="63" column="10" />
         <mark key="." line="63" column="10" />
         <mark key="^" line="63" column="10" />
-      </file>
-      <file name="C:/dev/definiens/alfresco.e2e/config/config.base.ts" timestamp="1540652743263">
-        <mark key="[" line="58" column="17" />
-        <mark key="]" line="58" column="36" />
-        <mark key="." line="64" column="17" />
-        <mark key="^" line="64" column="17" />
       </file>
       <file name="C:/dev/veritrova/alfresco.e2e/page_objects/header/header-menu.po.ts" timestamp="1539007817801">
         <mark key="'" line="4" column="13" />
@@ -432,10 +383,6 @@
       </file>
       <file name="C:/dev/definiens/vt.portal/.angular-cli.json" timestamp="1540548063592">
         <mark key="'" line="27" column="19" />
-      </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/pages/start-page/start-page.component.scss" timestamp="1540722626929">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="28" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/state/reducers/notifications.reducer.ts" timestamp="1541179788500">
         <mark key="[" line="13" column="0" />
@@ -473,6 +420,12 @@
         <mark key="]" line="7" column="130" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="C:/dev/definiens/vt.portal/src/app/state/queries/index.ts" timestamp="1541193258371">
+        <mark key="[" line="17" column="14" />
+        <mark key="]" line="17" column="14" />
+        <mark key="." line="17" column="14" />
+        <mark key="^" line="17" column="12" />
+      </file>
       <file name="C:/dev/definiens/vt.portal/src/app/state/actions/global.actions.ts" timestamp="1540411436764">
         <mark key="'" line="17" column="0" />
         <mark key="[" line="4" column="45" />
@@ -503,6 +456,12 @@
         <mark key="." line="23" column="68" />
         <mark key="^" line="23" column="68" />
       </file>
+      <file name="C:/dev/definiens/vt.portal/src/app/state/queries/navigation.queries.ts" timestamp="1541193369021">
+        <mark key="[" line="12" column="14" />
+        <mark key="]" line="12" column="45" />
+        <mark key="^" line="13" column="53" />
+        <mark key="." line="13" column="54" />
+      </file>
       <file name="C:/dev/definiens/vt.portal/src/app/state/effects/projects.effect.ts" timestamp="1540556700394">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="13" column="13" />
@@ -524,16 +483,6 @@
         <mark key="." line="16" column="6" />
         <mark key="^" line="16" column="6" />
       </file>
-      <file name="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/equalization/equalization-panel/equalization-panel.component.ts" timestamp="1540808954480">
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="84" column="3" />
-      </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/pages/project-overview-page/state/project-overview-page.queries.ts" timestamp="1540818014670">
-        <mark key="[" line="76" column="3" />
-        <mark key="]" line="77" column="1" />
-        <mark key="." line="77" column="1" />
-        <mark key="^" line="77" column="1" />
-      </file>
       <file name="C:/dev/definiens/ng-ngrx-reference-app/package.json" timestamp="1541014805785">
         <mark key="[" line="5" column="22" />
       </file>
@@ -541,10 +490,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="57" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/modules/authentication/authentication.module.ts" timestamp="1540555747264">
-        <mark key="[" line="40" column="19" />
-        <mark key="]" line="40" column="43" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/state/reducers/index.ts" timestamp="1541192614528">
         <mark key="[" line="35" column="13" />
@@ -582,42 +527,12 @@
         <mark key="^" line="19" column="72" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/pages/slide-viewer-page/slide-viewer-header/slide-viewer-header.component.scss" timestamp="1540722482120">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="32" />
-      </file>
-      <file name="/project-overview-page.component.html" timestamp="1540665705163">
-        <mark key="[" line="101" column="10" />
-        <mark key="]" line="101" column="67" />
-      </file>
       <file name="C:/dev/definiens/alfresco.e2e/page_objects/site/advanced-search-results-po/advanced-search-results.po.ts" timestamp="1539866693133">
         <mark key="'" line="58" column="0" />
         <mark key="[" line="9" column="6" />
         <mark key="]" line="9" column="6" />
         <mark key="." line="9" column="6" />
         <mark key="^" line="102" column="47" />
-      </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/components/upload-slide-component/state/slide-upload-details.ts" timestamp="1540726847274">
-        <mark key="[" line="0" column="28" />
-        <mark key="]" line="0" column="18" />
-        <mark key="^" line="0" column="18" />
-        <mark key="." line="0" column="18" />
-      </file>
-      <file name="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/equalization/equalization-panel/equalization-panel.component.spec.ts" timestamp="1540669579104">
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="93" />
-        <mark key="." line="106" column="0" />
-        <mark key="^" line="106" column="25" />
-      </file>
-      <file name="/project-overview-page.component.spec.ts" timestamp="1540556793746">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="34" />
-      </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/components/upload-slide-component/upload-slide.component.scss" timestamp="1540827224340">
-        <mark key="[" line="15" column="25" />
-        <mark key="]" line="15" column="29" />
-        <mark key="." line="15" column="29" />
-        <mark key="^" line="15" column="29" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/app.module.ts" timestamp="1541192589758">
         <mark key="'" line="48" column="0" />
@@ -633,10 +548,6 @@
         <mark key="." line="61" column="0" />
         <mark key="^" line="6" column="25" />
       </file>
-      <file name="C:/dev/definiens/alfresco.e2e/node_modules/@types/cucumber/index.d.ts" timestamp="1540323271772">
-        <mark key="[" line="69" column="16" />
-        <mark key="]" line="69" column="34" />
-      </file>
       <file name="C:/dev/veritrova/alfresco.e2e/page_objects/dialogs/edit-project-site-dialog.po.ts" timestamp="1539156704634">
         <mark key="'" line="40" column="9" />
         <mark key="[" line="36" column="52" />
@@ -644,16 +555,8 @@
         <mark key="^" line="32" column="18" />
         <mark key="." line="32" column="18" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/component_tests/tests/project-overview/test-slide-upload-spec.ts" timestamp="1540915401662">
-        <mark key="'" line="50" column="4" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="6" filename="C:/dev/definiens/vt.portal/src/app/pages/project-overview-page/project-overview-page.component.spec.ts" />
-      <jump line="60" column="10" filename="C:/dev/definiens/vt.portal/src/app/pages/project-overview-page/project-overview-page.component.spec.ts" />
       <jump line="7" column="0" filename="C:/dev/definiens/vt.portal/src/app/pages/project-overview-page/project-overview-page.component.spec.ts" />
       <jump line="45" column="12" filename="C:/dev/definiens/vt.portal/src/app/pages/project-overview-page/project-overview-page.component.spec.ts" />
       <jump line="48" column="50" filename="C:/dev/definiens/vt.portal/src/app/pages/project-overview-page/project-overview-page.component.ts" />
@@ -752,6 +655,8 @@
       <jump line="10" column="23" filename="C:/dev/definiens/vt.portal/src/app/app.reducer.ts" />
       <jump line="26" column="0" filename="C:/dev/definiens/vt.portal/src/app/state/reducers/index.ts" />
       <jump line="32" column="2" filename="C:/dev/definiens/vt.portal/src/app/state/reducers/index.ts" />
+      <jump line="19" column="20" filename="C:/dev/definiens/vt.portal/src/app/state/queries/base.queries.ts" />
+      <jump line="13" column="2" filename="C:/dev/definiens/vt.portal/src/app/state/queries/base.queries.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -829,16 +734,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>appR</text>
+        <text encoding="base64">U3RvcmU8UHJvamVjdFVpU3RhdGU+</text>
       </register>
       <register name="/" type="4">
-        <text>logout</text>
+        <text>private</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">QEluamVjdGFibGUoKQpleHBvcnQgY2xhc3MgQmFzZVF1ZXJpZXMgewogIHB1YmxpYyByZWFkb25seSBhbm5vdGF0aW9uJDogT2JzZXJ2YWJsZTxBbm5vdGF0aW9uU3RhdGU+OwogIHB1YmxpYyByZWFkb25seSBhbm5vdGF0aW9uVWkkOiBPYnNlcnZhYmxlPEFubm90YXRpb25VaVN0YXRlPjsKICBwdWJsaWMgcmVhZG9ubHkgYW5hbHlzaXNSZXN1bHRzRm9yU2xpZGUkOiBPYnNlcnZhYmxlPEFuYWx5c2lzUmVzdWx0c1N0YXRlRm9yU2xpZGU+OwogIHB1YmxpYyByZWFkb25seSBhbmFseXNpc0xldmVsc0ZvckltYWdlSWQkOiBPYnNlcnZhYmxlPEFuYWx5c2lzTGV2ZWxTdGF0ZXNGb3JJbWFnZT47CiAgcHVibGljIHJlYWRvbmx5IGFuYWx5c2lzQ2xhc3Nlc0ZvckltYWdlSWQkOiBPYnNlcnZhYmxlPEFuYWx5c2lzQ2xhc3Nlc0ZvckltYWdlU3RhdGU+OwogIHB1YmxpYyByZWFkb25seSBibG9jayQ6IE9ic2VydmFibGU8QmxvY2tTdGF0ZT47CiAgcHVibGljIHJlYWRvbmx5IGJsb2NrVWkkOiBPYnNlcnZhYmxlPEJsb2NrVWlTdGF0ZT47CiAgcHVibGljIHJlYWRvbmx5IHByb2plY3QkOiBPYnNlcnZhYmxlPFByb2plY3RTdGF0ZT47CiAgcHVibGljIHJlYWRvbmx5IHZpZXdlcnNVaSQ6IE9ic2VydmFibGU8Vmlld2Vyc1VpU3RhdGU+OwogIHB1YmxpYyByZWFkb25seSBsYW5kbWFya3NVaSQ6IE9ic2VydmFibGU8TGFuZG1hcmtzVWlTdGF0ZT47CiAgcHVibGljIHJlYWRvbmx5IHVzZXIkOiBPYnNlcnZhYmxlPFVzZXJTdGF0ZT47CiAgcHVibGljIHJlYWRvbmx5IG5vdGlmaWNhdGlvbnNVaSQ6IE9ic2VydmFibGU8Tm90aWZpY2F0aW9uU3RhdGU+OwoKICBjb25zdHJ1Y3Rvcihwcml2YXRlIHN0b3JlOiBTdG9yZTxtb2R1bGVSZWR1Y2Vycy5TdGF0ZT4pIHsKICAgIHRoaXMuYW5ub3RhdGlvbiQgPSB0aGlzLnN0b3JlLnNlbGVjdChtb2R1bGVSZWR1Y2Vycy5nZXRBbm5vdGF0aW9uU3RhdGUpOwogICAgdGhpcy5hbm5vdGF0aW9uVWkkID0gdGhpcy5zdG9yZS5zZWxlY3QobW9kdWxlUmVkdWNlcnMuZ2V0QW5ub3RhdGlvblVpU3RhdGUpOwogICAgdGhpcy5hbmFseXNpc1Jlc3VsdHNGb3JTbGlkZSQgPSB0aGlzLnN0b3JlLnNlbGVjdChtb2R1bGVSZWR1Y2Vycy5nZXRBbmFseXNpc1Jlc3VsdFN0YXRlRm9yU2xpZGVJZCk7CiAgICB0aGlzLmFuYWx5c2lzTGV2ZWxzRm9ySW1hZ2VJZCQgPSB0aGlzLnN0b3JlLnNlbGVjdChtb2R1bGVSZWR1Y2Vycy5nZXRBbmFseXNpc0xldmVsc1N0YXRlRm9ySW1hZ2VJZCk7CiAgICB0aGlzLmFuYWx5c2lzQ2xhc3Nlc0ZvckltYWdlSWQkID0gdGhpcy5zdG9yZS5zZWxlY3QobW9kdWxlUmVkdWNlcnMuZ2V0QW5hbHlzaXNDbGFzc2VzU3RhdGVGb3JJbWFnZUlkKTsKICAgIHRoaXMuYmxvY2skID0gdGhpcy5zdG9yZS5zZWxlY3QobW9kdWxlUmVkdWNlcnMuZ2V0QmxvY2tTdGF0ZSk7CiAgICB0aGlzLmJsb2NrVWkkID0gdGhpcy5zdG9yZS5zZWxlY3QobW9kdWxlUmVkdWNlcnMuZ2V0QmxvY2tVaVN0YXRlKTsKICAgIHRoaXMucHJvamVjdCQgPSB0aGlzLnN0b3JlLnNlbGVjdChtb2R1bGVSZWR1Y2Vycy5nZXRQcm9qZWN0U3RhdGUpOwogICAgdGhpcy52aWV3ZXJzVWkkID0gdGhpcy5zdG9yZS5zZWxlY3QobW9kdWxlUmVkdWNlcnMuZ2V0Vmlld2VyU3RhdGUpOwogICAgdGhpcy5sYW5kbWFya3NVaSQgPSB0aGlzLnN0b3JlLnNlbGVjdChtb2R1bGVSZWR1Y2Vycy5nZXRMYW5kbWFya3NTdGF0ZSk7CiAgICB0aGlzLnVzZXIkID0gdGhpcy5zdG9yZS5zZWxlY3QobW9kdWxlUmVkdWNlcnMuZ2V0VXNlclN0YXRlKTsKICAgIHRoaXMubm90aWZpY2F0aW9uc1VpJCA9IHRoaXMuc3RvcmUuc2VsZWN0KG1vZHVsZVJlZHVjZXJzLmdldE5vdGlmaWNhdGlvblVpU3RhdGUpOwogIH0KfQ==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBwcml2YXRlIHByb2plY3RVaSQ6IE9ic2VydmFibGU8UHJvamVjdFVpU3RhdGU+Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IHsgbWV0YVJlZHVjZXJzIH0gZnJvbSAnLi9zdGF0ZS9yZWR1Y2Vycyc7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgU3RhdGUgfSBmcm9tICcuLi8uLi9hcHAucmVkdWNlcic7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -862,48 +767,47 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IHsgcmVkdWNlcnMgfSBmcm9tICcuL2FwcC5yZWR1Y2VyJzsK</text>
+        <text encoding="base64">aW1wb3J0IHsgU3RvcmUgfSBmcm9tICdAbmdyeC9zdG9yZSc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29tYmluZVJlZHVjZXJzKCkK</text>
+        <text encoding="base64">aW1wb3J0IHsgTm90aWZpY2F0aW9uU3RhdGUgfSBmcm9tICd2dC5pbWFnZXZpZXdlci9zdGF0ZS9yZWR1Y2Vycy9ub3RpZmljYXRpb24tdWkucmVkdWNlcic7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkYXRhOiBmcm9tRGF0YVJlZHVjZXJzLlN0YXRlOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgU3RvcmUgfSBmcm9tICdAbmdyeC9zdG9yZSc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgcHJvamVjdHNSZWR1Y2VyLCBQcm9qZWN0U3RhdGUgfSBmcm9tICcuL3N0YXRlJzsKaW1wb3J0IHsgZm9ybXNSZWR1Y2VyLCBGb3Jtc1N0YXRlIH0gZnJvbSAnLi9zdGF0ZS9yZWR1Y2Vycy9mb3Jtcy5yZWR1Y2VyJzsKaW1wb3J0IHsgbm90aWZpY2F0aW9uc1JlZHVjZXIsIE5vdGlmaWNhdGlvbnNTdGF0ZSwgfSBmcm9tICcuL3N0YXRlL3JlZHVjZXJzL25vdGlmaWNhdGlvbnMucmVkdWNlcic7CmltcG9ydCB7IHByb2plY3RVaVJlZHVjZXIsIFByb2plY3RVaVN0YXRlIH0gZnJvbSAnLi9zdGF0ZS9yZWR1Y2Vycy9wcm9qZWN0LXVpLnJlZHVjZXInOwo=</text>
+        <text encoding="base64">ZXhwb3J0IGludGVyZmFjZSBBcHBTdGF0ZSB7CiAgcm91dGVyOiBSb3V0ZXJSZWR1Y2VyU3RhdGU8Um91dGVyU3RhdGVVcmw+Owp9Cgo=</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgc2V0UGFzc3dvcmRQYWdlVWlSZWR1Y2VyLCBTZXRQYXNzd29yZFBhZ2VVaVN0YXRlIH0gZnJvbSAnLi9wYWdlcy9zZXQtcGFzc3dvcmQtcGFnZS9zdGF0ZS9yZWR1Y2VyJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBmb3JtczogZm9ybXNSZWR1Y2VyLAo=</text>
+        <text encoding="base64">ICBwdWJsaWMgcmVhZG9ubHkgYW5ub3RhdGlvbiQ6IE9ic2VydmFibGU8QW5ub3RhdGlvblN0YXRlPjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcm9qZWN0czogcHJvamVjdHNSZWR1Y2VyLAogIHByb2plY3RVaTogcHJvamVjdFVpUmVkdWNlciwKICBzZXRQYXNzd29yZFBhZ2VVaTogc2V0UGFzc3dvcmRQYWdlVWlSZWR1Y2VyLAogIG5vdGlmaWNhdGlvbnM6IG5vdGlmaWNhdGlvbnNSZWR1Y2VyLAo=</text>
+        <text encoding="base64">ICAgIHRoaXMubm90aWZpY2F0aW9uc1VpJCA9IHRoaXMuc3RvcmUuc2VsZWN0KG1vZHVsZVJlZHVjZXJzLmdldE5vdGlmaWNhdGlvblVpU3RhdGUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcm9qZWN0VWk6IFByb2plY3RVaVN0YXRlOwogIHByb2plY3RzOiBQcm9qZWN0U3RhdGU7CiAgc2V0UGFzc3dvcmRQYWdlVWk6IFNldFBhc3N3b3JkUGFnZVVpU3RhdGU7CiAgbm90aWZpY2F0aW9uczogTm90aWZpY2F0aW9uc1N0YXRlOwogIGZvcm1zOiBGb3Jtc1N0YXRlOwo=</text>
+        <text encoding="base64">ICAgIHRoaXMudXNlciQgPSB0aGlzLnN0b3JlLnNlbGVjdChtb2R1bGVSZWR1Y2Vycy5nZXRVc2VyU3RhdGUpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>18,35y</text>
+        <text>%s/private/public readonly/</text>
       </register>
     </registers>
     <search>
-      <last-search>logout</last-search>
+      <last-search>private</last-search>
       <last-offset />
-      <last-pattern>logout</last-pattern>
-      <last-replace>.actionDispatcher</last-replace>
-      <last-substitute>.store</last-substitute>
+      <last-pattern>private</last-pattern>
+      <last-replace>public readonly</last-replace>
+      <last-substitute>private</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxDYXNlXD4=</entry>
         <entry encoding="base64">XDxyZXR1cm5cPg==</entry>
         <entry encoding="base64">XDx2YWx1ZVw+</entry>
         <entry>value</entry>
@@ -923,9 +827,9 @@
         <entry>ng</entry>
         <entry>prime</entry>
         <entry>logout</entry>
+        <entry>private</entry>
       </history-search>
       <history-cmd>
-        <entry>7,16t16</entry>
         <entry>7,16t26</entry>
         <entry>.,16d</entry>
         <entry>,62d</entry>
@@ -945,6 +849,7 @@
         <entry>10,26y</entry>
         <entry>17,24m$</entry>
         <entry>18,35y</entry>
+        <entry>%s/private/public readonly/</entry>
       </history-cmd>
       <history-expr />
       <history-input />
