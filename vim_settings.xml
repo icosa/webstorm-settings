@@ -12,7 +12,11 @@
       <file name="C:/dev/definiens/vt.portal/src/app/pages/portal-page/portal-page.component.spec.ts" timestamp="1541493378654">
         <mark key="[" line="32" column="33" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/state/queries/projects.queries.ts" timestamp="1541420170862" />
+      <file name="C:/dev/definiens/vt.portal/src/app/state/queries/projects.queries.ts" timestamp="1541499371990">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="C:/dev/definiens/vt.portal/src/app/pages/state/reducers/index.ts" timestamp="1541415246627">
         <mark key="[" line="7" column="17" />
         <mark key="]" line="7" column="34" />
@@ -556,7 +560,7 @@
         <text encoding="base64">aW1wb3J0IHsgb2YgfSBmcm9tICdyeGpzL29ic2VydmFibGUvb2YnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IHsgTmF2aWdhdGlvblF1ZXJpZXMsIE5vdGlmaWNhdGlvbnNRdWVyaWVzIH0gZnJvbSAnLi4vLi4vc3RhdGUvcXVlcmllcyc7Ci8vIGltcG9ydCB7IEFjdGlvbkRpc3BhdGNoZXJTZXJ2aWNlLCBCcmVhZGNydW1iU2VydmljZSB9IGZyb20gJy4uLy4uL3NlcnZpY2VzJzsK</text>
+        <text encoding="base64">ICAgIEBJbmplY3QoUHJvamVjdFN0YXRlT2JzZXJ2YWJsZSkgcHJpdmF0ZSBwcm9qZWN0c1N0YXRlJDogT2JzZXJ2YWJsZTxQcm9qZWN0U3RhdGU+Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -580,31 +584,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IHsgQWN0aW9uRGlzcGF0Y2hlclNlcnZpY2UsIEJyZWFkY3J1bWJTZXJ2aWNlLCBSZW1vdGVMb2dnZXJTZXJ2aWNlIH0gZnJvbSAnLi4vLi4vc2VydmljZXMnOwo=</text>
+        <text encoding="base64">Ly8gaW1wb3J0IHsgTmF2aWdhdGlvblF1ZXJpZXMsIE5vdGlmaWNhdGlvbnNRdWVyaWVzIH0gZnJvbSAnLi4vLi4vc3RhdGUvcXVlcmllcyc7Ci8vIGltcG9ydCB7IEFjdGlvbkRpc3BhdGNoZXJTZXJ2aWNlLCBCcmVhZGNydW1iU2VydmljZSB9IGZyb20gJy4uLy4uL3NlcnZpY2VzJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA2YjBmNmEyLi4uIGNob3JlKElETS02MTApOiBzcGxpdCBhcHAgaW50byBkYXRhIGFuZCBuZyBzdGF0ZQo=</text>
+        <text encoding="base64">Ly8gaW1wb3J0IHsgQWN0aW9uRGlzcGF0Y2hlclNlcnZpY2UsIEJyZWFkY3J1bWJTZXJ2aWNlLCBSZW1vdGVMb2dnZXJTZXJ2aWNlIH0gZnJvbSAnLi4vLi4vc2VydmljZXMnOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiA2YjBmNmEyLi4uIGNob3JlKElETS02MTApOiBzcGxpdCBhcHAgaW50byBkYXRhIGFuZCBuZyBzdGF0ZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA2YjBmNmEyLi4uIGNob3JlKElETS02MTApOiBzcGxpdCBhcHAgaW50byBkYXRhIGFuZCBuZyBzdGF0ZQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Pj4+Pj4+PiA2YjBmNmEyLi4uIGNob3JlKElETS02MTApOiBzcGxpdCBhcHAgaW50byBkYXRhIGFuZCBuZyBzdGF0ZQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">PT09PT09PQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/AppState/State/</text>
