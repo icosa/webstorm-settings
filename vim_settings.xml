@@ -122,11 +122,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="24" column="31" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/pages/slide-viewer-page/slide-viewer-page.component.ts" timestamp="1541361601762">
-        <mark key="[" line="14" column="9" />
-        <mark key="]" line="14" column="9" />
-        <mark key="." line="14" column="9" />
-        <mark key="^" line="39" column="45" />
+      <file name="C:/dev/definiens/vt.portal/src/app/pages/slide-viewer-page/slide-viewer-page.component.ts" timestamp="1541669963169">
+        <mark key="[" line="0" column="54" />
+        <mark key="]" line="0" column="54" />
+        <mark key="." line="0" column="54" />
+        <mark key="^" line="0" column="54" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/components/index.ts" timestamp="1540718900459">
         <mark key="[" line="25" column="0" />
@@ -304,18 +304,13 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/pages/project-overview-page/project-overview-page.component.ts" timestamp="1541667857611">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="C:/dev/definiens/vt.portal/src/app/state-ui/reducers/state-provider-ids.ts" timestamp="1541414766229">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="114" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/app.reducer.ts" timestamp="1541667563171">
-        <mark key="[" line="28" column="16" />
+      <file name="C:/dev/definiens/vt.portal/src/app/app.reducer.ts" timestamp="1541669718331">
+        <mark key="[" line="50" column="21" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/pages/state/queries/project-ui.queries.ts" timestamp="1541415224706">
         <mark key="[" line="9" column="0" />
@@ -333,9 +328,9 @@
         <mark key="." line="10" column="0" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/pages/login-page/login-page.component.spec.ts" timestamp="1541667825437">
-        <mark key="[" line="15" column="1" />
-        <mark key="]" line="15" column="2" />
-        <mark key="." line="15" column="1" />
+        <mark key="[" line="14" column="1" />
+        <mark key="]" line="14" column="2" />
+        <mark key="." line="14" column="1" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/state/effects/index.ts" timestamp="1541411748787">
         <mark key="[" line="0" column="0" />
@@ -347,10 +342,16 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541668000827">
+      <file name="/Dummy.txt" timestamp="1541670130196">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="C:/dev/definiens/vt.portal/src/app/state/reducers/index.ts" timestamp="1541669685067">
+        <mark key="[" line="18" column="116" />
+        <mark key="]" line="18" column="117" />
+        <mark key="^" line="18" column="117" />
+        <mark key="." line="18" column="117" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/pages/slide-viewer-page/slide-viewer-header/slide-viewer-header.component.ts" timestamp="1541361635050">
         <mark key="[" line="15" column="0" />
@@ -417,7 +418,7 @@
         <mark key="." line="5" column="0" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/app.module.ts" timestamp="1541667695355">
-        <mark key="'" line="120" column="0" />
+        <mark key="'" line="124" column="0" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/services/content.service.spec.ts" timestamp="1541359138990">
         <mark key="[" line="13" column="37" />
@@ -554,7 +555,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Observable</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaWxlSW1wb3J0U3RhdHVzQ29uc3RyYWludFw+</text>
@@ -614,7 +615,7 @@
         <text encoding="base64">CQkJCTxhc3BlY3Q+ZGVmOmluZGV4Q29udHJvbDwvYXNwZWN0PgoJCQk8L21hbmRhdG9yeS1hc3BlY3RzPgo=</text>
       </register>
       <register name=":" type="4">
-        <text>clo</text>
+        <text>qa</text>
       </register>
     </registers>
     <search>
@@ -650,8 +651,6 @@
         <entry encoding="base64">XDxmaWxlSW1wb3J0U3RhdHVzQ29uc3RyYWludFw+</entry>
       </history-search>
       <history-cmd>
-        <entry>%d</entry>
-        <entry>17,29t19</entry>
         <entry>9,15d</entry>
         <entry>%s/dateReducers.//</entry>
         <entry>%s/dataReducers.//</entry>
@@ -670,6 +669,8 @@
         <entry>set list</entry>
         <entry>w</entry>
         <entry>clo</entry>
+        <entry>x</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
