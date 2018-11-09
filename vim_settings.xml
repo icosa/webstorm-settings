@@ -27,6 +27,13 @@
         <mark key="." line="21" column="42" />
         <mark key="^" line="21" column="42" />
       </file>
+      <file name="C:/dev/definiens/vt.portal/src/app/state-data/reducers/index.ts" timestamp="1541777254480">
+        <mark key="'" line="9" column="17" />
+        <mark key="[" line="14" column="13" />
+        <mark key="]" line="14" column="28" />
+        <mark key="." line="14" column="28" />
+        <mark key="^" line="14" column="28" />
+      </file>
       <file name="C:/dev/definiens/vt.portal/src/app/pages/project-properties-page/create-annotation-sets/create-annotation-sets.component.ts" timestamp="1541758894881">
         <mark key="'" line="53" column="54" />
         <mark key="[" line="8" column="0" />
@@ -144,11 +151,11 @@
         <mark key="]" line="6" column="114" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/app.reducer.ts" timestamp="1541776566133">
-        <mark key="[" line="60" column="16" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-        <mark key="^" line="35" column="0" />
+      <file name="C:/dev/definiens/vt.portal/src/app/app.reducer.ts" timestamp="1541777010642">
+        <mark key="[" line="21" column="21" />
+        <mark key="]" line="21" column="30" />
+        <mark key="." line="21" column="30" />
+        <mark key="^" line="21" column="30" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/pages/project-overview-page/project-overview-page.component.spec.ts" timestamp="1541759261948">
         <mark key="'" line="34" column="2" />
@@ -458,7 +465,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="11" filename="C:/dev/definiens/vt.portal/src/app/pages/project-properties-page/create-annotation-sets/create-annotation-sets.component.ts" />
       <jump line="53" column="17" filename="C:/dev/definiens/vt.portal/src/app/pages/project-properties-page/create-annotation-sets/create-annotation-sets.component.ts" />
       <jump line="1" column="29" filename="C:/dev/definiens/vt.portal/src/app/pages/project-properties-page/create-annotation-sets/create-annotation-sets.component.ts" />
       <jump line="26" column="0" filename="C:/dev/definiens/vt.portal/src/app/pages/set-password-page/state/queries.ts" />
@@ -558,6 +564,7 @@
       <jump line="24" column="8" filename="C:/dev/definiens/vt.portal/src/app/pages/start-page/start-page.component.spec.ts" />
       <jump line="36" column="2" filename="C:/dev/definiens/vt.portal/src/app/pages/project-overview-page/project-overview-page.component.spec.ts" />
       <jump line="29" column="8" filename="C:/dev/definiens/vt.portal/src/app/services/notification.service.ts" />
+      <jump line="9" column="17" filename="C:/dev/definiens/vt.portal/src/app/state-data/reducers/index.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -567,16 +574,16 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>state</text>
+        <text>InitialState</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaWxlSW1wb3J0U3RhdHVzQ29uc3RyYWludFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmICghdGhpcy5ub3RpZmljYXRpb25zU3RhdGUkKSB7CiAgICAgIGRlYnVnZ2VyOwogICAgfQo=</text>
+        <text encoding="base64">ZXhwb3J0IGludGVyZmFjZSBEYXRhU3RhdGUgewogIHByb2plY3RzOiBQcm9qZWN0U3RhdGU7CiAgbm90aWZpY2F0aW9uczogTm90aWZpY2F0aW9uc1N0YXRlOwp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -600,31 +607,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmICghdGhpcy5wcm9qZWN0c1N0YXRlJCkgewo=</text>
+        <text encoding="base64">ICBicmFuY2gyOiBicmFuY2gyUmVkdWNlciwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBicmFuY2gxOiBicmFuY2gxUmVkdWNlciwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSU5vdGlmaWNhdGlvbiB9IGZyb20gJy4uL21vZGVscy9ub3RpZmljYXRpb24nOwppbXBvcnQgeyBBY3Rpb25EaXNwYXRjaGVyU2VydmljZSB9IGZyb20gJy4uL3NlcnZpY2VzL2FjdGlvbi1kaXNwYXRjaGVyLnNlcnZpY2UnOwovLyBpbXBvcnQgeyBBZGROb3RpZmljYXRpb24gfSBmcm9tICcuLi9zdGF0ZS9hY3Rpb25zL2dsb2JhbC5hY3Rpb25zJzsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IHsgUm91dGVSZWR1Y2VyU3RhdGVJZCB9IGZyb20gJy4vc3RhdGUtaWRlbnRpZmllcnMnOwo=</text>
+        <text encoding="base64">ICAgIGlmICghdGhpcy5wcm9qZWN0c1N0YXRlJCkgewo=</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IHsgQWRkTm90aWZpY2F0aW9uIH0gZnJvbSAnLi4vc3RhdGUvYWN0aW9ucy9nbG9iYWwuYWN0aW9ucyc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IHsgTmF2aWdhdGlvblF1ZXJpZXMgfSBmcm9tICcuLi8uLi8uLi9zdGF0ZS1uZy9uYXZpZ2F0aW9uLnF1ZXJpZXMnOwovLyBpbXBvcnQgeyBQcm9qZWN0c1F1ZXJpZXMgfSBmcm9tICcuLi8uLi8uLi9zdGF0ZS9xdWVyaWVzJzsK</text>
+        <text encoding="base64">aW1wb3J0IHsgSU5vdGlmaWNhdGlvbiB9IGZyb20gJy4uL21vZGVscy9ub3RpZmljYXRpb24nOwppbXBvcnQgeyBBY3Rpb25EaXNwYXRjaGVyU2VydmljZSB9IGZyb20gJy4uL3NlcnZpY2VzL2FjdGlvbi1kaXNwYXRjaGVyLnNlcnZpY2UnOwovLyBpbXBvcnQgeyBBZGROb3RpZmljYXRpb24gfSBmcm9tICcuLi9zdGF0ZS9hY3Rpb25zL2dsb2JhbC5hY3Rpb25zJzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IHsgUHJvamVjdHNRdWVyaWVzIH0gZnJvbSAnLi4vLi4vc3RhdGUnOwovLyBpbXBvcnQgeyBOYXZpZ2F0aW9uUXVlcmllcyB9IGZyb20gJy4uLy4uL3N0YXRlLW5nL25hdmlnYXRpb24ucXVlcmllcyc7Cg==</text>
+        <text encoding="base64">Ly8gaW1wb3J0IHsgUm91dGVSZWR1Y2VyU3RhdGVJZCB9IGZyb20gJy4vc3RhdGUtaWRlbnRpZmllcnMnOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IHsgTmF2aWdhdGlvblF1ZXJpZXMgfSBmcm9tICcuLi8uLi9zdGF0ZS1uZy9uYXZpZ2F0aW9uLnF1ZXJpZXMnOwovLyBpbXBvcnQgeyBQcm9qZWN0c1F1ZXJpZXMgfSBmcm9tICcuLi8uLi9zdGF0ZS9xdWVyaWVzJzsK</text>
+        <text encoding="base64">Ly8gaW1wb3J0IHsgQWRkTm90aWZpY2F0aW9uIH0gZnJvbSAnLi4vc3RhdGUvYWN0aW9ucy9nbG9iYWwuYWN0aW9ucyc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
