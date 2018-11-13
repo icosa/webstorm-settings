@@ -224,13 +224,6 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/components/app/app.component.spec.ts" timestamp="1542028395704">
-        <mark key="'" line="1" column="28" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="30" />
-        <mark key="^" line="22" column="24" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="C:/dev/definiens/vt.portal/src/app/pages/set-password-page/state/reducer.ts" timestamp="1541794147085">
         <mark key="[" line="13" column="55" />
         <mark key="]" line="14" column="0" />
@@ -242,6 +235,12 @@
         <mark key="]" line="6" column="35" />
         <mark key="." line="6" column="35" />
         <mark key="^" line="6" column="34" />
+      </file>
+      <file name="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" timestamp="1542115133988">
+        <mark key="[" line="1048" column="0" />
+        <mark key="]" line="1048" column="0" />
+        <mark key="." line="1048" column="0" />
+        <mark key="^" line="1048" column="6" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/pages/landmarks-editor-page/landmarks-editor-page.component.ts" timestamp="1542017296132">
         <mark key="'" line="11" column="0" />
@@ -351,6 +350,11 @@
         <mark key="." line="89" column="55" />
         <mark key="^" line="89" column="55" />
       </file>
+      <file name="C:/dev/definiens/content-service/src/controllers/projects.ts" timestamp="1542114853026">
+        <mark key="'" line="24" column="2" />
+        <mark key="[" line="99" column="31" />
+        <mark key="]" line="99" column="57" />
+      </file>
       <file name="C:/dev/definiens/vt.portal/src/app/state-ui/reducers/state-provider-ids.ts" timestamp="1541414766229">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="114" />
@@ -383,10 +387,6 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="/app.component.spec.ts" timestamp="1542029524671">
-        <mark key="[" line="37" column="8" />
-        <mark key="]" line="37" column="28" />
       </file>
       <file name="/Dummy.txt" timestamp="1542030320474">
         <mark key="[" line="0" column="0" />
@@ -491,9 +491,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="281" column="10" filename="C:/dev/definiens/swng-alfresco/swng-alfresco-platform/src/main/resources/alfresco/module/swng-alfresco-platform/model/definiens-model.xml" />
-      <jump line="754" column="29" filename="C:/dev/definiens/swng-alfresco/swng-alfresco-platform/src/main/resources/alfresco/module/swng-alfresco-platform/model/definiens-model.xml" />
-      <jump line="240" column="31" filename="C:/dev/definiens/swng-alfresco/swng-alfresco-platform/src/main/resources/alfresco/module/swng-alfresco-platform/model/definiens-model.xml" />
       <jump line="756" column="38" filename="C:/dev/definiens/swng-alfresco/swng-alfresco-platform/src/main/resources/alfresco/module/swng-alfresco-platform/model/definiens-model.xml" />
       <jump line="1091" column="42" filename="C:/dev/definiens/swng-alfresco/swng-alfresco-platform/src/main/resources/alfresco/module/swng-alfresco-platform/model/definiens-model.xml" />
       <jump line="1141" column="42" filename="C:/dev/definiens/swng-alfresco/swng-alfresco-platform/src/main/resources/alfresco/module/swng-alfresco-platform/model/definiens-model.xml" />
@@ -591,6 +588,9 @@
       <jump line="87" column="12" filename="C:/dev/definiens/vt.portal/src/app/pages/project-overview-page/project-overview-page.component.spec.ts" />
       <jump line="1" column="0" filename="C:/dev/definiens/vt.portal/src/app/pages/start-page/start-page.component.spec.ts" />
       <jump line="24" column="0" filename="C:/dev/definiens/vt.portal/src/app/modules/data-browser/components/toggle-button/toggle-button.component.spec.ts" />
+      <jump line="24" column="2" filename="C:/dev/definiens/content-service/src/controllers/projects.ts" />
+      <jump line="532" column="0" filename="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" />
+      <jump line="1048" column="0" filename="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -600,16 +600,16 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>MockBackend</text>
+        <text>getProjectSlideStatusSummary</text>
       </register>
       <register name="/" type="4">
         <text>MockBackend</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">QmFzZVJlcXVlc3RPcHRpb25zIA==</text>
+        <text>getOrCreateUnprocessedSlide</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBCYXNlUmVxdWVzdE9wdGlvbnMsCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -636,34 +636,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQmFzZVJlcXVlc3RPcHRpb25zIH0gZnJvbSAnQGFuZ3VsYXIvaHR0cCc7CmltcG9ydCB7IE1vY2tCYWNrZW5kIH0gZnJvbSAnQGFuZ3VsYXIvaHR0cC90ZXN0aW5nJzsK</text>
+        <text encoding="base64">ICAgICAgY29uc3QgY3VycmVudFVzZXJJZCA9ICdjdXJyZW50VXNlcklkJzsKICAgICAgY29uc3QgcHJvamVjdElkID0gJ3Byb2plY3RJZCc7CiAgICAgIGNvbnN0IGxvZ2dlciA9IGNyZWF0ZUxvZ2dlcih7IG5hbWU6ICd0ZXN0JyB9KTsKICAgICAgY29uc3QgcmVxdWVzdElkID0gJ3JlcXVlc3RJZCc7CgogICAgICBjb25zdCBjbGllbnQgPSBtb2NrKEFsZnJlc2NvQ2xpZW50KTsKICAgICAgd2hlbihjbGllbnQuZ2V0Tm9kZU1ldGFkYXRhKHByb2plY3RJZCkpCiAgICAgICAgLnRoZW5SZXR1cm4oUHJvbWlzZS5yZXNvbHZlKGdlbmVyYXRlQWxmcmVzY29Ob2RlKHsKICAgICAgICAgIGlkOiBwcm9qZWN0SWQsCiAgICAgICAgfSkpKTsKCiAgICAgIGNvbnN0IGZhY3RvcnkgPSBtb2NrKEFsZnJlc2NvQ2xpZW50RmFjdG9yeSk7CiAgICAgIHdoZW4oZmFjdG9yeS5nZXRDbGllbnQoY3VycmVudFVzZXJJZCwgbG9nZ2VyLCByZXF1ZXN0SWQpKS50aGVuUmVzb2x2ZShpbnN0YW5jZShjbGllbnQpKTsKCiAgICAgIGNvbnN0IGltcGwgPSBuZXcgQWxmcmVzY29Qcm9qZWN0SW1wbGVtZW50YXRpb24oaW5zdGFuY2UoZmFjdG9yeSkpOwogICAgICByZXR1cm4gZXhwZWN0KGltcGwuZ2V0UHJvamVjdFNsaWRlU3RhdHVzU3VtbWFyeSh7CiAgICAgICAgY3VycmVudFVzZXJJZCwKICAgICAgICBsb2dnZXIsCiAgICAgICAgcHJvamVjdElkLAogICAgICAgIHJlcXVlc3RJZCwKICAgICAgfSkpCiAgICAgICAgLnRvLmJlLmV2ZW50dWFsbHkucmVqZWN0ZWQuYW5kLmhhdmUucHJvcGVydHkoJ3N0YXR1cycsIDQwNCk7CiAgICB9KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgY3VycmVudFVzZXJJZCA9ICdjdXJyZW50VXNlcklkJzsKICAgICAgY29uc3QgcHJvamVjdElkID0gJ3Byb2plY3RJZCc7CiAgICAgIGNvbnN0IGxvZ2dlciA9IGNyZWF0ZUxvZ2dlcih7IG5hbWU6ICd0ZXN0JyB9KTsKICAgICAgY29uc3QgcmVxdWVzdElkID0gJ3JlcXVlc3RJZCc7CgogICAgICBjb25zdCBjbGllbnQgPSBtb2NrKEFsZnJlc2NvQ2xpZW50KTsKICAgICAgd2hlbihjbGllbnQuZ2V0Tm9kZU1ldGFkYXRhKHByb2plY3RJZCkpCiAgICAgICAgLnRoZW5SZXR1cm4oUHJvbWlzZS5yZXNvbHZlKGdlbmVyYXRlQWxmcmVzY29Ob2RlKHsKICAgICAgICAgIGlkOiBwcm9qZWN0SWQsCiAgICAgICAgfSkpKTsKCiAgICAgIGNvbnN0IGZhY3RvcnkgPSBtb2NrKEFsZnJlc2NvQ2xpZW50RmFjdG9yeSk7CiAgICAgIHdoZW4oZmFjdG9yeS5nZXRDbGllbnQoY3VycmVudFVzZXJJZCwgbG9nZ2VyLCByZXF1ZXN0SWQpKS50aGVuUmVzb2x2ZShpbnN0YW5jZShjbGllbnQpKTsKCiAgICAgIGNvbnN0IGltcGwgPSBuZXcgQWxmcmVzY29Qcm9qZWN0SW1wbGVtZW50YXRpb24oaW5zdGFuY2UoZmFjdG9yeSkpOwogICAgICByZXR1cm4gZXhwZWN0KGltcGwuZ2V0UHJvamVjdFNsaWRlU3RhdHVzU3VtbWFyeSh7CiAgICAgICAgY3VycmVudFVzZXJJZCwKICAgICAgICBsb2dnZXIsCiAgICAgICAgcHJvamVjdElkLAogICAgICAgIHJlcXVlc3RJZCwKICAgICAgfSkpCiAgICAgICAgLnRvLmJlLmV2ZW50dWFsbHkucmVqZWN0ZWQuYW5kLmhhdmUucHJvcGVydHkoJ3N0YXR1cycsIDQwNCk7CiAgICB9KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTW9ja0JhY2tlbmQgfSBmcm9tICdAYW5ndWxhci9odHRwL3Rlc3RpbmcnOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgY3VycmVudFVzZXJJZCA9ICdjdXJyZW50VXNlcklkJzsKICAgICAgY29uc3QgcHJvamVjdElkID0gJ3Byb2plY3RJZCc7CiAgICAgIGNvbnN0IHByb2plY3ROYW1lID0gJ3Byb2plY3ROYW1lJzsKICAgICAgY29uc3Qgc3RhdHVzRmllbGQgPSAnQGRlZjpzbGlkZVN0YXR1cyc7CiAgICAgIGNvbnN0IGxvZ2dlciA9IGNyZWF0ZUxvZ2dlcih7IG5hbWU6ICd0ZXN0JyB9KTsKICAgICAgY29uc3QgcmVxdWVzdElkID0gJ3JlcXVlc3RJZCc7CgogICAgICBjb25zdCBjbGllbnQgPSBtb2NrKEFsZnJlc2NvQ2xpZW50KTsKICAgICAgd2hlbihjbGllbnQuZ2V0Tm9kZU1ldGFkYXRhKHByb2plY3RJZCkpCiAgICAgICAgLnRoZW5SZXR1cm4oUHJvbWlzZS5yZXNvbHZlKGdlbmVyYXRlUHJvamVjdE5vZGUoewogICAgICAgICAgaWQ6IHByb2plY3RJZCwKICAgICAgICAgIG5hbWU6IHByb2plY3ROYW1lLAogICAgICAgIH0pKSk7CgogICAgICB3aGVuKGNsaWVudC5maW5kTm9kZXNPZlR5cGVJblNpdGUocHJvamVjdE5hbWUsIEFMRlJFU0NPX1NMSURFX1RZUEUsIDEsIDAsIHVuZGVmaW5lZCwgZGVlcEVxdWFsKHsgZmFjZXRGaWVsZDogc3RhdHVzRmllbGQgfSkpKQogICAgICAgIC50aGVuUmV0dXJuKFByb21pc2UucmVzb2x2ZSh7CiAgICAgICAgICBub2RlczogW10sCiAgICAgICAgfSkpOwoKICAgICAgY29uc3QgZmFjdG9yeSA9IG1vY2soQWxmcmVzY29DbGllbnRGYWN0b3J5KTsKICAgICAgd2hlbihmYWN0b3J5LmdldENsaWVudChjdXJyZW50VXNlcklkLCBsb2dnZXIsIHJlcXVlc3RJZCkpLnRoZW5SZXNvbHZlKGluc3RhbmNlKGNsaWVudCkpOwoKICAgICAgY29uc3QgaW1wbCA9IG5ldyBBbGZyZXNjb1Byb2plY3RJbXBsZW1lbnRhdGlvbihpbnN0YW5jZShmYWN0b3J5KSk7CiAgICAgIHJldHVybiBpbXBsLmdldFByb2plY3RTbGlkZVN0YXR1c1N1bW1hcnkoewogICAgICAgIGN1cnJlbnRVc2VySWQsCiAgICAgICAgbG9nZ2VyLAogICAgICAgIHByb2plY3RJZCwKICAgICAgICByZXF1ZXN0SWQsCiAgICAgIH0pCiAgICAgICAgLnRoZW4oKHsgb3V0cHV0LCBzdGF0dXNDb2RlIH0pID0+IHsKICAgICAgICAgIHZlcmlmeShjbGllbnQuZ2V0Tm9kZU1ldGFkYXRhKHByb2plY3RJZCkpLm9uY2UoKTsKICAgICAgICAgIHZlcmlmeShjbGllbnQuZmluZE5vZGVzT2ZUeXBlSW5TaXRlKHByb2plY3ROYW1lLCBBTEZSRVNDT19TTElERV9UWVBFLCAxLCAwLCB1bmRlZmluZWQsIGRlZXBFcXVhbCh7IGZhY2V0RmllbGQ6IHN0YXR1c0ZpZWxkIH0pKSkub25jZSgpOwoKICAgICAgICAgIGV4cGVjdChzdGF0dXNDb2RlKS50by5lcXVhbCgyMDApOwogICAgICAgICAgZXhwZWN0KG91dHB1dCkudG8uZGVlcC5lcXVhbCh7fSk7CiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTW9ja0JhY2tlbmQgfSBmcm9tICdAYW5ndWxhci9odHRwL3Rlc3RpbmcnOwo=</text>
+        <text encoding="base64">ICAgICAgICBCYXNlUmVxdWVzdE9wdGlvbnMsCg==</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTW9ja0JhY2tlbmQgfSBmcm9tICdAYW5ndWxhci9odHRwL3Rlc3RpbmcnOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgQmFzZVJlcXVlc3RPcHRpb25zIH0gZnJvbSAnQGFuZ3VsYXIvaHR0cCc7CmltcG9ydCB7IE1vY2tCYWNrZW5kIH0gZnJvbSAnQGFuZ3VsYXIvaHR0cC90ZXN0aW5nJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTW9ja0JhY2tlbmQgfSBmcm9tICdAYW5ndWxhci9odHRwL3Rlc3RpbmcnOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBCYXNlUmVxdWVzdE9wdGlvbnMsCg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IHsgTW9ja0JhY2tlbmQgfSBmcm9tICdAYW5ndWxhci9odHRwL3Rlc3RpbmcnOwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IHsgTW9ja0JhY2tlbmQgfSBmcm9tICdAYW5ndWxhci9odHRwL3Rlc3RpbmcnOwo=</text>
+      </register>
       <register name=":" type="4">
-        <text>6</text>
+        <text>1049,1071d</text>
       </register>
     </registers>
     <search>
@@ -699,11 +699,6 @@
         <entry>MockBackend</entry>
       </history-search>
       <history-cmd>
-        <entry>24,32d</entry>
-        <entry>13;+3t34</entry>
-        <entry>13;+3t33</entry>
-        <entry>.,28d</entry>
-        <entry>16,27d</entry>
         <entry>1,29d</entry>
         <entry>%d</entry>
         <entry>.,34d</entry>
@@ -714,11 +709,16 @@
         <entry>q</entry>
         <entry>qa</entry>
         <entry>%y</entry>
-        <entry>w</entry>
         <entry>%s/MockBackend/HttpTestingController/c</entry>
         <entry>%s/MockBackend/HttpTestingController/</entry>
         <entry>x</entry>
         <entry>6</entry>
+        <entry>860,983t985</entry>
+        <entry>860,983t984</entry>
+        <entry>.,1081d</entry>
+        <entry>.,1071d</entry>
+        <entry>w</entry>
+        <entry>1049,1071d</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -786,6 +786,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed 2</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
