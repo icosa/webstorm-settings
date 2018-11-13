@@ -132,10 +132,12 @@
         <mark key="." line="6" column="35" />
         <mark key="^" line="6" column="34" />
       </file>
-      <file name="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" timestamp="1542123286530">
-        <mark key="[" line="985" column="10" />
-        <mark key="]" line="985" column="10" />
-        <mark key="." line="985" column="10" />
+      <file name="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" timestamp="1542126328922">
+        <mark key="'" line="1086" column="15" />
+        <mark key="[" line="1223" column="65" />
+        <mark key="]" line="1223" column="66" />
+        <mark key="." line="1223" column="66" />
+        <mark key="^" line="1205" column="40" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/pages/landmarks-editor-page/landmarks-editor-page.component.ts" timestamp="1542017296132">
         <mark key="'" line="11" column="0" />
@@ -296,6 +298,7 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="C:/dev/definiens/content-service/src/impl/alfresco/project.ts" timestamp="1542125463505" />
       <file name="C:/dev/definiens/vt.imageviewer/src/app/state/reducers/index.ts" timestamp="1541174758978">
         <mark key="[" line="37" column="1" />
         <mark key="]" line="37" column="0" />
@@ -310,17 +313,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="43" filename="C:/dev/definiens/vt.portal/src/app/pages/project-overview-page/state/project-overview-page.queries.ts" />
-      <jump line="5" column="0" filename="C:/dev/definiens/vt.portal/src/app/pages/start-page/start-page.component.ts" />
-      <jump line="24" column="8" filename="C:/dev/definiens/vt.portal/src/app/pages/start-page/start-page.component.spec.ts" />
-      <jump line="36" column="2" filename="C:/dev/definiens/vt.portal/src/app/pages/project-overview-page/project-overview-page.component.spec.ts" />
-      <jump line="29" column="8" filename="C:/dev/definiens/vt.portal/src/app/services/notification.service.ts" />
-      <jump line="9" column="17" filename="C:/dev/definiens/vt.portal/src/app/state-data/reducers/index.ts" />
-      <jump line="10" column="24" filename="C:/dev/definiens/vt.portal/src/app/pages/state/reducers/index.ts" />
-      <jump line="29" column="4" filename="C:/dev/definiens/vt.portal/src/app/app.reducer.ts" />
-      <jump line="33" column="6" filename="C:/dev/definiens/vt.portal/src/app/app.reducer.ts" />
-      <jump line="41" column="0" filename="C:/dev/definiens/vt.portal/src/app/app.reducer.ts" />
-      <jump line="23" column="2" filename="C:/dev/definiens/vt.portal/src/app/app.reducer.ts" />
       <jump line="25" column="0" filename="C:/dev/definiens/vt.portal/src/app/state-data/reducers/index.ts" />
       <jump line="30" column="0" filename="C:/dev/definiens/vt.portal/src/app/state-data/reducers/index.ts" />
       <jump line="39" column="3" filename="C:/dev/definiens/vt.portal/src/app/app.reducer.ts" />
@@ -406,10 +398,21 @@
       <jump line="1218" column="14" filename="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" />
       <jump line="1229" column="14" filename="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" />
       <jump line="787" column="0" filename="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" />
-      <jump line="959" column="8" filename="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" />
       <jump line="1306" column="8" filename="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" />
-      <jump line="506" column="8" filename="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" />
-      <jump line="829" column="8" filename="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" />
+      <jump line="1062" column="4" filename="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" />
+      <jump line="981" column="63" filename="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" />
+      <jump line="1035" column="15" filename="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" />
+      <jump line="1059" column="63" filename="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" />
+      <jump line="1383" column="15" filename="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" />
+      <jump line="959" column="15" filename="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" />
+      <jump line="856" column="63" filename="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" />
+      <jump line="829" column="15" filename="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" />
+      <jump line="530" column="63" filename="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" />
+      <jump line="506" column="15" filename="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" />
+      <jump line="1407" column="63" filename="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" />
+      <jump line="1081" column="78" filename="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" />
+      <jump line="1054" column="17" filename="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" />
+      <jump line="1086" column="15" filename="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -419,16 +422,16 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>.only</text>
+        <text>fail to create new node</text>
       </register>
       <register name="/" type="4">
-        <text>.only</text>
+        <text encoding="base64">XDw0MDRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgc2xpZGVOYW1lID0gJ3NpbXBsZV9zbGlkZSc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAudGhlblJldHVybihQcm9taXNlLnJlc29sdmUoeyBub2RlczogW10gfSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAudGhlblJldHVybihQcm9taXNlLnJlc29sdmUoZ2VuZXJhdGVBbGZyZXNjb05vZGUoewogICAgICAgICAgaWQ6IGFsZnJlc2NvTm9kZUlkLAogICAgICAgICAgbm9kZVR5cGU6IEFMRlJFU0NPX1BST0pFQ1RfVFlQRSwKICAgICAgICB9KSkpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -455,40 +458,43 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBpdCgncmV0dXJucyBlbXB0eSBvYmplY3QgaWYgdGhlcmUgYXJlIG5vIHNsaWRlcycsIGZ1bmN0aW9uICgpIHsKICAgIH0pOwoKICAgIGl0KCd0aHJvd3MgNDA0IGlmIG5vZGUgaXMgbm90IGEgcHJvamVjdCcsIGZ1bmN0aW9uICgpIHsKICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAudGhlblJldHVybihQcm9taXNlLnJlc29sdmUobnVsbCBhcyBhbnkpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy8gY29uc3Qgc3RhdHVzRmllbGQgPSAnQGRlZjpzbGlkZVN0YXR1cyc7CiAgICAgIGNvbnN0IHN0YXR1czEgPSAnc3RhdHVzMSc7CiAgICAgIGNvbnN0IHN0YXR1czFDb3VudCA9IDEwOwogICAgICAvLyBjb25zdCBzdGF0dXMyID0gJ3N0YXR1czInOwogICAgICAvLyBjb25zdCBzdGF0dXMyQ291bnQgPSAyMDsK</text>
+        <text encoding="base64">ICAgICAgICAudGhlblJldHVybihQcm9taXNlLnJlc29sdmUoeyBub2RlczogW10gfSkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW3N0YXR1czFdOiBzdGF0dXMxQ291bnQsCg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgYWxmcmVzY29Ob2RlSWQgPSAnYWJjJzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW3N0YXR1czJdOiBzdGF0dXMyQ291bnQsCg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIGltcGwuZ2V0T3JDcmVhdGVVbnByb2Nlc3NlZFNsaWRlKHsKICAgICAgICBjdXJyZW50VXNlcklkLAogICAgICAgIGxvZ2dlciwKICAgICAgICBwcm9qZWN0SWQsCiAgICAgICAgcmVxdWVzdElkLAogICAgICAgIHNsaWRlTmFtZSwKICAgICAgfSkKICAgICAgICAudGhlbigoeyBvdXRwdXQsIHN0YXR1c0NvZGUgfSkgPT4gewogICAgICAgICAgdmVyaWZ5KGNsaWVudC5nZXROb2RlTWV0YWRhdGEocHJvamVjdElkKSkub25jZSgpOwogICAgICAgICAgdmVyaWZ5KGNsaWVudC5maW5kTm9kZXNPZlR5cGVJblNpdGUocHJvamVjdE5hbWUsIEFMRlJFU0NPX0RPQ1VNRU5UX1RZUEUsIDIsIDAsIGRlZXBFcXVhbChhZGRpdGlvbmFsRmlsdGVycykpKS5vbmNlKCk7CgogICAgICAgICAgZXhwZWN0KHN0YXR1c0NvZGUpLnRvLmVxdWFsKDIwMCk7CiAgICAgICAgICBleHBlY3Qob3V0cHV0KS50by5kZWVwLmVxdWFsKHsKICAgICAgICAgICAgc2xpZGVJZDogYWxmcmVzY29Ob2RlSWQsCiAgICAgICAgICB9KTsKICAgICAgICB9KTsK</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZlcmlmeShjbGllbnQuZ2V0Tm9kZU1ldGFkYXRhKHByb2plY3RJZCkpLm9uY2UoKTsKICAgICAgICAgIHZlcmlmeShjbGllbnQuZmluZE5vZGVzT2ZUeXBlSW5TaXRlKHByb2plY3ROYW1lLCBBTEZSRVNDT19ET0NVTUVOVF9UWVBFLCAxLCAwLCB1bmRlZmluZWQsIGRlZXBFcXVhbCh7IGZhY2V0RmllbGQ6IHN0YXR1c0ZpZWxkIH0pKSkub25jZSgpOwo=</text>
+      <register name="6" type="4">
+        <text>generateAlfrescoNode({
+          id: alfrescoNodeId,
+          nodeType: ALFRESCO_DOCUMENT_TYPE,
+        })</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCcxIHh4eHh4eHh4eHh4eHh4eHh4eHh4eHgnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJz4+PiBjYWxsaW5nIGdldE9yIENyZWF0ZSA8PDwnKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc3QgY3VycmVudFVzZXJJZCA9ICdjdXJyZW50VXNlcklkJzsKICAgICAgY29uc3QgcHJvamVjdElkID0gJ3Byb2plY3RJZCc7CiAgICAgIGNvbnN0IHByb2plY3ROYW1lID0gJ3Byb2plY3ROYW1lJzsKICAgICAgY29uc3QgbG9nZ2VyID0gY3JlYXRlTG9nZ2VyKHsgbmFtZTogJ3Rlc3QnIH0pOwogICAgICBjb25zdCByZXF1ZXN0SWQgPSAncmVxdWVzdElkJzsKICAgICAgY29uc3Qgc2xpZGVOYW1lID0gJ3NpbXBsZV9zbGlkZSc7CgogICAgICBjb25zdCBjbGllbnQgPSBtb2NrKEFsZnJlc2NvQ2xpZW50KTsKICAgICAgd2hlbihjbGllbnQuZ2V0Tm9kZU1ldGFkYXRhKHByb2plY3RJZCkpCiAgICAgICAgLnRoZW5SZXR1cm4oUHJvbWlzZS5yZXNvbHZlKGdlbmVyYXRlUHJvamVjdE5vZGUoewogICAgICAgICAgaWQ6IHByb2plY3RJZCwKICAgICAgICAgIG5hbWU6IHByb2plY3ROYW1lLAogICAgICAgIH0pKSk7CgogICAgICBjb25zdCBhZGRpdGlvbmFsRmlsdGVycyA9IFtuZXcgUG9zU2VhcmNoT3BlcmFuZCgnbmFtZScsIHNsaWRlTmFtZSldOwogICAgICB3aGVuKGNsaWVudC5maW5kTm9kZXNPZlR5cGVJblNpdGUocHJvamVjdE5hbWUsIEFMRlJFU0NPX0RPQ1VNRU5UX1RZUEUsIDIsIDAsIGRlZXBFcXVhbChhZGRpdGlvbmFsRmlsdGVycykpKQogICAgICAgIC50aGVuUmV0dXJuKFByb21pc2UucmVzb2x2ZSh7CiAgICAgICAgICBub2RlczogW2dlbmVyYXRlQWxmcmVzY29Ob2RlKHsgaWQ6ICcxJyB9KSwgZ2VuZXJhdGVBbGZyZXNjb05vZGUoeyBpZDogJzInIH0pXSwKICAgICAgICB9KSk7CgogICAgICBjb25zdCBmYWN0b3J5ID0gbW9jayhBbGZyZXNjb0NsaWVudEZhY3RvcnkpOwogICAgICB3aGVuKGZhY3RvcnkuZ2V0Q2xpZW50KGN1cnJlbnRVc2VySWQsIGxvZ2dlciwgcmVxdWVzdElkKSkudGhlblJlc29sdmUoaW5zdGFuY2UoY2xpZW50KSk7CgogICAgICBjb25zdCBpbXBsID0gbmV3IEFsZnJlc2NvUHJvamVjdEltcGxlbWVudGF0aW9uKGluc3RhbmNlKGZhY3RvcnkpKTsKICAgICAgcmV0dXJuIGV4cGVjdChpbXBsLmdldE9yQ3JlYXRlVW5wcm9jZXNzZWRTbGlkZSh7CiAgICAgICAgY3VycmVudFVzZXJJZCwKICAgICAgICBsb2dnZXIsCiAgICAgICAgcHJvamVjdElkLAogICAgICAgIHJlcXVlc3RJZCwKICAgICAgICBzbGlkZU5hbWUsCiAgICAgIH0pKQogICAgICAgIC50by5iZS5ldmVudHVhbGx5LnJlamVjdGVkLmFuZC5oYXZlLnByb3BlcnR5KCdzdGF0dXMnLCA1MDApOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCc+Pj4+Pj4gYSA8PDw8PDwnKTsK</text>
+        <text encoding="base64">ICAgICAgICAudGhlblJldHVybihQcm9taXNlLnJlc29sdmUoeyBub2RlczogW10gfSkpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>960,984y</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>.only</last-search>
+      <last-search encoding="base64">XDw0MDRcPg==</last-search>
       <last-offset />
-      <last-pattern>.only</last-pattern>
+      <last-pattern encoding="base64">XDw0MDRcPg==</last-pattern>
       <last-replace>HttpTestingController</last-replace>
       <last-substitute>MockBackend</last-substitute>
       <last-dir>1</last-dir>
@@ -496,10 +502,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmaWxlSW1wb3J0U3RhdHVzXD4=</entry>
-        <entry>not imported</entry>
-        <entry encoding="base64">XDxzdGFydGVkXD4=</entry>
-        <entry encoding="base64">XDx0b2tlbmlzZWRcPg==</entry>
         <entry>aspect</entry>
         <entry encoding="base64">XDxpbmRleENvbnRyb2xcPg==</entry>
         <entry encoding="base64">XDxmaWxlSW1wb3J0U3RhdHVzQ29uc3RyYWludFw+</entry>
@@ -516,17 +518,12 @@
         <entry>throws</entry>
         <entry>only</entry>
         <entry>.only</entry>
+        <entry>500</entry>
+        <entry>404</entry>
+        <entry>internal</entry>
+        <entry encoding="base64">XDw0MDRcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>.,27d</entry>
-        <entry>.,$d</entry>
-        <entry>q</entry>
-        <entry>qa</entry>
-        <entry>%y</entry>
-        <entry>%s/MockBackend/HttpTestingController/c</entry>
-        <entry>%s/MockBackend/HttpTestingController/</entry>
-        <entry>6</entry>
-        <entry>860,983t985</entry>
         <entry>860,983t984</entry>
         <entry>.,1081d</entry>
         <entry>.,1071d</entry>
@@ -534,10 +531,19 @@
         <entry>x</entry>
         <entry>.,995d</entry>
         <entry>.,1040d</entry>
-        <entry>w</entry>
         <entry>.,984t</entry>
         <entry>.,984y</entry>
         <entry>960,984y</entry>
+        <entry>987,1035y</entry>
+        <entry>.,1091d</entry>
+        <entry>.,1060y</entry>
+        <entry>,1112d</entry>
+        <entry>.,1112d</entry>
+        <entry>987,1035t1035</entry>
+        <entry>1114,1148t1148</entry>
+        <entry>.,1227d</entry>
+        <entry>1149,1184t1184</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
