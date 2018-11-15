@@ -106,12 +106,12 @@
         <mark key="." line="6" column="35" />
         <mark key="^" line="6" column="34" />
       </file>
-      <file name="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" timestamp="1542294263757">
-        <mark key="'" line="1218" column="25" />
-        <mark key="[" line="987" column="10" />
-        <mark key="]" line="987" column="14" />
-        <mark key="^" line="987" column="14" />
-        <mark key="." line="987" column="14" />
+      <file name="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" timestamp="1542295351327">
+        <mark key="'" line="1219" column="25" />
+        <mark key="[" line="988" column="6" />
+        <mark key="]" line="1007" column="44" />
+        <mark key="^" line="1007" column="44" />
+        <mark key="." line="1007" column="44" />
       </file>
       <file name="C:/dev/demo/ngdemo/src/app/services/BoxStateService.ts" timestamp="1542280080884">
         <mark key="[" line="4" column="26" />
@@ -195,6 +195,9 @@
         <mark key="]" line="89" column="55" />
         <mark key="." line="89" column="55" />
         <mark key="^" line="89" column="55" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1542295236765">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/dev/demo/ngdemo/src/app/components/box.component.ts" timestamp="1542284145153">
         <mark key="[" line="42" column="41" />
@@ -283,6 +286,10 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="22" column="25" />
       </file>
+      <file name="C:/dev/definiens/content-service/src/impl/alfresco/project.ts" timestamp="1542295325858">
+        <mark key="'" line="205" column="4" />
+        <mark key="^" line="302" column="50" />
+      </file>
       <file name="C:/dev/definiens/vt.imageviewer/src/app/state/reducers/index.ts" timestamp="1541174758978">
         <mark key="[" line="37" column="1" />
         <mark key="]" line="37" column="0" />
@@ -291,9 +298,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="39" filename="C:/dev/definiens/vt.portal/src/app/components/header-bar/header-bar.component.spec.ts" />
-      <jump line="0" column="0" filename="C:/dev/definiens/vt.portal/src/app/pages/analytics-page/analytics-page.component.spec.ts" />
-      <jump line="0" column="0" filename="C:/dev/definiens/vt.portal/src/app/pages/login-page/login-page.component.spec.ts" />
       <jump line="21" column="34" filename="C:/dev/definiens/vt.portal/src/app/pages/project-overview-page/project-overview-page.component.spec.ts" />
       <jump line="0" column="0" filename="C:/dev/definiens/vt.portal/src/app/services/content.service.spec.ts" />
       <jump line="19" column="7" filename="C:/dev/definiens/vt.portal/src/app/pages/project-properties-page/project-properties/project-properties.component.spec.ts" />
@@ -391,6 +395,9 @@
       <jump line="1140" column="25" filename="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" />
       <jump line="1177" column="25" filename="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" />
       <jump line="1218" column="25" filename="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" />
+      <jump line="206" column="13" filename="C:/dev/definiens/content-service/src/impl/alfresco/project.ts" />
+      <jump line="326" column="15" filename="C:/dev/definiens/content-service/src/impl/alfresco/project.ts" />
+      <jump line="205" column="4" filename="C:/dev/definiens/content-service/src/impl/alfresco/project.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -400,13 +407,13 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>{ nodes: [] }</text>
       </register>
       <register name="/" type="4">
         <text>\cgetorcreate</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwdWJsaWMgbWFjaGluZVN0YXR1czEgPSBNYWNoaW5lU3RhdHVzLlN0b3BwZWQ7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCc+Pj4+Pj4+Pj4+Pj4+ICA8PDw8PDw8PDw8PDw8PDw8Jyk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGRkCg==</text>
@@ -463,7 +470,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>vs</text>
       </register>
     </registers>
     <search>
@@ -499,8 +506,6 @@
         <entry>\cgetorcreate</entry>
       </history-search>
       <history-cmd>
-        <entry>.,995d</entry>
-        <entry>.,1040d</entry>
         <entry>.,984t</entry>
         <entry>.,984y</entry>
         <entry>960,984y</entry>
@@ -519,6 +524,8 @@
         <entry>%d</entry>
         <entry>x</entry>
         <entry>w</entry>
+        <entry>vp project.ts</entry>
+        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />
