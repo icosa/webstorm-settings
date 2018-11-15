@@ -42,6 +42,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="C:/dev/demo/ngdemo/package.json" timestamp="1542272070303">
+        <mark key="[" line="32" column="4" />
+        <mark key="]" line="32" column="26" />
+        <mark key="." line="32" column="4" />
+        <mark key="^" line="32" column="3" />
+      </file>
       <file name="C:/dev/definiens/vt.portal/src/app/pages/state/index.ts" timestamp="1541797039586">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -240,6 +246,12 @@
         <mark key="]" line="101" column="6" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="C:/dev/demo/ngdemo/src/app/app.module.ts" timestamp="1542272581228">
+        <mark key="[" line="10" column="17" />
+        <mark key="]" line="10" column="14" />
+        <mark key="." line="10" column="14" />
+        <mark key="^" line="10" column="14" />
+      </file>
       <file name="C:/dev/definiens/vt.portal/src/app/pages/login-page/login-page.component.spec.ts" timestamp="1542030135071">
         <mark key="'" line="40" column="0" />
         <mark key="[" line="40" column="0" />
@@ -258,11 +270,22 @@
         <mark key="^" line="0" column="51" />
         <mark key="." line="0" column="51" />
       </file>
+      <file name="C:/dev/demo/ngdemo/tslint.json" timestamp="1542272270322">
+        <mark key="[" line="30" column="6" />
+        <mark key="]" line="30" column="10" />
+        <mark key="." line="30" column="10" />
+        <mark key="^" line="30" column="10" />
+      </file>
       <file name="C:/dev/definiens/vt.portal/src/app/state-data/reducers/state-provider-ids.ts" timestamp="1541758501414">
         <mark key="[" line="5" column="106" />
         <mark key="]" line="5" column="106" />
         <mark key="." line="5" column="107" />
         <mark key="^" line="5" column="26" />
+      </file>
+      <file name="C:/dev/demo/ngdemo/src/app/app.component.ts" timestamp="1542272281182">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/components/app/app.component.ts" timestamp="1542017334194">
         <mark key="'" line="22" column="14" />
@@ -443,7 +466,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw0MDRcPg==</text>
@@ -479,44 +502,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvKiAgaXQoJ3NsaWRlIHVwbG9hZCB0YWIgdmlzaWJpbGl0eSBzaG91bGQgZGVwZW5kIG9uIHRoZSBzdGF0ZSBmbGFnJywgYXN5bmMgKCkgPT4gewogICAgICAvISoqIEFycmFuZ2UgKiEvCiAgICAgIGNvbnN0IHN1YmplY3QgPSBuZXcgUmVwbGF5U3ViamVjdCgpOwogICAgICBjb25zdCBjb21wb25lbnRRdWVyaWVzID0gZml4dHVyZS5kZWJ1Z0VsZW1lbnQuaW5qZWN0b3IuZ2V0KFByb2plY3RPdmVydmlld1BhZ2VRdWVyaWVzKTsKICAgICAgc3B5T24oY29tcG9uZW50UXVlcmllcywgJ2dldFNob3dTbGlkZVVwbG9hZFBhZ2UnKS5hbmQucmV0dXJuVmFsdWUoc3ViamVjdCk7CiAgCiAgICAgIC8vIGNvbnN0IGFiYzogVGFiVmlldyA9IG51bGw7CiAgCiAgICAgIC8vIFNldCB1cCBhIGxvb3AgdG8gY292ZXIgYWxsIHBvc3NpYmxlIHZpc2liaWxpdHkgZmxhZyBzZXR0aW5ncwogICAgICBjb25zdCB2aXNpYmlsaXR5RmxhZ3MgPSBbdHJ1ZSwgZmFsc2VdOwogICAgICBmb3IgKGNvbnN0IHZpc2liaWxpdHlGbGFnIG9mIHZpc2liaWxpdHlGbGFncykgewogICAgICAgIHN1YmplY3QubmV4dCh2aXNpYmlsaXR5RmxhZyk7CiAgCiAgICAgICAgLyEqKiBBY3QgLSBMb2FkIHRoZSBWaWV3TW9kZWwgZGF0YSBpbnRvIFVJICohLwogICAgICAgIC8vIE1ha2Ugc3VyZSB0aGUgQ29tcG9uZW50IFVJIGlzIGluIHN5bmMgd2l0aCB0aGUgdmlldyBtb2RlbAogICAgICAgIGZpeHR1cmUuZGV0ZWN0Q2hhbmdlcygpOwogIAogICAgICAgIC8hKiogQXNzZXJ0ICohLwogICAgICAgIGNvbnN0IHNsaWRlVXBsb2FkVGFiTGluayA9IGZpeHR1cmUuZGVidWdFbGVtZW50LnF1ZXJ5KEJ5LmNzcygnI3NsaWRlVXBsb2FkVGFiJykpOwogICAgICAgIGlmICh2aXNpYmlsaXR5RmxhZykgewogICAgICAgICAgYXdhaXQgZXhwZWN0KHNsaWRlVXBsb2FkVGFiTGluaykudG9CZVRydXRoeSgpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICBhd2FpdCBleHBlY3Qoc2xpZGVVcGxvYWRUYWJMaW5rKS50b0JlRmFsc3koKTsKICAgICAgICB9CiAgICAgIH0KICAgIH0pOwogICovCg==</text>
+        <text encoding="base64">ICAgIDwhLS1UaGUgY29udGVudCBiZWxvdyBpcyBvbmx5IGEgcGxhY2Vob2xkZXIgYW5kIGNhbiBiZSByZXBsYWNlZC4tLT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcm9qZWN0SWQkOiBuZXcgQmVoYXZpb3JTdWJqZWN0KCcxJyksCg==</text>
+        <text encoding="base64">ICAgIDxoMj5IZXJlIGFyZSBzb21lIGxpbmtzIHRvIGhlbHAgeW91IHN0YXJ0OiA8L2gyPgogICAgPHVsPgogICAgICA8bGk+CiAgICAgICAgPGgyPjxhIHRhcmdldD0iX2JsYW5rIiByZWw9Im5vb3BlbmVyIiBocmVmPSJodHRwczovL2FuZ3VsYXIuaW8vdHV0b3JpYWwiPlRvdXIgb2YgSGVyb2VzPC9hPjwvaDI+CiAgICAgIDwvbGk+CiAgICAgIDxsaT4KICAgICAgICA8aDI+PGEgdGFyZ2V0PSJfYmxhbmsiIHJlbD0ibm9vcGVuZXIiIGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS9hbmd1bGFyL2FuZ3VsYXItY2xpL3dpa2kiPkNMSSBEb2N1bWVudGF0aW9uPC9hPjwvaDI+CiAgICAgIDwvbGk+CiAgICAgIDxsaT4KICAgICAgICA8aDI+PGEgdGFyZ2V0PSJfYmxhbmsiIHJlbD0ibm9vcGVuZXIiIGhyZWY9Imh0dHBzOi8vYmxvZy5hbmd1bGFyLmlvLyI+QW5ndWxhciBibG9nPC9hPjwvaDI+CiAgICAgIDwvbGk+CiAgICA8L3VsPgogICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBnZXRTaG93U2xpZGVVcGxvYWRQYWdlOiAoKSA9PiBuZXcgQmVoYXZpb3JTdWJqZWN0KHRydWUpLAogIGdldFByb2plY3RJZDogKCkgPT4gbmV3IEJlaGF2aW9yU3ViamVjdCgnMScpLAogIGdldERldGFpbGVkUHJvamVjdEluZm86ICgpID0+IG5ldyBCZWhhdmlvclN1YmplY3Qoe30pLAogIGdldE1haW5Sb2xlczogKCkgPT4gbmV3IEJlaGF2aW9yU3ViamVjdCgnJyksCiAgZ2V0V29ya0Zsb3dQaGFzZXM6ICgpID0+IG5ldyBCZWhhdmlvclN1YmplY3Qoe30pLAogIGdldEZpbGVzOiAoKSA9PiBuZXcgQmVoYXZpb3JTdWJqZWN0KFtdKSwKICBoYXNXb3JrZmxvd1BoYXNlczogKCkgPT4gbmV3IEJlaGF2aW9yU3ViamVjdChmYWxzZSksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IHsgYXBwcm9qZWN0T3ZlcnZpZXdQYWdlUXVlcmllcyB9IGZyb20gJy4vc3RhdGUvcHJvamVjdC1vdmVydmlldy1wYWdlLnF1ZXJpZXMnOwo=</text>
+        <text encoding="base64">ICAvKiAgaXQoJ3NsaWRlIHVwbG9hZCB0YWIgdmlzaWJpbGl0eSBzaG91bGQgZGVwZW5kIG9uIHRoZSBzdGF0ZSBmbGFnJywgYXN5bmMgKCkgPT4gewogICAgICAvISoqIEFycmFuZ2UgKiEvCiAgICAgIGNvbnN0IHN1YmplY3QgPSBuZXcgUmVwbGF5U3ViamVjdCgpOwogICAgICBjb25zdCBjb21wb25lbnRRdWVyaWVzID0gZml4dHVyZS5kZWJ1Z0VsZW1lbnQuaW5qZWN0b3IuZ2V0KFByb2plY3RPdmVydmlld1BhZ2VRdWVyaWVzKTsKICAgICAgc3B5T24oY29tcG9uZW50UXVlcmllcywgJ2dldFNob3dTbGlkZVVwbG9hZFBhZ2UnKS5hbmQucmV0dXJuVmFsdWUoc3ViamVjdCk7CiAgCiAgICAgIC8vIGNvbnN0IGFiYzogVGFiVmlldyA9IG51bGw7CiAgCiAgICAgIC8vIFNldCB1cCBhIGxvb3AgdG8gY292ZXIgYWxsIHBvc3NpYmxlIHZpc2liaWxpdHkgZmxhZyBzZXR0aW5ncwogICAgICBjb25zdCB2aXNpYmlsaXR5RmxhZ3MgPSBbdHJ1ZSwgZmFsc2VdOwogICAgICBmb3IgKGNvbnN0IHZpc2liaWxpdHlGbGFnIG9mIHZpc2liaWxpdHlGbGFncykgewogICAgICAgIHN1YmplY3QubmV4dCh2aXNpYmlsaXR5RmxhZyk7CiAgCiAgICAgICAgLyEqKiBBY3QgLSBMb2FkIHRoZSBWaWV3TW9kZWwgZGF0YSBpbnRvIFVJICohLwogICAgICAgIC8vIE1ha2Ugc3VyZSB0aGUgQ29tcG9uZW50IFVJIGlzIGluIHN5bmMgd2l0aCB0aGUgdmlldyBtb2RlbAogICAgICAgIGZpeHR1cmUuZGV0ZWN0Q2hhbmdlcygpOwogIAogICAgICAgIC8hKiogQXNzZXJ0ICohLwogICAgICAgIGNvbnN0IHNsaWRlVXBsb2FkVGFiTGluayA9IGZpeHR1cmUuZGVidWdFbGVtZW50LnF1ZXJ5KEJ5LmNzcygnI3NsaWRlVXBsb2FkVGFiJykpOwogICAgICAgIGlmICh2aXNpYmlsaXR5RmxhZykgewogICAgICAgICAgYXdhaXQgZXhwZWN0KHNsaWRlVXBsb2FkVGFiTGluaykudG9CZVRydXRoeSgpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICBhd2FpdCBleHBlY3Qoc2xpZGVVcGxvYWRUYWJMaW5rKS50b0JlRmFsc3koKTsKICAgICAgICB9CiAgICAgIH0KICAgIH0pOwogICovCg==</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBwcm9qZWN0SWQkOiBuZXcgQmVoYXZpb3JTdWJqZWN0KCcxJyksCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSHR0cENsaWVudCB9IGZyb20gJ0Bhbmd1bGFyL2NvbW1vbi9odHRwJzsKaW1wb3J0IHsgSHR0cFRlc3RpbmdDb250cm9sbGVyIH0gZnJvbSAnQGFuZ3VsYXIvY29tbW9uL2h0dHAvdGVzdGluZyc7Cg==</text>
+        <text encoding="base64">ICBnZXRTaG93U2xpZGVVcGxvYWRQYWdlOiAoKSA9PiBuZXcgQmVoYXZpb3JTdWJqZWN0KHRydWUpLAogIGdldFByb2plY3RJZDogKCkgPT4gbmV3IEJlaGF2aW9yU3ViamVjdCgnMScpLAogIGdldERldGFpbGVkUHJvamVjdEluZm86ICgpID0+IG5ldyBCZWhhdmlvclN1YmplY3Qoe30pLAogIGdldE1haW5Sb2xlczogKCkgPT4gbmV3IEJlaGF2aW9yU3ViamVjdCgnJyksCiAgZ2V0V29ya0Zsb3dQaGFzZXM6ICgpID0+IG5ldyBCZWhhdmlvclN1YmplY3Qoe30pLAogIGdldEZpbGVzOiAoKSA9PiBuZXcgQmVoYXZpb3JTdWJqZWN0KFtdKSwKICBoYXNXb3JrZmxvd1BoYXNlczogKCkgPT4gbmV3IEJlaGF2aW9yU3ViamVjdChmYWxzZSksCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>StateProviders } from '../../app-state-providers';
-import { appReducerId, appReducerProvider } from '../../app.reducer';
-import { UploadSlideComponent, WorkflowPhaseIndicatorComponent } from '../../components';
-import { BaseQueries, UserQueries } from '../../modules/authentication/state/queries';
-import { DataBrowserModule } from '../../modules/data-browser/data-browser.module';
-import { KeyValuePipe } from '../../pipes';
-import { ActionDispatcherService, ContentService, NotificationService } from '../../services';
-import { NavigationQueries } from '../../state-ng';
-import { ProjectsQueries } from '../../state/queries';
-// import { ProjectOverviewPageComponent } from './project-overview-page.component';
-// import { P</text>
+      <register name="8" type="2">
+        <text encoding="base64">Ly8gaW1wb3J0IHsgYXBwcm9qZWN0T3ZlcnZpZXdQYWdlUXVlcmllcyB9IGZyb20gJy4vc3RhdGUvcHJvamVjdC1vdmVydmlldy1wYWdlLnF1ZXJpZXMnOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRm9ybXNNb2R1bGUsIFJlYWN0aXZlRm9ybXNNb2R1bGUgfSBmcm9tICdAYW5ndWxhci9mb3Jtcyc7CmltcG9ydCB7IEJ5IH0gZnJvbSAnQGFuZ3VsYXIvcGxhdGZvcm0tYnJvd3Nlcic7CmltcG9ydCB7IE5vb3BBbmltYXRpb25zTW9kdWxlIH0gZnJvbSAnQGFuZ3VsYXIvcGxhdGZvcm0tYnJvd3Nlci9hbmltYXRpb25zJzsKaW1wb3J0IHsgUm91dGVyVGVzdGluZ01vZHVsZSB9IGZyb20gJ0Bhbmd1bGFyL3JvdXRlci90ZXN0aW5nJzsKaW1wb3J0IHsgRWZmZWN0c01vZHVsZSB9IGZyb20gJ0BuZ3J4L2VmZmVjdHMnOwppbXBvcnQgeyBTdG9yZU1vZHVsZSB9IGZyb20gJ0BuZ3J4L3N0b3JlJzsKaW1wb3J0IHsgVGFiVmlld01vZHVsZSB9IGZyb20gJ3ByaW1lbmcvdGFidmlldyc7CmltcG9ydCB7IEJlaGF2aW9yU3ViamVjdCB9IGZyb20gJ3J4anMvQmVoYXZpb3JTdWJqZWN0JzsKaW1wb3J0IHsgUmVwbGF5U3ViamVjdCB9IGZyb20gJ3J4anMvUmVwbGF5U3ViamVjdCc7CmltcG9ydCB7IFByb2plY3RRdWVyaWVzIH0gZnJvbSAndnQuaW1hZ2V2aWV3ZXIvc3RhdGUnOwppbXBvcnQgeyBCdXR0b25Nb2R1bGUsIENvbmZpcm1EaWFsb2dNb2R1bGUsIERpYWxvZ01vZHVsZSwgT3ZlcmxheVBhbmVsTW9kdWxlIH0gZnJvbSAndnQuc2hhcmVkJzsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
-        <text>.,31d</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -567,11 +580,11 @@ import { ProjectsQueries } from '../../state/queries';
         <entry>1114,1148t1148</entry>
         <entry>.,1227d</entry>
         <entry>1149,1184t1184</entry>
-        <entry>w</entry>
         <entry>15,18y</entry>
         <entry>21,30y</entry>
         <entry>x</entry>
         <entry>.,31d</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
