@@ -106,12 +106,12 @@
         <mark key="." line="6" column="35" />
         <mark key="^" line="6" column="34" />
       </file>
-      <file name="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" timestamp="1542808576061">
-        <mark key="'" line="1230" column="0" />
-        <mark key="[" line="1030" column="0" />
-        <mark key="]" line="1037" column="27" />
-        <mark key="^" line="1037" column="27" />
-        <mark key="." line="1037" column="27" />
+      <file name="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" timestamp="1542810679155">
+        <mark key="'" line="1161" column="0" />
+        <mark key="[" line="1127" column="0" />
+        <mark key="]" line="1127" column="0" />
+        <mark key="^" line="1114" column="29" />
+        <mark key="." line="1127" column="0" />
       </file>
       <file name="C:/dev/demo/ngdemo/src/app/services/BoxStateService.ts" timestamp="1542280080884">
         <mark key="[" line="4" column="26" />
@@ -297,7 +297,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="0" filename="C:/dev/definiens/vt.portal/src/app/modules/data-browser/components/item-list-state-filter/item-list-state-filter.component.spec.ts" />
       <jump line="24" column="0" filename="C:/dev/definiens/vt.portal/src/app/modules/data-browser/components/item-list/item-list.component.spec.ts" />
       <jump line="26" column="0" filename="C:/dev/definiens/vt.portal/src/app/modules/authentication/guards/jwt-invalid-guard/jwt-invalid.guard.spec.ts" />
       <jump line="26" column="0" filename="C:/dev/definiens/vt.portal/src/app/modules/authentication/guards/jwt-valid-guard/jwt-valid.guard.spec.ts" />
@@ -390,13 +389,14 @@
       <jump line="336" column="64" filename="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" />
       <jump line="998" column="11" filename="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" />
       <jump line="999" column="8" filename="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" />
-      <jump line="1017" column="11" filename="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" />
       <jump line="1020" column="64" filename="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" />
       <jump line="1050" column="0" filename="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" />
       <jump line="1075" column="17" filename="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" />
       <jump line="1119" column="0" filename="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" />
       <jump line="1186" column="32" filename="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" />
       <jump line="1230" column="0" filename="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" />
+      <jump line="1017" column="11" filename="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" />
+      <jump line="1161" column="0" filename="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -409,16 +409,16 @@
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>generateAlfrescoNode({ id: alfrescoNodeId })</text>
       </register>
       <register name="/" type="4">
         <text>thenReturn</text>
       </register>
       <register name="0" type="4">
-        <text>{ output, statusCode }</text>
+        <text>generateAlfrescoNode({ id: alfrescoNodeId })</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgdmVyaWZ5KGNsaWVudC5maW5kTm9kZUJ5UGF0aEluU2l0ZShwcm9qZWN0TmFtZSwgdW5wcm9jZXNzZWRTbGlkZVBhdGgpKS5vbmNlKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -442,10 +442,10 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgY29uc3QgdW5wcm9jZXNzZWRTbGlkZVBhdGggPSBgJHtVTlBST0NFU1NFRF9TTElERVNfUEFUSH0vJHtzbGlkZU5hbWV9YDsKICAgICAgd2hlbihjbGllbnQuZmluZE5vZGVCeVBhdGhJblNpdGUocHJvamVjdE5hbWUsIHVucHJvY2Vzc2VkU2xpZGVQYXRoKSkKICAgICAgICAudGhlblJlc29sdmUodW5kZWZpbmVkKTsKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAudGhlbigoeyBvdXRwdXQsIHN0YXR1c0NvZGUgfSkgPT4gewo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICB9KTsK</text>
@@ -457,16 +457,16 @@
         <text>uuuuuhhhhh</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAudGhlbigoeyBvdXRwdXQsIHN0YXR1c0NvZGUgfSkgPT4gewo=</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGl0KCd0aHJvd3MgNDA0IGlmIG5vZGUgaXMgbm90IGEgcHJvamVjdCcsIGZ1bmN0aW9uICgpIHsKICAgICAgY29uc3QgY3VycmVudFVzZXJJZCA9ICdjdXJyZW50VXNlcklkJzsKICAgICAgY29uc3QgcHJvamVjdElkID0gJ3Byb2plY3RJZCc7CiAgICAgIGNvbnN0IGxvZ2dlciA9IGNyZWF0ZUxvZ2dlcih7IG5hbWU6ICd0ZXN0JyB9KTsKICAgICAgY29uc3QgcmVxdWVzdElkID0gJ3JlcXVlc3RJZCc7CiAgICAgIGNvbnN0IHNsaWRlTmFtZSA9ICdzaW1wbGVfc2xpZGUnOwoKICAgICAgY29uc3QgY2xpZW50ID0gbW9jayhBbGZyZXNjb0NsaWVudCk7CiAgICAgIHdoZW4oY2xpZW50LmdldE5vZGVNZXRhZGF0YShwcm9qZWN0SWQpKQogICAgICAgIC50aGVuUmV0dXJuKFByb21pc2UucmVzb2x2ZSg8YW55PnVuZGVmaW5lZCkpOwoKICAgICAgY29uc3QgZmFjdG9yeSA9IG1vY2soQWxmcmVzY29DbGllbnRGYWN0b3J5KTsKICAgICAgd2hlbihmYWN0b3J5LmdldENsaWVudChjdXJyZW50VXNlcklkLCBsb2dnZXIsIHJlcXVlc3RJZCkpLnRoZW5SZXNvbHZlKGluc3RhbmNlKGNsaWVudCkpOwoKICAgICAgY29uc3QgaW1wbCA9IG5ldyBBbGZyZXNjb1Byb2plY3RJbXBsZW1lbnRhdGlvbihpbnN0YW5jZShmYWN0b3J5KSk7CiAgICAgIGNvbnN0IHJlbW90ZUFwaUNhbGwgPSBpbXBsLmdldE9yQ3JlYXRlVW5wcm9jZXNzZWRTbGlkZSh7CiAgICAgICAgY3VycmVudFVzZXJJZCwKICAgICAgICBsb2dnZXIsCiAgICAgICAgcHJvamVjdElkLAogICAgICAgIHJlcXVlc3RJZCwKICAgICAgICBzbGlkZU5hbWUsCiAgICAgIH0pCiAgICAgICAgLnRoZW4oKCkgPT4gewogICAgICAgICAgdmVyaWZ5KGNsaWVudC5nZXROb2RlTWV0YWRhdGEocHJvamVjdElkKSkub25jZSgpOwogICAgICAgIH0pOwogICAgICByZXR1cm4gZXhwZWN0KHJlbW90ZUFwaUNhbGwpLnRvLmJlLmV2ZW50dWFsbHkucmVqZWN0ZWQuYW5kLmhhdmUucHJvcGVydHkoJ3N0YXR1cycsIDQwNCk7CiAgICB9KTsKCg==</text>
+        <text encoding="base64">ICAgICAgICAudGhlbigoeyBvdXRwdXQsIHN0YXR1c0NvZGUgfSkgPT4gewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGl0KCd0aHJvd3MgNDA0IGlmIG5vZGUgaXMgbm90IGEgcHJvamVjdCcsIGZ1bmN0aW9uICgpIHsK</text>
+        <text encoding="base64">ICAgICAgICAudGhlbigoeyBvdXRwdXQsIHN0YXR1c0NvZGUgfSkgPT4gewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGl0KCd0aHJvd3MgNDA0IGlmIG5vZGUgaXMgbm90IGEgcHJvamVjdCcsIGZ1bmN0aW9uICgpIHsKICAgICAgY29uc3QgY3VycmVudFVzZXJJZCA9ICdjdXJyZW50VXNlcklkJzsKICAgICAgY29uc3QgcHJvamVjdElkID0gJ3Byb2plY3RJZCc7CiAgICAgIGNvbnN0IGxvZ2dlciA9IGNyZWF0ZUxvZ2dlcih7IG5hbWU6ICd0ZXN0JyB9KTsKICAgICAgY29uc3QgcmVxdWVzdElkID0gJ3JlcXVlc3RJZCc7CiAgICAgIGNvbnN0IHNsaWRlTmFtZSA9ICdzaW1wbGVfc2xpZGUnOwoKICAgICAgY29uc3QgY2xpZW50ID0gbW9jayhBbGZyZXNjb0NsaWVudCk7CiAgICAgIHdoZW4oY2xpZW50LmdldE5vZGVNZXRhZGF0YShwcm9qZWN0SWQpKQogICAgICAgIC50aGVuUmV0dXJuKFByb21pc2UucmVzb2x2ZSg8YW55PnVuZGVmaW5lZCkpOwoKICAgICAgY29uc3QgZmFjdG9yeSA9IG1vY2soQWxmcmVzY29DbGllbnRGYWN0b3J5KTsKICAgICAgd2hlbihmYWN0b3J5LmdldENsaWVudChjdXJyZW50VXNlcklkLCBsb2dnZXIsIHJlcXVlc3RJZCkpLnRoZW5SZXNvbHZlKGluc3RhbmNlKGNsaWVudCkpOwoKICAgICAgY29uc3QgaW1wbCA9IG5ldyBBbGZyZXNjb1Byb2plY3RJbXBsZW1lbnRhdGlvbihpbnN0YW5jZShmYWN0b3J5KSk7CiAgICAgIGNvbnN0IHJlbW90ZUFwaUNhbGwgPSBpbXBsLmdldE9yQ3JlYXRlVW5wcm9jZXNzZWRTbGlkZSh7CiAgICAgICAgY3VycmVudFVzZXJJZCwKICAgICAgICBsb2dnZXIsCiAgICAgICAgcHJvamVjdElkLAogICAgICAgIHJlcXVlc3RJZCwKICAgICAgICBzbGlkZU5hbWUsCiAgICAgIH0pCiAgICAgICAgLnRoZW4oKCkgPT4gewogICAgICAgICAgdmVyaWZ5KGNsaWVudC5nZXROb2RlTWV0YWRhdGEocHJvamVjdElkKSkub25jZSgpOwogICAgICAgIH0pOwogICAgICByZXR1cm4gZXhwZWN0KHJlbW90ZUFwaUNhbGwpLnRvLmJlLmV2ZW50dWFsbHkucmVqZWN0ZWQuYW5kLmhhdmUucHJvcGVydHkoJ3N0YXR1cycsIDQwNCk7CiAgICB9KTsKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -505,7 +505,6 @@
         <entry>thenReturn</entry>
       </history-search>
       <history-cmd>
-        <entry>.,1227d</entry>
         <entry>1149,1184t1184</entry>
         <entry>15,18y</entry>
         <entry>21,30y</entry>
@@ -525,6 +524,7 @@
         <entry>set nonumber</entry>
         <entry>set relativenumber</entry>
         <entry>w</entry>
+        <entry>1007gg</entry>
       </history-cmd>
       <history-expr />
       <history-input />
