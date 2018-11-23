@@ -40,10 +40,17 @@
         <mark key="^" line="20" column="100" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/pages/project-properties-page/create-annotation-sets/create-annotation-sets.component.ts" timestamp="1542975483214">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+      <file name="C:/dev/definiens/vt.portal/src/app/pages/project-properties-page/create-annotation-sets/create-annotation-sets.component.ts" timestamp="1542978459899">
+        <mark key="[" line="48" column="3" />
+        <mark key="]" line="49" column="1" />
+        <mark key="." line="49" column="1" />
+        <mark key="^" line="49" column="1" />
+      </file>
+      <file name="C:/dev/definiens/vt.portal/src/app/pages/project-properties-page/create-annotation-sets/models/annotaton-set-creation.ts" timestamp="1542977115562">
+        <mark key="[" line="0" column="24" />
+        <mark key="]" line="2" column="1" />
+        <mark key="^" line="2" column="1" />
+        <mark key="." line="2" column="1" />
       </file>
       <file name="C:/dev/demo/ngdemo/package.json" timestamp="1542272070303">
         <mark key="[" line="33" column="4" />
@@ -93,11 +100,11 @@
         <mark key="^" line="2" column="24" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/pages/project-properties-page/create-annotation-sets/create-annotation-sets.component.html" timestamp="1542975279925">
-        <mark key="[" line="13" column="72" />
-        <mark key="]" line="13" column="72" />
-        <mark key="^" line="13" column="52" />
-        <mark key="." line="13" column="53" />
+      <file name="C:/dev/definiens/vt.portal/src/app/pages/project-properties-page/create-annotation-sets/create-annotation-sets.component.html" timestamp="1542978622722">
+        <mark key="[" line="18" column="5" />
+        <mark key="]" line="18" column="7" />
+        <mark key="^" line="18" column="7" />
+        <mark key="." line="6" column="9" />
       </file>
       <file name="C:/dev/demo/ngdemo/src/app/app.component.html" timestamp="1542283659875">
         <mark key="[" line="6" column="56" />
@@ -281,6 +288,10 @@
         <mark key="." line="13" column="24" />
         <mark key="^" line="25" column="6" />
       </file>
+      <file name="C:/dev/definiens/vt.portal/src/app/pages/set-password-page/set-password.component.ts" timestamp="1542977300041">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="67" />
+      </file>
       <file name="C:/dev/definiens/vt.portal/src/app/components/upload-slide-component/state/slide-upload-details.ts" timestamp="1540726847274">
         <mark key="[" line="0" column="28" />
         <mark key="]" line="0" column="18" />
@@ -304,6 +315,10 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
         <mark key="^" line="22" column="25" />
+      </file>
+      <file name="C:/dev/definiens/vt.portal/src/app/pages/set-password-page/set-password.component.html" timestamp="1542978160037">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="18" column="30" />
       </file>
       <file name="C:/dev/definiens/vt.imageviewer/src/app/state/reducers/index.ts" timestamp="1541174758978">
         <mark key="[" line="37" column="1" />
@@ -430,11 +445,11 @@
       <register name="/" type="4">
         <text encoding="base64">XDxnZXROb2RlTWV0YWRhdGFcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>annotation_set_name</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgW25ncnhGb3JtU3RhdGVdPSJzZXRQYXNzd29yZEZvcm0iCiAgICAgIChuZ1N1Ym1pdCk9Im9uU3VibWl0KCkiPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwogICAgLy8gY29uc3QgbmV3TmFtZSA9IChldmVudC50YXJnZXQgYXMgYW55KS52YWx1ZTsK</text>
+        <text encoding="base64">ICAgICAgW2Zvcm1Hcm91cF09ImNyZWF0ZUFubm90YXRpb25TZXRGb3JtIiAobmdTdWJtaXQpPSJvbkNyZWF0ZUFubm90YXRpb25TZXRzKCkiPgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -458,40 +473,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBVbnByb2Nlc3NhYmxlRW50aXR5LAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="4">
-        <text>generateAlfrescoNode({
-          id: projectId,
-          nodeType: ALFRESCO_DOCUMENT_TYPE,
-        })</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>(generateAlfrescoNode({
-          id: projectId,
-          nodeType: ALFRESCO_DOCUMENT_TYPE,
-        }))</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICBwdWJsaWMgcHJvamVjdElkJDogT2JzZXJ2YWJsZTxzdHJpbmc+Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdmVyaWZ5KGNsaWVudC5maW5kTm9kZUJ5UGF0aEluU2l0ZShwcm9qZWN0TmFtZSwgdW5wcm9jZXNzZWRTbGlkZVBhdGgpKS5vbmNlKCk7Cg==</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwogICAgLy8gY29uc3QgbmV3TmFtZSA9IChldmVudC50YXJnZXQgYXMgYW55KS52YWx1ZTsK</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgdW5wcm9jZXNzZWRTbGlkZVBhdGggPSBgJHtVTlBST0NFU1NFRF9TTElERVNfUEFUSH0vJHtzbGlkZU5hbWV9YDsKICAgICAgd2hlbihjbGllbnQuZmluZE5vZGVCeVBhdGhJblNpdGUocHJvamVjdE5hbWUsIHVucHJvY2Vzc2VkU2xpZGVQYXRoKSkKICAgICAgICAudGhlblJlc29sdmUodW5kZWZpbmVkKTsKCg==</text>
+        <text encoding="base64">ICBVbnByb2Nlc3NhYmxlRW50aXR5LAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="7" type="4">
+        <text>generateAlfrescoNode({
+          id: projectId,
+          nodeType: ALFRESCO_DOCUMENT_TYPE,
+        })</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+      <register name="8" type="4">
+        <text>(generateAlfrescoNode({
+          id: projectId,
+          nodeType: ALFRESCO_DOCUMENT_TYPE,
+        }))</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAudGhlbigoeyBvdXRwdXQsIHN0YXR1c0NvZGUgfSkgPT4gewo=</text>
+        <text encoding="base64">ICAgICAgdmVyaWZ5KGNsaWVudC5maW5kTm9kZUJ5UGF0aEluU2l0ZShwcm9qZWN0TmFtZSwgdW5wcm9jZXNzZWRTbGlkZVBhdGgpKS5vbmNlKCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>x</text>
       </register>
     </registers>
     <search>
@@ -532,7 +547,6 @@
         <entry>21,30y</entry>
         <entry>.,31d</entry>
         <entry>%d</entry>
-        <entry>x</entry>
         <entry>vp project.ts</entry>
         <entry>vs</entry>
         <entry>1118t1154</entry>
@@ -547,6 +561,7 @@
         <entry>set relativenumber</entry>
         <entry>1007gg</entry>
         <entry>w</entry>
+        <entry>x</entry>
       </history-cmd>
       <history-expr />
       <history-input />
