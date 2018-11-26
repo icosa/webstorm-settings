@@ -132,12 +132,12 @@
         <mark key="." line="6" column="70" />
         <mark key="^" line="6" column="70" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/state/queries/upload-slides.queries.ts" timestamp="1543244027003">
-        <mark key="'" line="4" column="38" />
-        <mark key="[" line="18" column="16" />
-        <mark key="]" line="18" column="32" />
-        <mark key="^" line="18" column="32" />
-        <mark key="." line="18" column="32" />
+      <file name="C:/dev/definiens/vt.portal/src/app/state/queries/upload-slides.queries.ts" timestamp="1543245224009">
+        <mark key="'" line="3" column="31" />
+        <mark key="[" line="18" column="77" />
+        <mark key="]" line="18" column="77" />
+        <mark key="^" line="18" column="77" />
+        <mark key="." line="18" column="77" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/pages/set-password-page/state/reducer.ts" timestamp="1541794147085">
         <mark key="[" line="13" column="55" />
@@ -211,12 +211,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="10" column="15" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/state/reducers/upload-slides.reducer.ts" timestamp="1543239954890">
+      <file name="C:/dev/definiens/vt.portal/src/app/state/reducers/upload-slides.reducer.ts" timestamp="1543244990015">
         <mark key="'" line="18" column="12" />
-        <mark key="[" line="23" column="63" />
-        <mark key="]" line="25" column="11" />
-        <mark key="." line="25" column="11" />
-        <mark key="^" line="25" column="11" />
+        <mark key="[" line="28" column="1" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="29" column="0" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/pages/project-properties-page/project-properties-page.queries.ts" timestamp="1542200427093">
         <mark key="[" line="14" column="8" />
@@ -334,9 +334,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="6" filename="C:/dev/definiens/content-service/src/impl/alfresco/project.ts" />
-      <jump line="1012" column="43" filename="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" />
-      <jump line="1082" column="12" filename="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" />
       <jump line="1101" column="12" filename="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" />
       <jump line="1206" column="12" filename="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" />
       <jump line="1216" column="12" filename="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" />
@@ -434,6 +431,9 @@
       <jump line="14" column="59" filename="C:/dev/definiens/vt.portal/src/app/state/actions/upload-slides.actions.ts" />
       <jump line="17" column="12" filename="C:/dev/definiens/vt.portal/src/app/state/reducers/upload-slides.reducer.ts" />
       <jump line="4" column="38" filename="C:/dev/definiens/vt.portal/src/app/state/queries/upload-slides.queries.ts" />
+      <jump line="19" column="69" filename="C:/dev/definiens/vt.portal/src/app/state/queries/upload-slides.queries.ts" />
+      <jump line="18" column="30" filename="C:/dev/definiens/vt.portal/src/app/state/queries/upload-slides.queries.ts" />
+      <jump line="3" column="31" filename="C:/dev/definiens/vt.portal/src/app/state/queries/upload-slides.queries.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -446,7 +446,7 @@
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>notifications</text>
+        <text>[]</text>
       </register>
       <register name="/" type="4">
         <text>^}</text>
@@ -454,8 +454,8 @@
       <register name="0" type="2">
         <text encoding="base64">ZXhwb3J0IGNvbnN0IHNlbGVjdFJvdXRlciA9IChzdG9yZTogU3RvcmU8QXBwU3RhdGU+KSA9PiBzdG9yZS5zZWxlY3Qoc3RhdGUgPT4gc3RhdGUubmcucm91dGVyKTsK</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">Ly8gCi8vIA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IHsgSU5vdGlmaWNhdGlvbiB9IGZyb20gJy4uLy4uL21vZGVscy9ub3RpZmljYXRpb24nOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -479,34 +479,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IHR5cGUgVXBsb2FkU2xpZGVzU3RhdGUgPSBFbnRpdHlTdGF0ZTxVcGxvYWRTbGlkZU1ldGFJbmZvPjsK</text>
+        <text encoding="base64">ICAgICAgICBkaXN0aW5jdFVudGlsQ2hhbmdlZCgpLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBkZWZhdWx0Ogo=</text>
+        <text encoding="base64">ICAgICAgICBmaWx0ZXIoaXRlbSA9PiAhIWl0ZW0gJiYgaXRlbS5sZW5ndGggPiAwKSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNhc2UgVXBsb2FkU2xpZGVBY3Rpb25UeXBlcy5SRU1PVkU6CiAgICAgIHJldHVybiB1cGxvYWRTbGlkZUFkYXB0ZXIucmVtb3ZlT25lKGFjdGlvbi51cGxvYWRJZCwgc3RhdGUpOwoKICAgIGNhc2UgVXBsb2FkU2xpZGVBY3Rpb25UeXBlcy5VUERBVEU6CiAgICAgIHJldHVybiB1cGxvYWRTbGlkZUFkYXB0ZXIudXBkYXRlT25lKAogICAgICAgIHsKICAgICAgICAgIGlkOiBhY3Rpb24udXBsb2FkSWQsCiAgICAgICAgICBjaGFuZ2VzOiBhY3Rpb24uY2hhbmdlcywKICAgICAgICB9LAogICAgICAgIHN0YXRlCiAgICAgICk7Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVXBsb2FkU2xpZGVNZXRhSW5mbyB9IGZyb20gJy4uL21vZGVscy91cGxvYWQtc2xpZGUtbWV0YS1pbmZvJzsK</text>
+      <register name="5" type="8">
+        <text encoding="base64">Ly8gCi8vIA==</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB8IFJlbW92ZQogIHwgVXBkYXRlOwo=</text>
+        <text encoding="base64">ZXhwb3J0IHR5cGUgVXBsb2FkU2xpZGVzU3RhdGUgPSBFbnRpdHlTdGF0ZTxVcGxvYWRTbGlkZU1ldGFJbmZvPjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IGNsYXNzIFJlbW92ZSBpbXBsZW1lbnRzIEFjdGlvbiB7CiAgcmVhZG9ubHkgdHlwZSA9IFVwbG9hZFNsaWRlQWN0aW9uVHlwZXMuUkVNT1ZFOwogIGNvbnN0cnVjdG9yKHB1YmxpYyB1cGxvYWRJZDogc3RyaW5nKSB7IH0KfQoKZXhwb3J0IGNsYXNzIFVwZGF0ZSBpbXBsZW1lbnRzIEFjdGlvbiB7CiAgcmVhZG9ubHkgdHlwZSA9IFVwbG9hZFNsaWRlQWN0aW9uVHlwZXMuVVBEQVRFOwogIGNvbnN0cnVjdG9yKAogICAgcHVibGljIHVwbG9hZElkOiBzdHJpbmcsCiAgICBwdWJsaWMgY2hhbmdlczogUGFydGlhbDxVcGxvYWRTbGlkZU1ldGFJbmZvPiwKICApIHsgfQp9Cgo=</text>
+        <text encoding="base64">CiAgICBkZWZhdWx0Ogo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEFycmF5LmZyb20oZmlsZXMpLmZvckVhY2goZmlsZSA9PiB7CiAgICAgIGNvbnNvbGUubG9nKGAke2ZpbGUubmFtZX0gLSAke2ZpbGUuc2l6ZX1gKTsKICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgIGNhc2UgVXBsb2FkU2xpZGVBY3Rpb25UeXBlcy5SRU1PVkU6CiAgICAgIHJldHVybiB1cGxvYWRTbGlkZUFkYXB0ZXIucmVtb3ZlT25lKGFjdGlvbi51cGxvYWRJZCwgc3RhdGUpOwoKICAgIGNhc2UgVXBsb2FkU2xpZGVBY3Rpb25UeXBlcy5VUERBVEU6CiAgICAgIHJldHVybiB1cGxvYWRTbGlkZUFkYXB0ZXIudXBkYXRlT25lKAogICAgICAgIHsKICAgICAgICAgIGlkOiBhY3Rpb24udXBsb2FkSWQsCiAgICAgICAgICBjaGFuZ2VzOiBhY3Rpb24uY2hhbmdlcywKICAgICAgICB9LAogICAgICAgIHN0YXRlCiAgICAgICk7Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnN0IHNsaWRlcyA9IDsK</text>
+        <text encoding="base64">aW1wb3J0IHsgVXBsb2FkU2xpZGVNZXRhSW5mbyB9IGZyb20gJy4uL21vZGVscy91cGxvYWQtc2xpZGUtbWV0YS1pbmZvJzsK</text>
       </register>
       <register name=":" type="4">
-        <text>action ExpandRegionRecursively</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -558,10 +558,10 @@
         <entry>14,15t16</entry>
         <entry>14,15t19</entry>
         <entry>x</entry>
-        <entry>w</entry>
         <entry>42,46t47</entry>
         <entry>42,46t46</entry>
         <entry>action ExpandRegionRecursively</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
