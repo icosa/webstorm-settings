@@ -15,6 +15,12 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="27" column="17" />
       </file>
+      <file name="C:/dev/definiens/vt.portal/src/app/components/upload-slide-component/state/upload-slide.component.queries.ts" timestamp="1543246428170">
+        <mark key="[" line="47" column="57" />
+        <mark key="]" line="48" column="15" />
+        <mark key="^" line="48" column="15" />
+        <mark key="." line="48" column="15" />
+      </file>
       <file name="C:/dev/definiens/vt.portal/node_modules/@ng-bootstrap/ng-bootstrap/tabset/tabset.d.ts" timestamp="1540543656507">
         <mark key="[" line="85" column="24" />
         <mark key="]" line="85" column="38" />
@@ -132,12 +138,12 @@
         <mark key="." line="6" column="70" />
         <mark key="^" line="6" column="70" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/state/queries/upload-slides.queries.ts" timestamp="1543245224009">
-        <mark key="'" line="3" column="31" />
-        <mark key="[" line="18" column="77" />
-        <mark key="]" line="18" column="77" />
-        <mark key="^" line="18" column="77" />
-        <mark key="." line="18" column="77" />
+      <file name="C:/dev/definiens/vt.portal/src/app/state/queries/upload-slides.queries.ts" timestamp="1543246349198">
+        <mark key="'" line="15" column="2" />
+        <mark key="[" line="18" column="30" />
+        <mark key="]" line="18" column="21" />
+        <mark key="^" line="18" column="25" />
+        <mark key="." line="18" column="21" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/pages/set-password-page/state/reducer.ts" timestamp="1541794147085">
         <mark key="[" line="13" column="55" />
@@ -334,7 +340,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1101" column="12" filename="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" />
       <jump line="1206" column="12" filename="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" />
       <jump line="1216" column="12" filename="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" />
       <jump line="1015" column="10" filename="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" />
@@ -434,6 +439,7 @@
       <jump line="19" column="69" filename="C:/dev/definiens/vt.portal/src/app/state/queries/upload-slides.queries.ts" />
       <jump line="18" column="30" filename="C:/dev/definiens/vt.portal/src/app/state/queries/upload-slides.queries.ts" />
       <jump line="3" column="31" filename="C:/dev/definiens/vt.portal/src/app/state/queries/upload-slides.queries.ts" />
+      <jump line="15" column="2" filename="C:/dev/definiens/vt.portal/src/app/state/queries/upload-slides.queries.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -446,16 +452,16 @@
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>[]</text>
+        <text encoding="base64">JycgKyA=</text>
       </register>
       <register name="/" type="4">
         <text>^}</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IHNlbGVjdFJvdXRlciA9IChzdG9yZTogU3RvcmU8QXBwU3RhdGU+KSA9PiBzdG9yZS5zZWxlY3Qoc3RhdGUgPT4gc3RhdGUubmcucm91dGVyKTsK</text>
+        <text encoding="base64">ICBwdWJsaWMgZ2V0VXBsb2FkU2xpZGVNZXRhSW5mbygpOiBPYnNlcnZhYmxlPERpY3Rpb25hcnk8VXBsb2FkU2xpZGVNZXRhSW5mbz4+IHsKICAgIHJldHVybiB0aGlzLnVwbG9hZFNsaWRlU3RhdGUkCiAgICAgIC5waXBlKAogICAgICAgIG1hcChzdGF0ZSA9PiBzdGF0ZS5lbnRpdGllcyksCiAgICAgICAgZGlzdGluY3RVbnRpbENoYW5nZWQoKSwKICAgICAgICBzaGFyZSgpCiAgICAgICk7CiAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSU5vdGlmaWNhdGlvbiB9IGZyb20gJy4uLy4uL21vZGVscy9ub3RpZmljYXRpb24nOwo=</text>
+        <text encoding="base64">ICAvKioKICAgKiBHZXQgYXZhaWxhYmxlIG5vdGlmaWNhdGlvbnMKICAgKi8K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -479,31 +485,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkaXN0aW5jdFVudGlsQ2hhbmdlZCgpLAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgb2YgfSBmcm9tICdyeGpzL29ic2VydmFibGUvb2YnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmaWx0ZXIoaXRlbSA9PiAhIWl0ZW0gJiYgaXRlbS5sZW5ndGggPiAwKSwK</text>
+        <text encoding="base64">ICAgIHJldHVybiBvZih0ZXN0RGF0YSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgSU5vdGlmaWNhdGlvbiB9IGZyb20gJy4uLy4uL21vZGVscy9ub3RpZmljYXRpb24nOwo=</text>
       </register>
-      <register name="5" type="8">
-        <text encoding="base64">Ly8gCi8vIA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBkaXN0aW5jdFVudGlsQ2hhbmdlZCgpLAo=</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0IHR5cGUgVXBsb2FkU2xpZGVzU3RhdGUgPSBFbnRpdHlTdGF0ZTxVcGxvYWRTbGlkZU1ldGFJbmZvPjsK</text>
+        <text encoding="base64">ICAgICAgICBmaWx0ZXIoaXRlbSA9PiAhIWl0ZW0gJiYgaXRlbS5sZW5ndGggPiAwKSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBkZWZhdWx0Ogo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNhc2UgVXBsb2FkU2xpZGVBY3Rpb25UeXBlcy5SRU1PVkU6CiAgICAgIHJldHVybiB1cGxvYWRTbGlkZUFkYXB0ZXIucmVtb3ZlT25lKGFjdGlvbi51cGxvYWRJZCwgc3RhdGUpOwoKICAgIGNhc2UgVXBsb2FkU2xpZGVBY3Rpb25UeXBlcy5VUERBVEU6CiAgICAgIHJldHVybiB1cGxvYWRTbGlkZUFkYXB0ZXIudXBkYXRlT25lKAogICAgICAgIHsKICAgICAgICAgIGlkOiBhY3Rpb24udXBsb2FkSWQsCiAgICAgICAgICBjaGFuZ2VzOiBhY3Rpb24uY2hhbmdlcywKICAgICAgICB9LAogICAgICAgIHN0YXRlCiAgICAgICk7Cgo=</text>
+      <register name="8" type="8">
+        <text encoding="base64">Ly8gCi8vIA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVXBsb2FkU2xpZGVNZXRhSW5mbyB9IGZyb20gJy4uL21vZGVscy91cGxvYWQtc2xpZGUtbWV0YS1pbmZvJzsK</text>
+        <text encoding="base64">ZXhwb3J0IHR5cGUgVXBsb2FkU2xpZGVzU3RhdGUgPSBFbnRpdHlTdGF0ZTxVcGxvYWRTbGlkZU1ldGFJbmZvPjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
