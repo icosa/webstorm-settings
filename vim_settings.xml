@@ -76,6 +76,12 @@
         <mark key="." line="63" column="53" />
         <mark key="^" line="63" column="53" />
       </file>
+      <file name="C:/dev/definiens/vt.portal/src/app/components/upload-slide-component/upload-slide.component.ts" timestamp="1543238777395">
+        <mark key="[" line="26" column="58" />
+        <mark key="]" line="26" column="58" />
+        <mark key="^" line="26" column="58" />
+        <mark key="." line="26" column="58" />
+      </file>
       <file name="C:/dev/definiens/vt.portal/src/app/state/reducers/slide-upload.reducer.ts" timestamp="1543223056716">
         <mark key="[" line="8" column="58" />
         <mark key="]" line="8" column="58" />
@@ -133,11 +139,11 @@
       <file name="C:/dev/definiens/vt.portal/src/app/pages/project-properties-page/create-annotation-sets/models/annotation-set-creation.ts" timestamp="1542980806100">
         <mark key="[" line="0" column="27" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/state/actions/upload-slides.actions.ts" timestamp="1543238044989">
-        <mark key="[" line="5" column="12" />
-        <mark key="]" line="5" column="13" />
-        <mark key="." line="5" column="12" />
-        <mark key="^" line="4" column="72" />
+      <file name="C:/dev/definiens/vt.portal/src/app/state/actions/upload-slides.actions.ts" timestamp="1543238301075">
+        <mark key="[" line="11" column="21" />
+        <mark key="]" line="11" column="29" />
+        <mark key="." line="11" column="29" />
+        <mark key="^" line="11" column="29" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/state/models/upload-slide-meta-info.ts" timestamp="1543237585928">
         <mark key="[" line="1" column="2" />
@@ -197,11 +203,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="10" column="15" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/state/reducers/upload-slides.reducer.ts" timestamp="1543237612005">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="2" column="48" />
-        <mark key="." line="3" column="0" />
+      <file name="C:/dev/definiens/vt.portal/src/app/state/reducers/upload-slides.reducer.ts" timestamp="1543238552143">
+        <mark key="'" line="17" column="12" />
+        <mark key="[" line="4" column="69" />
+        <mark key="]" line="17" column="13" />
+        <mark key="^" line="21" column="53" />
+        <mark key="." line="17" column="13" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/pages/project-properties-page/project-properties-page.queries.ts" timestamp="1542200427093">
         <mark key="[" line="14" column="8" />
@@ -338,7 +345,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="804" column="18" filename="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" />
       <jump line="325" column="34" filename="C:/dev/definiens/content-service/src/impl/alfresco/project.ts" />
       <jump line="45" column="6" filename="C:/dev/definiens/content-service/src/impl/alfresco/project.ts" />
       <jump line="1012" column="43" filename="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" />
@@ -438,6 +444,7 @@
       <jump line="20" column="0" filename="C:/dev/definiens/vt.portal/src/app/state/actions/upload-slides.actions.ts" />
       <jump line="8" column="18" filename="C:/dev/definiens/vt.portal/src/app/state/actions/upload-slides.actions.ts" />
       <jump line="14" column="59" filename="C:/dev/definiens/vt.portal/src/app/state/actions/upload-slides.actions.ts" />
+      <jump line="17" column="12" filename="C:/dev/definiens/vt.portal/src/app/state/reducers/upload-slides.reducer.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -450,13 +457,13 @@
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>[]</text>
       </register>
       <register name="/" type="4">
         <text>^}</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBVUERBVEUgPSAnW0Jvb2tzXSBVcGRhdGUgc2xpZGUgdXBsb2FkIHN0YXR1cycsCg==</text>
+      <register name="0" type="4">
+        <text>[Portal]</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8gaW1wb3J0IHsgVXBsb2FkU2xpZGVNZXRhSW5mbyB9IGZyb20gJy4uL21vZGVscy91cGxvYWQtc2xpZGUnOwo=</text>
