@@ -219,11 +219,12 @@
         <mark key="." line="27" column="58" />
         <mark key="^" line="27" column="57" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/components/upload-slide-component/upload-slide.component.spec.ts" timestamp="1543336305821">
-        <mark key="[" line="71" column="67" />
-        <mark key="]" line="71" column="69" />
-        <mark key="." line="71" column="69" />
-        <mark key="^" line="71" column="69" />
+      <file name="C:/dev/definiens/vt.portal/src/app/components/upload-slide-component/upload-slide.component.spec.ts" timestamp="1543338883728">
+        <mark key="'" line="89" column="4" />
+        <mark key="[" line="84" column="75" />
+        <mark key="]" line="84" column="80" />
+        <mark key="." line="84" column="80" />
+        <mark key="^" line="84" column="80" />
       </file>
       <file name="C:/dev/definiens/content-service/test/impl/alfresco/case-spec.ts" timestamp="1542816314628">
         <mark key="[" line="6" column="0" />
@@ -341,11 +342,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/components/upload-slide-component/upload-slide.component.html" timestamp="1543333188719">
-        <mark key="[" line="10" column="78" />
-        <mark key="]" line="10" column="78" />
-        <mark key="." line="10" column="78" />
-        <mark key="^" line="10" column="78" />
+      <file name="C:/dev/definiens/vt.portal/src/app/components/upload-slide-component/upload-slide.component.html" timestamp="1543338817952">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="13" />
+        <mark key="^" line="0" column="13" />
       </file>
       <file name="C:/dev/definiens/content-service/src/impl/alfresco/alfresco-types.ts" timestamp="1542381152100">
         <mark key="[" line="265" column="19" />
@@ -413,9 +414,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="959" column="15" filename="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" />
-      <jump line="856" column="63" filename="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" />
-      <jump line="829" column="15" filename="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" />
       <jump line="530" column="63" filename="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" />
       <jump line="506" column="15" filename="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" />
       <jump line="1407" column="63" filename="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" />
@@ -513,6 +511,9 @@
       <jump line="29" column="9" filename="C:/dev/definiens/vt.portal/src/app/components/upload-slide-component/state/queries.ts" />
       <jump line="134" column="6" filename="C:/dev/definiens/vt.portal/src/app/pages/project-overview-page/project-overview-page.component.spec.ts" />
       <jump line="137" column="61" filename="C:/dev/definiens/vt.portal/src/app/pages/project-overview-page/project-overview-page.component.spec.ts" />
+      <jump line="81" column="0" filename="C:/dev/definiens/vt.portal/src/app/components/upload-slide-component/upload-slide.component.spec.ts" />
+      <jump line="82" column="0" filename="C:/dev/definiens/vt.portal/src/app/components/upload-slide-component/upload-slide.component.spec.ts" />
+      <jump line="84" column="4" filename="C:/dev/definiens/vt.portal/src/app/components/upload-slide-component/upload-slide.component.spec.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -525,16 +526,16 @@
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID4gdHI=</text>
+        <text>vt-upload-slide-component</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb2NrQ29tcG9uZW50UXVlcmllc1w+</text>
       </register>
-      <register name="0" type="4">
-        <text>getUploadStatusSummary</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3h4eHh4eHh4eHh4eHh4IHl5eXl5eXl5eXl5eXl5eXl5eXl5eXkhJywgdXBsb2FkSXRlbXNTdGF0ZS5sZW5ndGgpOwogICAgICBzdWJqZWN0Lm5leHQodXBsb2FkSXRlbXNTdGF0ZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHAK</text>
+        <text encoding="base64">ICAgIFt1cGxvYWRJbmZvXS5mb3JFYWNoKHVwID0+IHsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -558,31 +559,35 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIE1ha2Ugc3VyZSB0aGUgQ29tcG9uZW50IFVJIGlzIGluIHN5bmMgd2l0aCB0aGUgdmlldyBtb2RlbAo=</text>
+        <text encoding="base64">CiAgICB9KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy8gVE9ETyBzZXQgdXAgdGhlIHN0YXRlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qKiBBY3QgKi8KCgo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qKiBBY3QgKi8K</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN1YmplY3QubmV4dCh2aXNpYmlsaXR5RmxhZyk7Cg==</text>
+        <text encoding="base64">ICAgICkgCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8gVE9ETyBzZXQgdXAgdGhlIHN0YXRlCg==</text>
+      <register name="8" type="4">
+        <text>[{
+      imageName: 'file.raw',
+      statusMessage: 'a status message',
+      detailedMessage: 'a detailed message',
+    }]</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN1YmplY3QubmV4dCh2aXNpYmlsaXR5RmxhZyk7Cg==</text>
+        <text encoding="base64">ICAgIHAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
