@@ -219,12 +219,12 @@
         <mark key="." line="27" column="58" />
         <mark key="^" line="27" column="57" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/components/upload-slide-component/upload-slide.component.spec.ts" timestamp="1543404503061">
-        <mark key="'" line="89" column="4" />
-        <mark key="[" line="84" column="71" />
-        <mark key="]" line="84" column="75" />
-        <mark key="." line="84" column="75" />
-        <mark key="^" line="84" column="75" />
+      <file name="C:/dev/definiens/vt.portal/src/app/components/upload-slide-component/upload-slide.component.spec.ts" timestamp="1543407793525">
+        <mark key="'" line="83" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="69" column="44" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="C:/dev/definiens/content-service/test/impl/alfresco/case-spec.ts" timestamp="1542816314628">
         <mark key="[" line="6" column="0" />
@@ -282,12 +282,12 @@
         <mark key="[" line="141" column="0" />
         <mark key="]" line="143" column="3" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/components/upload-slide-component/state/queries.ts" timestamp="1543335028453">
+      <file name="C:/dev/definiens/vt.portal/src/app/components/upload-slide-component/state/queries.ts" timestamp="1543407621573">
         <mark key="'" line="30" column="9" />
-        <mark key="[" line="21" column="25" />
-        <mark key="]" line="34" column="31" />
-        <mark key="^" line="34" column="31" />
-        <mark key="." line="34" column="31" />
+        <mark key="[" line="22" column="61" />
+        <mark key="]" line="22" column="74" />
+        <mark key="^" line="22" column="74" />
+        <mark key="." line="22" column="74" />
       </file>
       <file name="C:/dev/demo/ngdemo/src/app/components/box.component.ts" timestamp="1542284145153">
         <mark key="[" line="42" column="41" />
@@ -295,7 +295,7 @@
         <mark key="^" line="42" column="41" />
         <mark key="." line="42" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543336099155">
+      <file name="/Dummy.txt" timestamp="1543407826227">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="21" />
         <mark key="^" line="0" column="21" />
@@ -513,7 +513,7 @@
       <jump line="137" column="61" filename="C:/dev/definiens/vt.portal/src/app/pages/project-overview-page/project-overview-page.component.spec.ts" />
       <jump line="81" column="0" filename="C:/dev/definiens/vt.portal/src/app/components/upload-slide-component/upload-slide.component.spec.ts" />
       <jump line="82" column="0" filename="C:/dev/definiens/vt.portal/src/app/components/upload-slide-component/upload-slide.component.spec.ts" />
-      <jump line="84" column="4" filename="C:/dev/definiens/vt.portal/src/app/components/upload-slide-component/upload-slide.component.spec.ts" />
+      <jump line="84" column="0" filename="C:/dev/definiens/vt.portal/src/app/components/upload-slide-component/upload-slide.component.spec.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -526,7 +526,7 @@
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>body</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb2NrQ29tcG9uZW50UXVlcmllc1w+</text>
@@ -535,7 +535,7 @@
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3h4eHh4eHh4eHh4eHh4IHl5eXl5eXl5eXl5eXl5eXl5eXl5eXkhJywgdXBsb2FkSXRlbXNTdGF0ZS5sZW5ndGgpOwogICAgICBzdWJqZWN0Lm5leHQodXBsb2FkSXRlbXNTdGF0ZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFt1cGxvYWRJbmZvXS5mb3JFYWNoKHVwID0+IHsK</text>
+        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5sb2coJ3h4eHggLT4gc3RhdGUgaXRlbSBjb3VudCcsIHVwbG9hZEl0ZW1zU3RhdGUubGVuZ3RoKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -559,35 +559,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICB9KTsK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgaWYgKDAgPCB1cGxvYWRJdGVtRWxlbWVudHMubGVuZ3RoKSB7CiAgICAgICAgY29uc3QgZWxlbWVudCA9IHVwbG9hZEl0ZW1FbGVtZW50c1swXS5uYXRpdmVFbGVtZW50IGFzIEhUTUxFbGVtZW50OwogICAgICAgIGNvbnNvbGUubG9nKGVsZW1lbnQuaW5uZXJIVE1MKTsKICAgICAgICAvLyBjb25zb2xlLmxvZygneHh4eCB5eXl5Jyk7CiAgICAgIH0K</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3h4eHggLT4gZWxlbWVudCBpdGVtIGNvdW50JywgdXBsb2FkSXRlbUVsZW1lbnRzLmxlbmd0aCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIC8vIGZpeHR1cmUuZGV0ZWN0Q2hhbmdlcygpOwo=</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIFt1cGxvYWRJbmZvXS5mb3JFYWNoKHVwID0+IHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICkgCg==</text>
+        <text encoding="base64">CiAgICB9KTsK</text>
       </register>
-      <register name="8" type="4">
-        <text>[{
-      imageName: 'file.raw',
-      statusMessage: 'a status message',
-      detailedMessage: 'a detailed message',
-    }]</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -626,7 +622,6 @@
         <entry encoding="base64">XDxtb2NrQ29tcG9uZW50UXVlcmllc1w+</entry>
       </history-search>
       <history-cmd>
-        <entry>set re</entry>
         <entry>set nu</entry>
         <entry>set nu!</entry>
         <entry>set</entry>
@@ -645,6 +640,7 @@
         <entry>42,46t46</entry>
         <entry>action ExpandRegionRecursively</entry>
         <entry>x</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
