@@ -51,12 +51,12 @@
         <mark key="." line="63" column="53" />
         <mark key="^" line="63" column="53" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/components/upload-slide-component/upload-slide.component.ts" timestamp="1543333030088">
-        <mark key="'" line="18" column="56" />
-        <mark key="[" line="15" column="53" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-        <mark key="^" line="33" column="34" />
+      <file name="C:/dev/definiens/vt.portal/src/app/components/upload-slide-component/upload-slide.component.ts" timestamp="1543488445673">
+        <mark key="'" line="19" column="56" />
+        <mark key="[" line="16" column="36" />
+        <mark key="]" line="16" column="36" />
+        <mark key="." line="16" column="36" />
+        <mark key="^" line="16" column="36" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/state/reducers/slide-upload.reducer.ts" timestamp="1543223056716">
         <mark key="[" line="8" column="58" />
@@ -121,7 +121,7 @@
         <mark key="." line="14" column="20" />
         <mark key="^" line="14" column="20" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/pages/project-overview-page/project-overview-page.component.html" timestamp="1542273056563">
+      <file name="C:/dev/definiens/vt.portal/src/app/pages/project-overview-page/project-overview-page.component.html" timestamp="1543487876804">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="56" />
         <mark key="." line="23" column="33" />
@@ -242,6 +242,7 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="0" />
       </file>
+      <file name="C:/dev/definiens/vt.portal/src/app/state/reducers/notifications.reducer.ts" timestamp="1543314744486" />
       <file name="C:/dev/definiens/vt.portal/src/app/services/content.service.ts" timestamp="1543423506730">
         <mark key="'" line="13" column="28" />
         <mark key="[" line="68" column="74" />
@@ -297,6 +298,7 @@
         <mark key="^" line="3" column="18" />
         <mark key="." line="3" column="18" />
       </file>
+      <file name="C:/dev/definiens/vt.portal/src/app/state/actions/upload-slides.actions.ts" timestamp="1543487456151" />
       <file name="C:/dev/demo/ngdemo/src/app/services/BoxStateService.ts" timestamp="1542280080884">
         <mark key="[" line="4" column="26" />
         <mark key="]" line="5" column="0" />
@@ -393,10 +395,11 @@
         <mark key="." line="15" column="25" />
         <mark key="^" line="15" column="23" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/components/upload-slide-component/upload-slide.component.html" timestamp="1543413573227">
-        <mark key="[" line="0" column="6" />
-        <mark key="]" line="0" column="6" />
-        <mark key="." line="0" column="6" />
+      <file name="C:/dev/definiens/vt.portal/src/app/components/upload-slide-component/upload-slide.component.html" timestamp="1543488456039">
+        <mark key="'" line="10" column="95" />
+        <mark key="[" line="3" column="8" />
+        <mark key="]" line="3" column="8" />
+        <mark key="." line="3" column="8" />
         <mark key="^" line="0" column="13" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/pages/state/queries/index.ts" timestamp="1541792797861">
@@ -435,7 +438,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1054" column="17" filename="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" />
       <jump line="1086" column="15" filename="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" />
       <jump line="140" column="3" filename="C:/dev/definiens/vt.portal/src/app/pages/project-properties-page/project-properties-page.component.spec.ts" />
       <jump line="8" column="9" filename="C:/dev/demo/ngdemo/src/app/components/box.component.scss" />
@@ -535,6 +537,7 @@
       <jump line="12" column="28" filename="C:/dev/definiens/vt.portal/src/app/services/content.service.ts" />
       <jump line="38" column="8" filename="C:/dev/definiens/vt.portal/src/app/state-ng/navigation.queries.ts" />
       <jump line="11" column="44" filename="C:/dev/definiens/vt.portal/src/app/state-ng/navigation.queries.ts" />
+      <jump line="10" column="95" filename="C:/dev/definiens/vt.portal/src/app/components/upload-slide-component/upload-slide.component.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -547,7 +550,7 @@
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>params</text>
+        <text>Image</text>
       </register>
       <register name="/" type="4">
         <text>projectid</text>
