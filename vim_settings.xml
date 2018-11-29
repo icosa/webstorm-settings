@@ -153,11 +153,11 @@
         <mark key="^" line="42" column="41" />
         <mark key="." line="42" column="41" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/pages/login-page/login-page.component.spec.ts" timestamp="1543504265114">
+      <file name="C:/dev/definiens/vt.portal/src/app/pages/login-page/login-page.component.spec.ts" timestamp="1543505010193">
         <mark key="'" line="26" column="12" />
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="0" />
-        <mark key="." line="99" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
         <mark key="^" line="27" column="94" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/components/upload-slide-component/state/upload-status.ts" timestamp="1543420995009">
@@ -187,10 +187,10 @@
         <mark key="." line="43" column="21" />
         <mark key="^" line="43" column="21" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/pages/login-page/login-page.component.ts" timestamp="1543502890354">
-        <mark key="[" line="51" column="52" />
-        <mark key="]" line="51" column="52" />
-        <mark key="." line="51" column="52" />
+      <file name="C:/dev/definiens/vt.portal/src/app/pages/login-page/login-page.component.ts" timestamp="1543505087625">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
         <mark key="^" line="51" column="52" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/slide-upload/queries" timestamp="1543246519103">
@@ -597,7 +597,7 @@
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">fSA9IA==</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text>projectid</text>
@@ -606,7 +606,7 @@
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJz4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4gPDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDwnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJz4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4gRGV0ZWN0aW5nIENoYW5nZXMgPDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDwnKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCc+Pj4+PiBuZ09uSW5pdCBpcyBoYXBwZW5pbmcgPDw8PDwnKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -630,35 +630,35 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgZnJvbSB9IGZyb20gJ3J4anMvb2JzZXJ2YWJsZS9mcm9tJzsK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJz4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4gRGV0ZWN0aW5nIENoYW5nZXMgPDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDwnKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJz4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4gPDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDwnLCBuYXZpZ2F0aW9uUXVlcmllcyk7Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="u" type="4">
+        <text>uuuuuhhhhh</text>
+      </register>
+      <register name="6" type="4">
         <text>{
       fragment: '',
       url: '/',
       params: {},
     }</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="u" type="4">
-        <text>uuuuuhhhhh</text>
-      </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Ci8qICBwdWJsaWMgZ2V0VXJsUGFyYW1zKCkgewogICAgcmV0dXJuIHRoaXMucm91dGVyU3RhdGUkCiAgICAgIC5waXBlKAogICAgICAgIGZpbHRlcihzdGF0ZSA9PiAhIXN0YXRlICYmICEhc3RhdGUuc3RhdGUpLAogICAgICAgIG1hcChzdGF0ZSA9PiBzdGF0ZS5zdGF0ZS5wYXJhbXMpLAogICAgICAgIHNoYXJlUmVwbGF5KDEpCiAgICAgICk7CiAgfSovCgovKiAgcHVibGljIGdldFVybERhdGEoKTogT2JzZXJ2YWJsZTx7IHVybDogc3RyaW5nLCBmcmFnbWVudDogc3RyaW5nLCBwYXJhbXM6IFBhcmFtcyB9PiB7CiAgICByZXR1cm4gdGhpcy5yb3V0ZXJTdGF0ZSQKICAgICAgLnBpcGUoCiAgICAgICAgZmlsdGVyKHN0YXRlID0+ICEhc3RhdGUgJiYgISFzdGF0ZS5zdGF0ZSksCiAgICAgICAgbWFwKHN0YXRlID0+ICh7CiAgICAgICAgICB1cmw6IHN0YXRlLnN0YXRlLnVybCwKICAgICAgICAgIGZyYWdtZW50OiBzdGF0ZS5zdGF0ZS5mcmFnbWVudCwKICAgICAgICAgIHBhcmFtczogc3RhdGUuc3RhdGUucGFyYW1zLAogICAgICAgIH0pKSwKICAgICAgICBzaGFyZVJlcGxheSgxKQogICAgICApOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICB9Ki8KfQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwdWJsaWMgZ2V0UHJvamVjdElkKCk6IE9ic2VydmFibGU8c3RyaW5nPiB7CiAgICByZXR1cm4gdGhpcy5nZXRVcmxQYXJhbXMoKQogICAgICAucGlwZSgKICAgICAgICBtYXAocGFyYW1zID0+IHBhcmFtcy5wcm9qZWN0SWQpLAogICAgICAgIHNoYXJlUmVwbGF5KDEpCiAgICAgICk7CiAgfQo=</text>
+        <text encoding="base64">ICB9Ki8KfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
