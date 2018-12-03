@@ -193,6 +193,12 @@
         <mark key="." line="41" column="3" />
         <mark key="^" line="41" column="3" />
       </file>
+      <file name="C:/dev/definiens/vt.portal/src/app/state/actions/upload-slides.actions.ts" timestamp="1543849900362">
+        <mark key="[" line="15" column="16" />
+        <mark key="]" line="15" column="19" />
+        <mark key="^" line="15" column="19" />
+        <mark key="." line="15" column="19" />
+      </file>
       <file name="C:/dev/definiens/vt.portal/src/app/state/models/upload-slide-meta-info.ts" timestamp="1543327838806">
         <mark key="[" line="4" column="10" />
         <mark key="]" line="4" column="10" />
@@ -278,12 +284,12 @@
         <mark key="." line="89" column="55" />
         <mark key="^" line="89" column="55" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slides.effect.ts" timestamp="1543423796797">
-        <mark key="'" line="4" column="9" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="12" column="0" />
+      <file name="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slides.effect.ts" timestamp="1543850342758">
+        <mark key="'" line="26" column="63" />
+        <mark key="[" line="19" column="24" />
+        <mark key="]" line="22" column="70" />
+        <mark key="." line="22" column="70" />
+        <mark key="^" line="22" column="70" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/components/upload-slide-component/state/queries.ts" timestamp="1543407621573">
         <mark key="'" line="30" column="9" />
@@ -411,7 +417,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1006" column="13" filename="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" />
       <jump line="1067" column="64" filename="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" />
       <jump line="1104" column="64" filename="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" />
       <jump line="1141" column="64" filename="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" />
@@ -511,6 +516,7 @@
       <jump line="7" column="0" filename="C:/dev/definiens/vt.portal/src/app/state-ng/navigation.queries.ts" />
       <jump line="3" column="32" filename="C:/dev/definiens/vt.portal/src/app/services/content.service.ts" />
       <jump line="68" column="89" filename="C:/dev/definiens/vt.portal/src/app/services/content.service.ts" />
+      <jump line="21" column="63" filename="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slides.effect.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -523,16 +529,16 @@
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>Id</text>
       </register>
       <register name="/" type="4">
         <text>projectid</text>
       </register>
-      <register name="0" type="4">
-        <text>.projectId</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzbGlkZUlkOiBzdHJpbmcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IHsgR2V0T3JDcmVhdGVVbnByb2Nlc3NlZFNsaWRlUmVzcG9uc2UgfSBmcm9tICdjb250ZW50LXNlcnZpY2UtdHlwZXNjcmlwdC1hbmd1bGFyJzsK</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -556,31 +562,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgKTsK</text>
+        <text encoding="base64">ICAvLyBTbGlkZSBuYW1lIHdpbGwgY29tZSBmcm9tIGFjdGlvbgogIC8vIFByb2plY3QgaWQgd2lsbCBjb21lIGZyb20gb2JzZXJ2YWJsZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLnBpcGUoCiAgICAgICAgbWFwKHBhcmFtcyA9PiBwYXJhbXMucHJvamVjdElkKSwKICAgICAgICBkaXN0aW5jdFVudGlsQ2hhbmdlZCgpLAogICAgICAgIHNoYXJlUmVwbGF5KDEpCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgcHJvamVjdHNRdWVyaWVzOiBQcm9qZWN0c1F1ZXJpZXMsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkaXN0aW5jdFVudGlsQ2hhbmdlZCgpLAo=</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgcGJzIGZyb20gJ3Bicy10eXBlc2NyaXB0LWFuZ3VsYXInOwppbXBvcnQgeyBvZiB9IGZyb20gJ3J4anMvb2JzZXJ2YWJsZS9vZic7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtYXAocGFyYW0gPT4gcGFyYW0ucHJvamVjdElkKSwK</text>
+        <text encoding="base64">ICAgICAgICAvLyBDYWNoaW5nIG1lY2hhbmlzbQogICAgICAgIGlmIChwcm9qZWN0cykgewogICAgICAgICAgcmV0dXJuIG9mKHByb2plY3RzKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkaXN0aW5jdFVudGlsQ2hhbmdlZCgpLAo=</text>
+        <text encoding="base64">Ly8gaW1wb3J0IHsgR2V0T3JDcmVhdGVVbnByb2Nlc3NlZFNsaWRlUmVzcG9uc2UgfSBmcm9tICdjb250ZW50LXNlcnZpY2UtdHlwZXNjcmlwdC1hbmd1bGFyJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtYXAocGFyYW0gPT4gcGFyYW0ucHJvamVjdElkKSwK</text>
+        <text encoding="base64">ICAgICAgKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLnBpcGUoCiAgICAgICAgbWFwKHBhcmFtcyA9PiBwYXJhbXMucHJvamVjdElkKSwKICAgICAgICBkaXN0aW5jdFVudGlsQ2hhbmdlZCgpLAogICAgICAgIHNoYXJlUmVwbGF5KDEpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtYXAocGFyYW0gPT4gcGFyYW0ucHJvamVjdElkKSwK</text>
+        <text encoding="base64">ICAgICAgICBkaXN0aW5jdFVudGlsQ2hhbmdlZCgpLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
