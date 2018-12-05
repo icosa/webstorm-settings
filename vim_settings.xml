@@ -149,11 +149,11 @@
         <mark key="^" line="68" column="40" />
         <mark key="." line="68" column="40" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slides-effect.ts" timestamp="1543943328790">
-        <mark key="[" line="42" column="84" />
-        <mark key="]" line="42" column="84" />
-        <mark key="^" line="42" column="83" />
-        <mark key="." line="42" column="84" />
+      <file name="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slides-effect.ts" timestamp="1543999827027">
+        <mark key="[" line="47" column="117" />
+        <mark key="]" line="47" column="125" />
+        <mark key="." line="47" column="125" />
+        <mark key="^" line="47" column="125" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/slide-upload/mr prep for effect/upload-slides.actions.ts" timestamp="1543930857633">
         <mark key="[" line="3" column="0" />
@@ -476,8 +476,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1143" column="18" filename="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" />
-      <jump line="1161" column="24" filename="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" />
       <jump line="1555" column="24" filename="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" />
       <jump line="1572" column="18" filename="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" />
       <jump line="395" column="18" filename="C:/dev/definiens/content-service/test/impl/alfresco/project-spec.ts" />
@@ -576,6 +574,8 @@
       <jump line="32" column="32" filename="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slides-effect.spec.ts" />
       <jump line="22" column="58" filename="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slides-effect.spec.ts" />
       <jump line="40" column="21" filename="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slides-effect.spec.ts" />
+      <jump line="41" column="2" filename="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slides-effect.ts" />
+      <jump line="47" column="139" filename="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slides-effect.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -588,16 +588,16 @@
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
-        <text>describe</text>
+        <text>return</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiBuZXcgVXBsb2FkU2xpZGVzQWN0aW9ucy5DcmVhdGVVbnByb2Nlc3NlZFNsaWRlc1N1Y2Nlc3MocmVzcG9uc2Uuc2xpZGVJZCwgZm4pOwo=</text>
+      <register name="0" type="4">
+        <text>return new UploadSlidesActions.CreateUnprocessedSlidesSuccess(response.slideId, fn)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBuZXcgVXBsb2FkU2xpZGVzQWN0aW9ucy5DcmVhdGVVbnByb2Nlc3NlZFNsaWRlc1N1Y2Nlc3MocmVzcG9uc2Uuc2xpZGVJZCwgZm4pOwogICAgLy8gZmlsZU5hbWVzLm1hcChmbiA9PiB7Cg==</text>
+        <text encoding="base64">ICAgIG1hcCgoYWN0aW9uOiBVcGxvYWRTbGlkZXNBY3Rpb25zLlNsaWRlc1NlbGVjdGVkKSA9PiBuZXcgVXBsb2FkU2xpZGVzQWN0aW9ucy5DcmVhdGVVbnByb2Nlc3NlZFNsaWRlc1N1Y2Nlc3MoJ2EnLCAnYicpKSwKICAgIFJ4anNVdGlscy5oYW5kbGVFcnJvcgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -621,48 +621,47 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBvZih7IHNsaWRlSWQgfSkK</text>
+        <text encoding="base64">ICAgIC8qKiBnZXQgcHJvamVjdCBJRCAqLwogICAgd2l0aExhdGVzdEZyb20odGhpcy5uYXZpZ2F0aW9uUXVlcmllcy5wcm9qZWN0SWQkKSwKICAgIHRhcChhY3Rpb24gPT4geyBjb25zb2xlLmxvZygndHR0Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+PiAnLCBhY3Rpb24pOyB9KSwKICAgIC8qKiBjYWxsIENTIGZvciBlYWNoIGZpbGUgKi8KICAgIG1hcCgoW2ZpbGVOYW1lcywgcHJvamVjdElkXSkgPT4gdGhpcy5nZXRPckNyZWF0ZVVucHJvY2Vzc2VkU2xpZGVzRm9yUHJvamVjdChmaWxlTmFtZXMsIHByb2plY3RJZCkpLAogICAgLyoqIHdhaXQgZm9yIGFsbCBjYWxscyB0byBmaW5pc2ggKi8KICAgIGZvcmtKb2luLAogICAgLyoqIGNvbnZlcnQgdG8gYSBzaW5nbGUgT2JzZXJ2YWJsZSB3aGljaCBlbWl0cyBhbGwgYWN0aW9ucyAqLwogICAgbWVyZ2VNYXAoKHJlc3VsdHM6IEFjdGlvbltdKSA9PiBmcm9tKHJlc3VsdHMpKSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBuZXcgVXBsb2FkU2xpZGVzQWN0aW9ucy5DcmVhdGVVbnByb2Nlc3NlZFNsaWRlc1N1Y2Nlc3MocmVzcG9uc2Uuc2xpZGVJZCwgZm4pOwogICAgLy8gZmlsZU5hbWVzLm1hcChmbiA9PiB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvZih7IHNsaWRlSWQgfSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CgoKCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBvZihudWxsKTsK</text>
+        <text encoding="base64">CgoKCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBnZXRPckNyZWF0ZVVucHJvY2Vzc2VkU2xpZGUoKSB7Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>describe</last-search>
+      <last-search>return</last-search>
       <last-offset />
-      <last-pattern>describe</last-pattern>
+      <last-pattern>return</last-pattern>
       <last-replace>thenResolve</last-replace>
       <last-substitute>thenReturn(Promise.resolve(</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>internal</entry>
         <entry encoding="base64">XDw0MDRcPg==</entry>
         <entry>getorcreate</entry>
         <entry>\cgetorcreate</entry>
@@ -682,10 +681,9 @@
         <entry encoding="base64">XDxwcm9qZWN0SWRcPg==</entry>
         <entry>projectid</entry>
         <entry>describe</entry>
+        <entry>return</entry>
       </history-search>
       <history-cmd>
-        <entry>set relativenumber</entry>
-        <entry>1007gg</entry>
         <entry>18,Gt</entry>
         <entry>18,38t</entry>
         <entry>18,38y</entry>
@@ -703,6 +701,8 @@
         <entry>%d</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>17,34t42</entry>
+        <entry>17,34t41</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
