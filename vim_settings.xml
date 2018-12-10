@@ -113,6 +113,12 @@
         <mark key="^" line="39" column="24" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="C:/dev/definiens/vt.portal/src/app/components/upload-slide-component/state/queries.spec.ts" timestamp="1544444451602">
+        <mark key="[" line="45" column="59" />
+        <mark key="]" line="45" column="59" />
+        <mark key="^" line="45" column="59" />
+        <mark key="." line="45" column="59" />
+      </file>
       <file name="C:/dev/definiens/vt.portal/src/app/state/reducers/slide-upload.reducer.ts" timestamp="1543223056716">
         <mark key="[" line="8" column="58" />
         <mark key="]" line="8" column="58" />
@@ -176,10 +182,10 @@
         <mark key="." line="6" column="70" />
         <mark key="^" line="6" column="70" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/state/queries/upload-slides.queries.ts" timestamp="1543325170880">
+      <file name="C:/dev/definiens/vt.portal/src/app/state/queries/upload-slides.queries.ts" timestamp="1544443643350">
         <mark key="'" line="9" column="22" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
+        <mark key="[" line="24" column="8" />
+        <mark key="]" line="24" column="19" />
         <mark key="^" line="18" column="25" />
         <mark key="." line="6" column="0" />
       </file>
@@ -323,10 +329,10 @@
         <mark key="." line="27" column="60" />
         <mark key="^" line="27" column="60" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/components/upload-slide-component/state/queries.ts" timestamp="1543852680010">
+      <file name="C:/dev/definiens/vt.portal/src/app/components/upload-slide-component/state/queries.ts" timestamp="1544444110399">
         <mark key="'" line="30" column="9" />
-        <mark key="[" line="35" column="41" />
-        <mark key="]" line="36" column="31" />
+        <mark key="[" line="21" column="18" />
+        <mark key="]" line="16" column="40" />
         <mark key="^" line="36" column="31" />
         <mark key="." line="36" column="31" />
       </file>
@@ -584,16 +590,16 @@
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>fit</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICB8IENyZWF0ZVVucHJvY2Vzc2VkU2xpZGVTdWNjZXNzCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">VXBsb2FkU2xpZGVDb21wb25lbnRRdWVyaWVzIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBTbGlkZXNTZWxlY3RlZCwK</text>
+        <text encoding="base64">aW1wb3J0IHsKICBDUkVBVEVfVU5QUk9DRVNTRURfU0xJREVfRkFJTFVSRSwKICBDUkVBVEVfVU5QUk9DRVNTRURfU0xJREVfU1VDQ0VTUywKICBDcmVhdGVVbnByb2Nlc3NlZFNsaWRlRmFpbHVyZSwKICBDcmVhdGVVbnByb2Nlc3NlZFNsaWRlU3VjY2VzcywKICBTTElERVNfU0VMRUNURUQsCiAgU2xpZGVzU2VsZWN0ZWQsCn0gZnJvbSAnLi4vYWN0aW9ucy91cGxvYWQtc2xpZGVzLmFjdGlvbnMnOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -617,31 +623,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRhcChhY3Rpb24gPT4geyBjb25zb2xlLmxvZygnLS0tLS0tLS0tLS0tLT4nLCBhY3Rpb24udHlwZSk7IH0pLAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgQWN0aW9ucyB9IGZyb20gJ0BuZ3J4L2VmZmVjdHMnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IHsgQWRkU2xpZGVzIH0gZnJvbSAnLi4vLi4vc3RhdGUvYWN0aW9ucy91cGxvYWQtc2xpZGVzLmFjdGlvbnMnOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgcHJvamVjdElkID0gJzEnOwogICAgICBjb25zdCBzbGlkZUlkID0gJ2FiYzEyMyc7CiAgICAgIGNvbnN0IGZpbGVOYW1lID0gJ3Rlc3QxLmpwZyc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU2VsZWN0U2xpZGUgfSBmcm9tICd2dC5pbWFnZXZpZXdlci9zdGF0ZS9hY3Rpb25zL2Jsb2NrLXVpLmFjdGlvbnMnOwo=</text>
+        <text encoding="base64">ICAgICAgLy8gUHJlcGFyZSBjb250ZW50IHNlcnZpY2UgbW9jawogICAgICBjb25zdCBjc01vY2sgPSBUZXN0QmVkLmdldChDb250ZW50U2VydmljZSkgYXMgQ29udGVudFNlcnZpY2U7CiAgICAgIHNweU9uKGNzTW9jaywgJ2dldE9yQ3JlYXRlVW5wcm9jZXNzZWRTbGlkZScpLmFuZC5yZXR1cm5WYWx1ZSgKICAgICAgICBvZih7IHNsaWRlSWQgfSkKICAgICAgKTsKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRhcChhY3Rpb24gPT4geyBjb25zb2xlLmxvZygnLS0tLS0tLS0tLS0tLT4nLCBhY3Rpb24udHlwZSk7IH0pLAo=</text>
+        <text encoding="base64">ICAgICAgICBVcGxvYWRTbGlkZXNFZmZlY3RzLAo=</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSHR0cEVycm9yUmVzcG9uc2UgfSBmcm9tICdAYW5ndWxhci9jb21tb24vaHR0cCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICB7IHByb3ZpZGU6IEFjdGlvbnMsIHVzZUZhY3Rvcnk6IFRlc3RVdGlscy5nZXRUZXN0QWN0aW9ucyB9LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IHR5cGUgVXBsb2FkU2xpZGVzQWN0aW9ucyA9CiAgfCBTbGlkZXNTZWxlY3RlZAo=</text>
+        <text encoding="base64">ICAgICAgICB7IHByb3ZpZGU6IENvbnRlbnRTZXJ2aWNlLCB1c2VDbGFzczogQ29udGVudFNlcnZpY2VNb2NrIH0sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhwb3J0IGNsYXNzIEFkZFNsaWRlcyBpbXBsZW1lbnRzIEFjdGlvbiB7CiAgcmVhZG9ubHkgdHlwZSA9IEFERF9TTElERVM7CiAgY29uc3RydWN0b3IocHVibGljIGZpbGVOYW1lczogc3RyaW5nW10pIHsgfQp9Cgo=</text>
+        <text encoding="base64">Y2xhc3MgQ29udGVudFNlcnZpY2VNb2NrIGltcGxlbWVudHMgUGFydGlhbDxDb250ZW50U2VydmljZT4gewogIGdldE9yQ3JlYXRlVW5wcm9jZXNzZWRTbGlkZSA9ICgpID0+IG9mKG51bGwpOwp9Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IEFERF9TTElERVMgPSAnW1BvcnRhbF1bVXBsb2FkIFNsaWRlc10gQWRkIG11bHRpcGxlIHNsaWRlcyBmb3IgdXBsb2FkaW5nJzsK</text>
+        <text encoding="base64">aW1wb3J0IHsgVXBsb2FkU2xpZGVzRWZmZWN0cyB9IGZyb20gJy4vdXBsb2FkLXNsaWRlcy1lZmZlY3QnOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -680,8 +686,6 @@
         <entry>fit</entry>
       </history-search>
       <history-cmd>
-        <entry>.,/^}d</entry>
-        <entry>14,15t17</entry>
         <entry>14,15t16</entry>
         <entry>14,15t19</entry>
         <entry>42,46t47</entry>
@@ -699,6 +703,8 @@
         <entry>56,63m53</entry>
         <entry>70,96t98</entry>
         <entry>70,96t97</entry>
+        <entry>96,144d</entry>
+        <entry>70,95d</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
