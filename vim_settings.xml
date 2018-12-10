@@ -398,11 +398,12 @@
         <mark key="." line="5" column="107" />
         <mark key="^" line="5" column="26" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slides-effect.spec.ts" timestamp="1544439111313">
-        <mark key="[" line="141" column="85" />
-        <mark key="]" line="141" column="85" />
-        <mark key="." line="141" column="85" />
-        <mark key="^" line="141" column="85" />
+      <file name="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slides-effect.spec.ts" timestamp="1544455626193">
+        <mark key="'" line="40" column="5" />
+        <mark key="[" line="64" column="39" />
+        <mark key="]" line="64" column="39" />
+        <mark key="." line="64" column="39" />
+        <mark key="^" line="64" column="37" />
       </file>
       <file name="C:/dev/demo/ngdemo/src/app/app.component.ts" timestamp="1542283642993">
         <mark key="[" line="15" column="25" />
@@ -568,7 +569,6 @@
       <jump line="27" column="17" filename="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slides-effect.spec.ts" />
       <jump line="32" column="32" filename="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slides-effect.spec.ts" />
       <jump line="22" column="58" filename="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slides-effect.spec.ts" />
-      <jump line="40" column="21" filename="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slides-effect.spec.ts" />
       <jump line="41" column="2" filename="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slides-effect.ts" />
       <jump line="9" column="35" filename="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slides-effect.spec.ts" />
       <jump line="43" column="4" filename="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slides-effect.ts" />
@@ -583,6 +583,7 @@
       <jump line="28" column="72" filename="C:/dev/definiens/vt.portal/src/app/components/upload-slide-component/state/queries.ts" />
       <jump line="47" column="9" filename="C:/dev/definiens/vt.portal/src/app/components/upload-slide-component/state/queries.spec.ts" />
       <jump line="52" column="18" filename="C:/dev/definiens/vt.portal/src/app/components/upload-slide-component/state/queries.spec.ts" />
+      <jump line="40" column="5" filename="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slides-effect.spec.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -595,10 +596,10 @@
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>|</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxBY3RcPg==</text>
+        <text>it(</text>
       </register>
       <register name="0" type="4">
         <text>getUploadSlideDetails</text>
@@ -655,13 +656,13 @@
         <text encoding="base64">ICAgICAgLy8gc2xpZGVEZXRhaWxzJC5zdWJzY3JpYmUoYWJjID0+IHsKICAgICAgLy8gICBjb25zb2xlLmxvZygnPj4+Pj4nLCBhYmMpOwogICAgICAvLyB9KTsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>x</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxBY3RcPg==</last-search>
+      <last-search>it(</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxBY3RcPg==</last-pattern>
+      <last-pattern>it(</last-pattern>
       <last-replace>thenResolve</last-replace>
       <last-substitute>thenReturn(Promise.resolve(</last-substitute>
       <last-dir>1</last-dir>
@@ -669,9 +670,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\cgetorcreate</entry>
-        <entry encoding="base64">XDxHZXRPckNyZWF0ZVVucHJvY2Vzc2VkU2xpZGVSZXF1ZXN0XD4=</entry>
-        <entry>\cCall</entry>
         <entry>calls Alfresco</entry>
         <entry>then</entry>
         <entry>thenReturn(Promise.resolve(</entry>
@@ -689,6 +687,9 @@
         <entry>return</entry>
         <entry>fit</entry>
         <entry encoding="base64">XDxBY3RcPg==</entry>
+        <entry>it</entry>
+        <entry>if(</entry>
+        <entry>it(</entry>
       </history-search>
       <history-cmd>
         <entry>14,15t19</entry>
@@ -708,9 +709,9 @@
         <entry>96,144d</entry>
         <entry>70,95d</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>x</entry>
         <entry>qw</entry>
         <entry>w</entry>
+        <entry>x</entry>
       </history-cmd>
       <history-expr />
       <history-input />
