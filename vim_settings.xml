@@ -122,11 +122,11 @@
         <mark key="." line="10" column="32" />
         <mark key="^" line="10" column="32" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/pages/project-properties-page/project-properties/state/queries.spec.ts" timestamp="1545137196490">
-        <mark key="[" line="36" column="36" />
-        <mark key="]" line="36" column="39" />
-        <mark key="." line="36" column="39" />
-        <mark key="^" line="36" column="39" />
+      <file name="C:/dev/definiens/vt.portal/src/app/pages/project-properties-page/project-properties/state/queries.spec.ts" timestamp="1545138551136">
+        <mark key="[" line="46" column="36" />
+        <mark key="]" line="46" column="51" />
+        <mark key="^" line="46" column="51" />
+        <mark key="." line="46" column="51" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/state/reducers/slide-upload.reducer.ts" timestamp="1543223056716">
         <mark key="[" line="8" column="58" />
@@ -677,13 +677,13 @@
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>undefined</text>
+        <text>navigationQueriesMock.projectId$</text>
       </register>
       <register name="/" type="4">
         <text>it(</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwdWJsaWMgZ2V0IHByb2plY3RJZCQoKSB7IHJldHVybiBvZihudWxsKTsgfQo=</text>
+        <text encoding="base64">ICBpdCgnU2hvdWxkIHJldHVybiBjdXJyZW50IHByb2plY3Qgd2hlbiBnZXRQcm9qZWN0IGlzIGNhbGxlZCcsIGFzeW5jICgpID0+IHsKICAgIC8qIEFycmFuZ2UgKi8KICAgIGNvbnN0IHByb2plY3RJZCA9ICdhYmMnOwogICAgY29uc3QgbmF2aWdhdGlvblF1ZXJpZXNNb2NrID0gbmV3IE5hdmlnYXRpb25RdWVyaWVzTW9jaygpOwogICAgY29uc3QgZ2V0UHJvamVjdElkU3B5ID0gc3B5T25Qcm9wZXJ0eShuYXZpZ2F0aW9uUXVlcmllc01vY2ssICdwcm9qZWN0SWQkJywgJ2dldCcpLmFuZC5yZXR1cm5WYWx1ZShvZihwcm9qZWN0SWQpKTsKCiAgICBjb25zdCBwcm9qZWN0UXVlcmllc01vY2sgPSBuZXcgUHJvamVjdHNRdWVyaWVzTW9jaygpOwogICAgY29uc3QgcHJvamVjdDogUHJvamVjdE1vY2sgPSB7IGlkOiBwcm9qZWN0SWQgfTsKICAgIHNweU9uKHByb2plY3RRdWVyaWVzTW9jaywgJ2dldERldGFpbGVkUHJvamVjdEluZm8nKS5hbmQucmV0dXJuVmFsdWUob2YocHJvamVjdCkpOwoKICAgIGNvbnN0IHF1ZXJpZXMgPSBuZXcgUHJvamVjdFByb3BlcnRpZXNDb21wb25lbnRRdWVyaWVzKAogICAgICBuYXZpZ2F0aW9uUXVlcmllc01vY2sgYXMgTmF2aWdhdGlvblF1ZXJpZXMsCiAgICAgIHByb2plY3RRdWVyaWVzTW9jayBhcyBQcm9qZWN0c1F1ZXJpZXMKICAgICk7CgogICAgLyogQWN0ICovCiAgICBsZXQgcHJvamVjdFJlc3VsdDogY3MuUHJvamVjdCA9IG51bGw7CiAgICBxdWVyaWVzLmdldFByb2plY3QoKS5zdWJzY3JpYmUocXVlcmllc1Byb2plY3QgPT4gcHJvamVjdFJlc3VsdCA9IHF1ZXJpZXNQcm9qZWN0KTsKCiAgICAvKiBBc3NlcnQgKi8KICAgIGF3YWl0IGV4cGVjdChwcm9qZWN0LmlkKS50b0VxdWFsKHByb2plY3RSZXN1bHQuaWQpOwogICAgYXdhaXQgZXhwZWN0KHByb2plY3RJZCkudG9FcXVhbChwcm9qZWN0UmVzdWx0LmlkKTsKICAgIGV4cGVjdChnZXRQcm9qZWN0SWRTcHkpLnRvSGF2ZUJlZW5DYWxsZWQoKTsKICAgIGV4cGVjdChwcm9qZWN0UXVlcmllc01vY2suZ2V0RGV0YWlsZWRQcm9qZWN0SW5mbykudG9IYXZlQmVlbkNhbGxlZCgpOwogIH0pOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -737,7 +737,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>21,45t45</text>
       </register>
     </registers>
     <search>
@@ -773,8 +773,6 @@
         <entry>it(</entry>
       </history-search>
       <history-cmd>
-        <entry>42,46t46</entry>
-        <entry>bufdo bd</entry>
         <entry>action ExpandRegionRecursively</entry>
         <entry>21,35t51</entry>
         <entry>%d</entry>
@@ -793,6 +791,8 @@
         <entry>q</entry>
         <entry>5,7t8</entry>
         <entry>w</entry>
+        <entry>21,45t46</entry>
+        <entry>21,45t45</entry>
       </history-cmd>
       <history-expr />
       <history-input />
