@@ -108,6 +108,7 @@
         <mark key="." line="63" column="53" />
         <mark key="^" line="63" column="53" />
       </file>
+      <file name="C:/dev/definiens/auth-service/src/controllers/password-controller.ts" timestamp="1545236338398" />
       <file name="C:/dev/definiens/auth-service/package.json" timestamp="1545149796396">
         <mark key="[" line="33" column="27" />
         <mark key="]" line="33" column="26" />
@@ -244,6 +245,9 @@
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
+      </file>
+      <file name="C:/dev/definiens/auth-service/node_modules/auth-service-swagger/swagger.yaml" timestamp="1545236382442">
+        <mark key="'" line="298" column="6" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/pages/landmarks-editor-page/landmarks-editor-page.component.ts" timestamp="1545062258489">
         <mark key="'" line="0" column="77" />
@@ -568,12 +572,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="38" filename="C:/dev/definiens/vt.portal/src/app/state/queries/upload-slides.queries.ts" />
-      <jump line="19" column="69" filename="C:/dev/definiens/vt.portal/src/app/state/queries/upload-slides.queries.ts" />
-      <jump line="18" column="30" filename="C:/dev/definiens/vt.portal/src/app/state/queries/upload-slides.queries.ts" />
-      <jump line="3" column="31" filename="C:/dev/definiens/vt.portal/src/app/state/queries/upload-slides.queries.ts" />
-      <jump line="15" column="2" filename="C:/dev/definiens/vt.portal/src/app/state/queries/upload-slides.queries.ts" />
-      <jump line="13" column="21" filename="C:/dev/definiens/vt.portal/src/app/state/queries/index.ts" />
       <jump line="16" column="12" filename="C:/dev/definiens/vt.portal/src/app/components/upload-slide-component/upload-slide.component.spec.ts" />
       <jump line="27" column="6" filename="C:/dev/definiens/vt.portal/src/app/pages/project-overview-page/project-overview-page.component.spec.ts" />
       <jump line="18" column="56" filename="C:/dev/definiens/vt.portal/src/app/components/upload-slide-component/upload-slide.component.ts" />
@@ -668,6 +666,12 @@
       <jump line="103" column="19" filename="C:/dev/definiens/vt.portal_latest/src/app/state/effects/projects.effect.ts" />
       <jump line="19" column="39" filename="C:/dev/definiens/vt.portal/src/app/pages/project-properties-page/project-properties/state/queries.ts" />
       <jump line="25" column="2" filename="C:/dev/definiens/vt.portal/src/app/pages/project-properties-page/project-properties/project-properties.component.ts" />
+      <jump line="14" column="16" filename="C:/dev/definiens/auth-service/node_modules/auth-service-swagger/swagger.yaml" />
+      <jump line="113" column="6" filename="C:/dev/definiens/auth-service/node_modules/auth-service-swagger/swagger.yaml" />
+      <jump line="179" column="6" filename="C:/dev/definiens/auth-service/node_modules/auth-service-swagger/swagger.yaml" />
+      <jump line="250" column="6" filename="C:/dev/definiens/auth-service/node_modules/auth-service-swagger/swagger.yaml" />
+      <jump line="278" column="6" filename="C:/dev/definiens/auth-service/node_modules/auth-service-swagger/swagger.yaml" />
+      <jump line="298" column="6" filename="C:/dev/definiens/auth-service/node_modules/auth-service-swagger/swagger.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -683,7 +687,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwdWJsaWNcPg==</text>
+        <text>operationId</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IHByb2plY3RNZW1iZXJzaGlwSW5mb3JtYXRpb25SZXN1bHQ=</text>
@@ -744,17 +748,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwdWJsaWNcPg==</last-search>
+      <last-search>operationId</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwdWJsaWNcPg==</last-pattern>
+      <last-pattern>operationId</last-pattern>
       <last-replace>thenResolve</last-replace>
       <last-substitute>thenReturn(Promise.resolve(</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>then</entry>
         <entry>thenReturn(Promise.resolve(</entry>
         <entry>thenResolve</entry>
         <entry>thenReturn</entry>
@@ -774,6 +777,7 @@
         <entry>if(</entry>
         <entry>it(</entry>
         <entry encoding="base64">XDxwdWJsaWNcPg==</entry>
+        <entry>operationId</entry>
       </history-search>
       <history-cmd>
         <entry>action ExpandRegionRecursively</entry>
