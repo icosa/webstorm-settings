@@ -51,10 +51,10 @@
         <mark key="^" line="2" column="24" />
         <mark key="." line="2" column="24" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/components/upload-slide-overview/upload-slide-overview.component.ts" timestamp="1547114418833">
+      <file name="C:/dev/definiens/vt.portal/src/app/components/upload-slide-overview/upload-slide-overview.component.ts" timestamp="1547123696242">
         <mark key="'" line="0" column="34" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
+        <mark key="[" line="3" column="13" />
+        <mark key="]" line="3" column="36" />
         <mark key="." line="28" column="0" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/pages/project-properties-page/create-annotation-sets/models/annotaton-set-creation.ts" timestamp="1542977115562">
@@ -408,12 +408,12 @@
         <mark key="^" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/components/upload-slide-overview/upload-slide-overview.component.spec.ts" timestamp="1547117624122">
-        <mark key="'" line="50" column="32" />
-        <mark key="[" line="4" column="81" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="7" column="13" />
-        <mark key="^" line="5" column="0" />
+      <file name="C:/dev/definiens/vt.portal/src/app/components/upload-slide-overview/upload-slide-overview.component.spec.ts" timestamp="1547124565694">
+        <mark key="'" line="51" column="32" />
+        <mark key="[" line="58" column="5" />
+        <mark key="]" line="62" column="4" />
+        <mark key="." line="62" column="4" />
+        <mark key="^" line="62" column="4" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slides.effect.ts" timestamp="1543852036326">
         <mark key="[" line="32" column="14" />
@@ -623,16 +623,16 @@
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>UploadSlideOverviewComponent</text>
       </register>
       <register name="/" type="4">
         <text>404</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGZvciAoY29uc3QgdXBsb2FkRGlzcGxheVN0YXRlIG9mIHVwbG9hZERpc3BsYXlTdGF0ZUNvbGxlY3Rpb24pIHsK</text>
+      <register name="0" type="4">
+        <text>vt-upload-slide-overview</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA8dHI+PHRkPjwvdGQ+PHRkPmpvZTwvdGQ+PC90cj4K</text>
+        <text encoding="base64">ICBzZWxlY3RlZEhlcm86IEhlcm87Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -656,16 +656,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CgogICAgLy8gYXNzZXJ0Cg==</text>
+        <text encoding="base64">ICA8dHI+PHRkPjwvdGQ+PHRkPmpvZTwvdGQ+PC90cj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgogICAgLy8gYXNzZXJ0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwdWJsaWMgdHJhY2tCeVNsaWRlSWQoaW5kZXg6IG51bWJlciwgdXBsb2FkU2xpZGVTdGF0dXNTdW1tYXJ5OiBVcGxvYWRTbGlkZURpc3BsYXlEYXRhKTogc3RyaW5nIHsKICAgIHJldHVybiB1cGxvYWRTbGlkZVN0YXR1c1N1bW1hcnkuc2xpZGVJZDsKICB9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMgdHJhY2tCeVNsaWRlSWQoaW5kZXg6IG51bWJlciwgdXBsb2FkU2xpZGVTdGF0dXNTdW1tYXJ5OiBVcGxvYWRTbGlkZURpc3BsYXlEYXRhKTogc3RyaW5nIHsKICAgIHJldHVybiB1cGxvYWRTbGlkZVN0YXR1c1N1bW1hcnkuc2xpZGVJZDsKICB9Cgo=</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
@@ -674,13 +674,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbXBvbmVudCA9IGZpeHR1cmUuY29tcG9uZW50SW5zdGFuY2U7CiAgICBmaXh0dXJlLmRldGVjdENoYW5nZXMoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBsZXQgY29tcG9uZW50OiBVcGxvYWRTbGlkZU92ZXJ2aWV3Q29tcG9uZW50Owo=</text>
+        <text encoding="base64">ICAgIGNvbXBvbmVudCA9IGZpeHR1cmUuY29tcG9uZW50SW5zdGFuY2U7CiAgICBmaXh0dXJlLmRldGVjdENoYW5nZXMoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsZXQgY29tcG9uZW50OiBVcGxvYWRTbGlkZU92ZXJ2aWV3Q29tcG9uZW50Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
