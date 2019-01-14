@@ -326,12 +326,12 @@
         <mark key="." line="7" column="16" />
         <mark key="^" line="7" column="16" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/pages/upload-slide-page/state/queries.spec.ts" timestamp="1547469601792">
+      <file name="C:/dev/definiens/vt.portal/src/app/pages/upload-slide-page/state/queries.spec.ts" timestamp="1547473306405">
         <mark key="'" line="72" column="61" />
-        <mark key="[" line="72" column="63" />
-        <mark key="]" line="72" column="78" />
-        <mark key="." line="72" column="78" />
-        <mark key="^" line="72" column="78" />
+        <mark key="[" line="66" column="57" />
+        <mark key="]" line="66" column="57" />
+        <mark key="." line="66" column="57" />
+        <mark key="^" line="11" column="20" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/slide-upload/query tests" timestamp="1547138525247">
         <mark key="[" line="0" column="0" />
@@ -747,13 +747,13 @@
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>BlockStartUpload</text>
+        <text>getBlockStartUpload</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVcGxvYWRTbGlkZURpc3BsYXlEYXRhXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0aGlzLnVwbG9hZFNsaWRlU3RhdGUkCiAgICAgIC5waXBlKAogICAgICAgIG1hcChzdGF0ZSA9PiBzdGF0ZS51cGxvYWRJblByb2dyZXNzKSwKICAgICAgICBkaXN0aW5jdFVudGlsQ2hhbmdlZCgpLAogICAgICAgIHNoYXJlKCkKICAgICAgKTsK</text>
+      <register name="0" type="4">
+        <text>getUploadInProgress</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBwdWJsaWMgZ2V0QmxvY2tTdGFydFVwbG9hZCgpOiBPYnNlcnZhYmxlPGJvb2xlYW4+IHsKICAgIHJldHVybiB0aGlzLnVwbG9hZFNsaWRlU3RhdGUkCiAgICAgIC5waXBlKAogICAgICAgIG1hcChzdGF0ZSA9PiBzdGF0ZS51cGxvYWRJblByb2dyZXNzKSwKICAgICAgICBkaXN0aW5jdFVudGlsQ2hhbmdlZCgpLAogICAgICAgIHNoYXJlKCkKICAgICAgKTsKICB9Cgo=</text>
