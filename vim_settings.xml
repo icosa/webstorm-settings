@@ -93,11 +93,11 @@
         <mark key="." line="8" column="58" />
         <mark key="^" line="3" column="16" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/pages/upload-slide-page/state/queries.ts" timestamp="1547475802645">
-        <mark key="[" line="23" column="6" />
-        <mark key="]" line="25" column="70" />
-        <mark key="." line="25" column="70" />
-        <mark key="^" line="25" column="70" />
+      <file name="C:/dev/definiens/vt.portal/src/app/pages/upload-slide-page/state/queries.ts" timestamp="1547477737844">
+        <mark key="[" line="28" column="2" />
+        <mark key="]" line="28" column="9" />
+        <mark key="." line="28" column="9" />
+        <mark key="^" line="28" column="9" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/pages/project-overview-page/project-overview-page.resolver.ts" timestamp="1542184150810">
         <mark key="[" line="7" column="32" />
@@ -326,12 +326,12 @@
         <mark key="." line="7" column="16" />
         <mark key="^" line="7" column="16" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/pages/upload-slide-page/state/queries.spec.ts" timestamp="1547476559538">
+      <file name="C:/dev/definiens/vt.portal/src/app/pages/upload-slide-page/state/queries.spec.ts" timestamp="1547477086267">
         <mark key="'" line="79" column="79" />
-        <mark key="[" line="81" column="22" />
-        <mark key="]" line="81" column="23" />
-        <mark key="." line="81" column="23" />
-        <mark key="^" line="81" column="21" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="70" column="48" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/slide-upload/query tests" timestamp="1547138525247">
         <mark key="[" line="0" column="0" />
@@ -533,7 +533,7 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="24" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547470045144">
+      <file name="/Dummy.txt" timestamp="1547477385543">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -747,16 +747,16 @@
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>public</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVcGxvYWRTbGlkZURpc3BsYXlEYXRhXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>uploadSlidesQueriesMock.getUploadInProgress</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBwdWJsaWMgdXBsb2FkSW5Qcm9ncmVzcyQ6IE9ic2VydmFibGU8Ym9vbGVhbj47Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB1cGxvYWRTbGlkZXNRdWVyaWVzTW9jay5nZXRVcGxvYWRJblByb2dyZXNzLmlzU3B5ID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMgZ2V0VXBsb2FkSW5Qcm9ncmVzcygpIHsKICAgIHJldHVybiB0aGlzLmdldFVwbG9hZEluUHJvZ3Jlc3NTaGFyZWQoKTsKICB9Cgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -780,31 +780,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgc3B5T2JqZWN0LmNhbGxzLnJlc2V0KCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgdXBsb2FkU2xpZGVzUXVlcmllc01vY2sgPSBUZXN0QmVkLmdldChVcGxvYWRTbGlkZXNRdWVyaWVzKSBhcyBVcGxvYWRTbGlkZXNRdWVyaWVzOwo=</text>
+        <text encoding="base64">ICAgICAgLy8gUHJlcGFyZSB1cGxvYWQgc2xpZGVzIHF1ZXJpZXMgbW9jawo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0aGlzLmdldFVwbG9hZEluUHJvZ3Jlc3NTaGFyZWQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICBjb21iaW5lTGF0ZXN0KAogICAgICAKICAgICkKICAgIHJldHVybiB0aGlzLmdldFVwbG9hZEluUHJvZ3Jlc3NTaGFyZWQoKTsKICB9CgogIHB1YmxpYyBnZXRVcGxvYWRJblByb2dyZXNzKCkgewogICAgcmV0dXJuIHRoaXMuZ2V0VXBsb2FkSW5Qcm9ncmVzc1NoYXJlZCgpOwogIH0KCiAgcHJpdmF0ZSBnZXRVcGxvYWRJblByb2dyZXNzU2hhcmVkKCkgewogICAgcmV0dXJuIHRoaXMudXBsb2FkU2xpZGVRdWVyaWVzLmdldFVwbG9hZEluUHJvZ3Jlc3MoKQogICAgICAucGlwZSgKICAgICAgICBzaGFyZVJlcGxheSgxKQogICAgICApOwogIH0KCiAgcHJpdmF0ZSBnZXRPcmRlcmVkU2xpZGVJbmZvKCk6IE9ic2VydmFibGU8VXBsb2FkU2xpZGVNZXRhSW5mb1tdPiB7CiAgICAvLyBjb252ZXJ0IHVwbG9hZCBtZXRhIGluZm8gc3RhdGUgdG8gZGlzcGxheWFibGUgc3RhdGUgKG9sZGVzdCBmaXJzdCkKICAgIHJldHVybiB0aGlzLnVwbG9hZFNsaWRlUXVlcmllcy5nZXRNZXRhSW5mb0lkcygpCiAgICAgIC5waXBlKAogICAgICAgIHN3aXRjaE1hcCgKICAgICAgICAgIC8vIGlkcyBoYXZlIGNvcnJlY3Qgb3I=</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzaGFyZVJlcGxheSgxKSwK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBzcHlPYmplY3QgPSBzcHlPbih1cGxvYWRTbGlkZXNRdWVyaWVzTW9jaywgJ2dldFVwbG9hZEluUHJvZ3Jlc3MnKS5hbmQucmV0dXJuVmFsdWUoCiAgICAgICAgICBvZih1cGxvYWRJblByb2dyZXNzKQogICAgICAgICk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgIG9mKHVwbG9hZEluUHJvZ3Jlc3MpCiAgICAgICAgKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -843,7 +843,6 @@
         <entry encoding="base64">XDxVcGxvYWRTbGlkZURpc3BsYXlEYXRhXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>56,63m53</entry>
         <entry>70,96t98</entry>
         <entry>70,96t97</entry>
         <entry>96,144d</entry>
@@ -862,6 +861,7 @@
         <entry>1,$d</entry>
         <entry>q</entry>
         <entry>%s//UploadSlideMetaInfo/</entry>
+        <entry>s</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
