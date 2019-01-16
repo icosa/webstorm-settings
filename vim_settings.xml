@@ -254,11 +254,12 @@
         <mark key="^" line="107" column="106" />
         <mark key="." line="107" column="106" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/components/slide-upload-image-selection/slide-upload-image-selection.component.spec.ts" timestamp="1547629747620">
-        <mark key="[" line="123" column="9" />
-        <mark key="]" line="123" column="10" />
-        <mark key="." line="123" column="10" />
-        <mark key="^" line="91" column="14" />
+      <file name="C:/dev/definiens/vt.portal/src/app/components/slide-upload-image-selection/slide-upload-image-selection.component.spec.ts" timestamp="1547632718403">
+        <mark key="'" line="52" column="15" />
+        <mark key="[" line="113" column="7" />
+        <mark key="]" line="113" column="8" />
+        <mark key="." line="113" column="8" />
+        <mark key="^" line="95" column="35" />
       </file>
       <file name="C:/dev/demo/ngdemo/src/app/components/box.component.ts" timestamp="1542284145153">
         <mark key="[" line="42" column="41" />
@@ -516,7 +517,7 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="24" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547629085895">
+      <file name="/Dummy.txt" timestamp="1547632722438">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="54" />
         <mark key="^" line="0" column="0" />
@@ -618,13 +619,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="30" filename="C:/dev/definiens/vt.portal/src/app/pages/set-password-page/state/effects.spec.ts" />
-      <jump line="11" column="45" filename="C:/dev/definiens/vt.portal/src/app/pages/set-password-page/state/effects.spec.ts" />
-      <jump line="4" column="0" filename="C:/dev/definiens/vt.portal/src/app/pages/set-password-page/state/effects.spec.ts" />
-      <jump line="47" column="2" filename="C:/dev/definiens/vt.portal/src/app/pages/set-password-page/state/effects.spec.ts" />
-      <jump line="48" column="4" filename="C:/dev/definiens/vt.portal/src/app/pages/set-password-page/state/effects.spec.ts" />
-      <jump line="86" column="4" filename="C:/dev/definiens/vt.portal/src/app/pages/set-password-page/state/effects.spec.ts" />
-      <jump line="88" column="8" filename="C:/dev/definiens/vt.portal/src/app/pages/set-password-page/state/effects.spec.ts" />
       <jump line="28" column="0" filename="C:/dev/definiens/vt.portal/src/app/pages/set-password-page/state/effects.spec.ts" />
       <jump line="13" column="27" filename="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slides-effect.spec.ts" />
       <jump line="27" column="17" filename="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slides-effect.spec.ts" />
@@ -718,6 +712,13 @@
       <jump line="129" column="64" filename="C:/dev/definiens/vt.portal/src/app/pages/upload-slide-page/state/queries.spec.ts" />
       <jump line="56" column="26" filename="C:/dev/definiens/vt.portal/src/app/pages/upload-slide-page/state/queries.spec.ts" />
       <jump line="13" column="0" filename="C:/dev/definiens/vt.portal/component_tests/tests/slide-upload/get-or-create-unprocessed-slide-spec.ts" />
+      <jump line="61" column="86" filename="C:/dev/definiens/vt.portal/src/app/components/slide-upload-image-selection/slide-upload-image-selection.component.spec.ts" />
+      <jump line="37" column="55" filename="C:/dev/definiens/vt.portal/src/app/components/slide-upload-image-selection/slide-upload-image-selection.component.spec.ts" />
+      <jump line="40" column="52" filename="C:/dev/definiens/vt.portal/src/app/components/slide-upload-image-selection/slide-upload-image-selection.component.spec.ts" />
+      <jump line="43" column="95" filename="C:/dev/definiens/vt.portal/src/app/components/slide-upload-image-selection/slide-upload-image-selection.component.spec.ts" />
+      <jump line="46" column="76" filename="C:/dev/definiens/vt.portal/src/app/components/slide-upload-image-selection/slide-upload-image-selection.component.spec.ts" />
+      <jump line="51" column="15" filename="C:/dev/definiens/vt.portal/src/app/components/slide-upload-image-selection/slide-upload-image-selection.component.spec.ts" />
+      <jump line="52" column="15" filename="C:/dev/definiens/vt.portal/src/app/components/slide-upload-image-selection/slide-upload-image-selection.component.spec.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -730,10 +731,10 @@
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YW5kIA==</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
-        <text>ordered</text>
+        <text>'.</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICA8L3AtYnV0dG9uPgo=</text>
@@ -794,9 +795,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ordered</last-search>
+      <last-search>'.</last-search>
       <last-offset />
-      <last-pattern>ordered</last-pattern>
+      <last-pattern>'.</last-pattern>
       <last-replace>m</last-replace>
       <last-substitute>getM</last-substitute>
       <last-dir>1</last-dir>
@@ -804,7 +805,6 @@
     </search>
     <history>
       <history-search>
-        <entry>describe</entry>
         <entry>return</entry>
         <entry>fit</entry>
         <entry encoding="base64">XDxBY3RcPg==</entry>
@@ -824,6 +824,7 @@
         <entry>spyon</entry>
         <entry>spyOn(</entry>
         <entry>ordered</entry>
+        <entry>'.</entry>
       </history-search>
       <history-cmd>
         <entry>qw</entry>
