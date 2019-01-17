@@ -75,6 +75,9 @@
         <mark key="^" line="2" column="7" />
         <mark key="." line="2" column="7" />
       </file>
+      <file name="C:/dev/definiens/shared-protractor-utils/node_modules/@types/selenium-webdriver/index.d.ts" timestamp="1547736852235">
+        <mark key="'" line="4502" column="13" />
+      </file>
       <file name="C:/dev/definiens/shared-protractor-utils/utils/protractor-extensions.ts" timestamp="1540914927473">
         <mark key="[" line="63" column="34" />
         <mark key="]" line="63" column="53" />
@@ -238,11 +241,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="C:/dev/definiens/shared-protractor-utils/pageObjects/portal/pages/slide-upload.po/slide-upload.po.ts" timestamp="1547736643412">
+      <file name="C:/dev/definiens/shared-protractor-utils/pageObjects/portal/pages/slide-upload.po/slide-upload.po.ts" timestamp="1547736934978">
         <mark key="'" line="23" column="0" />
-        <mark key="[" line="50" column="55" />
-        <mark key="]" line="50" column="55" />
-        <mark key="." line="50" column="55" />
+        <mark key="[" line="49" column="49" />
+        <mark key="]" line="49" column="52" />
+        <mark key="." line="49" column="52" />
+        <mark key="^" line="49" column="52" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/pages/project-overview-page/project-overview-page.component.spec.ts" timestamp="1547133685790">
         <mark key="'" line="14" column="100" />
@@ -630,7 +634,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="4" filename="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slides-effect.ts" />
       <jump line="47" column="2" filename="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slides-effect.ts" />
       <jump line="12" column="0" filename="C:/dev/definiens/vt.portal/src/app/state/actions/upload-slides.actions.ts" />
       <jump line="20" column="0" filename="C:/dev/definiens/vt.portal/src/app/state/actions/upload-slides.actions.ts" />
@@ -730,6 +733,7 @@
       <jump line="23" column="8" filename="C:/dev/definiens/vt.portal/src/app/components/slide-upload-image-selection/slide-upload-image-selection.component.spec.ts" />
       <jump line="98" column="30" filename="C:/dev/definiens/vt.portal/src/app/components/slide-upload-image-selection/slide-upload-image-selection.component.spec.ts" />
       <jump line="24" column="8" filename="C:/dev/definiens/vt.portal/src/app/components/slide-upload-image-selection/slide-upload-image-selection.component.spec.ts" />
+      <jump line="4502" column="13" filename="C:/dev/definiens/shared-protractor-utils/node_modules/@types/selenium-webdriver/index.d.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -742,13 +746,13 @@
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>slideCounterSpan</text>
+        <text>boolean</text>
       </register>
       <register name="/" type="4">
-        <text>slidecount</text>
+        <text>enabled</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHRvdGFsU2xpZGVUZXh0ID0gYXdhaXQgdGhpcy5zbGlkZUNvdW50ZXJTcGFuLmdldFRleHQoKTsK</text>
+        <text encoding="base64">ICBwdWJsaWMgYXN5bmMgaXNTdGFydFVwbG9hZEJ1dHRvbkVuYWJsZWQoKTogUHJvbWlzZTxib29sZWFuPiB7CiAgICByZXR1cm4gYXdhaXQgdGhpcy5zdGFydFVwbG9hZEJ1dHRvbi5pc0VuYWJsZWQoKTsKICB9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -806,9 +810,9 @@
       </register>
     </registers>
     <search>
-      <last-search>slidecount</last-search>
+      <last-search>enabled</last-search>
       <last-offset />
-      <last-pattern>slidecount</last-pattern>
+      <last-pattern>enabled</last-pattern>
       <last-replace>m</last-replace>
       <last-substitute>getM</last-substitute>
       <last-dir>1</last-dir>
@@ -816,9 +820,6 @@
     </search>
     <history>
       <history-search>
-        <entry>it</entry>
-        <entry>if(</entry>
-        <entry>it(</entry>
         <entry encoding="base64">XDxwdWJsaWNcPg==</entry>
         <entry>operationId</entry>
         <entry>.r</entry>
@@ -836,6 +837,9 @@
         <entry encoding="base64">XDxnZXRTdGFydFVwbG9hZEJ1dHRvblw+</entry>
         <entry encoding="base64">XDxnZXRSZW1vdmVVcGxvYWRCdXR0b25cPg==</entry>
         <entry>slidecount</entry>
+        <entry>gettext</entry>
+        <entry>isenabled</entry>
+        <entry>enabled</entry>
       </history-search>
       <history-cmd>
         <entry>qw</entry>
