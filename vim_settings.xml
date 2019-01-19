@@ -503,10 +503,6 @@
         <mark key="^" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/component_tests/tests/slide-upload/get-or-create-unprocessed-slide-spec.ts" timestamp="1547801453897">
-        <mark key="'" line="143" column="11" />
-        <mark key="^" line="132" column="65" />
-      </file>
       <file name="C:/dev/definiens/vt.portal/src/app/pages/upload-slide-page/state/reducer.ts" timestamp="1547831048830">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
@@ -525,6 +521,10 @@
         <mark key="]" line="23" column="23" />
         <mark key="." line="23" column="23" />
         <mark key="^" line="25" column="33" />
+      </file>
+      <file name="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/equalization/equalization-panel/equalization-panel.component.ts" timestamp="1547933056198">
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="123" column="3" />
       </file>
       <file name="/Dummy.txt" timestamp="1547932648668">
         <mark key="[" line="0" column="0" />
@@ -730,8 +730,8 @@
       <register name="/" type="4">
         <text>shared</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">c2xpZGVNZXRhSW5mb0NvbGxlY3Rpb24gPT4gc2xpZGVNZXRhSW5mb0NvbGxlY3Rpb24ubWFwKAogICAgICAgICAgc2xpZGVNZXRhSW5mbyA9PiAoeyBmaWxlTmFtZTogc2xpZGVNZXRhSW5mby5zbGlkZU5hbWUsIHNlbGVjdGVkOiBmYWxzZSB9KQ==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICB0cmFja0J5Rm4oaW5kZXg6IGFueSkgewogICAgcmV0dXJuIGluZGV4OwogIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBtYXAoCiAgICAgICAgICBzbGlkZU1ldGFJbmZvQ29sbGVjdGlvbiA9PiBzbGlkZU1ldGFJbmZvQ29sbGVjdGlvbi5tYXAoCiAgICAgICAgICBzbGlkZU1ldGFJbmZvID0+ICh7IGZpbGVOYW1lOiBzbGlkZU1ldGFJbmZvLnNsaWRlTmFtZSwgc2VsZWN0ZWQ6IGZhbHNlIH0pCiAgICAgICAgICApLAogICAgICAgICksCg==</text>
