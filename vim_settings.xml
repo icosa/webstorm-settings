@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/definiens/vt.portal/src/app/pages/upload-slide-page/upload-slide.component.html" timestamp="1548144502570">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="C:/dev/definiens/vt.portal/src/app/pages/upload-slide-page/upload-slide.component.html" timestamp="1548176098575">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/pages/upload-slide-page/upload-slide.component.spec.ts" timestamp="1548169361081">
         <mark key="'" line="14" column="1" />
@@ -208,6 +208,11 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="9" column="46" />
       </file>
+      <file name="C:/dev/definiens/vt.portal/src/app/pages/upload-slide-page/upload-slide.component.ts" timestamp="1548176151282">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
       <file name="C:/dev/definiens/vt.portal/package.json" timestamp="1547801207765">
         <mark key="'" line="67" column="8" />
         <mark key="[" line="63" column="37" />
@@ -232,8 +237,10 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/pages/upload-slide-page/state/reducer.ts" timestamp="1548145168834">
-        <mark key="^" line="114" column="1" />
+      <file name="C:/dev/definiens/vt.portal/src/app/pages/upload-slide-page/state/reducer.ts" timestamp="1548176005190">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/components/slide-upload-image-selection/slide-upload-image-selection.component.ts" timestamp="1548170340012">
         <mark key="[" line="57" column="30" />
@@ -244,7 +251,7 @@
         <mark key="[" line="121" column="0" />
         <mark key="]" line="123" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548170889458">
+      <file name="/Dummy.txt" timestamp="1548176153304">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="54" />
         <mark key="^" line="0" column="0" />
@@ -393,7 +400,7 @@
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Zmlyc3Qg</text>
+        <text>, action</text>
       </register>
       <register name="/" type="4">
         <text>shared</text>
@@ -402,7 +409,7 @@
         <text encoding="base64">ICAgICAgdGFwKCgpID0+IHsgY29uc29sZS53YXJuKCc+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4nKX0pLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdGFwKGFiYyA9PiB7IGNvbnNvbGUud2FybignYWJjJywgYWJjKTsgfSksCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCc+Pj4+Pj4+Pj4+IGVtaXR0aW5nJyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -426,31 +433,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLy8gdHMtaWdub3JlCg==</text>
+        <text encoding="base64">ICAgIFtibG9ja1JlbW92ZUltYWdlRmlsZXNdPSJibG9ja1JlbW92ZUltYWdlRmlsZXMkIHwgYXN5bmMiCiAgICAodG9nZ2xlRmlsZUNoZWNrZWQpPSJ0b2dnbGVGaWxlQ2hlY2tlZCgkZXZlbnQpIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgKSwK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnPj4+Pj4+Pj4+PicsIGFjdGlvbik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgdGFwKGFiYyA9PiB7IGNvbnNvbGUud2FybignYWJjJywgYWJjKTsgfSksCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAucGlwZSgK</text>
+        <text encoding="base64">ICAgICAgLy8gdHMtaWdub3JlCg==</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgKSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAucGlwZSgK</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRhcCgoYWN0KSA9PiB7IGNvbnNvbGUuZXJyb3IoJy0tLS0tLS0tLS0tLS0tLS0tLS0nLCBhY3QpfSkK</text>
+        <text encoding="base64">ICAgICAgICAucGlwZSgK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS53YXJuKCc+Pj4+Pj4nLCBpbWFnZUZpbGVOYW1lcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
