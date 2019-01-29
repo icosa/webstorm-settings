@@ -90,6 +90,13 @@
         <mark key="." line="7" column="32" />
         <mark key="^" line="7" column="32" />
       </file>
+      <file name="C:/dev/definiens/slide-original-image-service/src/impl/slide-upload-sessions.ts" timestamp="1548763738644">
+        <mark key="'" line="94" column="44" />
+        <mark key="[" line="92" column="16" />
+        <mark key="]" line="92" column="16" />
+        <mark key="." line="92" column="16" />
+        <mark key="^" line="92" column="16" />
+      </file>
       <file name="C:/dev/definiens/vt.portal/src/app/components/index.ts" timestamp="1547219585497">
         <mark key="[" line="26" column="7" />
         <mark key="]" line="26" column="8" />
@@ -404,11 +411,11 @@
         <mark key="^" line="3" column="18" />
         <mark key="." line="3" column="18" />
       </file>
-      <file name="C:/dev/definiens/slide-original-image-service/src/controllers/slide-upload-sessions.ts" timestamp="1548752883831">
-        <mark key="[" line="23" column="6" />
-        <mark key="]" line="24" column="1" />
-        <mark key="^" line="24" column="1" />
-        <mark key="." line="24" column="1" />
+      <file name="C:/dev/definiens/slide-original-image-service/src/controllers/slide-upload-sessions.ts" timestamp="1548763294169">
+        <mark key="[" line="30" column="9" />
+        <mark key="]" line="30" column="24" />
+        <mark key="^" line="30" column="24" />
+        <mark key="." line="30" column="24" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slides-effect.spect.ts" timestamp="1543934114349">
         <mark key="[" line="1" column="0" />
@@ -581,7 +588,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="30" filename="C:/dev/definiens/auth-service/src/utils/payloadHelper.ts" />
       <jump line="43" column="30" filename="C:/dev/definiens/auth-service/src/utils/payloadHelper.ts" />
       <jump line="46" column="18" filename="C:/dev/definiens/auth-service/src/utils/payloadHelper.ts" />
       <jump line="112" column="45" filename="C:/dev/definiens/auth-service/src/utils/payloadHelper.ts" />
@@ -681,6 +687,7 @@
       <jump line="188" column="0" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-tab-panel/results-panel/results-panel.component-template.spec.ts" />
       <jump line="19" column="4" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-tab-panel/results-panel/results-panel.component-template.spec.ts" />
       <jump line="26" column="4" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-tab-panel/results-panel/results-panel.component-template.spec.ts" />
+      <jump line="94" column="44" filename="C:/dev/definiens/slide-original-image-service/src/impl/slide-upload-sessions.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -693,16 +700,16 @@
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>colo</text>
       </register>
-      <register name="0" type="4">
-        <text>clicking start upload should emit a start upload event</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW50ZXJmYWNlIEluaXRpYXRlVXBsb2FkU2Vzc2lvblBhcmFtZXRlcnMgewogIGZpbGVTaXplOiBudW1iZXI7CiAgbG9nZ2VyOiBCdW55YW47CiAgc2xpZGVJZDogc3RyaW5nOwogIHRva2VuUGF5bG9hZDogQWNjZXNzVG9rZW5QYXlsb2FkOwp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -726,31 +733,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZmlsZVBhcnRTY2hlbWEuaW5kZXgoeyBwYXJ0TnVtYmVyOiAxIH0sIHsgdW5pcXVlOiB0cnVlIH0pOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZmlsZVBhcnRTY2hlbWEuaW5kZXgoeyBwYXJ0TnVtYmVyOiAxIH0sIHsgdW5pcXVlOiB0cnVlIH0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyogdHNsaW50OmRpc2FibGU6b2JqZWN0LWxpdGVyYWwtc29ydC1rZXlzICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTmV4dFVwbG9hZElkTWFya2VyIH0gZnJvbSAnYXdzLXNkay9jbGllbnRzL3MzJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB1c2VySWQ6IHsKICAgIHJlcXVpcmVkOiB0cnVlLAogICAgdHlwZTogU3RyaW5nLAogIH0sCg==</text>
+        <text encoding="base64">LyogdHNsaW50OmRpc2FibGU6b2JqZWN0LWxpdGVyYWwtc29ydC1rZXlzICovCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBldGFnOiBTdHJpbmcsCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgTmV4dFVwbG9hZElkTWFya2VyIH0gZnJvbSAnYXdzLXNkay9jbGllbnRzL3MzJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwYXJ0TnVtYmVyOiBOdW1iZXIsCg==</text>
+        <text encoding="base64">ICB1c2VySWQ6IHsKICAgIHJlcXVpcmVkOiB0cnVlLAogICAgdHlwZTogU3RyaW5nLAogIH0sCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
