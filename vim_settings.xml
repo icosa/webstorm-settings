@@ -90,11 +90,11 @@
         <mark key="." line="7" column="32" />
         <mark key="^" line="7" column="32" />
       </file>
-      <file name="C:/dev/definiens/slide-original-image-service/src/impl/slide-upload-sessions.ts" timestamp="1548844182732">
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
-        <mark key="^" line="97" column="8" />
+      <file name="C:/dev/definiens/slide-original-image-service/src/impl/slide-upload-sessions.ts" timestamp="1548844447934">
+        <mark key="[" line="100" column="5" />
+        <mark key="]" line="101" column="3" />
+        <mark key="." line="101" column="3" />
+        <mark key="^" line="101" column="3" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/components/index.ts" timestamp="1547219585497">
         <mark key="[" line="26" column="7" />
@@ -706,16 +706,16 @@
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>let</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>getContent</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgIGlmICghcmVzdWx0Q29uZmlnKSB7CiAgICAgIHRocm93IG5ldyBOb3RGb3VuZCgKICAgICAgICBgUmVzdWx0Q29uZmlnOiAke2NvbmZpZ0lkfSBub3QgZm91bmRgCiAgICAgICk7CiAgICB9</text>
+        <text>`Upload session already exists for slide ${slideId}`</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHVwbG9hZFNlc3Npb25Eb2N1bWVudHMubGVuZ3RoCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -739,31 +739,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8gY2hlY2sgdGhhdCB0aGUgdXNlciBpcyB0aGUgb3duZXIgb2YgdGhlIHVwbG9hZCBzZXNzaW9uCg==</text>
+        <text encoding="base64">ICAgIHVwbG9hZFNlc3Npb25Eb2N1bWVudHMubGVuZ3RoCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8gY2hlY2sgdGhhdCB0aGUgdXNlciBpcyB0aGUgb3duZXIgb2YgdGhlIHVwbG9hZCBzZXNzaW9uCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY2FwdHVyZShpbXBsLnVwbG9hZFNsaWRlQ2h1bmspLmxhc3QoKSkKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIHJldHVybiBQcm9taXNlLnJlc29sdmUoYXMyMDAoe30pKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY2FwdHVyZShpbXBsLnVwbG9hZFNsaWRlQ2h1bmspLmxhc3QoKSkKCg==</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUuZXJyb3IoJz4+Pj4+Pj4+Pj4+Pj4+Pj4+Jyk7Cg==</text>
+        <text encoding="base64">ICAgIC8vIHJldHVybiBQcm9taXNlLnJlc29sdmUoYXMyMDAoe30pKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KHRydWUpLnRvLmJlLnRydWU7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUuZXJyb3IoJz4+Pj4+Pj4+Pj4+Pj4+Pj4+Jyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYXdhaXQgcmVxOwo=</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KHRydWUpLnRvLmJlLnRydWU7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgYXdhaXQgcmVxOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
