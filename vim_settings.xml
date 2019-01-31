@@ -502,7 +502,8 @@
         <mark key="]" line="63" column="28" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/components/slide-upload-image-selection/slide-upload-image-selection.component.ts" timestamp="1548426492942">
+      <file name="C:/dev/definiens/vt.portal/src/app/components/slide-upload-image-selection/slide-upload-image-selection.component.ts" timestamp="1548928677220">
+        <mark key="'" line="96" column="10" />
         <mark key="[" line="75" column="28" />
         <mark key="]" line="75" column="44" />
         <mark key="." line="75" column="44" />
@@ -605,8 +606,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="3" filename="C:/dev/definiens/vt.portal/src/app/components/upload-slide-overview/upload-slide-overview.component.spec.ts" />
-      <jump line="40" column="32" filename="C:/dev/definiens/vt.portal/src/app/components/upload-slide-overview/upload-slide-overview.component.spec.ts" />
       <jump line="36" column="47" filename="C:/dev/definiens/vt.portal/src/app/components/upload-slide-overview/upload-slide-overview.component.spec.ts" />
       <jump line="67" column="9" filename="C:/dev/definiens/vt.portal/src/app/components/upload-slide-overview/upload-slide-overview.component.spec.ts" />
       <jump line="17" column="12" filename="C:/dev/definiens/vt.portal/src/app/pages/project-overview-page/project-overview-page.component.spec.ts" />
@@ -705,6 +704,8 @@
       <jump line="149" column="84" filename="C:/dev/definiens/slide-original-image-service/test/controllers/slide-upload-sessions-spec.ts" />
       <jump line="155" column="22" filename="C:/dev/definiens/slide-original-image-service/test/controllers/slide-upload-sessions-spec.ts" />
       <jump line="0" column="20" filename="C:/dev/definiens/slide-original-image-service/test/controllers/slide-upload-sessions-spec.ts" />
+      <jump line="65" column="34" filename="C:/dev/definiens/vt.portal/src/app/components/slide-upload-image-selection/slide-upload-image-selection.component.ts" />
+      <jump line="96" column="10" filename="C:/dev/definiens/vt.portal/src/app/components/slide-upload-image-selection/slide-upload-image-selection.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -720,7 +721,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>getContent</text>
+        <text encoding="base64">XDxjcmVhdGVFbXB0eUZpbGVMaXN0XD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">c3RhcnRTZXNzaW9uVXNlcklkIA==</text>
@@ -781,9 +782,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getContent</last-search>
+      <last-search encoding="base64">XDxjcmVhdGVFbXB0eUZpbGVMaXN0XD4=</last-search>
       <last-offset />
-      <last-pattern>getContent</last-pattern>
+      <last-pattern encoding="base64">XDxjcmVhdGVFbXB0eUZpbGVMaXN0XD4=</last-pattern>
       <last-replace>m</last-replace>
       <last-substitute>getM</last-substitute>
       <last-dir>1</last-dir>
@@ -791,7 +792,6 @@
     </search>
     <history>
       <history-search>
-        <entry>slidecount</entry>
         <entry>gettext</entry>
         <entry>isenabled</entry>
         <entry>enabled</entry>
@@ -811,6 +811,7 @@
         <entry>\cUpLoaD</entry>
         <entry>\csession</entry>
         <entry>getContent</entry>
+        <entry encoding="base64">XDxjcmVhdGVFbXB0eUZpbGVMaXN0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>1,$d</entry>
