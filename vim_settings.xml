@@ -94,18 +94,19 @@
         <mark key="." line="7" column="32" />
         <mark key="^" line="7" column="32" />
       </file>
-      <file name="C:/dev/definiens/slide-original-image-service/src/impl/slide-upload-sessions.ts" timestamp="1549283343246">
-        <mark key="[" line="178" column="25" />
-        <mark key="]" line="178" column="25" />
-        <mark key="." line="178" column="25" />
-        <mark key="^" line="178" column="25" />
+      <file name="C:/dev/definiens/slide-original-image-service/src/impl/slide-upload-sessions.ts" timestamp="1549286264376">
+        <mark key="'" line="192" column="10" />
+        <mark key="[" line="62" column="25" />
+        <mark key="]" line="62" column="36" />
+        <mark key="^" line="62" column="36" />
+        <mark key="." line="62" column="36" />
       </file>
-      <file name="C:/dev/definiens/slide-original-image-service/test/impl/slide-upload-sessions-spec.ts" timestamp="1549284844021">
-        <mark key="'" line="703" column="8" />
-        <mark key="[" line="972" column="22" />
-        <mark key="]" line="972" column="22" />
-        <mark key="." line="972" column="22" />
-        <mark key="^" line="972" column="27" />
+      <file name="C:/dev/definiens/slide-original-image-service/test/impl/slide-upload-sessions-spec.ts" timestamp="1549286775614">
+        <mark key="'" line="882" column="8" />
+        <mark key="[" line="293" column="6" />
+        <mark key="]" line="293" column="6" />
+        <mark key="." line="293" column="6" />
+        <mark key="^" line="293" column="5" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/components/index.ts" timestamp="1547219585497">
         <mark key="[" line="26" column="7" />
@@ -501,7 +502,7 @@
         <mark key="^" line="94" column="44" />
       </file>
       <file name="/slide-upload-sessions.ts" timestamp="1549030638529" />
-      <file name="/Dummy.txt" timestamp="1549284954007">
+      <file name="/Dummy.txt" timestamp="1549286820368">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="54" />
         <mark key="^" line="0" column="0" />
@@ -591,13 +592,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="61" filename="C:/dev/definiens/vt.portal/src/app/pages/upload-slide-page/state/queries.spec.ts" />
-      <jump line="66" column="69" filename="C:/dev/definiens/vt.portal/src/app/pages/upload-slide-page/state/queries.spec.ts" />
-      <jump line="104" column="64" filename="C:/dev/definiens/vt.portal/src/app/pages/upload-slide-page/state/queries.spec.ts" />
-      <jump line="108" column="69" filename="C:/dev/definiens/vt.portal/src/app/pages/upload-slide-page/state/queries.spec.ts" />
-      <jump line="129" column="64" filename="C:/dev/definiens/vt.portal/src/app/pages/upload-slide-page/state/queries.spec.ts" />
-      <jump line="56" column="26" filename="C:/dev/definiens/vt.portal/src/app/pages/upload-slide-page/state/queries.spec.ts" />
-      <jump line="13" column="0" filename="C:/dev/definiens/vt.portal/component_tests/tests/slide-upload/get-or-create-unprocessed-slide-spec.ts" />
       <jump line="61" column="86" filename="C:/dev/definiens/vt.portal/src/app/components/slide-upload-image-selection/slide-upload-image-selection.component.spec.ts" />
       <jump line="37" column="55" filename="C:/dev/definiens/vt.portal/src/app/components/slide-upload-image-selection/slide-upload-image-selection.component.spec.ts" />
       <jump line="40" column="52" filename="C:/dev/definiens/vt.portal/src/app/components/slide-upload-image-selection/slide-upload-image-selection.component.spec.ts" />
@@ -691,6 +685,13 @@
       <jump line="620" column="13" filename="C:/dev/definiens/slide-original-image-service/test/impl/slide-upload-sessions-spec.ts" />
       <jump line="682" column="12" filename="C:/dev/definiens/slide-original-image-service/test/impl/slide-upload-sessions-spec.ts" />
       <jump line="703" column="8" filename="C:/dev/definiens/slide-original-image-service/test/impl/slide-upload-sessions-spec.ts" />
+      <jump line="192" column="10" filename="C:/dev/definiens/slide-original-image-service/src/impl/slide-upload-sessions.ts" />
+      <jump line="701" column="31" filename="C:/dev/definiens/slide-original-image-service/test/impl/slide-upload-sessions-spec.ts" />
+      <jump line="747" column="8" filename="C:/dev/definiens/slide-original-image-service/test/impl/slide-upload-sessions-spec.ts" />
+      <jump line="773" column="8" filename="C:/dev/definiens/slide-original-image-service/test/impl/slide-upload-sessions-spec.ts" />
+      <jump line="798" column="8" filename="C:/dev/definiens/slide-original-image-service/test/impl/slide-upload-sessions-spec.ts" />
+      <jump line="838" column="8" filename="C:/dev/definiens/slide-original-image-service/test/impl/slide-upload-sessions-spec.ts" />
+      <jump line="882" column="8" filename="C:/dev/definiens/slide-original-image-service/test/impl/slide-upload-sessions-spec.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -703,16 +704,16 @@
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>: null</text>
+        <text>only</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb250aW51ZVdyaXRlclw+</text>
+        <text>fails if</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgY29udGludWVXcml0ZXIgPSB7CiAgICAgICAgd3JpdGVDb250aW51ZTogc3R1YigpLAogICAgICB9OwoK</text>
+        <text encoding="base64">ICAgICAgICAudG8uYmUuZXZlbnR1YWxseS5yZWplY3RlZC5hbmQuaGF2ZS5wcm9wZXJ0eSgnbWVzc2FnZScpLnRvLmhhdmUuc3RyaW5nKGV4Y2VwdGlvbk1lc3NhZ2UpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAudG8uYmUuZXZlbnR1YWxseS5yZWplY3RlZC5hbmQubm90LmhhdmUucHJvcGVydHkoJ3N0YXR1c0NvZGUnKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -736,10 +737,10 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGlzQVdTRXJyb3IgPSAoZXJyOiBBV1NFcnJvciB8IEVycm9yKTogZXJyIGlzIEFXU0Vycm9yID0+IChlcnIgYXMgQVdTRXJyb3IpLnN0YXR1c0NvZGUgIT09IHVuZGVmaW5lZDsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmZvcm1hdFMzRXJyb3JNZXNzYWdlKGVyciwgc2xpZGVJZCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHRocm93IG5ldyBJbnRlcm5hbFNlcnZlckVycm9yKHRoaXMuZm9ybWF0UzNFcnJvck1lc3NhZ2UoZXJyLCBzbGlkZUlkKSk7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -751,13 +752,13 @@
         <text>uuuuuhhhhh</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGlzQVdTRXJyb3IgPSAoZXJyOiBBV1NFcnJvciB8IEVycm9yKTogZXJyIGlzIEFXU0Vycm9yID0+IChlcnIgYXMgQVdTRXJyb3IpLnN0YXR1c0NvZGUgIT09IHVuZGVmaW5lZDsKCg==</text>
+        <text encoding="base64">ICBwcml2YXRlIGlzQVdTRXJyb3IgPSAoZXJyOiBBV1NFcnJvciB8IEVycm9yKTogZXJyIGlzIEFXU0Vycm9yID0+IChlcnIgYXMgQVdTRXJyb3IpLnN0YXR1c0NvZGUgIT09IHVuZGVmaW5lZDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXNwb25zZURldGFpbHM7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -767,9 +768,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb250aW51ZVdyaXRlclw+</last-search>
+      <last-search>fails if</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb250aW51ZVdyaXRlclw+</last-pattern>
+      <last-pattern>fails if</last-pattern>
       <last-replace>m</last-replace>
       <last-substitute>getM</last-substitute>
       <last-dir>1</last-dir>
@@ -777,8 +778,6 @@
     </search>
     <history>
       <history-search>
-        <entry>colo</entry>
-        <entry>uploadsession</entry>
         <entry>upload</entry>
         <entry>import</entry>
         <entry>\cupload</entry>
@@ -797,6 +796,8 @@
         <entry>\cbad</entry>
         <entry encoding="base64">XDxpbXBvcnRcPg==</entry>
         <entry encoding="base64">XDxjb250aW51ZVdyaXRlclw+</entry>
+        <entry encoding="base64">XDxmb3JtYXRTM0Vycm9yTWVzc2FnZVw+</entry>
+        <entry>fails if</entry>
       </history-search>
       <history-cmd>
         <entry>1,$d</entry>
