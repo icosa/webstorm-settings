@@ -94,11 +94,11 @@
         <mark key="." line="7" column="32" />
         <mark key="^" line="7" column="32" />
       </file>
-      <file name="C:/dev/definiens/slide-original-image-service/src/impl/slide-upload-sessions.ts" timestamp="1549270622231">
-        <mark key="[" line="162" column="49" />
-        <mark key="]" line="162" column="49" />
-        <mark key="." line="162" column="49" />
-        <mark key="^" line="162" column="49" />
+      <file name="C:/dev/definiens/slide-original-image-service/src/impl/slide-upload-sessions.ts" timestamp="1549271783411">
+        <mark key="[" line="138" column="14" />
+        <mark key="]" line="139" column="21" />
+        <mark key="." line="139" column="21" />
+        <mark key="^" line="139" column="21" />
       </file>
       <file name="C:/dev/definiens/slide-original-image-service/test/impl/slide-upload-sessions-spec.ts" timestamp="1549031954510">
         <mark key="'" line="538" column="8" />
@@ -209,7 +209,9 @@
         <mark key="." line="10" column="34" />
         <mark key="^" line="10" column="34" />
       </file>
-      <file name="C:/dev/definiens/slide-original-image-service/node_modules/@types/http-errors/index.d.ts" timestamp="1549036629634" />
+      <file name="C:/dev/definiens/slide-original-image-service/node_modules/@types/http-errors/index.d.ts" timestamp="1549271651496">
+        <mark key="'" line="29" column="16" />
+      </file>
       <file name="C:/dev/definiens/pbs/src/impl/result-configs.ts" timestamp="1548844361584">
         <mark key="[" line="163" column="0" />
         <mark key="]" line="167" column="4" />
@@ -589,9 +591,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="38" filename="C:/dev/definiens/vt.portal/src/app/components/slide-upload-progress/slide-upload-progress.component.spec.ts" />
-      <jump line="10" column="1" filename="C:/dev/definiens/vt.portal/src/app/components/slide-upload-image-selection/slide-upload-image-selection.component.spec.ts" />
-      <jump line="66" column="10" filename="C:/dev/definiens/vt.portal/src/app/components/slide-upload-progress/slide-upload-progress.component.spec.ts" />
       <jump line="6" column="9" filename="C:/dev/definiens/vt.portal/src/app/components/slide-upload-image-selection/slide-upload-image-selection.component.html" />
       <jump line="36" column="4" filename="C:/dev/definiens/vt.portal/src/app/components/slide-upload-image-selection/slide-upload-image-selection.component.spec.ts" />
       <jump line="13" column="0" filename="C:/dev/definiens/vt.portal/src/app/pages/set-password-page/state/reducer.spec.ts" />
@@ -689,6 +688,9 @@
       <jump line="471" column="8" filename="C:/dev/definiens/slide-original-image-service/test/impl/slide-upload-sessions-spec.ts" />
       <jump line="503" column="8" filename="C:/dev/definiens/slide-original-image-service/test/impl/slide-upload-sessions-spec.ts" />
       <jump line="538" column="8" filename="C:/dev/definiens/slide-original-image-service/test/impl/slide-upload-sessions-spec.ts" />
+      <jump line="9" column="31" filename="C:/dev/definiens/slide-original-image-service/node_modules/@types/http-errors/index.d.ts" />
+      <jump line="60" column="9" filename="C:/dev/definiens/slide-original-image-service/node_modules/@types/http-errors/index.d.ts" />
+      <jump line="29" column="16" filename="C:/dev/definiens/slide-original-image-service/node_modules/@types/http-errors/index.d.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -701,16 +703,16 @@
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>CreateHttpError</text>
+        <text>string | undefined</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyYW5nZUVuZFw+</text>
+        <text>\cbad</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgY29uc3QgcmFuZ2VFbmQgPSAxMCAqIDEwMjQgKiAxMDI0IC0gMTsKICAgICAgY29uc3QgcmFuZ2VTdGFydCA9IDUgKiAxMDI0ICogMTAyNDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNyZWF0ZUh0dHBFcnJvciA9IHJlcXVpcmUoJ2h0dHAtZXJyb3JzJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IEludGVybmFsU2VydmVyRXJyb3IoYEZhaWxlZCB0byB1cGxvYWQgc2xpZGUgY2h1bmsgZm9yICR7c2xpZGVJZH0gdG8gczMgLSAke2Vycm9yTWVzc2FnZX1gKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -734,28 +736,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgY3JlYXRlSHR0cEVycm9yIGZyb20gJ2h0dHAtZXJyb3JzJzsK</text>
+        <text encoding="base64">ICBCYWRSZXF1ZXN0LAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjcmVhdGVIdHRwRXJyb3IK</text>
+        <text encoding="base64">aW1wb3J0IGNyZWF0ZUh0dHBFcnJvciA9IHJlcXVpcmUoJ2h0dHAtZXJyb3JzJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgY3JlYXRlSHR0cEVycm9yIGZyb20gJ2h0dHAtZXJyb3JzJzsK</text>
+        <text encoding="base64">ICAgICAgLy8gdGhyb3cgY3JlYXRlSHR0cEVycm9yKDUwMiwgZXJyb3JNZXNzYWdlKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBIdHRwRXJyb3JDb25zdHJ1Y3RvciwK</text>
+        <text encoding="base64">ICAvLyBIdHRwRXJyb3JDb25zdHJ1Y3Rvcgo=</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNyZWF0ZUh0dHBFcnJvciA9IHJlcXVpcmUoJ2h0dHAtZXJyb3JzJyk7Cg==</text>
+        <text encoding="base64">ICAvLyBOYW1lZENvbnN0cnVjdG9ycywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNyZWF0ZUh0dHBFcnJvciA9IHJlcXVpcmUoJ2h0dHAtZXJyb3JzJyk7Cg==</text>
+        <text encoding="base64">Ly8gaW1wb3J0ICogYXMgSHR0cEVycm9ycyBmcm9tICdodHRwLWVycm9ycyc7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjcmVhdGVIdHRwRXJyb3IsCg==</text>
+        <text encoding="base64">aW1wb3J0IGNyZWF0ZUh0dHBFcnJvciA9IHJlcXVpcmUoJ2h0dHAtZXJyb3JzJyk7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">aW1wb3J0ICogYXMgY3JlYXRlSHR0cEVycm9yIGZyb20gJ2h0dHAtZXJyb3JzJzsK</text>
@@ -765,9 +767,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyYW5nZUVuZFw+</last-search>
+      <last-search>\cbad</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyYW5nZUVuZFw+</last-pattern>
+      <last-pattern>\cbad</last-pattern>
       <last-replace>m</last-replace>
       <last-substitute>getM</last-substitute>
       <last-dir>1</last-dir>
@@ -775,10 +777,6 @@
     </search>
     <history>
       <history-search>
-        <entry>input</entry>
-        <entry>Input</entry>
-        <entry encoding="base64">XDxIVE1MSW5wdXRFbGVtZW50XD4=</entry>
-        <entry>left-cus</entry>
         <entry encoding="base64">XDxnZXRGaXJzdFNsaWRlXD4=</entry>
         <entry encoding="base64">XDxWaWV3ZXJVaUFjdGlvbnNcPg==</entry>
         <entry>colo</entry>
@@ -795,6 +793,10 @@
         <entry>exception</entry>
         <entry>\cexception</entry>
         <entry encoding="base64">XDxyYW5nZUVuZFw+</entry>
+        <entry>bad</entry>
+        <entry>badgateway</entry>
+        <entry>\cbadgate</entry>
+        <entry>\cbad</entry>
       </history-search>
       <history-cmd>
         <entry>1,$d</entry>
