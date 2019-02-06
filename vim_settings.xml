@@ -104,10 +104,10 @@
         <mark key="^" line="62" column="36" />
         <mark key="." line="62" column="36" />
       </file>
-      <file name="C:/dev/definiens/slide-original-image-service/test/impl/slide-upload-sessions-spec.ts" timestamp="1549286775614">
-        <mark key="'" line="882" column="8" />
-        <mark key="[" line="293" column="6" />
-        <mark key="]" line="293" column="6" />
+      <file name="C:/dev/definiens/slide-original-image-service/test/impl/slide-upload-sessions-spec.ts" timestamp="1549443070152">
+        <mark key="'" line="48" column="6" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="63" />
         <mark key="." line="293" column="6" />
         <mark key="^" line="293" column="5" />
       </file>
@@ -589,8 +589,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="55" filename="C:/dev/definiens/vt.portal/src/app/components/slide-upload-image-selection/slide-upload-image-selection.component.spec.ts" />
-      <jump line="40" column="52" filename="C:/dev/definiens/vt.portal/src/app/components/slide-upload-image-selection/slide-upload-image-selection.component.spec.ts" />
       <jump line="43" column="95" filename="C:/dev/definiens/vt.portal/src/app/components/slide-upload-image-selection/slide-upload-image-selection.component.spec.ts" />
       <jump line="46" column="76" filename="C:/dev/definiens/vt.portal/src/app/components/slide-upload-image-selection/slide-upload-image-selection.component.spec.ts" />
       <jump line="51" column="15" filename="C:/dev/definiens/vt.portal/src/app/components/slide-upload-image-selection/slide-upload-image-selection.component.spec.ts" />
@@ -689,6 +687,8 @@
       <jump line="882" column="8" filename="C:/dev/definiens/slide-original-image-service/test/impl/slide-upload-sessions-spec.ts" />
       <jump line="0" column="17" filename="C:/dev/definiens/vt.portal/src/app/pages/upload-slide-page/state/reducer.ts" />
       <jump line="23" column="0" filename="C:/dev/definiens/vt.portal/src/app/components/slide-upload-image-selection/slide-upload-image-selection.component.spec.ts" />
+      <jump line="88" column="23" filename="C:/dev/definiens/slide-original-image-service/test/impl/slide-upload-sessions-spec.ts" />
+      <jump line="48" column="6" filename="C:/dev/definiens/slide-original-image-service/test/impl/slide-upload-sessions-spec.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -704,10 +704,10 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>fit</text>
+        <text encoding="base64">XDxtb2NrUzNDbGllbnRcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>this.checkedFiles.has(uploadSlideMetaInfo.imageFile.name)</text>
+      <register name="0" type="2">
+        <text encoding="base64">Y29uc3QgbW9ja1MzQ2xpZW50ID0gKHMzTW9jazogUGFydGlhbDxTMz4pOiBTMyA9PiBzM01vY2sgYXMgUzM7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
@@ -765,9 +765,9 @@
       </register>
     </registers>
     <search>
-      <last-search>fit</last-search>
+      <last-search encoding="base64">XDxtb2NrUzNDbGllbnRcPg==</last-search>
       <last-offset />
-      <last-pattern>fit</last-pattern>
+      <last-pattern encoding="base64">XDxtb2NrUzNDbGllbnRcPg==</last-pattern>
       <last-replace>it</last-replace>
       <last-substitute>fit</last-substitute>
       <last-dir>1</last-dir>
@@ -775,7 +775,6 @@
     </search>
     <history>
       <history-search>
-        <entry>import</entry>
         <entry>\cupload</entry>
         <entry>\cUpLoaD</entry>
         <entry>\csession</entry>
@@ -795,6 +794,7 @@
         <entry encoding="base64">XDxmb3JtYXRTM0Vycm9yTWVzc2FnZVw+</entry>
         <entry>fails if</entry>
         <entry>fit</entry>
+        <entry encoding="base64">XDxtb2NrUzNDbGllbnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s//UploadSlideMetaInfo/</entry>
