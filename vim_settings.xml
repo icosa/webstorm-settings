@@ -521,12 +521,12 @@
         <mark key="." line="27" column="60" />
         <mark key="^" line="27" column="60" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/components/slide-upload-image-selection/slide-upload-image-selection.component.ts" timestamp="1549631637510">
-        <mark key="'" line="127" column="10" />
-        <mark key="[" line="109" column="39" />
-        <mark key="]" line="109" column="39" />
-        <mark key="^" line="109" column="39" />
-        <mark key="." line="109" column="39" />
+      <file name="C:/dev/definiens/vt.portal/src/app/components/slide-upload-image-selection/slide-upload-image-selection.component.ts" timestamp="1549632514742">
+        <mark key="'" line="126" column="10" />
+        <mark key="[" line="114" column="23" />
+        <mark key="]" line="114" column="23" />
+        <mark key="^" line="114" column="23" />
+        <mark key="." line="114" column="23" />
       </file>
       <file name="/upload-slides.reducer.ts" timestamp="1549547631822">
         <mark key="[" line="40" column="0" />
@@ -740,16 +740,16 @@
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>Upload not started</text>
+        <text>uploadSlideStatus</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzbGlkZXNTZWxlY3RlZFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgW1VwbG9hZFNsaWRlU3RhdHVzLlN1Y2NlZWRlZF06ICdVcGxvYWQgbm90IHN0YXJ0ZWQnLAo=</text>
+      <register name="0" type="4">
+        <text>'UNKNOWN STATUS'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN3aXRjaCAodXBsb2FkU2xpZGVTdGF0dXMpIHsKICAgICAgY2FzZSBVcGxvYWRTbGlkZVN0YXR1cy5Ob3RTdGFydGVkOgogICAgICAgIHJldHVybiAnVXBsb2FkIG5vdCBzdGFydGVkJzsKCiAgICAgIGNhc2UgVXBsb2FkU2xpZGVTdGF0dXMuSW5Qcm9ncmVzczoKICAgICAgICByZXR1cm4gJ1VwbG9hZCBpbiBwcm9ncmVzcyc7CgogICAgICBjYXNlIFVwbG9hZFNsaWRlU3RhdHVzLlN1Y2NlZWRlZDoKICAgICAgICByZXR1cm4gJ1VwbG9hZCBjb21wbGV0ZWQgc3VjY2Vzc2Z1bGx5JzsKCiAgICAgIGNhc2UgVXBsb2FkU2xpZGVTdGF0dXMuRmFpbGVkOgogICAgICAgIHJldHVybiAnVXBsb2FkIGZhaWxlZCc7CgogICAgICBkZWZhdWx0OgogICAgICAgIHRocm93IG5ldyBFcnJvcignU2xpZGVVcGxvYWRQcm9ncmVzc0NvbXBvbmVudCAtIFVua25vd24gc2xpZGUgcHJvZ3Jlc3MhJyk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgJ3Vua25vd24nOiAnVU5LTk9XTiBTVEFUVVMnLAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -773,31 +773,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjYXNlIFVwbG9hZFNsaWRlU3RhdHVzLkZhaWxlZDoK</text>
+        <text encoding="base64">ICAgIHN3aXRjaCAodXBsb2FkU2xpZGVTdGF0dXMpIHsKICAgICAgY2FzZSBVcGxvYWRTbGlkZVN0YXR1cy5Ob3RTdGFydGVkOgogICAgICAgIHJldHVybiAnVXBsb2FkIG5vdCBzdGFydGVkJzsKCiAgICAgIGNhc2UgVXBsb2FkU2xpZGVTdGF0dXMuSW5Qcm9ncmVzczoKICAgICAgICByZXR1cm4gJ1VwbG9hZCBpbiBwcm9ncmVzcyc7CgogICAgICBjYXNlIFVwbG9hZFNsaWRlU3RhdHVzLlN1Y2NlZWRlZDoKICAgICAgICByZXR1cm4gJ1VwbG9hZCBjb21wbGV0ZWQgc3VjY2Vzc2Z1bGx5JzsKCiAgICAgIGNhc2UgVXBsb2FkU2xpZGVTdGF0dXMuRmFpbGVkOgogICAgICAgIHJldHVybiAnVXBsb2FkIGZhaWxlZCc7CgogICAgICBkZWZhdWx0OgogICAgICAgIHRocm93IG5ldyBFcnJvcignU2xpZGVVcGxvYWRQcm9ncmVzc0NvbXBvbmVudCAtIFVua25vd24gc2xpZGUgcHJvZ3Jlc3MhJyk7CiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjYXNlIFVwbG9hZFNsaWRlU3RhdHVzLkZhaWxlZDoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAnVXBsb2FkIGZhaWxlZCc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>[UploadSlideStatus.Succeeded]</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHJldHVybiAnVXBsb2FkIGZhaWxlZCc7Cg==</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgW1VwbG9hZFNsaWRlU3RhdHVzLlN1Y2NlZWRlZF06ICdVcGxvYWQgbm90IHN0YXJ0ZWQnLAogICAgICBbVXBsb2FkU2xpZGVTdGF0dXMuU3VjY2VlZGVkXTogJ1VwbG9hZCBub3Qgc3RhcnRlZCcsCg==</text>
+      <register name="6" type="4">
+        <text>[UploadSlideStatus.Succeeded]</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjYXNlIFVwbG9hZFNsaWRlU3RhdHVzLkluUHJvZ3Jlc3M6CiAgICByZXR1cm4gJ1VwbG9hZCBpbiBwcm9ncmVzcyc7CgogIGNhc2UgVXBsb2FkU2xpZGVTdGF0dXMuU3VjY2VlZGVkOgogICAgcmV0dXJuICdVcGxvYWQgY29tcGxldGVkIHN1Y2Nlc3NmdWxseSc7Cgo=</text>
+        <text encoding="base64">ICAgICAgW1VwbG9hZFNsaWRlU3RhdHVzLlN1Y2NlZWRlZF06ICdVcGxvYWQgbm90IHN0YXJ0ZWQnLAogICAgICBbVXBsb2FkU2xpZGVTdGF0dXMuU3VjY2VlZGVkXTogJ1VwbG9hZCBub3Qgc3RhcnRlZCcsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgW1VwbG9hZFNsaWRlU3RhdHVzLk5vdFN0YXJ0ZWRdOiAnVXBsb2FkIG5vdCBzdGFydGVkJywK</text>
+        <text encoding="base64">ICBjYXNlIFVwbG9hZFNsaWRlU3RhdHVzLkluUHJvZ3Jlc3M6CiAgICByZXR1cm4gJ1VwbG9hZCBpbiBwcm9ncmVzcyc7CgogIGNhc2UgVXBsb2FkU2xpZGVTdGF0dXMuU3VjY2VlZGVkOgogICAgcmV0dXJuICdVcGxvYWQgY29tcGxldGVkIHN1Y2Nlc3NmdWxseSc7Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PC9uZy10ZW1wbGF0ZT4K</text>
+        <text encoding="base64">ICAgICAgW1VwbG9hZFNsaWRlU3RhdHVzLk5vdFN0YXJ0ZWRdOiAnVXBsb2FkIG5vdCBzdGFydGVkJywK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
