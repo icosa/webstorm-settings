@@ -241,10 +241,10 @@
         <mark key="^" line="30" column="11" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/components/slide-upload-image-selection/slide-upload-image-selection.component.spec.ts" timestamp="1549970019590">
+      <file name="C:/dev/definiens/vt.portal/src/app/components/slide-upload-image-selection/slide-upload-image-selection.component.spec.ts" timestamp="1550054795254">
         <mark key="'" line="42" column="51" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
+        <mark key="[" line="179" column="0" />
+        <mark key="]" line="249" column="5" />
         <mark key="^" line="234" column="79" />
         <mark key="." line="31" column="0" />
       </file>
@@ -754,7 +754,7 @@
         <text encoding="base64">XDwsXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdChhbGxGaWxlc0NoZWNrZWRTdGF0ZS5lbnRpdGllc1tmaWxlTmFtZXNbMF1dLmNoZWNrZWQpLnRvRXF1YWwoZmFsc2UpOwo=</text>
+        <text encoding="base64">ICBpdCAoJ1NlbGVjdCBBbGwgVG9nZ2xlIHNob3VsZCBiZSBkaXNhYmxlZCB3aGVuIG5vIGl0ZW1zIGluIGxpc3QnLCBhc3luYyAoKSA9PiB7CiAgICAvLyBhcnJhbmdlCiAgICBjb25zdCBjb21wb25lbnQgPSBmaXh0dXJlLmNvbXBvbmVudEluc3RhbmNlOwogICAgY29tcG9uZW50LnVwbG9hZFNsaWRlTWV0YUluZm9zID0gW107CgogICAgLy8gYWN0CiAgICBmaXh0dXJlLmRldGVjdENoYW5nZXMoKTsKCiAgICAvLyBhc3NlcnQKICAgIGF3YWl0IGV4cGVjdChpc0NoZWNrQm94RGlzYWJsZWQoZ2V0VG9nZ2xlU2VsZWN0QWxsSW5wdXQoKSkpLnRvQmVUcnV0aHkoKTsKICAgIGF3YWl0IGV4cGVjdChpc0NoZWNrQm94Q2hlY2tlZChnZXRUb2dnbGVTZWxlY3RBbGxJbnB1dCgpKSkudG9CZUZhbHN5KCk7CiAgfSk7CgogIGl0ICgnU2VsZWN0IEFsbCBUb2dnbGUgc2hvdWxkIGJlIGVuYWJsZWQgd2hlbiBzb21lIGl0ZW1zIGluIGxpc3QnLCBhc3luYyAoKSA9PiB7CiAgICAvLyBhcnJhbmdlCiAgICBjb25zdCBjb21wb25lbnQgPSBmaXh0dXJlLmNvbXBvbmVudEluc3RhbmNlOwogICAgY29tcG9uZW50LnVwbG9hZFNsaWRlTWV0YUluZm9zID0gW2NyZWF0ZVVwbG9hZE1ldGFJbmZvKCdhYmMuanBnJyldOwoKICAgIC8vIGFjdAogICAgZml4dHVyZS5kZXRlY3RDaGFuZ2VzKCk7CgogICAgLy8gYXNzZXJ0CiAgICBhd2FpdCBleHBlY3QoaXNDaGVja0JveERpc2FibGVkKGdldFRvZ2dsZVNlbGVjdEFsbElucHV0KCkpKS50b0JlRmFsc3koKTsKICAgIGF3YWl0IGV4cGVjdChpc0NoZWNrQm94Q2hlY2tlZChnZXRUb2dnbGVTZWxlY3RBbGxJbnB1dCgpKSkudG9CZUZhbHN5KCk7CiAgfSk7CgogIGl0ICgnU2VsZWN0IEFsbCBUb2dnbGUgc2hvdWxkIGJlIGNoZWNrZWQgd2hlbiBhbGwgaXRlbXMgaW4gbGlzdCBhcmUgY2hlY2tlZCcsIGFzeW5jICgpID0+IHsKICAgIC8vIGFycmFuZ2UKICAgIGNvbnN0IGNvbXBvbmVudCA9IGZpeHR1cmUuY29tcG9uZW50SW5zdGFuY2U7CiAgICBjb21wb25lbnQuY2hlY2tTdGF0dXNTdW1tYXJ5ID0gewogICAgICBzb21lSXRlbXNDaGVja2VkOiB0cnVlLAogICAgICBpdGVtc1BhcnRpYWxseUNoZWNrZWQ6IGZhbHNlLAogICAgfTsKCiAgICAvLyBhY3QKICAgIGZpeHR1cmUuZGV0ZWN0Q2hhbmdlcygpOwoKICAgIC8vIGFzc2VydAogICAgYXdhaXQgZXhwZWN0KGlzQ2hlY2tCb3hDaGVja2VkKGdldFRvZ2dsZVNlbGVjdEFsbElucHV0KCkpKS50b0JlVHJ1dGh5KCk7CiAgICBhd2FpdCBleHBlY3QoaXNDaGVja0JveEluZGV0ZXJtaW5hdGUoZ2V0VG9nZ2xlU2VsZWN0QWxsSW5wdXQoKSkpLnRvQmVGYWxzeSgpOwogIH0pOwoKICBpdCAoJ1NlbGVjdCBBbGwgVG9nZ2xlIHNob3VsZCBiZSBjaGVja2VkIGFuZCBpbmRldGVybWluYXRlIHdoZW4gc29tZSBpdGVtcyBpbiBsaXN0IGFyZSBjaGVja2VkJywgYXN5bmMgKCkgPT4gewogICAgLy8gYXJyYW5nZQogICAgY29uc3QgY29tcG9uZW50ID0gZml4dHVyZS5jb21wb25lbnRJbnN0YW5jZTsKICAgIGNvbXBvbmVudC5jaGVja1N0YXR1c1N1bW1hcnkgPSB7CiAgICAgIHNvbWVJdGVtc0NoZWNrZWQ6IHRydWUsCiAgICAgIGl0ZW1zUGFydGlhbGx5Q2hlY2tlZDogdHJ1ZSwKICAgIH07CgogICAgLy8gYWN0CiAgICBmaXh0dXJlLmRldGVjdENoYW5nZXMoKTsKCiAgICAvLyBhc3NlcnQKICAgIGF3YWl0IGV4cGVjdChpc0NoZWNrQm94Q2hlY2tlZChnZXRUb2dnbGVTZWxlY3RBbGxJbnB1dCgpKSkudG9CZVRydXRoeSgpOwogICAgYXdhaXQgZXhwZWN0KGlzQ2hlY2tCb3hJbmRldGVybWluYXRlKGdldFRvZ2dsZVNlbGVjdEFsbElucHV0KCkpKS50b0JlVHJ1dGh5KCk7CiAgfSk7CgogIGl0ICgnQ2xpY2tpbmcgU2VsZWN0IEFsbCBUb2dnbGUgc2hvdWxkIGVtaXQgYSB0b2dnbGUgc2VsZWN0IGFsbCBldmVudCcsIGFzeW5jICgpID0+IHsKICAgIC8vIGFycmFuZ2UKICAgIGNvbnN0IGNvbXBvbmVudCA9IGZpeHR1cmUuY29tcG9uZW50SW5zdGFuY2U7CiAgICBjb21wb25lbnQudXBsb2FkU2xpZGVNZXRhSW5mb3MgPSBbY3JlYXRlVXBsb2FkTWV0YUluZm8oJ2FiYy5qcGcnKV07CiAgICBjb25zdCBvblRvZ2dsZVNlbGVjdEFsbCA9IHNweU9uKGNvbXBvbmVudCwgJ29uVG9nZ2xlU2VsZWN0QWxsJyk7CgogICAgLy8gYWN0CiAgICBmaXh0dXJlLmRldGVjdENoYW5nZXMoKTsKICAgIGdldFRvZ2dsZVNlbGVjdEFsbElucHV0KCkudHJpZ2dlckV2ZW50SGFuZGxlcignY2xpY2snLCBudWxsKTsKCiAgICAvLyBhc3NlcnQKICAgIGV4cGVjdChvblRvZ2dsZVNlbGVjdEFsbCkudG9IYXZlQmVlbkNhbGxlZCgpOwogIH0pOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -808,7 +808,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action ExpandRegionRecursively</text>
       </register>
     </registers>
     <search>
@@ -860,10 +860,10 @@
         <entry>we</entry>
         <entry>qw</entry>
         <entry>x</entry>
-        <entry>action ExpandRegionRecursively</entry>
         <entry>%s/false/check/i</entry>
         <entry>%s/false/check/c</entry>
         <entry>w</entry>
+        <entry>action ExpandRegionRecursively</entry>
       </history-cmd>
       <history-expr />
       <history-input />
