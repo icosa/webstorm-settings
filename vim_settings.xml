@@ -433,8 +433,8 @@
         <mark key="." line="75" column="51" />
         <mark key="^" line="75" column="51" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/component_tests/tests/slide-upload/upload-slide-page-interactions-spec.ts" timestamp="1550140439209">
-        <mark key="'" line="151" column="23" />
+      <file name="C:/dev/definiens/vt.portal/component_tests/tests/slide-upload/upload-slide-page-interactions-spec.ts" timestamp="1550140797947">
+        <mark key="'" line="78" column="24" />
         <mark key="[" line="122" column="26" />
         <mark key="]" line="14" column="18" />
         <mark key="." line="14" column="18" />
@@ -643,13 +643,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17029" column="13" filename="C:/dev/definiens/vt.portal/node_modules/typescript/lib/lib.dom.d.ts" />
-      <jump line="19" column="0" filename="C:/dev/definiens/vt.portal/src/app/components/slide-upload-image-selection/slide-upload-image-selection.component.spec.ts" />
-      <jump line="0" column="0" filename="C:/dev/definiens/vt.portal/src/app/components/slide-upload-image-selection/slide-upload-image-selection.component.spec.ts" />
-      <jump line="109" column="6" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/control-panel/control-panel.component.html" />
-      <jump line="269" column="10" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/control-panel/control-panel.component.ts" />
-      <jump line="6" column="12" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/control-panel/control-panel.component.ts" />
-      <jump line="184" column="43" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/control-panel/control-panel.component.ts" />
       <jump line="188" column="0" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-tab-panel/results-panel/results-panel.component-template.spec.ts" />
       <jump line="19" column="4" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-tab-panel/results-panel/results-panel.component-template.spec.ts" />
       <jump line="26" column="4" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-tab-panel/results-panel/results-panel.component-template.spec.ts" />
@@ -733,9 +726,7 @@
       <jump line="14" column="18" filename="C:/dev/definiens/vt.portal/component_tests/tests/slide-upload/upload-slide-page-interactions-spec.ts" />
       <jump line="63" column="23" filename="C:/dev/definiens/vt.portal/component_tests/tests/slide-upload/upload-slide-page-interactions-spec.ts" />
       <jump line="67" column="47" filename="C:/dev/definiens/vt.portal/component_tests/tests/slide-upload/upload-slide-page-interactions-spec.ts" />
-      <jump line="68" column="10" filename="C:/dev/definiens/vt.portal/component_tests/tests/slide-upload/upload-slide-page-interactions-spec.ts" />
       <jump line="69" column="17" filename="C:/dev/definiens/vt.portal/component_tests/tests/slide-upload/upload-slide-page-interactions-spec.ts" />
-      <jump line="70" column="10" filename="C:/dev/definiens/vt.portal/component_tests/tests/slide-upload/upload-slide-page-interactions-spec.ts" />
       <jump line="71" column="17" filename="C:/dev/definiens/vt.portal/component_tests/tests/slide-upload/upload-slide-page-interactions-spec.ts" />
       <jump line="74" column="56" filename="C:/dev/definiens/vt.portal/component_tests/tests/slide-upload/upload-slide-page-interactions-spec.ts" />
       <jump line="84" column="23" filename="C:/dev/definiens/vt.portal/component_tests/tests/slide-upload/upload-slide-page-interactions-spec.ts" />
@@ -743,6 +734,15 @@
       <jump line="119" column="57" filename="C:/dev/definiens/vt.portal/component_tests/tests/slide-upload/upload-slide-page-interactions-spec.ts" />
       <jump line="129" column="23" filename="C:/dev/definiens/vt.portal/component_tests/tests/slide-upload/upload-slide-page-interactions-spec.ts" />
       <jump line="151" column="23" filename="C:/dev/definiens/vt.portal/component_tests/tests/slide-upload/upload-slide-page-interactions-spec.ts" />
+      <jump line="141" column="10" filename="C:/dev/definiens/vt.portal/component_tests/tests/slide-upload/upload-slide-page-interactions-spec.ts" />
+      <jump line="144" column="31" filename="C:/dev/definiens/vt.portal/component_tests/tests/slide-upload/upload-slide-page-interactions-spec.ts" />
+      <jump line="56" column="37" filename="C:/dev/definiens/vt.portal/component_tests/tests/slide-upload/upload-slide-page-interactions-spec.ts" />
+      <jump line="60" column="44" filename="C:/dev/definiens/vt.portal/component_tests/tests/slide-upload/upload-slide-page-interactions-spec.ts" />
+      <jump line="64" column="35" filename="C:/dev/definiens/vt.portal/component_tests/tests/slide-upload/upload-slide-page-interactions-spec.ts" />
+      <jump line="68" column="35" filename="C:/dev/definiens/vt.portal/component_tests/tests/slide-upload/upload-slide-page-interactions-spec.ts" />
+      <jump line="70" column="41" filename="C:/dev/definiens/vt.portal/component_tests/tests/slide-upload/upload-slide-page-interactions-spec.ts" />
+      <jump line="77" column="10" filename="C:/dev/definiens/vt.portal/component_tests/tests/slide-upload/upload-slide-page-interactions-spec.ts" />
+      <jump line="78" column="24" filename="C:/dev/definiens/vt.portal/component_tests/tests/slide-upload/upload-slide-page-interactions-spec.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -758,7 +758,7 @@
         <text>Enabled</text>
       </register>
       <register name="/" type="4">
-        <text>select</text>
+        <text encoding="base64">XDxzbGlkZVVwbG9hZFBhZ2VcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnN0IHNlbGVjdEFsbEVuYWJsZWQgPSBhd2FpdCBzbGlkZVVwbG9hZFBhZ2UuaXNTZWxlY3RBbGxDaGVja2JveEVuYWJsZWQoKTsKICAgIGF3YWl0IGV4cGVjdChzZWxlY3RBbGxFbmFibGVkKS50b0JlRmFsc3koKTsK</text>
@@ -819,9 +819,9 @@
       </register>
     </registers>
     <search>
-      <last-search>select</last-search>
+      <last-search encoding="base64">XDxzbGlkZVVwbG9hZFBhZ2VcPg==</last-search>
       <last-offset />
-      <last-pattern>select</last-pattern>
+      <last-pattern encoding="base64">XDxzbGlkZVVwbG9hZFBhZ2VcPg==</last-pattern>
       <last-replace>check</last-replace>
       <last-substitute>false</last-substitute>
       <last-dir>1</last-dir>
@@ -829,7 +829,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\cetag</entry>
         <entry>exception</entry>
         <entry>\cexception</entry>
         <entry encoding="base64">XDxyYW5nZUVuZFw+</entry>
@@ -849,6 +848,7 @@
         <entry>false</entry>
         <entry encoding="base64">XDwsXD4=</entry>
         <entry>select</entry>
+        <entry encoding="base64">XDxzbGlkZVVwbG9hZFBhZ2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>17t11</entry>
