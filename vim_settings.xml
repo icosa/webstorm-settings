@@ -213,12 +213,12 @@
       <file name="C:/dev/definiens/slide-original-image-service/node_modules/@types/http-errors/index.d.ts" timestamp="1549271651496">
         <mark key="'" line="29" column="16" />
       </file>
-      <file name="C:/dev/definiens/shared-protractor-utils/pageObjects/portal/pages/slide-upload.po/slide-upload.po.ts" timestamp="1550149864237">
-        <mark key="'" line="15" column="10" />
-        <mark key="[" line="87" column="27" />
-        <mark key="]" line="87" column="4" />
-        <mark key="." line="87" column="4" />
-        <mark key="^" line="88" column="1" />
+      <file name="C:/dev/definiens/shared-protractor-utils/pageObjects/portal/pages/slide-upload.po/slide-upload.po.ts" timestamp="1550150682792">
+        <mark key="'" line="105" column="16" />
+        <mark key="[" line="103" column="3" />
+        <mark key="]" line="104" column="1" />
+        <mark key="." line="104" column="1" />
+        <mark key="^" line="104" column="1" />
       </file>
       <file name="C:/dev/definiens/vt.portal/component_tests/utils/config-generator.ts" timestamp="1544537574635">
         <mark key="[" line="107" column="106" />
@@ -632,10 +632,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="128" column="40" filename="C:/dev/definiens/slide-original-image-service/test/controllers/slide-upload-sessions-spec.ts" />
-      <jump line="149" column="84" filename="C:/dev/definiens/slide-original-image-service/test/controllers/slide-upload-sessions-spec.ts" />
-      <jump line="155" column="22" filename="C:/dev/definiens/slide-original-image-service/test/controllers/slide-upload-sessions-spec.ts" />
-      <jump line="0" column="20" filename="C:/dev/definiens/slide-original-image-service/test/controllers/slide-upload-sessions-spec.ts" />
       <jump line="65" column="34" filename="C:/dev/definiens/vt.portal/src/app/components/slide-upload-image-selection/slide-upload-image-selection.component.ts" />
       <jump line="96" column="10" filename="C:/dev/definiens/vt.portal/src/app/components/slide-upload-image-selection/slide-upload-image-selection.component.ts" />
       <jump line="243" column="4" filename="C:/dev/definiens/slide-original-image-service/node_modules/aws-sdk/clients/s3.d.ts" />
@@ -732,6 +728,10 @@
       <jump line="167" column="55" filename="C:/dev/definiens/vt.portal/component_tests/tests/slide-upload/upload-slide-page-interactions-spec.ts" />
       <jump line="15" column="10" filename="C:/dev/definiens/shared-protractor-utils/pageObjects/portal/pages/slide-upload.po/slide-upload.po.ts" />
       <jump line="4502" column="13" filename="C:/dev/definiens/shared-protractor-utils/node_modules/@types/selenium-webdriver/index.d.ts" />
+      <jump line="74" column="0" filename="C:/dev/definiens/shared-protractor-utils/pageObjects/portal/pages/slide-upload.po/slide-upload.po.ts" />
+      <jump line="111" column="15" filename="C:/dev/definiens/shared-protractor-utils/pageObjects/portal/pages/slide-upload.po/slide-upload.po.ts" />
+      <jump line="62" column="15" filename="C:/dev/definiens/shared-protractor-utils/pageObjects/portal/pages/slide-upload.po/slide-upload.po.ts" />
+      <jump line="102" column="16" filename="C:/dev/definiens/shared-protractor-utils/pageObjects/portal/pages/slide-upload.po/slide-upload.po.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -744,16 +744,16 @@
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text encoding="base64">ID0+IHZvaWQpIA==</text>
       </register>
       <register name="/" type="4">
-        <text>click</text>
+        <text encoding="base64">XDxpdGVyYXRlQWxsUm93c1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0aGlzLnNlbGVjdEFsbENoZWNrYm94LmlzRW5hYmxlZCgpOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">KHJvd0NlbGxzOiBFbGVtZW50QXJyYXlGaW5kZXIpID0+IHZvaWQpIHsKICAgIGNvbnN0IHRhYmxlUm93cyA9IGF3YWl0IHRoaXMuc2VsZWN0ZWRTbGlkZXNUYWJsZS5lbGVtZW50KGJ5LmNzcygndGJvZHknKSkuYWxsKGJ5LmNzcygndHInKSk7CiAgICBmb3IgKGNvbnN0IHJvdyBvZiB0YWJsZVJvd3MpIHsKICAgICAgY29uc3Qgcm93Q2VsbHMgPSByb3cuYWxsKGJ5LmNzcygndGQnKSk7CiAgICAgIGF3YWl0IHJvd0NhbGxiYWNrKHJvd0NlbGxzKTsKICAgIH0KICB9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHRhYmxlUm93cyA9IGF3YWl0IHRoaXMuc2VsZWN0ZWRTbGlkZXNUYWJsZS5lbGVtZW50KGJ5LmNzcygndGJvZHknKSkuYWxsKGJ5LmNzcygndHInKSk7CiAgICBmb3IgKGNvbnN0IHJvdyBvZiB0YWJsZVJvd3MpIHsKICAgICAgY29uc3Qgcm93Q2VsbHMgPSByb3cuYWxsKGJ5LmNzcygndGQnKSk7CiAgICAgIGF3YWl0IHJvd0NhbGxiYWNrKHJvd0NlbGxzKTsKICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -777,16 +777,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIHRlc3QK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIGNoZWNrIGFnYWluZwo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgIC8vIHRlc3QK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC8vIGNoZWNrIGFnYWluZwo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIHRlc3QK</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
@@ -795,22 +795,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IGV4cGVjdChzZWxlY3RBbGxJbmRldGVybWluYXRlKS50b0JlRmFsc3koKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHNlbGVjdEFsbEluZGV0ZXJtaW5hdGUgPSBhd2FpdCBzbGlkZVVwbG9hZFBhZ2UuaXNTZWxlY3RBbGxDaGVja2JveEluZGV0ZXJtaW5hdGUoKTsK</text>
+        <text encoding="base64">ICAgIGF3YWl0IGV4cGVjdChzZWxlY3RBbGxJbmRldGVybWluYXRlKS50b0JlRmFsc3koKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>click</last-search>
+      <last-search encoding="base64">XDxpdGVyYXRlQWxsUm93c1w+</last-search>
       <last-offset />
-      <last-pattern>click</last-pattern>
+      <last-pattern encoding="base64">XDxpdGVyYXRlQWxsUm93c1w+</last-pattern>
       <last-replace>ue }</last-replace>
       <last-substitute>ue}</last-substitute>
       <last-dir>1</last-dir>
@@ -818,7 +818,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\cbadgate</entry>
         <entry>\cbad</entry>
         <entry encoding="base64">XDxpbXBvcnRcPg==</entry>
         <entry encoding="base64">XDxjb250aW51ZVdyaXRlclw+</entry>
@@ -838,6 +837,7 @@
         <entry>ue}</entry>
         <entry encoding="base64">XDxzZWxlY3RBbGxDaGVja2JveFw+</entry>
         <entry>click</entry>
+        <entry encoding="base64">XDxpdGVyYXRlQWxsUm93c1w+</entry>
       </history-search>
       <history-cmd>
         <entry>17,20m37</entry>
