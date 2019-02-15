@@ -409,11 +409,11 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="0" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/pipes/sort-slide.pipe.ts" timestamp="1550235029652">
+      <file name="C:/dev/definiens/vt.portal/src/app/pipes/sort-slide.pipe.ts" timestamp="1550237388955">
         <mark key="[" line="2" column="24" />
-        <mark key="]" line="2" column="24" />
-        <mark key="." line="2" column="24" />
-        <mark key="^" line="2" column="20" />
+        <mark key="]" line="10" column="23" />
+        <mark key="." line="10" column="23" />
+        <mark key="^" line="10" column="23" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slides-effect.ts" timestamp="1549988747647">
         <mark key="[" line="56" column="0" />
@@ -664,6 +664,12 @@
         <mark key="^" line="13" column="39" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="C:/dev/definiens/vt.portal/src/@types/natural-compare-lite/natural-compare-lite.d.ts" timestamp="1550237379336">
+        <mark key="[" line="1" column="58" />
+        <mark key="]" line="1" column="63" />
+        <mark key="." line="1" column="63" />
+        <mark key="^" line="1" column="63" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="587" column="12" filename="C:/dev/definiens/slide-original-image-service/test/impl/slide-upload-sessions-spec.ts" />
@@ -778,7 +784,7 @@
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>require</text>
+        <text>boolean</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTZWxlY3Rpb25DaGVja1w+</text>
@@ -787,7 +793,7 @@
         <text>UploadSlideMetaInfo[]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgU3RyaW5nIGZyb20gJ25hdHVyYWwtY29tcGFyZS1saXRlJzsK</text>
+        <text encoding="base64">ICBpbnRlcmZhY2UgQ29ubmVjdGlvbk9wdGlvbnMgewogICAgdXNlTW9uZ29DbGllbnQ/OiBib29sZWFuOwogIH0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -811,31 +817,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU29ydFNsaWRlUGlwZSB9IGZyb20gJy4uLy4uL3BpcGVzJzsK</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgU3RyaW5nIGZyb20gJ25hdHVyYWwtY29tcGFyZS1saXRlJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwaXBlOiBbU29ydFNsaWRlUGlwZV0sCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgU29ydFNsaWRlUGlwZSB9IGZyb20gJy4uLy4uL3BpcGVzJzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IHsgS2V5VmFsdWVQaXBlIH0gZnJvbSAnLi9rZXlUcmFuc2Zvcm0ucGlwZSc7Cg==</text>
+        <text encoding="base64">ICBwaXBlOiBbU29ydFNsaWRlUGlwZV0sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJzaGFyZWQtcHJvdHJhY3Rvci11dGlscyI6ICJeMS4wLjczIiwK</text>
+        <text encoding="base64">Ly8gaW1wb3J0IHsgS2V5VmFsdWVQaXBlIH0gZnJvbSAnLi9rZXlUcmFuc2Zvcm0ucGlwZSc7Cg==</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIHNlbGVjdCBhbGwgYW5kIGNvdW50Cg==</text>
+        <text encoding="base64">ICAgICJzaGFyZWQtcHJvdHJhY3Rvci11dGlscyI6ICJeMS4wLjczIiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhd2FpdCBmaWxlQ2hlY2tib3guY2xpY2soKTsK</text>
+        <text encoding="base64">ICAgIC8vIHNlbGVjdCBhbGwgYW5kIGNvdW50Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgY2hlY2tib3ggPSBhd2FpdCB0aGlzLmdldENlbGxGcm9tUm93U2FmZShTZWxlY3Rpb25UYWJsZUNvbHVtbkluZGljZXMuU2VsZWN0aW9uQ2hlY2ssIHJvd0NlbGxzKTsK</text>
+        <text encoding="base64">ICAgICAgICBhd2FpdCBmaWxlQ2hlY2tib3guY2xpY2soKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgY2hlY2tib3ggPSBhd2FpdCB0aGlzLmdldENlbGxGcm9tUm93U2FmZShTZWxlY3Rpb25UYWJsZUNvbHVtbkluZGljZXMuU2VsZWN0aW9uQ2hlY2ssIHJvd0NlbGxzKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
