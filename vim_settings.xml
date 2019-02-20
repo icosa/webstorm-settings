@@ -197,6 +197,9 @@
         <mark key="." line="14" column="20" />
         <mark key="^" line="14" column="20" />
       </file>
+      <file name="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/state/image-view-query-factory.ts" timestamp="1550677644961">
+        <mark key="'" line="27" column="34" />
+      </file>
       <file name="C:/dev/definiens/vt.portal_latest/src/app/pages/state/index.ts" timestamp="1544703671758">
         <mark key="[" line="16" column="27" />
         <mark key="]" line="17" column="35" />
@@ -550,6 +553,9 @@
         <mark key="^" line="5" column="18" />
         <mark key="." line="5" column="18" />
       </file>
+      <file name="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/state/effects/analysis-results.effects.ts" timestamp="1550677335405">
+        <mark key="[" line="3" column="47" />
+      </file>
       <file name="C:/dev/definiens/vt.portal/src/app/state/actions/index.ts" timestamp="1541407991853">
         <mark key="[" line="1" column="34" />
         <mark key="]" line="2" column="0" />
@@ -567,6 +573,11 @@
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/pages/upload-slide-page/state/reducer.ts" timestamp="1549289602698">
         <mark key="'" line="0" column="17" />
+      </file>
+      <file name="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/image-viewer.component.ts" timestamp="1550678075510">
+        <mark key="'" line="40" column="13" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="40" column="33" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slides.effect.ts" timestamp="1543852036326">
         <mark key="[" line="32" column="14" />
@@ -698,15 +709,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="703" column="8" filename="C:/dev/definiens/slide-original-image-service/test/impl/slide-upload-sessions-spec.ts" />
-      <jump line="192" column="10" filename="C:/dev/definiens/slide-original-image-service/src/impl/slide-upload-sessions.ts" />
-      <jump line="701" column="31" filename="C:/dev/definiens/slide-original-image-service/test/impl/slide-upload-sessions-spec.ts" />
-      <jump line="747" column="8" filename="C:/dev/definiens/slide-original-image-service/test/impl/slide-upload-sessions-spec.ts" />
-      <jump line="773" column="8" filename="C:/dev/definiens/slide-original-image-service/test/impl/slide-upload-sessions-spec.ts" />
-      <jump line="798" column="8" filename="C:/dev/definiens/slide-original-image-service/test/impl/slide-upload-sessions-spec.ts" />
-      <jump line="838" column="8" filename="C:/dev/definiens/slide-original-image-service/test/impl/slide-upload-sessions-spec.ts" />
-      <jump line="882" column="8" filename="C:/dev/definiens/slide-original-image-service/test/impl/slide-upload-sessions-spec.ts" />
-      <jump line="0" column="17" filename="C:/dev/definiens/vt.portal/src/app/pages/upload-slide-page/state/reducer.ts" />
       <jump line="23" column="0" filename="C:/dev/definiens/vt.portal/src/app/components/slide-upload-image-selection/slide-upload-image-selection.component.spec.ts" />
       <jump line="88" column="23" filename="C:/dev/definiens/slide-original-image-service/test/impl/slide-upload-sessions-spec.ts" />
       <jump line="48" column="6" filename="C:/dev/definiens/slide-original-image-service/test/impl/slide-upload-sessions-spec.ts" />
@@ -798,6 +800,15 @@
       <jump line="3" column="7" filename="C:/dev/definiens/vt.portal/src/app/pipes/sort-slide.pipe.spec.ts" />
       <jump line="7" column="13" filename="C:/dev/definiens/vt.portal/src/app/pipes/sort-slide.pipe.ts" />
       <jump line="4" column="9" filename="C:/dev/definiens/vt.portal/src/app/pipes/sort-slide.pipe.spec.ts" />
+      <jump line="112" column="82" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/image-viewer.component.ts" />
+      <jump line="220" column="17" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/image-viewer.component.ts" />
+      <jump line="301" column="17" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/image-viewer.component.ts" />
+      <jump line="320" column="17" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/image-viewer.component.ts" />
+      <jump line="335" column="17" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/image-viewer.component.ts" />
+      <jump line="355" column="74" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/image-viewer.component.ts" />
+      <jump line="40" column="13" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/image-viewer.component.ts" />
+      <jump line="59" column="27" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/state/image-view-query-factory.ts" />
+      <jump line="27" column="34" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/state/image-view-query-factory.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -813,10 +824,10 @@
         <text>originalMetaInfo</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxuYXR1cmFsQ29tcGFyZVw+</text>
+        <text encoding="base64">XDxsYW5kbWFya3NNb2RlXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgbmF0dXJhbENvbXBhcmUgZnJvbSAnbmF0dXJhbC1jb21wYXJlLWxpdGUnOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgIEBJbnB1dCgpIGVkaXRBbm5vdGF0aW9uQWxsb3dlZCA9IHRydWU7CiAgICBASW5wdXQoKSBlZGl0TGFuZG1hcmtzQWxsb3dlZCA9IHRydWU7CiAgICBASW5wdXQoKSBzaG93U2NhbGVCYXIgPSB0cnVlOwogICAgQElucHV0KCkgc2hvd1pvb21CYXIgPSBmYWxzZTsKICAgIEBJbnB1dCgpIHNob3dBbm5vdGF0aW9ucyA9IHRydWU7CiAgICBASW5wdXQoKSBzaG93T3ZlcmxheSA9IGZhbHNlOwogICAgQElucHV0KCkgc2hvd092ZXJ2aWV3ID0gdHJ1ZTsKICAgIEBJbnB1dCgpIHNob3dEZWZhdWx0Q29udHJvbHMgPSB0cnVlOwogICAgQElucHV0KCkgc2hvd1N0YWluID0gZmFsc2U7CiAgICBASW5wdXQoKSByaWdodFBhbmVsID0gZmFsc2U7CiAgICBASW5wdXQoKSBsYW5kbWFya1ZpZXcgPSBmYWxzZTs=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGV4cGVjdChzb3J0ZWRSZXN1bHRbMV0uaW1hZ2VGaWxlLm5hbWUpLnRvRXF1YWwob3JpZ2luYWxNZXRhSW5mb1syXS5pbWFnZUZpbGUubmFtZSk7Cg==</text>
@@ -874,9 +885,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxuYXR1cmFsQ29tcGFyZVw+</last-search>
+      <last-search encoding="base64">XDxsYW5kbWFya3NNb2RlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxuYXR1cmFsQ29tcGFyZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxsYW5kbWFya3NNb2RlXD4=</last-pattern>
       <last-replace>ue }</last-replace>
       <last-substitute>ue}</last-substitute>
       <last-dir>1</last-dir>
@@ -884,8 +895,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmaXRcPg==</entry>
-        <entry encoding="base64">XDxVcGxvYWRTbGlkZU1ldGFJbmZvXD4=</entry>
         <entry encoding="base64">XDxzbGlkZXNTZWxlY3RlZFw+</entry>
         <entry>false</entry>
         <entry encoding="base64">XDwsXD4=</entry>
@@ -904,6 +913,8 @@
         <entry encoding="base64">XDxTZWxlY3Rpb25DaGVja1w+</entry>
         <entry encoding="base64">XDxjcmVhdGVVcGxvYWRNZXRhSW5mb1w+</entry>
         <entry encoding="base64">XDxuYXR1cmFsQ29tcGFyZVw+</entry>
+        <entry encoding="base64">XDxsYW5kbWFya1ZpZXdcPg==</entry>
+        <entry encoding="base64">XDxsYW5kbWFya3NNb2RlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>17,20m37</entry>
