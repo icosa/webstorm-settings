@@ -324,6 +324,11 @@
         <mark key="^" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
+      <file name="C:/dev/definiens/vt.imageviewer/protractor.conf.js" timestamp="1550750507923">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="C:/dev/definiens/vt.portal/src/app/components/upload-slide-component/state/upload-slide-display-data.ts" timestamp="1543852660904">
         <mark key="[" line="0" column="41" />
         <mark key="]" line="1" column="17" />
@@ -446,6 +451,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="2" column="24" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="C:/dev/definiens/vt.imageviewer/package.json" timestamp="1550750040755">
+        <mark key="'" line="79" column="4" />
+        <mark key="[" line="56" column="22" />
+        <mark key="]" line="56" column="24" />
+        <mark key="." line="56" column="24" />
       </file>
       <file name="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/index.ts" timestamp="1550680875467">
         <mark key="[" line="95" column="42" />
@@ -738,8 +749,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="151" column="2" filename="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slides-effect.spec.ts" />
-      <jump line="23" column="41" filename="C:/dev/definiens/vt.portal/src/app/state/queries/upload-slides.queries.ts" />
       <jump line="11" column="43" filename="C:/dev/definiens/vt.portal/src/app/state/reducers/upload-slides.reducer.ts" />
       <jump line="0" column="0" filename="C:/dev/definiens/vt.portal/src/app/state/reducers/upload-slides.reducer.ts" />
       <jump line="0" column="17" filename="C:/dev/definiens/vt.portal/src/app/state/models/check-status-summary.ts" />
@@ -838,6 +847,8 @@
       <jump line="166" column="12" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/image-viewer-multi.component.ts" />
       <jump line="23" column="13" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/image-viewer-multi.component.ts" />
       <jump line="419" column="0" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/image-viewer.component.ts" />
+      <jump line="74" column="3" filename="C:/dev/definiens/vt.imageviewer/package.json" />
+      <jump line="79" column="4" filename="C:/dev/definiens/vt.imageviewer/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -853,13 +864,13 @@
         <text encoding="base64">IH0=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjbGFzc05hbWVcPg==</text>
+        <text>7.1.1</text>
       </register>
       <register name="0" type="4">
         <text>in-landmarks-view</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA8ZGl2ICpuZ0lmPSJ2aWV3ZXJRdWVyaWVzLmNyb3NzTW9kZSQgfCBhc3luYyBhcyBjcm9zc01vZGUiCiAgICBjbGFzcz0ibWFya3VwIgogICAgW25nQ2xhc3NdPSJ7J21hcmt1cC0taGlkZGVuJzogaXNDcm9zc01vZGVOb25lKGNyb3NzTW9kZSl9Ij4KICAgIDxkaXYgW25nQ2xhc3NdPSJ7ICdjcm9zcy1oJzogaXNDcm9zc01vZGVTbWFsbChjcm9zc01vZGUpLCAnY3Jvc3MtaC0tYmlnJzogaXNDcm9zc01vZGVCaWcoY3Jvc3NNb2RlKSB9Ij48L2Rpdj4KICAgIDxkaXYgW25nQ2xhc3NdPSJ7ICdjcm9zcy12JzogaXNDcm9zc01vZGVTbWFsbChjcm9zc01vZGUpLCAnY3Jvc3Mtdi0tYmlnJzogaXNDcm9zc01vZGVCaWcoY3Jvc3NNb2RlKSB9Ij48L2Rpdj4KICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAnLS1hcHA9aHR0cDovL2xvY2FsaG9zdDo0MTAwJywgLy8gUmVtb3ZlIGFkZHJlc3MgYmFyIHdoZW4gbm90IGluIGhlYWRsZXNzCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -883,49 +894,47 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8ZGl2ICpuZ0lmPSJ2aWV3ZXJRdWVyaWVzLmNyb3NzTW9kZSQgfCBhc3luYyBhcyBjcm9zc01vZGUiCiAgICBjbGFzcz0ibWFya3VwIgogICAgW25nQ2xhc3NdPSJ7J21hcmt1cC0taGlkZGVuJzogaXNDcm9zc01vZGVOb25lKGNyb3NzTW9kZSl9Ij4KICAgIDxkaXYgW25nQ2xhc3NdPSJ7ICdjcm9zcy1oJzogaXNDcm9zc01vZGVTbWFsbChjcm9zc01vZGUpLCAnY3Jvc3MtaC0tYmlnJzogaXNDcm9zc01vZGVCaWcoY3Jvc3NNb2RlKSB9Ij48L2Rpdj4KICAgIDxkaXYgW25nQ2xhc3NdPSJ7ICdjcm9zcy12JzogaXNDcm9zc01vZGVTbWFsbChjcm9zc01vZGUpLCAnY3Jvc3Mtdi0tYmlnJzogaXNDcm9zc01vZGVCaWcoY3Jvc3NNb2RlKSB9Ij48L2Rpdj4KICA8L2Rpdj4K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMudHJpZ2dlck1hcERlcGVuZGVudEFjdGlvbnMoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBDcm9zc01vZGUsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMudHJpZ2dlck1hcERlcGVuZGVudEFjdGlvbnMoKTsK</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBpc0Nyb3NzTW9kZU5vbmUoY3Jvc3NNb2RlOiBDcm9zc01vZGUpIHsKICAgICAgICByZXR1cm4gY3Jvc3NNb2RlID09PSBDcm9zc01vZGUuTm9uZTsKICAgIH0KCiAgICBwdWJsaWMgaXNDcm9zc01vZGVTbWFsbChjcm9zc01vZGU6IENyb3NzTW9kZSkgewogICAgICAgIHJldHVybiBjcm9zc01vZGUgPT09IENyb3NzTW9kZS5TbWFsbDsKICAgIH0KCiAgICBwdWJsaWMgaXNDcm9zc01vZGVCaWcoY3Jvc3NNb2RlOiBDcm9zc01vZGUpIHsKICAgICAgICByZXR1cm4gY3Jvc3NNb2RlID09PSBDcm9zc01vZGUuQmlnOwogICAgfQoK</text>
+        <text encoding="base64">ICBDcm9zc01vZGUsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBpc0Nyb3NzTW9kZU5vbmUoY3Jvc3NNb2RlOiBDcm9zc01vZGUpIHsKICAgICAgICByZXR1cm4gY3Jvc3NNb2RlID09PSBDcm9zc01vZGUuTm9uZTsKICAgIH0KCiAgICBwdWJsaWMgaXNDcm9zc01vZGVTbWFsbChjcm9zc01vZGU6IENyb3NzTW9kZSkgewogICAgICAgIHJldHVybiBjcm9zc01vZGUgPT09IENyb3NzTW9kZS5TbWFsbDsKICAgIH0KCiAgICBwdWJsaWMgaXNDcm9zc01vZGVCaWcoY3Jvc3NNb2RlOiBDcm9zc01vZGUpIHsKICAgICAgICByZXR1cm4gY3Jvc3NNb2RlID09PSBDcm9zc01vZGUuQmlnOwogICAgfQoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5sYW5kbWFya1ZpZXcpIHsKICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s/7.1.1/7.1.2/</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjbGFzc05hbWVcPg==</last-search>
+      <last-search>7.1.1</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjbGFzc05hbWVcPg==</last-pattern>
-      <last-replace>ue }</last-replace>
-      <last-substitute>ue}</last-substitute>
+      <last-pattern>7.1.1</last-pattern>
+      <last-replace>7.1.2</last-replace>
+      <last-substitute>7.1.1</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>se}</entry>
-        <entry>ue}</entry>
         <entry encoding="base64">XDxzZWxlY3RBbGxDaGVja2JveFw+</entry>
         <entry>click</entry>
         <entry>\sLide</entry>
@@ -944,10 +953,10 @@
         <entry encoding="base64">XDx0cmlnZ2VyTWFwRGVwZW5kZW50QWN0aW9uc1w+</entry>
         <entry encoding="base64">XDxkaXNwYXRjaE5hdmlnYXRpb25BY3Rpb25cPg==</entry>
         <entry encoding="base64">XDxjbGFzc05hbWVcPg==</entry>
+        <entry>7.1.1.</entry>
+        <entry>7.1.1</entry>
       </history-search>
       <history-cmd>
-        <entry>17,20m37</entry>
-        <entry>30,39t40</entry>
         <entry>54,71t71</entry>
         <entry>73,74m104</entry>
         <entry>7,24y</entry>
@@ -966,6 +975,8 @@
         <entry>%s/ue}/ue }/</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
+        <entry>%s/7.1.1./7.1.2/</entry>
+        <entry>%s/7.1.1/7.1.2/</entry>
       </history-cmd>
       <history-expr />
       <history-input />
