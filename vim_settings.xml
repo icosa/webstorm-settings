@@ -921,7 +921,7 @@
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/7.1.1/7.1.2/</text>
+        <text>action ExpandRegionRecursively</text>
       </register>
     </registers>
     <search>
@@ -968,7 +968,6 @@
         <entry>x</entry>
         <entry>%s/false/check/i</entry>
         <entry>%s/false/check/c</entry>
-        <entry>action ExpandRegionRecursively</entry>
         <entry>%/se\}/se \}/</entry>
         <entry>%/se}/se }/</entry>
         <entry>%s/se}/se }/</entry>
@@ -977,6 +976,7 @@
         <entry>w</entry>
         <entry>%s/7.1.1./7.1.2/</entry>
         <entry>%s/7.1.1/7.1.2/</entry>
+        <entry>action ExpandRegionRecursively</entry>
       </history-cmd>
       <history-expr />
       <history-input />
