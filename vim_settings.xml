@@ -127,8 +127,8 @@
         <mark key="^" line="62" column="36" />
         <mark key="." line="62" column="36" />
       </file>
-      <file name="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/tiled-image-viewer/tiled-image-viewer.ts" timestamp="1550678916713">
-        <mark key="'" line="83" column="56" />
+      <file name="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/tiled-image-viewer/tiled-image-viewer.ts" timestamp="1551205085797">
+        <mark key="'" line="406" column="13" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/components/index.ts" timestamp="1549630624785">
         <mark key="[" line="24" column="0" />
@@ -201,7 +201,7 @@
         <mark key="." line="14" column="20" />
         <mark key="^" line="14" column="20" />
       </file>
-      <file name="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/state/image-view-query-factory.ts" timestamp="1550677644961">
+      <file name="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/state/image-view-query-factory.ts" timestamp="1551204650981">
         <mark key="'" line="27" column="34" />
       </file>
       <file name="C:/dev/definiens/vt.portal_latest/src/app/pages/state/index.ts" timestamp="1544703671758">
@@ -609,7 +609,7 @@
       <file name="C:/dev/definiens/vt.portal/src/app/pages/upload-slide-page/state/reducer.ts" timestamp="1549289602698">
         <mark key="'" line="0" column="17" />
       </file>
-      <file name="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/image-viewer.component.ts" timestamp="1551204167292" />
+      <file name="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/image-viewer.component.ts" timestamp="1551204731952" />
       <file name="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slides.effect.ts" timestamp="1543852036326">
         <mark key="[" line="32" column="14" />
         <mark key="]" line="27" column="60" />
@@ -621,7 +621,7 @@
         <mark key="]" line="89" column="0" />
         <mark key="." line="89" column="0" />
       </file>
-      <file name="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/block-viewer/block-viewer.component.ts" timestamp="1551204478397" />
+      <file name="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/block-viewer/block-viewer.component.ts" timestamp="1551204851621" />
       <file name="C:/dev/definiens/vt.portal/src/app/pipes/index.ts" timestamp="1550233499725">
         <mark key="[" line="8" column="20" />
         <mark key="]" line="8" column="21" />
@@ -736,15 +736,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="24" filename="C:/dev/definiens/vt.portal/component_tests/tests/slide-upload/upload-slide-page-interactions-spec.ts" />
-      <jump line="10" column="24" filename="C:/dev/definiens/shared-protractor-utils/node_modules/protractor/built/element.d.ts" />
-      <jump line="245" column="19" filename="C:/dev/definiens/shared-protractor-utils/node_modules/protractor/built/element.d.ts" />
-      <jump line="171" column="48" filename="C:/dev/definiens/vt.portal/component_tests/tests/slide-upload/upload-slide-page-interactions-spec.ts" />
-      <jump line="68" column="79" filename="C:/dev/definiens/vt.portal/component_tests/tests/slide-upload/upload-slide-page-interactions-spec.ts" />
-      <jump line="82" column="38" filename="C:/dev/definiens/vt.portal/component_tests/tests/slide-upload/upload-slide-page-interactions-spec.ts" />
-      <jump line="108" column="38" filename="C:/dev/definiens/vt.portal/component_tests/tests/slide-upload/upload-slide-page-interactions-spec.ts" />
-      <jump line="121" column="117" filename="C:/dev/definiens/vt.portal/component_tests/tests/slide-upload/upload-slide-page-interactions-spec.ts" />
-      <jump line="148" column="112" filename="C:/dev/definiens/vt.portal/component_tests/tests/slide-upload/upload-slide-page-interactions-spec.ts" />
       <jump line="174" column="117" filename="C:/dev/definiens/vt.portal/component_tests/tests/slide-upload/upload-slide-page-interactions-spec.ts" />
       <jump line="71" column="0" filename="C:/dev/definiens/vt.portal/component_tests/tests/slide-upload/upload-slide-page-interactions-spec.ts" />
       <jump line="193" column="4" filename="C:/dev/definiens/vt.portal/component_tests/tests/slide-upload/upload-slide-page-interactions-spec.ts" />
@@ -836,6 +827,15 @@
       <jump line="298" column="13" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/image-viewer.component.ts" />
       <jump line="297" column="12" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/image-viewer.component.ts" />
       <jump line="309" column="12" filename="C:/dev/definiens/vt.imtmp/src/app/image-viewer/components/image-viewer/image-viewer.component.ts" />
+      <jump line="111" column="0" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/tiled-image-viewer/tiled-image-viewer.ts" />
+      <jump line="414" column="15" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/tiled-image-viewer/tiled-image-viewer.ts" />
+      <jump line="419" column="44" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/tiled-image-viewer/tiled-image-viewer.ts" />
+      <jump line="420" column="15" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/tiled-image-viewer/tiled-image-viewer.ts" />
+      <jump line="425" column="20" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/tiled-image-viewer/tiled-image-viewer.ts" />
+      <jump line="429" column="20" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/tiled-image-viewer/tiled-image-viewer.ts" />
+      <jump line="433" column="20" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/tiled-image-viewer/tiled-image-viewer.ts" />
+      <jump line="399" column="13" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/tiled-image-viewer/tiled-image-viewer.ts" />
+      <jump line="406" column="13" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/tiled-image-viewer/tiled-image-viewer.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -851,7 +851,7 @@
         <text encoding="base64">IH0=</text>
       </register>
       <register name="/" type="4">
-        <text>viewm</text>
+        <text>\cgetview</text>
       </register>
       <register name="0" type="4">
         <text>in-landmarks-view</text>
@@ -912,9 +912,9 @@
       </register>
     </registers>
     <search>
-      <last-search>viewm</last-search>
+      <last-search>\cgetview</last-search>
       <last-offset />
-      <last-pattern>viewm</last-pattern>
+      <last-pattern>\cgetview</last-pattern>
       <last-replace>7.1.2</last-replace>
       <last-substitute>7.1.1</last-substitute>
       <last-dir>1</last-dir>
@@ -922,8 +922,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\iSliDe</entry>
-        <entry>\cslide</entry>
         <entry encoding="base64">XDxpdGVyYXRlUm93Q2VsbHNcPg==</entry>
         <entry encoding="base64">XDxpdGVyYXRlQWxsUm93c1w+</entry>
         <entry encoding="base64">XDxTZWxlY3Rpb25DaGVja1w+</entry>
@@ -942,6 +940,8 @@
         <entry encoding="base64">XDxtYXBcPg==</entry>
         <entry encoding="base64">XDxjcmVhdGVNYXBDb250cm9sXD4=</entry>
         <entry>viewm</entry>
+        <entry>getview</entry>
+        <entry>\cgetview</entry>
       </history-search>
       <history-cmd>
         <entry>54,71t71</entry>
