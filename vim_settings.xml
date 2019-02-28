@@ -127,8 +127,8 @@
         <mark key="^" line="62" column="36" />
         <mark key="." line="62" column="36" />
       </file>
-      <file name="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/tiled-image-viewer/tiled-image-viewer.ts" timestamp="1551349612072">
-        <mark key="'" line="73" column="17" />
+      <file name="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/tiled-image-viewer/tiled-image-viewer.ts" timestamp="1551350876580">
+        <mark key="'" line="391" column="9" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/components/index.ts" timestamp="1549630624785">
         <mark key="[" line="24" column="0" />
@@ -261,6 +261,13 @@
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
+      </file>
+      <file name="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/image-viewer-listeners.ts" timestamp="1551351985828">
+        <mark key="'" line="18" column="12" />
+        <mark key="[" line="157" column="40" />
+        <mark key="]" line="157" column="54" />
+        <mark key="^" line="157" column="54" />
+        <mark key="." line="157" column="54" />
       </file>
       <file name="C:/dev/definiens/vt.portal/component_tests/utils/config-generator.ts" timestamp="1544537574635">
         <mark key="[" line="107" column="106" />
@@ -623,12 +630,6 @@
       <file name="C:/dev/definiens/vt.portal/src/app/pages/upload-slide-page/state/reducer.ts" timestamp="1549289602698">
         <mark key="'" line="0" column="17" />
       </file>
-      <file name="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/image-viewer.component.ts" timestamp="1551349646050">
-        <mark key="'" line="71" column="12" />
-        <mark key="]" line="71" column="13" />
-        <mark key="^" line="71" column="13" />
-        <mark key="." line="71" column="13" />
-      </file>
       <file name="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slides.effect.ts" timestamp="1543852036326">
         <mark key="[" line="32" column="14" />
         <mark key="]" line="27" column="60" />
@@ -759,8 +760,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="33" filename="C:/dev/definiens/shared-protractor-utils/pageObjects/portal/pages/slide-upload.po/slide-upload.po.ts" />
-      <jump line="15" column="36" filename="C:/dev/definiens/shared-protractor-utils/pageObjects/portal/pages/slide-upload.po/slide-upload.po.ts" />
       <jump line="16" column="36" filename="C:/dev/definiens/shared-protractor-utils/pageObjects/portal/pages/slide-upload.po/slide-upload.po.ts" />
       <jump line="17" column="43" filename="C:/dev/definiens/shared-protractor-utils/pageObjects/portal/pages/slide-upload.po/slide-upload.po.ts" />
       <jump line="20" column="33" filename="C:/dev/definiens/shared-protractor-utils/pageObjects/portal/pages/slide-upload.po/slide-upload.po.ts" />
@@ -853,12 +852,14 @@
       <jump line="69" column="12" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/tiled-image-viewer/tiled-image-viewer.ts" />
       <jump line="101" column="9" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/image-viewer-landmarks.component.ts" />
       <jump line="41" column="9" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/image-viewer-landmarks.component.ts" />
-      <jump line="387" column="9" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/tiled-image-viewer/tiled-image-viewer.ts" />
-      <jump line="391" column="9" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/tiled-image-viewer/tiled-image-viewer.ts" />
+      <jump line="71" column="12" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/image-viewer.component.ts" />
+      <jump line="361" column="6" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/image-viewer.component.ts" />
+      <jump line="18" column="12" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/image-viewer-listeners.ts" />
       <jump line="559" column="15" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/tiled-image-viewer/tiled-image-viewer.ts" />
       <jump line="58" column="10" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/tiled-image-viewer/tiled-image-viewer.ts" />
       <jump line="73" column="17" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/tiled-image-viewer/tiled-image-viewer.ts" />
-      <jump line="71" column="12" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/image-viewer.component.ts" />
+      <jump line="387" column="9" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/tiled-image-viewer/tiled-image-viewer.ts" />
+      <jump line="391" column="9" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/tiled-image-viewer/tiled-image-viewer.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -871,13 +872,13 @@
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>map interacting</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvbkNsaWNrXD4=</text>
+        <text encoding="base64">XDxkaXNwYXRjaFBvc2l0aW9uQ2hhbmdlZEV2ZW50XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>in</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS53YXJuKCdkaXNwYXRjaCBub3QgYWxsb3dlZCAtIG1hcCBpbnRlcmFjdGluZyEnKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBPdXRwdXQsCg==</text>
@@ -935,9 +936,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvbkNsaWNrXD4=</last-search>
+      <last-search encoding="base64">XDxkaXNwYXRjaFBvc2l0aW9uQ2hhbmdlZEV2ZW50XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvbkNsaWNrXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxkaXNwYXRjaFBvc2l0aW9uQ2hhbmdlZEV2ZW50XD4=</last-pattern>
       <last-replace encoding="base64">IA==</last-replace>
       <last-substitute encoding="base64">OiB2b2lkIA==</last-substitute>
       <last-dir>1</last-dir>
@@ -945,9 +946,6 @@
     </search>
     <history>
       <history-search>
-        <entry>7.1.1.</entry>
-        <entry>7.1.1</entry>
-        <entry encoding="base64">XDxtYXBcPg==</entry>
         <entry encoding="base64">XDxjcmVhdGVNYXBDb250cm9sXD4=</entry>
         <entry>viewm</entry>
         <entry>getview</entry>
@@ -963,8 +961,11 @@
         <entry encoding="base64">XDxsYW5kbWFya3NMYXllclw+</entry>
         <entry encoding="base64">XDxzaG93TGFuZG1hcmtzXD4=</entry>
         <entry encoding="base64">XDxhbmNob3JFbGVtZW50SWRcPg==</entry>
-        <entry encoding="base64">XDxkaXNwYXRjaFBvc2l0aW9uQ2hhbmdlZEV2ZW50XD4=</entry>
         <entry encoding="base64">XDxvbkNsaWNrXD4=</entry>
+        <entry>activate</entry>
+        <entry>\cactivate</entry>
+        <entry encoding="base64">XDxhbGxvd1Bvc2l0aW9uRXZlbnREaXNwYXRjaFw+</entry>
+        <entry encoding="base64">XDxkaXNwYXRjaFBvc2l0aW9uQ2hhbmdlZEV2ZW50XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>73,74m104</entry>
