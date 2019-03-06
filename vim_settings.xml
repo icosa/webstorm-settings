@@ -300,9 +300,9 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/state/models/upload-slide-status.ts" timestamp="1549468545734">
-        <mark key="[" line="1" column="16" />
-        <mark key="]" line="1" column="25" />
+      <file name="C:/dev/definiens/vt.portal/src/app/state/models/upload-slide-status.ts" timestamp="1551884139865">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="5" column="1" />
         <mark key="." line="1" column="25" />
         <mark key="^" line="1" column="25" />
       </file>
@@ -878,7 +878,7 @@
         <text encoding="base64">XDxkaXNwYXRjaFBvc2l0aW9uQ2hhbmdlZEV2ZW50XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8vIEFsd2F5cyBiaW5kIHRvIHRoZSBPTCBtYXAgYWN0aXZhdGlvbiBldmVudAogICAgdGhpcy5pbWFnZVZpZXdlckNvbnRyb2wuYmluZEFjdGl2YXRpb25FdmVudCgoKSA9PiB7CiAgICAgIGlmICh0aGlzLnZpZXdNb2RlID09PSBWaWV3TW9kZS5EZWZhdWx0KSB7CiAgICAgICAgdGhpcy5hY3Rpb25EaXNwYXRjaGVyLmRpc3BhdGNoKG5ldyBCbG9ja1VpQWN0aW9ucy5BY3RpdmF0ZVZpZXcodGhpcy52aWV3ZXJJZCkpOwogICAgICB9CgogICAgICB0aGlzLm9uQ2xpY2suZW1pdCh0aGlzLnZpZXdlcklkKTsKICAgIH0pOwo=</text>
+        <text encoding="base64">ZXhwb3J0IGVudW0gVXBsb2FkU2xpZGVTdGF0dXMgewogIE5vdFN0YXJ0ZWQgPSAnTm90U3RhcnRlZCcsCiAgSW5Qcm9ncmVzcyA9ICdJblByb2dyZXNzJywKICBTdWNjZWVkZWQgPSAnU3VjY2VlZGVkJywKICBGYWlsZWQgPSAnRmFpbGVkJywKfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICB0aGlzLm9uQ2xpY2suZW1pdCh0aGlzLnZpZXdlcklkKTsK</text>
@@ -932,7 +932,7 @@
         <text encoding="base64">LmluLWxhbmRtYXJrcy12aWV3IHsKICBoZWlnaHQ6ICRsYW5kbWFya3Mtdmlldy1pdGVtLXNpZGU7CiAgd2lkdGg6ICRsYW5kbWFya3Mtdmlldy1pdGVtLXNpZGU7Cn0KCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action ExpandRegionRecursively</text>
       </register>
     </registers>
     <search>
@@ -986,8 +986,8 @@
         <entry>%s/7.1.1./7.1.2/</entry>
         <entry>%s/7.1.1/7.1.2/</entry>
         <entry>%s/: void / /g</entry>
-        <entry>action ExpandRegionRecursively</entry>
         <entry>w</entry>
+        <entry>action ExpandRegionRecursively</entry>
       </history-cmd>
       <history-expr />
       <history-input />
