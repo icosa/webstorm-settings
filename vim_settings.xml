@@ -201,6 +201,9 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="10" column="15" />
       </file>
+      <file name="C:/dev/definiens/vt.portal/src/app/state/reducers/upload-slides.reducer.ts" timestamp="1552037927713">
+        <mark key="[" line="10" column="77" />
+      </file>
       <file name="C:/dev/definiens/vt.portal/src/app/pages/project-properties-page/project-properties-page.queries.ts" timestamp="1542200427093">
         <mark key="[" line="14" column="8" />
         <mark key="]" line="14" column="34" />
@@ -463,7 +466,12 @@
       <file name="C:/dev/definiens/vt.portal/src/app/pipes/sort-slide.pipe.ts" timestamp="1550491473139">
         <mark key="'" line="7" column="13" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slides-effect.ts" timestamp="1552035599712" />
+      <file name="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slides-effect.ts" timestamp="1552038552195">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="41" column="65" />
+        <mark key="^" line="17" column="5" />
+        <mark key="." line="17" column="5" />
+      </file>
       <file name="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/image-viewer-multi.component.html" timestamp="1550681000609">
         <mark key="[" line="3" column="26" />
         <mark key="]" line="3" column="26" />
@@ -531,10 +539,11 @@
         <mark key="^" line="1" column="31" />
         <mark key="." line="1" column="2" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/state/actions/upload-slides.actions.ts" timestamp="1552035414104">
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="44" column="22" />
+      <file name="C:/dev/definiens/vt.portal/src/app/state/actions/upload-slides.actions.ts" timestamp="1552038230951">
+        <mark key="[" line="37" column="14" />
+        <mark key="]" line="37" column="37" />
+        <mark key="." line="37" column="37" />
+        <mark key="^" line="37" column="37" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/state/reducers/upload-slides.reducer.spec.ts" timestamp="1549990162910">
         <mark key="'" line="53" column="4" />
@@ -872,13 +881,13 @@
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Checked</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaXNwYXRjaFBvc2l0aW9uQ2hhbmdlZEV2ZW50XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0IGVudW0gVXBsb2FkU2xpZGVTdGF0dXMgewogIE5vdFN0YXJ0ZWQgPSAnTm90U3RhcnRlZCcsCiAgSW5Qcm9ncmVzcyA9ICdJblByb2dyZXNzJywKICBTdWNjZWVkZWQgPSAnU3VjY2VlZGVkJywKICBGYWlsZWQgPSAnRmFpbGVkJywKfQo=</text>
+        <text encoding="base64">ICAvLyAgICAgbWVyZ2VNYXAoKCkgPT4gdGhpcy51cGxvYWRTbGlkZXNRdWVyaWVzLmNoZWNrZWRJZHMkLnBpcGUodGFrZSgxKSkpLAogIC8vICAgICAvLyBnZXQgcHJvamVjdCBJRAogIC8vICAgICB3aXRoTGF0ZXN0RnJvbSh0aGlzLm5hdmlnYXRpb25RdWVyaWVzLnByb2plY3RJZCQpLAogIC8vICAgICAvLyBjYWxsIENTIGZvciBlYWNoIGZpbGUKICAvLyAgICAgbWFwKChbZmlsZU5hbWVzLCBwcm9qZWN0SWRdKSA9PiB0aGlzLmdldE9yQ3JlYXRlVW5wcm9jZXNzZWRTbGlkZXNGb3JQcm9qZWN0KGZpbGVOYW1lcywgcHJvamVjdElkKSksCiAgLy8gICAgIC8vIHdhaXQgZm9yIGFsbCBjYWxscyB0byBmaW5pc2gKICAvLyAgICAgLy8gdHNsaW50OmRpc2FibGUtbmV4dC1saW5lOm5vLXVubmVjZXNzYXJ5LWNhbGxiYWNrLXdyYXBwZXIKICAvLyAgICAgbWVyZ2VNYXAob2JzZXJ2YWJsZXMgPT4gZm9ya0pvaW4ob2JzZXJ2YWJsZXMpKSwKICAvLyAgICAgLy8gY29udmVydCB0byBhIHNpbmdsZSBPYnNlcnZhYmxlIHdoaWNoIGVtaXRzIGFsbCBhY3Rpb25zCiAgLy8gICAgIC8vIHRzbGludDpkaXNhYmxlLW5leHQtbGluZTpuby11bm5lY2Vzc2FyeS1jYWxsYmFjay13cmFwcGVyCiAgLy8gICAgIG1lcmdlTWFwKHJlc3VsdHMgPT4gZnJvbShyZXN1bHRzKSksCiAgLy8gICAgIFJ4anNVdGlscy5oYW5kbGVFcnJvcgogIC8vICAgKTsKCiAgQEVmZmVjdCgpCiAgdG9nZ2xlU2luZ2xlSXRlbUNoZWNrU3RhdGUkID0gdGhpcy5hY3Rpb25zJAogICAgLnBpcGUoCiAgICAgIG9mVHlwZShVcGxvYWRTbGlkZXNBY3Rpb25zLlRPR0dMRV9TSU5HTEVfSVRFTV9DSEVDS19TVEFURSksCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICB0aGlzLm9uQ2xpY2suZW1pdCh0aGlzLnZpZXdlcklkKTsK</text>
@@ -932,7 +941,7 @@
         <text encoding="base64">LmluLWxhbmRtYXJrcy12aWV3IHsKICBoZWlnaHQ6ICRsYW5kbWFya3Mtdmlldy1pdGVtLXNpZGU7CiAgd2lkdGg6ICRsYW5kbWFya3Mtdmlldy1pdGVtLXNpZGU7Cn0KCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ExpandRegionRecursively</text>
+        <text>24,25y18</text>
       </register>
     </registers>
     <search>
@@ -968,7 +977,6 @@
         <entry encoding="base64">XDxkaXNwYXRjaFBvc2l0aW9uQ2hhbmdlZEV2ZW50XD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>73,74m104</entry>
         <entry>7,24y</entry>
         <entry>1,$y</entry>
         <entry>%s\fit\it\</entry>
@@ -988,6 +996,7 @@
         <entry>%s/: void / /g</entry>
         <entry>w</entry>
         <entry>action ExpandRegionRecursively</entry>
+        <entry>24,25y18</entry>
       </history-cmd>
       <history-expr />
       <history-input />
