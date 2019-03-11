@@ -540,11 +540,11 @@
         <mark key="^" line="1" column="31" />
         <mark key="." line="1" column="2" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/state/actions/upload-slides.actions.ts" timestamp="1552307437508">
-        <mark key="[" line="76" column="14" />
-        <mark key="]" line="76" column="14" />
-        <mark key="." line="76" column="14" />
-        <mark key="^" line="76" column="14" />
+      <file name="C:/dev/definiens/vt.portal/src/app/state/actions/upload-slides.actions.ts" timestamp="1552313964996">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="25" />
+        <mark key="." line="73" column="0" />
+        <mark key="^" line="74" column="17" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/state/reducers/upload-slides.reducer.spec.ts" timestamp="1552312754050">
         <mark key="'" line="77" column="4" />
@@ -553,11 +553,11 @@
         <mark key="." line="39" column="33" />
         <mark key="^" line="39" column="33" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/pages/upload-slide-page/upload-slide.component.ts" timestamp="1549987133680">
-        <mark key="[" line="50" column="39" />
-        <mark key="]" line="50" column="60" />
-        <mark key="." line="50" column="60" />
-        <mark key="^" line="50" column="60" />
+      <file name="C:/dev/definiens/vt.portal/src/app/pages/upload-slide-page/upload-slide.component.ts" timestamp="1552313760464">
+        <mark key="[" line="42" column="39" />
+        <mark key="]" line="42" column="57" />
+        <mark key="." line="42" column="57" />
+        <mark key="^" line="42" column="57" />
       </file>
       <file name="C:/dev/demo/ngdemo/src/app/services/BoxStateService.ts" timestamp="1542280080884">
         <mark key="[" line="4" column="26" />
@@ -901,7 +901,7 @@
         <text>slide-upload-image-selection.component.scss</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIGNhc2UgVXBsb2FkU2xpZGVBY3Rpb25zLkNSRUFURV9VTlBST0NFU1NFRF9TTElERV9TVUNDRVNTOgogICAgLy8gICBjb25zdCBjaGFuZ2VzOiBQYXJ0aWFsPFVwbG9hZFNsaWRlTWV0YUluZm8+ID0gewogICAgLy8gICAgIHNsaWRlSWQ6IGFjdGlvbi5zbGlkZUlkLAogICAgLy8gICAgIHN0YXR1czogVXBsb2FkU2xpZGVTdGF0dXMuSW5Qcm9ncmVzcywKICAgIC8vICAgICBwcm9ncmVzczogMSwKICAgIC8vICAgfTsKICAgIC8vICAgcmV0dXJuIHVwbG9hZFNsaWRlQWRhcHRlci51cGRhdGVPbmUoeyBpZDogYWN0aW9uLmltYWdlRmlsZU5hbWUsIGNoYW5nZXMgfSwgc3RhdGUpOwoK</text>
+        <text encoding="base64">ICB8IFRvZ2dsZVNpbmdsZUl0ZW1DaGVjawo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -924,32 +924,35 @@
           <key char="40" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB1bmRlZmluZWQsCg==</text>
+      <register name="2" type="4">
+        <text>AddFiles,
+  RemoveCheckedItems, SetAllItemsCheck,
+  UploadCheckedFiles, ToggleSingleItemCheck,
+}</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBNQVhfQ09OQ1VSUkVOVF9GSUxFX1VQTE9BRFMK</text>
+        <text encoding="base64">ZXhwb3J0IGNsYXNzIFVwbG9hZENoZWNrZWRGaWxlcyBpbXBsZW1lbnRzIEFjdGlvbiB7CiAgcmVhZG9ubHkgdHlwZSA9IFVQTE9BRF9DSEVDS0VEX0ZJbEVTUzsKICBjb25zdHJ1Y3RvcigpIHsgfQp9Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB1bmRlZmluZWQsCg==</text>
+        <text encoding="base64">ICAgIC8vIGNhc2UgVXBsb2FkU2xpZGVBY3Rpb25zLkNSRUFURV9VTlBST0NFU1NFRF9TTElERV9TVUNDRVNTOgogICAgLy8gICBjb25zdCBjaGFuZ2VzOiBQYXJ0aWFsPFVwbG9hZFNsaWRlTWV0YUluZm8+ID0gewogICAgLy8gICAgIHNsaWRlSWQ6IGFjdGlvbi5zbGlkZUlkLAogICAgLy8gICAgIHN0YXR1czogVXBsb2FkU2xpZGVTdGF0dXMuSW5Qcm9ncmVzcywKICAgIC8vICAgICBwcm9ncmVzczogMSwKICAgIC8vICAgfTsKICAgIC8vICAgcmV0dXJuIHVwbG9hZFNsaWRlQWRhcHRlci51cGRhdGVPbmUoeyBpZDogYWN0aW9uLmltYWdlRmlsZU5hbWUsIGNoYW5nZXMgfSwgc3RhdGUpOwoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB1bmRlZmluZWQsCg==</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyBtYWtlIGEgY29weSBvZiB0aGUgZXhpc3RpbmcgaWQgc2V0IGZvciBhZGRpbmcgbmV3IGlkcwo=</text>
+        <text encoding="base64">ICAgICAgICBNQVhfQ09OQ1VSUkVOVF9GSUxFX1VQTE9BRFMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gY29uc3QgYWRkRmlsZUlkc1RvQWN0aXZlVXBsb2FkSWRzID0gKGl0ZW1JZHM6IHN0cmluZ1tdLCBzdGF0ZTogVXBsb2FkU2xpZGVzU3RhdGUpOiBVcGxvYWRTbGlkZXNTdGF0ZSA9PiB7Ci8vICAgaWYgKDAgPT09IGl0ZW1JZHMubGVuZ3RoKSB7Ci8vICAgICAvLyByZXR1cm4gdW5tb2RpZmllZCBzdGF0ZQovLyAgICAgcmV0dXJuIHN0YXRlOwovLyAgIH0KLy8KLy8gICAvLyBtYWtlIGEgY29weSBvZiB0aGUgZXhpc3RpbmcgaWQgc2V0IGZvciBhZGRpbmcgbmV3IGlkcwovLyAgIGNvbnN0IGFjdGl2ZVVwbG9hZEZpbGVJZHMgID0gey4uLnN0YXRlLmFjdGl2ZVVwbG9hZEZpbGVJZHN9OwovLyAgIGxldCB1cGRhdGVkU3RhdGUgPSBzdGF0ZTsKLy8gICBpdGVtSWRzLmZvckVhY2goaWQgPT4gewovLyAgICAgYWN0aXZlVXBsb2FkRmlsZUlkc1tpZF0gPSB0cnVlOwovLyAgICAgdXBkYXRlZFN0YXRlID0gdXBsb2FkU2xpZGVBZGFwdGVyLnVwZGF0ZU9uZSgKLy8gICAgICAgeyBpZCwgY2hhbmdlczogeyBzdGF0dXM6IFVwbG9hZFNsaWRlU3RhdHVzLlBlbmRpbmdVcGxvYWQgfX0sCi8vICAgICAgIHVwZGF0ZWRTdGF0ZQovLyAgICAgKTsKLy8gICB9KTsKLy8KLy8gICAvLyByZXR1cm4gbmV3bHkgbW9kaWZpZWQgc3RhdGUKLy8gICByZXR1cm4gewovLyAgICAgLi4udXBkYXRlZFN0YXRlLAovLyAgICAgYWN0aXZlVXBsb2FkRmlsZUlkcywKLy8gICB9OwovLyB9Owo=</text>
+        <text encoding="base64">ICAgICAgICB1bmRlZmluZWQsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCBuZXdTdGF0ZSA9IHsuLi5zdGF0ZX07CiAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFjdGl2ZVVwbG9hZEZpbGVJZHMsCg==</text>
+        <text encoding="base64">ICAvLyBtYWtlIGEgY29weSBvZiB0aGUgZXhpc3RpbmcgaWQgc2V0IGZvciBhZGRpbmcgbmV3IGlkcwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
