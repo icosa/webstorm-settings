@@ -453,9 +453,9 @@
         <mark key="^" line="4" column="33" />
         <mark key="." line="4" column="33" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/state/queries/upload-slides.queries.ts" timestamp="1552592430771">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="93" />
+      <file name="C:/dev/definiens/vt.portal/src/app/state/queries/upload-slides.queries.ts" timestamp="1552597375621">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="94" />
         <mark key="^" line="41" column="5" />
         <mark key="." line="48" column="5" />
       </file>
@@ -590,7 +590,7 @@
         <mark key="[" line="1" column="65" />
         <mark key="]" line="1" column="95" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552576813239">
+      <file name="/Dummy.txt" timestamp="1552596103045">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="54" />
         <mark key="^" line="0" column="0" />
@@ -626,12 +626,12 @@
         <mark key="." line="5" column="107" />
         <mark key="^" line="5" column="26" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slides-effect.spec.ts" timestamp="1552595612642">
-        <mark key="'" line="125" column="5" />
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="104" column="6" />
-        <mark key="^" line="104" column="7" />
-        <mark key="." line="104" column="6" />
+      <file name="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slides-effect.spec.ts" timestamp="1552597404983">
+        <mark key="'" line="126" column="16" />
+        <mark key="[" line="31" column="34" />
+        <mark key="]" line="31" column="34" />
+        <mark key="^" line="31" column="34" />
+        <mark key="." line="31" column="34" />
       </file>
       <file name="C:/dev/demo/ngdemo/src/app/app.component.ts" timestamp="1542283642993">
         <mark key="[" line="15" column="25" />
@@ -699,10 +699,6 @@
       <file name="C:/dev/definiens/vt.portal/src/app/app.module.ts" timestamp="1552397744702" />
     </filemarks>
     <jumps>
-      <jump line="45" column="8" filename="C:/dev/definiens/vt.portal/src/app/components/slide-upload-image-selection/slide-upload-image-selection.component.spec.ts" />
-      <jump line="3" column="7" filename="C:/dev/definiens/vt.portal/src/app/pipes/sort-slide.pipe.spec.ts" />
-      <jump line="7" column="13" filename="C:/dev/definiens/vt.portal/src/app/pipes/sort-slide.pipe.ts" />
-      <jump line="4" column="9" filename="C:/dev/definiens/vt.portal/src/app/pipes/sort-slide.pipe.spec.ts" />
       <jump line="112" column="82" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/image-viewer.component.ts" />
       <jump line="220" column="17" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/image-viewer.component.ts" />
       <jump line="301" column="17" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/image-viewer.component.ts" />
@@ -799,6 +795,10 @@
       <jump line="78" column="0" filename="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slides-effect.ts" />
       <jump line="33" column="16" filename="C:/dev/definiens/vt.portal/src/app/state/queries/upload-slides.queries.ts" />
       <jump line="136" column="5" filename="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slides-effect.spec.ts" />
+      <jump line="129" column="32" filename="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slides-effect.spec.ts" />
+      <jump line="41" column="48" filename="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slides-effect.spec.ts" />
+      <jump line="20" column="6" filename="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slides-effect.spec.ts" />
+      <jump line="126" column="16" filename="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slides-effect.spec.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -811,16 +811,16 @@
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>getMetaInfoSpy</text>
       </register>
       <register name="/" type="4">
-        <text>payload</text>
+        <text encoding="base64">XDxOYXZpZ2F0aW9uUXVlcmllc01vY2tcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdGFwKGZpbGVOYW1lID0+IGNvbnNvbGUubG9nKCc+Pj4+PicsIGZpbGVOYW1lKSksCg==</text>
+        <text encoding="base64">ICBwdWJsaWMgZ2V0TWV0YUluZm9CeUZpbGVOYW1lID0gKGZpbGVOYW1lOiBzdHJpbmcpOiBPYnNlcnZhYmxlPFVwbG9hZFNsaWRlTWV0YUluZm8gfCBudWxsPiA9Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLy8gUHJlcGFyZSB1cGxvYWQgc2xpZGVzIHF1ZXJpZXMgbW9jawo=</text>
+        <text encoding="base64">ICAgICAgc3B5T24odXBsb2FkU2xpZGVFZmZlY3RzLCAndXBsb2FkU2luZ2xlRmlsZScpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -843,41 +843,44 @@
           <key char="40" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLy8gUHJlcGFyZSB1cGxvYWQgc2xpZGVzIHF1ZXJpZXMgbW9jawo=</text>
+      <register name="2" type="4">
+        <text>{
+          a: new UploadSlidesActions.UploadFile('test1.jpg'),
+          b: new UploadSlidesActions.UploadFile('test2.jpg')
+        }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdGFwKGZpbGVOYW1lID0+IGNvbnNvbGUubG9nKCc+Pj4+PicsIGZpbGVOYW1lKSksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdGFwKGZpbGVOYW1lID0+IGNvbnNvbGUubG9nKCc+Pj4+PicsIGZpbGVOYW1lKSksCg==</text>
+        <text encoding="base64">ICAgICAgLy8gUHJlcGFyZSB1cGxvYWQgc2xpZGVzIHF1ZXJpZXMgbW9jawo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgIC8vIFByZXBhcmUgdXBsb2FkIHNsaWRlcyBxdWVyaWVzIG1vY2sKICAgICAgY29uc3QgdXBsb2FkU2xpZGVzUXVlcmllcyA9IFRlc3RCZWQuZ2V0KFVwbG9hZFNsaWRlc1F1ZXJpZXMpIGFzIFVwbG9hZFNsaWRlc1F1ZXJpZXM7CiAgICAgIGNvbnN0IGNoZWNrRmlsZU5hbWVzU3B5ID0gc3B5T25Qcm9wZXJ0eSh1cGxvYWRTbGlkZXNRdWVyaWVzLCAnY2hlY2tlZEZpbGVOYW1lcyQnLCAnZ2V0JykuYW5kLnJldHVyblZhbHVlKAogICAgICAgIG9mKFtmaWxlTmFtZV0pCiAgICAgICk7CiAgICAgIGNvbnN0IGdldEZpbGVOYW1lc0J5U3RhdHVzU3B5ID0gc3B5T24odXBsb2FkU2xpZGVzUXVlcmllcywgJ2dldEZpbGVOYW1lc0J5U3RhdHVzJykuYW5kLnJldHVyblZhbHVlKAogICAgICAgIG9mKFtdKQogICAgICApOwo=</text>
+        <text encoding="base64">ICAgICAgLy8gUHJlcGFyZSB1cGxvYWQgc2xpZGVzIHF1ZXJpZXMgbW9jawo=</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KGNoZWNrRmlsZU5hbWVzU3B5KS50b0hhdmVCZWVuQ2FsbGVkVGltZXMoMSk7CiAgICAgIGV4cGVjdChnZXRGaWxlTmFtZXNCeVN0YXR1c1NweSkudG9IYXZlQmVlbkNhbGxlZFRpbWVzKDEpOwo=</text>
+        <text encoding="base64">ICAgICAgdGFwKGZpbGVOYW1lID0+IGNvbnNvbGUubG9nKCc+Pj4+PicsIGZpbGVOYW1lKSksCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdGFwKGZpbGVOYW1lID0+IGNvbnNvbGUubG9nKCc+Pj4+PicsIGZpbGVOYW1lKSksCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGl0KCdTaG91bGQgaWdub3JlIGZpbGVzIHdoaWNoIGhhdmUgYWxyZWFkeSBiZWVuIHVwbG9hZGVkIG9yIGluIHByb2dyZXNzJywgKCkgPT4gewogICAgICAvLyBBcnJhbmdlIGFuZCBBY3QKICAgICAgY29uc3QgZmlsZU5hbWUgPSAndGVzdDEuanBnJzsKCiAgICAgIC8vIFByZXBhcmUgdXBsb2FkIHNsaWRlcyBxdWVyaWVzIG1vY2sKICAgICAgY29uc3QgdXBsb2FkU2xpZGVzUXVlcmllcyA9IFRlc3RCZWQuZ2V0KFVwbG9hZFNsaWRlc1F1ZXJpZXMpIGFzIFVwbG9hZFNsaWRlc1F1ZXJpZXM7CiAgICAgIGNvbnN0IGNoZWNrRmlsZU5hbWVzU3B5ID0gc3B5T25Qcm9wZXJ0eSh1cGxvYWRTbGlkZXNRdWVyaWVzLCAnY2hlY2tlZEZpbGVOYW1lcyQnLCAnZ2V0JykuYW5kLnJldHVyblZhbHVlKAogICAgICAgIG9mKFtmaWxlTmFtZV0pCiAgICAgICk7CiAgICAgIGNvbnN0IGdldEZpbGVOYW1lc0J5U3RhdHVzU3B5ID0gc3B5T24odXBsb2FkU2xpZGVzUXVlcmllcywgJ2dldEZpbGVOYW1lc0J5U3RhdHVzJykuYW5kLnJldHVyblZhbHVlKAogICAgICAgIG9mKFtmaWxlTmFtZV0pCiAgICAgICk7CgogICAgICBjb25zdCBhY3Rpb25zID0gVGVzdEJlZC5nZXQoQWN0aW9ucyk7CiAgICAgIGFjdGlvbnMuc3RyZWFtID0gY29sZCgnYScsIHsgYTogbmV3IFVwbG9hZFNsaWRlc0FjdGlvbnMuVXBsb2FkQ2hlY2tlZEZpbGVzKCkgfSk7CgogICAgICAvLyBBc3NlcnQKICAgICAgY29uc3QgdXBsb2FkU2xpZGVFZmZlY3RzID0gVGVzdEJlZC5nZXQoVXBsb2FkU2xpZGVzRWZmZWN0cykgYXMgVXBsb2FkU2xpZGVzRWZmZWN0czsKICAgICAgY29uc3QgYWN0dWFsQWN0aW9ucyQgPSB1cGxvYWRTbGlkZUVmZmVjdHMudXBsb2FkQ2hlY2tlZEZpbGVzJDsKICAgICAgY29uc3QgZXhwZWN0ZWRBY3Rpb25zJCA9IGNvbGQoJycpOwogICAgICBleHBlY3QoYWN0dWFsQWN0aW9ucyQpLnRvQmVPYnNlcnZhYmxlKGV4cGVjdGVkQWN0aW9ucyQpOwogICAgICBleHBlY3QoY2hlY2tGaWxlTmFtZXNTcHkpLnRvSGF2ZUJlZW5DYWxsZWRUaW1lcygxKTsKICAgICAgZXhwZWN0KGdldEZpbGVOYW1lc0J5U3RhdHVzU3B5KS50b0hhdmVCZWVuQ2FsbGVkVGltZXMoMSk7CiAgICB9KTsK</text>
+        <text encoding="base64">CiAgICAgIC8vIFByZXBhcmUgdXBsb2FkIHNsaWRlcyBxdWVyaWVzIG1vY2sKICAgICAgY29uc3QgdXBsb2FkU2xpZGVzUXVlcmllcyA9IFRlc3RCZWQuZ2V0KFVwbG9hZFNsaWRlc1F1ZXJpZXMpIGFzIFVwbG9hZFNsaWRlc1F1ZXJpZXM7CiAgICAgIGNvbnN0IGNoZWNrRmlsZU5hbWVzU3B5ID0gc3B5T25Qcm9wZXJ0eSh1cGxvYWRTbGlkZXNRdWVyaWVzLCAnY2hlY2tlZEZpbGVOYW1lcyQnLCAnZ2V0JykuYW5kLnJldHVyblZhbHVlKAogICAgICAgIG9mKFtmaWxlTmFtZV0pCiAgICAgICk7CiAgICAgIGNvbnN0IGdldEZpbGVOYW1lc0J5U3RhdHVzU3B5ID0gc3B5T24odXBsb2FkU2xpZGVzUXVlcmllcywgJ2dldEZpbGVOYW1lc0J5U3RhdHVzJykuYW5kLnJldHVyblZhbHVlKAogICAgICAgIG9mKFtdKQogICAgICApOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy8gQXJyYW5nZSBhbmQgQWN0CiAgICAgIGNvbnN0IGZpbGVOYW1lID0gJ3Rlc3QxLmpwZyc7CgogICAgICAvLyBQcmVwYXJlIHVwbG9hZCBzbGlkZXMgcXVlcmllcyBtb2NrCiAgICAgIGNvbnN0IHVwbG9hZFNsaWRlc1F1ZXJpZXMgPSBUZXN0QmVkLmdldChVcGxvYWRTbGlkZXNRdWVyaWVzKSBhcyBVcGxvYWRTbGlkZXNRdWVyaWVzOwogICAgICBjb25zdCBjaGVja0ZpbGVOYW1lc1NweSA9IHNweU9uUHJvcGVydHkodXBsb2FkU2xpZGVzUXVlcmllcywgJ2NoZWNrZWRGaWxlTmFtZXMkJywgJ2dldCcpLmFuZC5yZXR1cm5WYWx1ZSgKICAgICAgICBvZihbZmlsZU5hbWVdKQogICAgICApOwogICAgICBjb25zdCBnZXRGaWxlTmFtZXNCeVN0YXR1c1NweSA9IHNweU9uKHVwbG9hZFNsaWRlc1F1ZXJpZXMsICdnZXRGaWxlTmFtZXNCeVN0YXR1cycpLmFuZC5yZXR1cm5WYWx1ZSgKICAgICAgICBvZihbXSkKICAgICAgKTsKCiAgICAgIGNvbnN0IGFjdGlvbnMgPSBUZXN0QmVkLmdldChBY3Rpb25zKTsKICAgICAgYWN0aW9ucy5zdHJlYW0gPSBjb2xkKCdhJywgeyBhOiBuZXcgVXBsb2FkU2xpZGVzQWN0aW9ucy5VcGxvYWRDaGVja2VkRmlsZXMoKSB9KTsKCiAgICAgIC8vIEFzc2VydAogICAgICBjb25zdCB1cGxvYWRTbGlkZUVmZmVjdHMgPSBUZXN0QmVkLmdldChVcGxvYWRTbGlkZXNFZmZlY3RzKSBhcyBVcGxvYWRTbGlkZXNFZmZlY3RzOwogICAgICBjb25zdCBhY3R1YWxBY3Rpb25zJCA9IHVwbG9hZFNsaWRlRWZmZWN0cy51cGxvYWRDaGVja2VkRmlsZXMkOwogICAgICBjb25zdCBleHBlY3RlZEFjdGlvbnMkID0gY29sZCgnYScsIHsgYTogbmV3IFVwbG9hZFNsaWRlc0FjdGlvbnMuVXBsb2FkRmlsZXMoW2ZpbGVOYW1lXSkgfSk7CiAgICAgIGV4cGVjdChhY3R1YWxBY3Rpb25zJCkudG9CZU9ic2VydmFibGUoZXhwZWN0ZWRBY3Rpb25zJCk7CiAgICAgIGV4cGVjdChjaGVja0ZpbGVOYW1lc1NweSkudG9IYXZlQmVlbkNhbGxlZFRpbWVzKDEpOwogICAgICBleHBlY3QoZ2V0RmlsZU5hbWVzQnlTdGF0dXNTcHkpLnRvSGF2ZUJlZW5DYWxsZWRUaW1lcygxKTsKICAgIH0pOwoK</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KGNoZWNrRmlsZU5hbWVzU3B5KS50b0hhdmVCZWVuQ2FsbGVkVGltZXMoMSk7CiAgICAgIGV4cGVjdChnZXRGaWxlTmFtZXNCeVN0YXR1c1NweSkudG9IYXZlQmVlbkNhbGxlZFRpbWVzKDEpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>payload</last-search>
+      <last-search encoding="base64">XDxOYXZpZ2F0aW9uUXVlcmllc01vY2tcPg==</last-search>
       <last-offset />
-      <last-pattern>payload</last-pattern>
+      <last-pattern encoding="base64">XDxOYXZpZ2F0aW9uUXVlcmllc01vY2tcPg==</last-pattern>
       <last-replace encoding="base64">IA==</last-replace>
       <last-substitute encoding="base64">OiB2b2lkIA==</last-substitute>
       <last-dir>1</last-dir>
@@ -885,9 +888,6 @@
     </search>
     <history>
       <history-search>
-        <entry>crossmode</entry>
-        <entry>\ccrossmode</entry>
-        <entry encoding="base64">XDxsb2FkT3ZlcmxheVw+</entry>
         <entry encoding="base64">XDxyZXNpemVPYnNlcnZlclw+</entry>
         <entry encoding="base64">XDxhbm5vdGF0aW9uUXVlcmllc1w+</entry>
         <entry>\cland</entry>
@@ -905,6 +905,9 @@
         <entry encoding="base64">XDxTRVRfQUxMX0lURU1TX0NIRUNLX1NUQVRFXD4=</entry>
         <entry encoding="base64">XDxmaWxlTWV0YUluZm9cPg==</entry>
         <entry>payload</entry>
+        <entry>spyon</entry>
+        <entry>\cspyon</entry>
+        <entry encoding="base64">XDxOYXZpZ2F0aW9uUXVlcmllc01vY2tcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/false/check/c</entry>
