@@ -32,9 +32,9 @@
         <mark key="." line="10" column="1" />
         <mark key="^" line="10" column="1" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.spec.ts" timestamp="1552478137427">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="88" />
+      <file name="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.spec.ts" timestamp="1552597717456">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="50" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/pages/state/reducers/index.ts" timestamp="1549290361164">
         <mark key="[" line="32" column="0" />
@@ -418,11 +418,11 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="0" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slides-effect.ts" timestamp="1552595564866">
-        <mark key="[" line="4" column="38" />
-        <mark key="]" line="4" column="37" />
-        <mark key="." line="4" column="37" />
-        <mark key="^" line="4" column="37" />
+      <file name="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slides-effect.ts" timestamp="1552598503168">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
+        <mark key="^" line="85" column="38" />
       </file>
       <file name="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/image-viewer-multi.component.html" timestamp="1550681000609">
         <mark key="[" line="3" column="26" />
@@ -590,7 +590,7 @@
         <mark key="[" line="1" column="65" />
         <mark key="]" line="1" column="95" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552596103045">
+      <file name="/Dummy.txt" timestamp="1552598547232">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="54" />
         <mark key="^" line="0" column="0" />
@@ -626,12 +626,12 @@
         <mark key="." line="5" column="107" />
         <mark key="^" line="5" column="26" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slides-effect.spec.ts" timestamp="1552597404983">
-        <mark key="'" line="126" column="16" />
-        <mark key="[" line="31" column="34" />
-        <mark key="]" line="31" column="34" />
-        <mark key="^" line="31" column="34" />
-        <mark key="." line="31" column="34" />
+      <file name="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slides-effect.spec.ts" timestamp="1552598516530">
+        <mark key="'" line="133" column="23" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="C:/dev/demo/ngdemo/src/app/app.component.ts" timestamp="1542283642993">
         <mark key="[" line="15" column="25" />
@@ -697,10 +697,12 @@
         <mark key="^" line="6" column="48" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/app.module.ts" timestamp="1552397744702" />
+      <file name="/upload-slides.actions.ts" timestamp="1552382011787">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="65" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="82" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/image-viewer.component.ts" />
-      <jump line="220" column="17" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/image-viewer.component.ts" />
       <jump line="301" column="17" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/image-viewer.component.ts" />
       <jump line="320" column="17" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/image-viewer.component.ts" />
       <jump line="335" column="17" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/image-viewer.component.ts" />
@@ -799,6 +801,8 @@
       <jump line="41" column="48" filename="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slides-effect.spec.ts" />
       <jump line="20" column="6" filename="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slides-effect.spec.ts" />
       <jump line="126" column="16" filename="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slides-effect.spec.ts" />
+      <jump line="34" column="0" filename="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slides-effect.spec.ts" />
+      <jump line="133" column="23" filename="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slides-effect.spec.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -811,16 +815,16 @@
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>getMetaInfoSpy</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxOYXZpZ2F0aW9uUXVlcmllc01vY2tcPg==</text>
+        <text encoding="base64">XDxmZGVzY3JpYmVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwdWJsaWMgZ2V0TWV0YUluZm9CeUZpbGVOYW1lID0gKGZpbGVOYW1lOiBzdHJpbmcpOiBPYnNlcnZhYmxlPFVwbG9hZFNsaWRlTWV0YUluZm8gfCBudWxsPiA9Pgo=</text>
+        <text encoding="base64">ICBsZXQgY3NDbGllbnRTcHk6IGphc21pbmUuU3B5T2JqPENvbnRlbnRTZXJ2aWNlPjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgc3B5T24odXBsb2FkU2xpZGVFZmZlY3RzLCAndXBsb2FkU2luZ2xlRmlsZScpCg==</text>
+        <text encoding="base64">ICAgICAgdGFwKHBhcmFtID0+IHsgY29uc29sZS5sb2coJz4+Pj4+JywgcGFyYW0pfSksCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -843,44 +847,44 @@
           <key char="40" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgY29uc3QgdXBsb2FkU2xpZGVTZXJ2aWNlID0gVGVzdEJlZC5nZXQoVXBsb2FkU2xpZGVTZXJ2aWNlKSBhcyBVcGxvYWRTbGlkZVNlcnZpY2U7CiAgICAgIC8vIGNvbnN0IHVwbG9hZFNsaWRlU3B5ID0gc3B5T24odXBsb2FkU2xpZGVTZXJ2aWNlLCAndXBsb2FkU2xpZGUnKS5hbmQucmV0dXJuVmFsdWUodW5kZWZpbmVkKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgc3B5T24odXBsb2FkU2xpZGVFZmZlY3RzLCAndXBsb2FkU2luZ2xlRmlsZScpCg==</text>
+      </register>
+      <register name="4" type="4">
         <text>{
           a: new UploadSlidesActions.UploadFile('test1.jpg'),
           b: new UploadSlidesActions.UploadFile('test2.jpg')
         }</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLy8gUHJlcGFyZSB1cGxvYWQgc2xpZGVzIHF1ZXJpZXMgbW9jawo=</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLy8gUHJlcGFyZSB1cGxvYWQgc2xpZGVzIHF1ZXJpZXMgbW9jawo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdGFwKGZpbGVOYW1lID0+IGNvbnNvbGUubG9nKCc+Pj4+PicsIGZpbGVOYW1lKSksCg==</text>
+        <text encoding="base64">ICAgICAgLy8gUHJlcGFyZSB1cGxvYWQgc2xpZGVzIHF1ZXJpZXMgbW9jawo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGFwKGZpbGVOYW1lID0+IGNvbnNvbGUubG9nKCc+Pj4+PicsIGZpbGVOYW1lKSksCg==</text>
+        <text encoding="base64">ICAgICAgLy8gUHJlcGFyZSB1cGxvYWQgc2xpZGVzIHF1ZXJpZXMgbW9jawo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgIC8vIFByZXBhcmUgdXBsb2FkIHNsaWRlcyBxdWVyaWVzIG1vY2sKICAgICAgY29uc3QgdXBsb2FkU2xpZGVzUXVlcmllcyA9IFRlc3RCZWQuZ2V0KFVwbG9hZFNsaWRlc1F1ZXJpZXMpIGFzIFVwbG9hZFNsaWRlc1F1ZXJpZXM7CiAgICAgIGNvbnN0IGNoZWNrRmlsZU5hbWVzU3B5ID0gc3B5T25Qcm9wZXJ0eSh1cGxvYWRTbGlkZXNRdWVyaWVzLCAnY2hlY2tlZEZpbGVOYW1lcyQnLCAnZ2V0JykuYW5kLnJldHVyblZhbHVlKAogICAgICAgIG9mKFtmaWxlTmFtZV0pCiAgICAgICk7CiAgICAgIGNvbnN0IGdldEZpbGVOYW1lc0J5U3RhdHVzU3B5ID0gc3B5T24odXBsb2FkU2xpZGVzUXVlcmllcywgJ2dldEZpbGVOYW1lc0J5U3RhdHVzJykuYW5kLnJldHVyblZhbHVlKAogICAgICAgIG9mKFtdKQogICAgICApOwo=</text>
+        <text encoding="base64">ICAgICAgdGFwKGZpbGVOYW1lID0+IGNvbnNvbGUubG9nKCc+Pj4+PicsIGZpbGVOYW1lKSksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KGNoZWNrRmlsZU5hbWVzU3B5KS50b0hhdmVCZWVuQ2FsbGVkVGltZXMoMSk7CiAgICAgIGV4cGVjdChnZXRGaWxlTmFtZXNCeVN0YXR1c1NweSkudG9IYXZlQmVlbkNhbGxlZFRpbWVzKDEpOwo=</text>
+        <text encoding="base64">ICAgICAgdGFwKGZpbGVOYW1lID0+IGNvbnNvbGUubG9nKCc+Pj4+PicsIGZpbGVOYW1lKSksCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxOYXZpZ2F0aW9uUXVlcmllc01vY2tcPg==</last-search>
+      <last-search encoding="base64">XDxmZGVzY3JpYmVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxOYXZpZ2F0aW9uUXVlcmllc01vY2tcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxmZGVzY3JpYmVcPg==</last-pattern>
       <last-replace encoding="base64">IA==</last-replace>
       <last-substitute encoding="base64">OiB2b2lkIA==</last-substitute>
       <last-dir>1</last-dir>
@@ -888,7 +892,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZXNpemVPYnNlcnZlclw+</entry>
         <entry encoding="base64">XDxhbm5vdGF0aW9uUXVlcmllc1w+</entry>
         <entry>\cland</entry>
         <entry>\cThIs</entry>
@@ -908,6 +911,7 @@
         <entry>spyon</entry>
         <entry>\cspyon</entry>
         <entry encoding="base64">XDxOYXZpZ2F0aW9uUXVlcmllc01vY2tcPg==</entry>
+        <entry encoding="base64">XDxmZGVzY3JpYmVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/false/check/c</entry>
