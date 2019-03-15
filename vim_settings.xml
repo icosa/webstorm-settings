@@ -32,9 +32,10 @@
         <mark key="." line="10" column="1" />
         <mark key="^" line="10" column="1" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.spec.ts" timestamp="1552657804163">
-        <mark key="[" line="112" column="0" />
-        <mark key="]" line="112" column="0" />
+      <file name="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.spec.ts" timestamp="1552659861523">
+        <mark key="'" line="47" column="4" />
+        <mark key="[" line="110" column="18" />
+        <mark key="]" line="110" column="114" />
         <mark key="^" line="110" column="112" />
         <mark key="." line="112" column="0" />
       </file>
@@ -700,8 +701,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="34" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/state/image-view-query-factory.ts" />
-      <jump line="37" column="13" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/image-viewer.component.ts" />
       <jump line="86" column="64" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/tiled-image-viewer/tiled-image-viewer.ts" />
       <jump line="89" column="62" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/tiled-image-viewer/tiled-image-viewer.ts" />
       <jump line="92" column="71" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/tiled-image-viewer/tiled-image-viewer.ts" />
@@ -800,6 +799,8 @@
       <jump line="117" column="58" filename="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slides-effect.spec.ts" />
       <jump line="137" column="22" filename="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slides-effect.spec.ts" />
       <jump line="75" column="36" filename="C:/dev/definiens/vt.portal/src/app/state/queries/upload-slides.queries.spec.ts" />
+      <jump line="28" column="6" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.spec.ts" />
+      <jump line="47" column="4" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.spec.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -815,10 +816,10 @@
         <text>A</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmaWxlQlw+</text>
+        <text encoding="base64">XDxhY3Rpb25EaXNwYXRjaGVyU3B5XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KGFjdGlvbkRpc3BhdGNoZXJTcHkuZGlzcGF0Y2gpLnRvSGF2ZUJlZW5DYWxsZWRXaXRoKAogICAgICAgIG5ldyBTZXRGaWxlc1N0YXR1cyhbZmlsZW5hbWVdLCBVcGxvYWRTbGlkZVN0YXR1cy5TdWNjZWVkZWQpCiAgICAgICk7Cg==</text>
+      <register name="0" type="4">
+        <text>expect(actionDispatcherSpy.dispatch).toHaveBeenCalledWith(new SetFilesStatus([filename], status))</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgZXhwZWN0KGFjdGlvbkRpc3BhdGNoZXJTcHkuZGlzcGF0Y2gpLnRvSGF2ZUJlZW5DYWxsZWRXaXRoKAogICAgICAgIG5ldyBTZXRGaWxlc1N0YXR1cyhbZmlsZW5hbWVdLCBVcGxvYWRTbGlkZVN0YXR1cy5JblByb2dyZXNzKQogICAgICApOwogICAgICBleHBlY3QoYWN0aW9uRGlzcGF0Y2hlclNweS5kaXNwYXRjaCkudG9IYXZlQmVlbkNhbGxlZFdpdGgoCiAgICAgICAgbmV3IFNldEZpbGVzU3RhdHVzKFtmaWxlbmFtZV0sIFVwbG9hZFNsaWRlU3RhdHVzLlN1Y2NlZWRlZCkKICAgICAgKTsK</text>
@@ -876,17 +877,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmaWxlQlw+</last-search>
+      <last-search encoding="base64">XDxhY3Rpb25EaXNwYXRjaGVyU3B5XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmaWxlQlw+</last-pattern>
+      <last-pattern encoding="base64">XDxhY3Rpb25EaXNwYXRjaGVyU3B5XD4=</last-pattern>
       <last-replace encoding="base64">IA==</last-replace>
       <last-substitute encoding="base64">OiB2b2lkIA==</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>\cThIs</entry>
         <entry encoding="base64">XDxsYW5kbWFya3NMYXllclw+</entry>
         <entry encoding="base64">XDxzaG93TGFuZG1hcmtzXD4=</entry>
         <entry encoding="base64">XDxhbmNob3JFbGVtZW50SWRcPg==</entry>
@@ -906,6 +906,7 @@
         <entry encoding="base64">XDxmZGVzY3JpYmVcPg==</entry>
         <entry encoding="base64">XDxmaWxlTmFtZXNcPg==</entry>
         <entry encoding="base64">XDxmaWxlQlw+</entry>
+        <entry encoding="base64">XDxhY3Rpb25EaXNwYXRjaGVyU3B5XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/se}/se }/</entry>
