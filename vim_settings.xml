@@ -251,11 +251,11 @@
         <mark key="." line="51" column="0" />
         <mark key="^" line="51" column="52" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.ts" timestamp="1552907785334">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="^" line="124" column="3" />
-        <mark key="." line="59" column="0" />
+      <file name="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.ts" timestamp="1552908886232">
+        <mark key="[" line="49" column="79" />
+        <mark key="]" line="49" column="79" />
+        <mark key="^" line="49" column="5" />
+        <mark key="." line="49" column="79" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/pages/project-properties-page/project-properties-page.component.spec.ts" timestamp="1542200589674">
         <mark key="[" line="39" column="0" />
@@ -719,16 +719,16 @@
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTT0lTX0VORFBPSU5UXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMudXBkYXRlRmlsZVVwbG9hZFN0YXR1cyhmaWxlLm5hbWUsIFVwbG9hZFNsaWRlU3RhdHVzLlN1Y2NlZWRlZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy51cGRhdGVGaWxlVXBsb2FkU3RhdHVzKGZpbGUubmFtZSwgVXBsb2FkU2xpZGVTdGF0dXMuU3VjY2VlZGVkKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gY29uc3QgYWNjZXNzVG9rZW4gPSBhd2FpdCB0aGlzLmdldEF1dGhUb2tlblRvV3JpdGVUb1NvaXMoc2xpZGVJZCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -752,13 +752,21 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGNvbnN0IGFjY2Vzc1Rva2VuID0gYXdhaXQgdGhpcy5nZXRBdXRoVG9rZW5Ub1dyaXRlVG9Tb2lzKHNsaWRlSWQpOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>new sois.SlideUploadService(
+      this.http,
+      environment.soisUrl,
+      new sois.Configuration({
+        apiKeys: {
+          Authorization: `Bearer ${accessToken}`,
+        },
+      })
+    )</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -773,10 +781,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMuYWN0aW9uRGlzcGF0Y2hlci5kaXNwYXRjaChuZXcgU2V0RmlsZXNTdGF0dXMoW2ZpbGUubmFtZV0sIFVwbG9hZFNsaWRlU3RhdHVzLkluUHJvZ3Jlc3MpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMuYWN0aW9uRGlzcGF0Y2hlci5kaXNwYXRjaChuZXcgU2V0RmlsZXNTdGF0dXMoW2ZpbGUubmFtZV0sIFVwbG9hZFNsaWRlU3RhdHVzLlN1Y2NlZWRlZCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
