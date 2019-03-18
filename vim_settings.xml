@@ -433,10 +433,10 @@
         <mark key="^" line="1" column="31" />
         <mark key="." line="1" column="2" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/state/actions/upload-slides.actions.ts" timestamp="1552593244318">
-        <mark key="[" line="50" column="78" />
-        <mark key="]" line="50" column="78" />
-        <mark key="." line="50" column="78" />
+      <file name="C:/dev/definiens/vt.portal/src/app/state/actions/upload-slides.actions.ts" timestamp="1552910072016">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
         <mark key="^" line="50" column="78" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/pages/upload-slide-page/upload-slide.component.ts" timestamp="1552642935615">
@@ -728,7 +728,7 @@
         <text encoding="base64">ICAgICAgdGhpcy51cGRhdGVGaWxlVXBsb2FkU3RhdHVzKGZpbGUubmFtZSwgVXBsb2FkU2xpZGVTdGF0dXMuU3VjY2VlZGVkKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLy8gY29uc3QgYWNjZXNzVG9rZW4gPSBhd2FpdCB0aGlzLmdldEF1dGhUb2tlblRvV3JpdGVUb1NvaXMoc2xpZGVJZCk7Cg==</text>
+        <text encoding="base64">ICAgIC8vIHB1YmxpYyBzbGlkZUlkOiBzdHJpbmcsCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -752,12 +752,15 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnN0IGFjY2Vzc1Rva2VuID0gYXdhaXQgdGhpcy5nZXRBdXRoVG9rZW5Ub1dyaXRlVG9Tb2lzKHNsaWRlSWQpOwo=</text>
+        <text encoding="base64">ICAgICAgLy8gY29uc3QgYWNjZXNzVG9rZW4gPSBhd2FpdCB0aGlzLmdldEF1dGhUb2tlblRvV3JpdGVUb1NvaXMoc2xpZGVJZCk7Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIC8vIGNvbnN0IGFjY2Vzc1Rva2VuID0gYXdhaXQgdGhpcy5nZXRBdXRoVG9rZW5Ub1dyaXRlVG9Tb2lzKHNsaWRlSWQpOwo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>new sois.SlideUploadService(
       this.http,
       environment.soisUrl,
@@ -767,9 +770,6 @@
         },
       })
     )</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
