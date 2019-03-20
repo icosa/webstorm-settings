@@ -382,9 +382,9 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="0" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slides-effect.ts" timestamp="1553071443781">
-        <mark key="[" line="77" column="33" />
-        <mark key="]" line="77" column="47" />
+      <file name="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slides-effect.ts" timestamp="1553072037266">
+        <mark key="[" line="75" column="2" />
+        <mark key="]" line="75" column="37" />
         <mark key="^" line="83" column="36" />
         <mark key="." line="83" column="36" />
       </file>
@@ -576,12 +576,12 @@
         <mark key="." line="5" column="107" />
         <mark key="^" line="5" column="26" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slides-effect.spec.ts" timestamp="1553071868464">
+      <file name="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slides-effect.spec.ts" timestamp="1553072470552">
         <mark key="'" line="142" column="31" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-        <mark key="^" line="35" column="0" />
+        <mark key="[" line="225" column="6" />
+        <mark key="]" line="226" column="7" />
+        <mark key="." line="226" column="7" />
+        <mark key="^" line="226" column="7" />
       </file>
       <file name="C:/dev/demo/ngdemo/src/app/app.component.ts" timestamp="1542283642993">
         <mark key="[" line="15" column="25" />
@@ -762,13 +762,13 @@
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>Name</text>
+        <text>toggleFileCheckState</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhY3Rpdml0eUNoZWNrU3Vic2NyaXB0aW9uXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KG5vdGlmaWNhdGlvblNlcnZpY2VNb2NrLm5vdGlmeSkudG9IYXZlQmVlbkNhbGxlZFRpbWVzKDEpOwo=</text>
+      <register name="0" type="4">
+        <text>{ a: new UploadSlidesActions.UpdateProgress('a-image-file-name', 50</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
