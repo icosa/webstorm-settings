@@ -235,11 +235,11 @@
         <mark key="." line="1" column="25" />
         <mark key="^" line="1" column="25" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/modules/authentication/services/auth/auth.service.ts" timestamp="1553071011478">
+      <file name="C:/dev/definiens/vt.portal/src/app/modules/authentication/services/auth/auth.service.ts" timestamp="1553073260904">
         <mark key="'" line="51" column="9" />
-        <mark key="[" line="123" column="0" />
-        <mark key="]" line="123" column="0" />
-        <mark key="." line="123" column="0" />
+        <mark key="[" line="236" column="5" />
+        <mark key="]" line="236" column="68" />
+        <mark key="." line="236" column="5" />
         <mark key="^" line="203" column="9" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/pages/index.ts" timestamp="1547045665863">
@@ -540,7 +540,7 @@
         <mark key="[" line="87" column="0" />
         <mark key="]" line="87" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553014125118">
+      <file name="/Dummy.txt" timestamp="1553073628049">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="0" />
@@ -576,12 +576,12 @@
         <mark key="." line="5" column="107" />
         <mark key="^" line="5" column="26" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slides-effect.spec.ts" timestamp="1553072470552">
-        <mark key="'" line="142" column="31" />
-        <mark key="[" line="225" column="6" />
-        <mark key="]" line="226" column="7" />
-        <mark key="." line="226" column="7" />
-        <mark key="^" line="226" column="7" />
+      <file name="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slides-effect.spec.ts" timestamp="1553074007541">
+        <mark key="'" line="249" column="0" />
+        <mark key="[" line="228" column="40" />
+        <mark key="]" line="228" column="40" />
+        <mark key="." line="228" column="40" />
+        <mark key="^" line="228" column="40" />
       </file>
       <file name="C:/dev/demo/ngdemo/src/app/app.component.ts" timestamp="1542283642993">
         <mark key="[" line="15" column="25" />
@@ -650,10 +650,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="151" column="21" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/image-viewer.component.ts" />
-      <jump line="200" column="25" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/image-viewer.component.ts" />
-      <jump line="210" column="25" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/image-viewer.component.ts" />
-      <jump line="218" column="25" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/image-viewer.component.ts" />
       <jump line="227" column="25" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/image-viewer.component.ts" />
       <jump line="233" column="49" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/image-viewer.component.ts" />
       <jump line="236" column="13" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/image-viewer.component.ts" />
@@ -750,6 +746,10 @@
       <jump line="257" column="38" filename="C:/dev/definiens/vt.portal/src/app/modules/authentication/services/auth/auth.service.ts" />
       <jump line="264" column="30" filename="C:/dev/definiens/vt.portal/src/app/modules/authentication/services/auth/auth.service.ts" />
       <jump line="51" column="9" filename="C:/dev/definiens/vt.portal/src/app/modules/authentication/services/auth/auth.service.ts" />
+      <jump line="221" column="5" filename="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slides-effect.spec.ts" />
+      <jump line="209" column="14" filename="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slides-effect.spec.ts" />
+      <jump line="228" column="44" filename="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slides-effect.spec.ts" />
+      <jump line="249" column="0" filename="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slides-effect.spec.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -762,13 +762,13 @@
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>toggleFileCheckState</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhY3Rpdml0eUNoZWNrU3Vic2NyaXB0aW9uXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>{ a: new UploadSlidesActions.UpdateProgress('a-image-file-name', 50</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgLy8gYXJyYW5nZSBhbmQgYWN0Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -798,31 +798,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAoYWN0aW9uOiBVcGxvYWRTbGlkZXNBY3Rpb25zLlVwbG9hZEZpbGUpID0+IHRoaXMudXBsb2FkU2luZ2xlRmlsZShhY3Rpb24uZmlsZU5hbWUpLAogICAgICAgIE1BWF9DT05DVVJSRU5UX0ZJTEVfVVBMT0FEUwogICAgICApLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAuLi5zdWNjZXNzUmVzcG9uc2VzLm1hcCgocmVzcG9uc2U6IG9iamVjdCkgPT4gb2YocmVzcG9uc2UpKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY3NDbGllbnRTcHkuZ2V0T3JDcmVhdGVVbnByb2Nlc3NlZFNsaWRlLmFuZC5yZXR1cm5WYWx1ZSh0aHJvd0Vycm9yKG5ldyBFcnJvcignZmFpbHVyZScpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAoYWN0aW9uOiBVcGxvYWRTbGlkZXNBY3Rpb25zLlVwbG9hZEZpbGUpID0+IHRoaXMudXBsb2FkU2luZ2xlRmlsZShhY3Rpb24uZmlsZU5hbWUpLAogICAgICAgIE1BWF9DT05DVVJSRU5UX0ZJTEVfVVBMT0FEUwogICAgICApLAo=</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAuLi5zdWNjZXNzUmVzcG9uc2VzLm1hcCgocmVzcG9uc2U6IG9iamVjdCkgPT4gb2YocmVzcG9uc2UpKSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY3NDbGllbnRTcHkuZ2V0T3JDcmVhdGVVbnByb2Nlc3NlZFNsaWRlLmFuZC5yZXR1cm5WYWx1ZSh0aHJvd0Vycm9yKG5ldyBFcnJvcignZmFpbHVyZScpKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgIC8vIGFycmFuZ2UKICAgICAgLy8gY29uc3QgcHJvamVjdElkID0gJ3Byb2plY3RJZCc7CiAgICAgIC8vIGNvbnN0IGZpbGVuYW1lID0gJ2ZpbGVuYW1lJzsKICAgICAgLy8gY29uc3QgZGF0YSA9IGNoYW5jZS5zdHJpbmcoeyBsZW5ndGg6IDggfSk7CiAgICAgIC8vIGNvbnN0IGZpbGUgPSBuZXcgRmlsZShbZGF0YV0sIGZpbGVuYW1lKTsKICAgICAgLy8gY29uc3Qgc2xpZGVJZCA9ICdzbGlkZUlkJzsKICAgICAgLy8gY29uc3QgbmV3QWNjZXNzVG9rZW4gPSAnbmV3QWNjZXNzVG9rZW4nOwogICAgICAvLwogICAgICAvLyBjc0NsaWVudFNweS5nZXRPckNyZWF0ZVVucHJvY2Vzc2VkU2xpZGUuYW5kLnJldHVyblZhbHVlKG9mKHsgc2xpZGVJZCB9KSk7CiAgICAgIC8vIGh0dHBDbGllbnRTcHkucG9zdC5hbmQucmV0dXJuVmFsdWVzKG9mKHsKICAgICAgLy8gICBhY2Nlc3NUb2tlbjogbmV3QWNjZXNzVG9rZW4sCiAgICAgIC8vICAgZXhwaXJlc0luOiA2MDAsCiAgICAgIC8vIH0pLCB0aHJvd0Vycm9yKG5ldyBFcnJvcignZmFpbHVyZScpKSk7CiAgICAgIC8vCiAgICAgIC8vIC8vIGFjdAogICAgICAvLyBhd2FpdCB1cGxvYWRTbGlkZVNlcnZpY2UudXBsb2FkU2xpZGUocHJvamVjdElkLCBmaWxlKTsKICAgICAgLy8KICAgICAgLy8gLy8gYXNzZXJ0CiAgICAgIC8vIGV4cGVjdChyZW1vdGVMb2dnZXJTZXJ2aWNlU3B5LmxvZykudG9IYXZlQmVlbkNhbGxlZCgpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-        accessToken: newAccessToken,
-        expiresIn: 600,
-      }</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
