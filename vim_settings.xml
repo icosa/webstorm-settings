@@ -235,7 +235,8 @@
         <mark key="." line="1" column="25" />
         <mark key="^" line="1" column="25" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/modules/authentication/services/auth/auth.service.ts" timestamp="1547219414923">
+      <file name="C:/dev/definiens/vt.portal/src/app/modules/authentication/services/auth/auth.service.ts" timestamp="1553067381265">
+        <mark key="'" line="23" column="10" />
         <mark key="[" line="123" column="0" />
         <mark key="]" line="123" column="0" />
         <mark key="." line="123" column="0" />
@@ -649,13 +650,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="4" filename="C:/dev/definiens/vt.imageviewer/package.json" />
-      <jump line="45" column="12" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/image-viewer.component.ts" />
-      <jump line="90" column="21" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/image-viewer.component.ts" />
-      <jump line="91" column="21" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/image-viewer.component.ts" />
-      <jump line="104" column="17" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/image-viewer.component.ts" />
-      <jump line="105" column="17" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/image-viewer.component.ts" />
-      <jump line="114" column="18" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/image-viewer.component.ts" />
       <jump line="141" column="21" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/image-viewer.component.ts" />
       <jump line="151" column="21" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/image-viewer.component.ts" />
       <jump line="200" column="25" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/image-viewer.component.ts" />
@@ -749,6 +743,13 @@
       <jump line="6" column="0" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.ts" />
       <jump line="28" column="36" filename="C:/dev/definiens/vt.portal/src/app/state/reducers/upload-slides.reducer.ts" />
       <jump line="138" column="31" filename="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slides-effect.spec.ts" />
+      <jump line="25" column="9" filename="C:/dev/definiens/vt.portal/src/app/modules/authentication/services/auth/auth.service.ts" />
+      <jump line="240" column="9" filename="C:/dev/definiens/vt.portal/src/app/modules/authentication/services/auth/auth.service.ts" />
+      <jump line="34" column="10" filename="C:/dev/definiens/vt.portal/src/app/modules/authentication/services/auth/auth.service.ts" />
+      <jump line="50" column="9" filename="C:/dev/definiens/vt.portal/src/app/modules/authentication/services/auth/auth.service.ts" />
+      <jump line="257" column="38" filename="C:/dev/definiens/vt.portal/src/app/modules/authentication/services/auth/auth.service.ts" />
+      <jump line="264" column="30" filename="C:/dev/definiens/vt.portal/src/app/modules/authentication/services/auth/auth.service.ts" />
+      <jump line="23" column="10" filename="C:/dev/definiens/vt.portal/src/app/modules/authentication/services/auth/auth.service.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -764,7 +765,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTT0lTX0VORFBPSU5UXD4=</text>
+        <text encoding="base64">XDxsb2NhbFN0b3JhZ2VBY3Rpdml0eUtleVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgY29uc3Qgc2xpZGVJZCA9ICdzbGlkZUlkJzsK</text>
@@ -831,9 +832,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTT0lTX0VORFBPSU5UXD4=</last-search>
+      <last-search encoding="base64">XDxsb2NhbFN0b3JhZ2VBY3Rpdml0eUtleVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTT0lTX0VORFBPSU5UXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxsb2NhbFN0b3JhZ2VBY3Rpdml0eUtleVw+</last-pattern>
       <last-replace encoding="base64">IA==</last-replace>
       <last-substitute encoding="base64">OiB2b2lkIA==</last-substitute>
       <last-dir>1</last-dir>
@@ -841,9 +842,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzaG93TGFuZG1hcmtzXD4=</entry>
-        <entry encoding="base64">XDxhbmNob3JFbGVtZW50SWRcPg==</entry>
-        <entry encoding="base64">XDxvbkNsaWNrXD4=</entry>
         <entry>activate</entry>
         <entry>\cactivate</entry>
         <entry encoding="base64">XDxhbGxvd1Bvc2l0aW9uRXZlbnREaXNwYXRjaFw+</entry>
@@ -861,6 +859,9 @@
         <entry encoding="base64">XDxmaWxlQlw+</entry>
         <entry encoding="base64">XDxhY3Rpb25EaXNwYXRjaGVyU3B5XD4=</entry>
         <entry encoding="base64">XDxTT0lTX0VORFBPSU5UXD4=</entry>
+        <entry encoding="base64">XDxhY3Rpdml0eVRocm90dGxpbmdJbnRlcnZhbE1zXD4=</entry>
+        <entry encoding="base64">XDxldmVudFRyYWNraW5nU3Vic2NyaXB0aW9uXD4=</entry>
+        <entry encoding="base64">XDxsb2NhbFN0b3JhZ2VBY3Rpdml0eUtleVw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ue}/ue }/</entry>
