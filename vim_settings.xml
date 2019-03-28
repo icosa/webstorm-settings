@@ -52,7 +52,7 @@
         <mark key="^" line="46" column="0" />
         <mark key="." line="45" column="63" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/services/auth-interceptor/auth-interceptor.ts" timestamp="1553763190146" />
+      <file name="C:/dev/definiens/vt.portal/src/app/services/auth-interceptor/auth-interceptor.ts" timestamp="1553763585533" />
       <file name="C:/dev/definiens/vt.portal/node_modules/@types/jasmine/index.d.ts" timestamp="1553261789999">
         <mark key="[" line="236" column="33" />
         <mark key="]" line="236" column="97" />
@@ -247,6 +247,7 @@
         <mark key="." line="1" column="25" />
         <mark key="^" line="1" column="25" />
       </file>
+      <file name="C:/dev/definiens/vt.portal/src/app/modules/authentication/services/auth/auth.service.ts" timestamp="1553763845767" />
       <file name="C:/dev/definiens/vt.portal/src/app/pages/index.ts" timestamp="1547045665863">
         <mark key="[" line="48" column="30" />
         <mark key="]" line="48" column="33" />
@@ -269,12 +270,12 @@
         <mark key="." line="51" column="0" />
         <mark key="^" line="51" column="52" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.ts" timestamp="1553763156268">
-        <mark key="'" line="156" column="7" />
+      <file name="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.ts" timestamp="1553763757517">
+        <mark key="'" line="62" column="3" />
         <mark key="[" line="64" column="23" />
-        <mark key="]" line="25" column="62" />
-        <mark key="^" line="25" column="62" />
-        <mark key="." line="25" column="62" />
+        <mark key="]" line="62" column="4" />
+        <mark key="^" line="62" column="4" />
+        <mark key="." line="62" column="4" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/pages/project-properties-page/project-properties-page.component.spec.ts" timestamp="1542200589674">
         <mark key="[" line="39" column="0" />
@@ -711,7 +712,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="10" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/tiled-image-viewer/tiled-image-viewer.ts" />
       <jump line="73" column="17" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/tiled-image-viewer/tiled-image-viewer.ts" />
       <jump line="8" column="13" filename="C:/dev/definiens/vt.portal/src/app/state/actions/upload-slides.actions.ts" />
       <jump line="47" column="37" filename="C:/dev/definiens/vt.portal/src/app/state/reducers/upload-slides.reducer.spec.ts" />
@@ -811,6 +811,7 @@
       <jump line="0" column="0" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.spec.ts" />
       <jump line="190" column="6" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.ts" />
       <jump line="156" column="7" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.ts" />
+      <jump line="62" column="3" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -826,7 +827,7 @@
         <text>$event</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWFkQW5kVXBsb2FkU2xpZGVcPg==</text>
+        <text>permission</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZXhwZWN0KGh0dHBDbGllbnRTcHkucG9zdCkudG9IYXZlQmVlbkNhbGxlZFdpdGgoCiAgICAgICAgYCR7U09JU19FTkRQT0lOVH0vdjEvc2xpZGVzLyR7c2xpZGVJZH0vY2h1bmtzYCwKICAgICAgICBqYXNtaW5lLmFueShBcnJheUJ1ZmZlciksCiAgICAgICAgb2JqZWN0V2l0aEhlYWRlcnMoeyBBdXRob3JpemF0aW9uOiBgQmVhcmVyICR7YWNjZXNzVG9rZW5BfWAgfSksCiAgICAgICk7Cg==</text>
@@ -893,9 +894,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZWFkQW5kVXBsb2FkU2xpZGVcPg==</last-search>
+      <last-search>permission</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWFkQW5kVXBsb2FkU2xpZGVcPg==</last-pattern>
+      <last-pattern>permission</last-pattern>
       <last-replace encoding="base64">IA==</last-replace>
       <last-substitute encoding="base64">OiB2b2lkIA==</last-substitute>
       <last-dir>1</last-dir>
@@ -903,7 +904,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2NhbFN0b3JhZ2VBY3Rpdml0eUtleVw+</entry>
         <entry encoding="base64">XDxhY3Rpdml0eUNoZWNrU3Vic2NyaXB0aW9uXD4=</entry>
         <entry encoding="base64">XDx2ZXJzaW9uc0RpYWxvZ1w+</entry>
         <entry encoding="base64">XDxldmVudFRyYWNraW5nU3Vic2NyaXB0aW9uXD4=</entry>
@@ -923,6 +923,7 @@
         <entry encoding="base64">XDxvYmplY3RXaXRoSGVhZGVyc1w+</entry>
         <entry encoding="base64">XDx1cGxvYWRTbGlkZUNodW5rXD4=</entry>
         <entry encoding="base64">XDxyZWFkQW5kVXBsb2FkU2xpZGVcPg==</entry>
+        <entry>permission</entry>
       </history-search>
       <history-cmd>
         <entry>24,25y18</entry>
