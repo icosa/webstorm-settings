@@ -52,11 +52,11 @@
         <mark key="^" line="46" column="0" />
         <mark key="." line="45" column="63" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/services/auth-interceptor/auth-interceptor.ts" timestamp="1553849435394">
-        <mark key="[" line="27" column="16" />
-        <mark key="]" line="27" column="28" />
-        <mark key="." line="27" column="28" />
-        <mark key="^" line="27" column="28" />
+      <file name="C:/dev/definiens/vt.portal/src/app/services/auth-interceptor/auth-interceptor.ts" timestamp="1553859068913">
+        <mark key="[" line="32" column="46" />
+        <mark key="]" line="32" column="46" />
+        <mark key="." line="32" column="46" />
+        <mark key="^" line="32" column="13" />
       </file>
       <file name="C:/dev/definiens/vt.portal/node_modules/@types/jasmine/index.d.ts" timestamp="1553261789999">
         <mark key="[" line="236" column="33" />
@@ -261,12 +261,12 @@
         <mark key="." line="1" column="25" />
         <mark key="^" line="1" column="25" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/modules/authentication/services/auth/auth.service.ts" timestamp="1553856527861">
+      <file name="C:/dev/definiens/vt.portal/src/app/modules/authentication/services/auth/auth.service.ts" timestamp="1553859226549">
         <mark key="'" line="110" column="9" />
-        <mark key="[" line="148" column="0" />
-        <mark key="]" line="148" column="0" />
-        <mark key="^" line="168" column="46" />
-        <mark key="." line="148" column="0" />
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="0" />
+        <mark key="^" line="109" column="3" />
+        <mark key="." line="119" column="0" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/pages/index.ts" timestamp="1547045665863">
         <mark key="[" line="48" column="30" />
@@ -478,11 +478,12 @@
         <mark key="^" line="3" column="18" />
         <mark key="." line="3" column="18" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/modules/authentication/services/token-utils.ts" timestamp="1553854165081">
+      <file name="C:/dev/definiens/vt.portal/src/app/modules/authentication/services/token-utils.ts" timestamp="1553858785425">
         <mark key="'" line="88" column="17" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+        <mark key="[" line="88" column="63" />
+        <mark key="]" line="89" column="3" />
+        <mark key="." line="89" column="3" />
+        <mark key="^" line="89" column="3" />
       </file>
       <file name="C:/dev/definiens/slide-original-image-service/src/controllers/slide-upload-sessions.ts" timestamp="1553699972923">
         <mark key="[" line="10" column="0" />
@@ -607,11 +608,17 @@
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="91" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553791772032">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/token related" timestamp="1553859170508">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1553859369106">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="4" />
+        <mark key="." line="0" column="8" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/state/reducers/index.ts" timestamp="1543223584453">
         <mark key="[" line="41" column="30" />
@@ -847,7 +854,7 @@
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>this.checkTokenIntervalMs</text>
+        <text>add fix for refresh token</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGVja0FjY2Vzc1Rva2VuVmFsaWRpdHlcPg==</text>
@@ -856,7 +863,7 @@
         <text>this.checkTokenIntervalMs</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -880,31 +887,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnByaW50Q3VycmVudFRva2VuRXhwaXJ5KCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5wcmludEN1cnJlbnRUb2tlbkV4cGlyeSgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCc+Pj4gc2F2aW5nIG5ldyBhY2Nlc3MgdG9rZW4gJyk7Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHByaW50Q3VycmVudFRva2VuRXhwaXJ5KCkgewogICAgY29uc3QgeyBhY2Nlc3NUb2tlbiB9ID0gVG9rZW5VdGlscy5nZXRUb2tlbnMoKTsKICAgIGlmICghYWNjZXNzVG9rZW4pIHsKICAgICAgcmV0dXJuOwogICAgfQoKICAgIGNvbnN0IGV4cGlyYXRpb25EYXRlID0gbmV3IERhdGUoVG9rZW5VdGlscy5nZXRUb2tlbkV4cGlyYXRpb24oYWNjZXNzVG9rZW4pKTsKICAgIGNvbnN0IGN1cnJlbnRUaW1lID0gdGhpcy5nZXRDdXJyZW50VGltZSgpOwogICAgY29uc3QgZGlmZk1zID0gKGV4cGlyYXRpb25EYXRlIGFzIGFueSkgLSAoY3VycmVudFRpbWUgYXMgYW55KTsKICAgIGNvbnNvbGUud2FybihgPj4+IGN1cnJlbnQgdG9rZW4gd2lsbCBleHBpcmUgaW4gJHtkaWZmTXN9IE1zIG9yICR7ZGlmZk1zIC8gMTAwMH0gc2Vjc2ApCiAgfQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnPj4+Pj4+Pj4+Pj4+Pj4gQWNjZXNzIHRva2VuIHJlZnJlc2hlZCBpbiBiYWNrZ3JvdW5kJyk7Cg==</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmICghdGhpcy5pc1Rva2VuT2xkZXJUaGFuRXhpc3RpbmcoYWNjZXNzVG9rZW4pKSB7CiAgICAgIGNvbnNvbGUud2FybignPj4+IG5ldyB0b2tlbiBvbGRlciB0aGFuIGV4aXN0aW5nIHRva2VuIScpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyB0aGlzLl9sYXN0QWNjZXNzVG9rZW5DaGVjayA9IG5ldyBEYXRlKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCc+Pj4gc2F2aW5nIG5ldyBhY2Nlc3MgdG9rZW4gJyk7CiAgICBsb2NhbFN0b3JhZ2Uuc2V0SXRlbSgncG9ydGFsX2FjY2Vzc190b2tlbicsIEpTT04uc3RyaW5naWZ5KHsK</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIG9ubHkgYXV0aCBzZXJ2aWNlIHJlc3BvbnNlcyB3aWxsIGhhdmUgYSB0b2tlbiBpbiB3aXRoIGEgdG9rZW4gaW4gdGhlIGJvZHkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgIC8vIGlmICh0aGlzLl9sYXN0QWNjZXNzVG9rZW5DaGVjaykgewogICAgLy8gICBjb25zdCBlbGFwc2VkTWlsbGlTZWNzU2luY2VMYXN0Q2hlY2sgPSB0aGlzLl9sYXN0QWNjZXNzVG9rZW5DaGVjay5nZXRUaW1lKCkgLSB0aGlzLmdldEN1cnJlbnRUaW1lKCk7CiAgICAvLyAgIGNvbnNvbGUubG9nKGA+Pj4+IEVsYXBzZWQgbWlsbGkgc2Vjb25kcyBzaW5jZSBsYXN0IGNoZWNrIC0gJHtlbGFwc2VkTWlsbGlTZWNzU2luY2VMYXN0Q2hlY2t9IG9yICR7ZWxhcHNlZE1pbGxpU2Vjc1NpbmNlTGFzdENoZWNrLzEwMDB9IHNlY3NgKTsKICAgIC8vICAgdGhpcy5wcmludEN1cnJlbnRUb2tlbkV4cGlyeSgpOwogICAgLy8gfQoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
