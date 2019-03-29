@@ -267,8 +267,8 @@
         <mark key="." line="1" column="25" />
         <mark key="^" line="1" column="25" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/modules/authentication/services/auth/auth.service.ts" timestamp="1553861453338">
-        <mark key="'" line="110" column="9" />
+      <file name="C:/dev/definiens/vt.portal/src/app/modules/authentication/services/auth/auth.service.ts" timestamp="1553866234578">
+        <mark key="'" line="110" column="63" />
         <mark key="[" line="160" column="2" />
         <mark key="]" line="160" column="8" />
         <mark key="^" line="160" column="8" />
@@ -748,7 +748,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="133" column="23" filename="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slides-effect.spec.ts" />
       <jump line="73" column="12" filename="C:/dev/definiens/vt.portal/src/app/state/queries/upload-slides.queries.spec.ts" />
       <jump line="52" column="48" filename="C:/dev/definiens/vt.portal/src/app/state/queries/upload-slides.queries.spec.ts" />
       <jump line="22" column="20" filename="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slides-effect.spec.ts" />
@@ -836,7 +835,6 @@
       <jump line="114" column="17" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.ts" />
       <jump line="135" column="9" filename="C:/dev/definiens/vt.portal/src/app/modules/authentication/services/auth/auth.service.ts" />
       <jump line="139" column="9" filename="C:/dev/definiens/vt.portal/src/app/modules/authentication/services/auth/auth.service.ts" />
-      <jump line="108" column="9" filename="C:/dev/definiens/vt.portal/src/app/modules/authentication/services/auth/auth.service.ts" />
       <jump line="49" column="30" filename="C:/dev/definiens/vt.portal/src/app/modules/authentication/services/token-utils.ts" />
       <jump line="51" column="40" filename="C:/dev/definiens/vt.portal/src/app/modules/authentication/services/token-utils.ts" />
       <jump line="93" column="17" filename="C:/dev/definiens/vt.portal/src/app/modules/authentication/services/token-utils.ts" />
@@ -844,10 +842,12 @@
       <jump line="147" column="9" filename="C:/dev/definiens/vt.portal/src/app/modules/authentication/services/auth/auth.service.ts" />
       <jump line="115" column="9" filename="C:/dev/definiens/vt.portal/src/app/modules/authentication/services/auth/auth.service.ts" />
       <jump line="116" column="13" filename="C:/dev/definiens/vt.portal/src/app/modules/authentication/services/auth/auth.service.ts" />
-      <jump line="32" column="9" filename="C:/dev/definiens/vt.portal/src/app/modules/authentication/services/auth/auth.service.ts" />
       <jump line="117" column="9" filename="C:/dev/definiens/vt.portal/src/app/modules/authentication/services/auth/auth.service.ts" />
       <jump line="118" column="13" filename="C:/dev/definiens/vt.portal/src/app/modules/authentication/services/auth/auth.service.ts" />
-      <jump line="110" column="9" filename="C:/dev/definiens/vt.portal/src/app/modules/authentication/services/auth/auth.service.ts" />
+      <jump line="138" column="9" filename="C:/dev/definiens/vt.portal/src/app/modules/authentication/services/auth/auth.service.ts" />
+      <jump line="32" column="9" filename="C:/dev/definiens/vt.portal/src/app/modules/authentication/services/auth/auth.service.ts" />
+      <jump line="108" column="9" filename="C:/dev/definiens/vt.portal/src/app/modules/authentication/services/auth/auth.service.ts" />
+      <jump line="110" column="63" filename="C:/dev/definiens/vt.portal/src/app/modules/authentication/services/auth/auth.service.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -863,7 +863,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaGVja0FjY2Vzc1Rva2VuVmFsaWRpdHlcPg==</text>
+        <text encoding="base64">XDx0aWNrc1JlbWFpblw+</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">YWNjZXNzVG9rZW5FeHBpcnlpbmdTcHkg</text>
@@ -924,9 +924,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjaGVja0FjY2Vzc1Rva2VuVmFsaWRpdHlcPg==</last-search>
+      <last-search encoding="base64">XDx0aWNrc1JlbWFpblw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaGVja0FjY2Vzc1Rva2VuVmFsaWRpdHlcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx0aWNrc1JlbWFpblw+</last-pattern>
       <last-replace>let</last-replace>
       <last-substitute encoding="base64">XDxjaGVja0FjY2Vzc1Rva2VuVmFsaWRpdHlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -952,8 +952,8 @@
         <entry encoding="base64">XDxyZXF1ZXN0QWNjZXNzVG9rZW5CeVJlZnJlc2hUb2tlblw+</entry>
         <entry>var</entry>
         <entry encoding="base64">XDxnZXROb25FeHBpcmVkVG9rZW5Gcm9tU3RvcmVkRGF0YVw+</entry>
-        <entry encoding="base64">XDx0aWNrc1JlbWFpblw+</entry>
         <entry encoding="base64">XDxjaGVja0FjY2Vzc1Rva2VuVmFsaWRpdHlcPg==</entry>
+        <entry encoding="base64">XDx0aWNrc1JlbWFpblw+</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
