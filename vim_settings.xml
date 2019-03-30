@@ -27,12 +27,12 @@
         <mark key="." line="10" column="1" />
         <mark key="^" line="10" column="1" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.spec.ts" timestamp="1553880118264">
+      <file name="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.spec.ts" timestamp="1553938705771">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="271" column="67" />
-        <mark key="]" line="271" column="68" />
-        <mark key="^" line="48" column="18" />
-        <mark key="." line="271" column="68" />
+        <mark key="[" line="243" column="0" />
+        <mark key="]" line="243" column="0" />
+        <mark key="^" line="245" column="32" />
+        <mark key="." line="243" column="0" />
       </file>
       <file name="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/image-viewer-multi.component.ts" timestamp="1550681074429">
         <mark key="[" line="23" column="0" />
@@ -277,12 +277,12 @@
         <mark key="." line="51" column="0" />
         <mark key="^" line="51" column="52" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.ts" timestamp="1553880022416">
-        <mark key="'" line="108" column="6" />
-        <mark key="[" line="116" column="45" />
-        <mark key="]" line="116" column="45" />
-        <mark key="." line="116" column="45" />
-        <mark key="^" line="116" column="45" />
+      <file name="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.ts" timestamp="1553938786842">
+        <mark key="'" line="105" column="17" />
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="0" />
+        <mark key="." line="112" column="0" />
+        <mark key="^" line="78" column="63" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/pages/project-properties-page/project-properties-page.component.spec.ts" timestamp="1542200589674">
         <mark key="[" line="39" column="0" />
@@ -698,7 +698,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="137" column="22" filename="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slides-effect.spec.ts" />
       <jump line="75" column="36" filename="C:/dev/definiens/vt.portal/src/app/state/queries/upload-slides.queries.spec.ts" />
       <jump line="28" column="6" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.spec.ts" />
       <jump line="47" column="4" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.spec.ts" />
@@ -778,7 +777,6 @@
       <jump line="177" column="9" filename="C:/dev/definiens/vt.portal/src/app/modules/authentication/services/auth/auth.service.ts" />
       <jump line="184" column="4" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.ts" />
       <jump line="185" column="4" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.ts" />
-      <jump line="114" column="17" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.ts" />
       <jump line="135" column="9" filename="C:/dev/definiens/vt.portal/src/app/modules/authentication/services/auth/auth.service.ts" />
       <jump line="139" column="9" filename="C:/dev/definiens/vt.portal/src/app/modules/authentication/services/auth/auth.service.ts" />
       <jump line="49" column="30" filename="C:/dev/definiens/vt.portal/src/app/modules/authentication/services/token-utils.ts" />
@@ -798,6 +796,8 @@
       <jump line="127" column="16" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.ts" />
       <jump line="46" column="17" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.ts" />
       <jump line="103" column="6" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.ts" />
+      <jump line="114" column="16" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.ts" />
+      <jump line="105" column="17" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -810,20 +810,16 @@
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>calling upload slide</text>
       </register>
       <register name="/" type="4">
-        <text>console</text>
+        <text encoding="base64">XDx0cnlBYm9ydFNsaWRlVXBsb2FkXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>{
-      provide: HTTP_INTERCEPTORS,
-      useClass: fromServices.AuthInterceptor,
-      multi: true,
-    }</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJz4+Pj4+PiBjYWxsaW5nIHVwbG9hZCBzbGlkZScpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIFByb21pc2UucmVzb2x2ZSgpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -847,46 +843,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICwK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJz4+Pj4+IGNhbGxpbmcgYWJvcnQgPDw8PCBmb3InLCBzbGlkZUlkKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0pOwoK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJz4+Pj4+IGNhbGxpbmcgaW5pdGlhbGl6ZSBzbGlkZSB1cGxvYWQgPDw8PCBmb3InLCBzbGlkZUlkKTsK</text>
       </register>
-      <register name="4" type="4">
-        <text>{
-      provide: HTTP_INTERCEPTORS,
-        useClass: fromServices.AuthInterceptor,
-      multi: true,
-    }</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJz4+Pj4+PiBnZXR0aW5nIGF1dGggdG9rZW4nKTsKCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>objectWithHeaders({
-          Authorization: `Bearer ${newAccessToken}`,
-        })</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJz4+Pj4+PiBmaW5pc2hlZCBjYWxsaW5nIGluaXRpYWxpemVTbGlkZVVwbG9hZCcpOwogICAgICBjb25zb2xlLmxvZygnPj4+Pj4+IGNhbGxpbmcgdXBsb2FkIHNsaWRlJyk7Cg==</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdIRVJFJywgdGhpcy5jaGVja1Rva2VuSW50ZXJ2YWxNcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgYXdhaXQgdGhpcy5pbml0aWFsaXplU2xpZGVVcGxvYWQoc2xpZGVJZCwgZmlsZS5zaXplKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJz4+Pj4+PiBzdGFydCcpOwogICAgICBkdW1wQXJncygpOwogICAgICBjb25zb2xlLmxvZygnPj4+Pj4+IHN0YXJ0IDInKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnByaW50Q3VycmVudFRva2VuRXhwaXJ5KCk7Cg==</text>
+        <text encoding="base64">ICAgICwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>console</last-search>
+      <last-search encoding="base64">XDx0cnlBYm9ydFNsaWRlVXBsb2FkXD4=</last-search>
       <last-offset />
-      <last-pattern>console</last-pattern>
+      <last-pattern encoding="base64">XDx0cnlBYm9ydFNsaWRlVXBsb2FkXD4=</last-pattern>
       <last-replace>let</last-replace>
       <last-substitute encoding="base64">XDxjaGVja0FjY2Vzc1Rva2VuVmFsaWRpdHlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -894,7 +884,6 @@
     </search>
     <history>
       <history-search>
-        <entry>split</entry>
         <entry encoding="base64">XDxGYWtlQXV0aFRva2VuXD4=</entry>
         <entry encoding="base64">XDxnZXRSZXF1ZXN0SGlzdG9yeVw+</entry>
         <entry>badre</entry>
@@ -914,6 +903,7 @@
         <entry encoding="base64">XDxwZXJtaXNzaW9uc1NlcnZpY2VcPg==</entry>
         <entry encoding="base64">XDxnZXRBdXRoVG9rZW5Ub1dyaXRlVG9Tb2lzXD4=</entry>
         <entry>console</entry>
+        <entry encoding="base64">XDx0cnlBYm9ydFNsaWRlVXBsb2FkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>47,66t66</entry>
