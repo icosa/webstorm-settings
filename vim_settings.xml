@@ -329,7 +329,7 @@
         <mark key="." line="51" column="0" />
         <mark key="^" line="51" column="52" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.ts" timestamp="1554210795796">
+      <file name="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.ts" timestamp="1554300825516">
         <mark key="'" line="77" column="29" />
         <mark key="[" line="78" column="12" />
         <mark key="]" line="78" column="13" />
@@ -528,12 +528,12 @@
         <mark key="^" line="3" column="18" />
         <mark key="." line="3" column="18" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/modules/authentication/services/token-utils.ts" timestamp="1553858785425">
-        <mark key="'" line="88" column="17" />
-        <mark key="[" line="88" column="63" />
-        <mark key="]" line="89" column="3" />
-        <mark key="." line="89" column="3" />
-        <mark key="^" line="89" column="3" />
+      <file name="C:/dev/definiens/vt.portal/src/app/modules/authentication/services/token-utils.ts" timestamp="1554301618513">
+        <mark key="'" line="100" column="17" />
+        <mark key="[" line="69" column="2" />
+        <mark key="]" line="69" column="2" />
+        <mark key="." line="69" column="2" />
+        <mark key="^" line="101" column="3" />
       </file>
       <file name="C:/dev/definiens/slide-original-image-service/src/controllers/slide-upload-sessions.ts" timestamp="1553699972923">
         <mark key="[" line="10" column="0" />
@@ -670,9 +670,9 @@
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="91" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/token related" timestamp="1553868625374">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/token related" timestamp="1554300888281">
         <mark key="[" line="2" column="0" />
-        <mark key="]" line="12" column="2" />
+        <mark key="]" line="12" column="3" />
         <mark key="^" line="1" column="0" />
         <mark key="." line="2" column="0" />
       </file>
@@ -924,13 +924,13 @@
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>{ minChunkSize: minimumChunkSizeAllowed, desiredChunkSize: STANDARD_CHUNK_SIZE }</text>
+        <text>private</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaG9vc2VVcGxvYWRDaHVua1NpemVcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IG1pbmltdW1DaHVua1NpemVBbGxvd2Vk</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBwcml2YXRlIHByaW50Q3VycmVudFRva2VuRXhwaXJ5KCkgewogICAgY29uc3QgeyBhY2Nlc3NUb2tlbiB9ID0gVG9rZW5VdGlscy5nZXRUb2tlbnMoKTsKICAgIGlmICghYWNjZXNzVG9rZW4pIHsKICAgICAgcmV0dXJuOwogICAgfQoKICAgIGNvbnN0IGV4cGlyYXRpb25EYXRlID0gbmV3IERhdGUoVG9rZW5VdGlscy5nZXRUb2tlbkV4cGlyYXRpb24oYWNjZXNzVG9rZW4pKTsKICAgIGNvbnN0IGN1cnJlbnRUaW1lID0gdGhpcy5nZXRDdXJyZW50VGltZSgpOwogICAgY29uc3QgZGlmZk1zID0gKGV4cGlyYXRpb25EYXRlIGFzIGFueSkgLSAoY3VycmVudFRpbWUgYXMgYW55KTsKICAgIGNvbnNvbGUud2FybihgPj4+IGN1cnJlbnQgdG9rZW4gd2lsbCBleHBpcmUgaW4gJHtkaWZmTXN9IE1zIG9yICR7ZGlmZk1zIC8gMTAwMH0gc2Vjc2ApCiAgfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">OiA1IAo=</text>
