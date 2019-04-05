@@ -305,8 +305,8 @@
         <mark key="." line="51" column="0" />
         <mark key="^" line="51" column="52" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.ts" timestamp="1554388969337">
-        <mark key="'" line="43" column="30" />
+      <file name="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.ts" timestamp="1554470663884">
+        <mark key="'" line="48" column="9" />
         <mark key="[" line="78" column="0" />
         <mark key="]" line="78" column="0" />
         <mark key="^" line="79" column="72" />
@@ -778,7 +778,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="209" column="14" filename="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slides-effect.spec.ts" />
       <jump line="228" column="44" filename="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slides-effect.spec.ts" />
       <jump line="249" column="0" filename="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slides-effect.spec.ts" />
       <jump line="76" column="9" filename="C:/dev/definiens/vt.portal/src/app/pages/project-overview-page/project-overview-page.component.ts" />
@@ -878,6 +877,7 @@
       <jump line="246" column="19" filename="C:/dev/definiens/vt.portal/src/app/modules/authentication/services/auth/auth.service.ts" />
       <jump line="106" column="9" filename="C:/dev/definiens/vt.portal/src/app/modules/authentication/services/auth/auth.service.ts" />
       <jump line="130" column="18" filename="C:/dev/definiens/vt.portal/src/app/modules/authentication/services/auth/auth.service.ts" />
+      <jump line="48" column="9" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -893,7 +893,7 @@
         <text>updateAccessTokenIfRunningOut</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaGVja0FjY2Vzc1Rva2VuVmFsaWRpdHlcPg==</text>
+        <text encoding="base64">XDxhdXRoVG9rZW5cPg==</text>
       </register>
       <register name="0" type="4">
         <text>updateAccessTokenIfRunningOut</text>
@@ -954,9 +954,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjaGVja0FjY2Vzc1Rva2VuVmFsaWRpdHlcPg==</last-search>
+      <last-search encoding="base64">XDxhdXRoVG9rZW5cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaGVja0FjY2Vzc1Rva2VuVmFsaWRpdHlcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxhdXRoVG9rZW5cPg==</last-pattern>
       <last-replace>it</last-replace>
       <last-substitute>fit</last-substitute>
       <last-dir>1</last-dir>
@@ -964,8 +964,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1cGxvYWRTbGlkZUNodW5rXD4=</entry>
-        <entry>permission</entry>
         <entry encoding="base64">XDxyZXF1ZXN0QWNjZXNzVG9rZW5CeVJlZnJlc2hUb2tlblw+</entry>
         <entry>var</entry>
         <entry encoding="base64">XDxnZXROb25FeHBpcmVkVG9rZW5Gcm9tU3RvcmVkRGF0YVw+</entry>
@@ -984,6 +982,8 @@
         <entry>abort</entry>
         <entry encoding="base64">XDx0b2tlbkV4cGlyZXNPbk5leHRUaWNrXD4=</entry>
         <entry encoding="base64">XDxjaGVja0FjY2Vzc1Rva2VuVmFsaWRpdHlcPg==</entry>
+        <entry encoding="base64">XDx1c2VyUXVlcmllc1w+</entry>
+        <entry encoding="base64">XDxhdXRoVG9rZW5cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%y</entry>
