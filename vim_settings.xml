@@ -411,12 +411,12 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="0" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/services/AuthenticatedSlideUploadClient.ts" timestamp="1554732986629">
+      <file name="C:/dev/definiens/vt.portal/src/app/services/AuthenticatedSlideUploadClient.ts" timestamp="1554735204835">
         <mark key="'" line="119" column="9" />
-        <mark key="[" line="141" column="39" />
-        <mark key="]" line="141" column="16" />
-        <mark key="^" line="141" column="16" />
-        <mark key="." line="141" column="16" />
+        <mark key="[" line="135" column="118" />
+        <mark key="]" line="136" column="3" />
+        <mark key="^" line="136" column="3" />
+        <mark key="." line="136" column="3" />
       </file>
       <file name="C:/dev/definiens/auth-service/package.json" timestamp="1545149796396">
         <mark key="[" line="33" column="27" />
@@ -679,7 +679,8 @@
         <mark key="^" line="8" column="34" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/node_modules/auth-service-typescript-angular/dist/api/permissions.service.js" timestamp="1554733006310">
+      <file name="C:/dev/definiens/vt.portal/node_modules/auth-service-typescript-angular/dist/api/permissions.service.js" timestamp="1554734100004">
+        <mark key="'" line="61" column="12" />
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="190" />
         <mark key="." line="79" column="0" />
@@ -752,9 +753,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="9" filename="C:/dev/definiens/vt.portal/src/app/modules/authentication/services/auth/auth.service.ts" />
-      <jump line="72" column="0" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.ts" />
-      <jump line="17" column="12" filename="C:/dev/definiens/vt.portal/src/app/services/content.service.ts" />
       <jump line="19" column="22" filename="C:/dev/definiens/vt.portal/src/app/services/content.service.ts" />
       <jump line="115" column="28" filename="C:/dev/definiens/vt.portal/src/app/services/content.service.ts" />
       <jump line="173" column="39" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.ts" />
@@ -852,6 +850,9 @@
       <jump line="45" column="17" filename="C:/dev/definiens/vt.portal/src/app/services/AuthenticatedSlideUploadClient.ts" />
       <jump line="120" column="9" filename="C:/dev/definiens/vt.portal/src/app/services/AuthenticatedSlideUploadClient.ts" />
       <jump line="119" column="9" filename="C:/dev/definiens/vt.portal/src/app/services/AuthenticatedSlideUploadClient.ts" />
+      <jump line="30" column="60" filename="C:/dev/definiens/vt.portal/node_modules/auth-service-typescript-angular/dist/api/permissions.service.js" />
+      <jump line="32" column="38" filename="C:/dev/definiens/vt.portal/node_modules/auth-service-typescript-angular/dist/api/permissions.service.js" />
+      <jump line="61" column="12" filename="C:/dev/definiens/vt.portal/node_modules/auth-service-typescript-angular/dist/api/permissions.service.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -864,16 +865,16 @@
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>fresh</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcmludFRva2VuUmVtYWluaW5nVGltZVw+</text>
+        <text encoding="base64">XDxjb25zdW1lc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGhlYWRlcnMgPSBoZWFkZXJzLnNldCgnQXV0aG9yaXphdGlvbicsIGBCZWFyZXIgJHt0aGlzLndyaXRlU2xpZGVBY2Nlc3NUb2tlbn1gKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIHRhcCgoeyBhY2Nlc3NUb2tlbiB9KSA9PiB0aGlzLnVwZGF0ZVBlcm1pc3Npb25TZXJ2aWNlQXBpS2V5cyhhY2Nlc3NUb2tlbikpLAo=</text>
+        <text encoding="base64">ICAgICAgICBib2R5OiBKU09OLnN0cmluZ2lmeSh7IH0pLAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -897,40 +898,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZnJvbSB9IGZyb20gJ3J4anMvaW50ZXJuYWwvb2JzZXJ2YWJsZS9mcm9tJzsK</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIHRhcCgoeyBhY2Nlc3NUb2tlbiB9KSA9PiB0aGlzLnVwZGF0ZVBlcm1pc3Npb25TZXJ2aWNlQXBpS2V5cyhhY2Nlc3NUb2tlbikpLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">aW1wb3J0IHsgZnJvbSB9IGZyb20gJ3J4anMvaW50ZXJuYWwvb2JzZXJ2YWJsZS9mcm9tJzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZmlyc3QgfSBmcm9tICdyeGpzL2ludGVybmFsL29wZXJhdG9ycy9maXJzdCc7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgdGFwIH0gZnJvbSAncnhqcy9pbnRlcm5hbC9vcGVyYXRvcnMvdGFwJzsK</text>
+        <text encoding="base64">aW1wb3J0IHsgZmlyc3QgfSBmcm9tICdyeGpzL2ludGVybmFsL29wZXJhdG9ycy9maXJzdCc7Cg==</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIG1hcChyZXNwb25zZSA9PiByZXNwb25zZS5hY2Nlc3NUb2tlbiBhcyBzdHJpbmcpLAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgdGFwIH0gZnJvbSAncnhqcy9pbnRlcm5hbC9vcGVyYXRvcnMvdGFwJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnJlZnJlc2hJblByb2Nlc3MgPSBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgICAgIG1hcChyZXNwb25zZSA9PiByZXNwb25zZS5hY2Nlc3NUb2tlbiBhcyBzdHJpbmcpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnJlZnJlc2hJblByb2Nlc3MgPSBmYWxzZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGV5SmhiR2NpT2lKU1V6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUprWldZaU9uc2lhVzFuSWpwN0ltTWlPbVpoYkhObExDSnlJanBiWFN3aWNuY2lPbHRkTENKM0lqcGJYWDBzSW5OdmFTSTZleUp5SWpwYlhTd2ljbmNpT2x0ZExDSjNJanBiSW1FeU5UUmlNVFZqTFdKa05XWXROR014TnkxaFl6SmhMVFl6TVRNd05qZzRaVEpsTWlKZGZYMHNJblZ6WlhJaU9uc2lkWE5sY2tsa0lqb2lZV3htY21WelkyOXhZMk52Ym5OMWJIUmhiblFpZlN3aVpYaHdJam94TlRVME56STVOREV3TENKcFlYUWlPakUxTlRRM01qZzRNVEVzSW1semN5STZJbUYxZEdndGMyVnlkbWxqWlNJc0luTjFZaUk2SW1Gc1puSmxjMk52Y1dOamIyNXpkV3gwWVc1MElpd2lhblJwSWpvaVl6Qm1ZVEk0WkdRdE9EQXhZeTAwTVdGaUxUbGlaVEV0WlROaE5ESXlZVGRqTURZNEluMC5vbllsTUpTNEFfQklaX05KMkVWRnBnVnJQOEl5emYxT2phN2hQVmZOLXhlSHByWWdNY3NNV0h5QU1ILWVzcXJ0akxzUVhJZC1qMDRmbmFTMV9ZT3VrNW15bTV4OE5nTkZYZUh4WjBZd1JDUTl4ZzNGWWQ3MjA4dm5pdGY5em0wOTBwemw3VkFTY3RRRmduOWk2QldLWHJLc0FVRV93X3RQTk9ZTkhyZ2pHX3V3dkFndU5WU3JLbTlTc1lxWmkxcDhhTlM0WXZWak1sWVlTbTBwbmh1WmNFVExrNjhZSnZSWTNDOUxid2JMbWNUU1lRcGNSQzRoc0xWSnE3Z25SUGpYaU1wNGdTVzY4d2VFbTFOSG1obllUbEFNSm8xXzZCOUo3czdqLW5YTEZocEpxZVI2eEZxeTJuQ0FHNG1scFZkM0dkblkxdmcxWFpVcG1HWEZHOHFMNXhvdHQ5N09nNnlzTTVfVXNuOTFqYVVwcVk5WmZKb3NOeXE3Z1RkRENHOVl1QldIZDA0TUpJaUxSQlFBTG5YWHlCRTR3ZWJzOW5FX3FFeU5QYU1FM1ZtQ1p4cVRRZjBIdS1LVW03cXNidHFLTm9xSGZUdHg2cDhxMENTb1dEemZYcTBYN2dhcElhdF9hT3lhM1c1a2RvSTdxZFFpNXg3TzEyTnpQNXgxY3hEN2ZFOFRVelljSDh2Q2g4V2d1Y3gwVkdyQURKZ0lyQkpuVFJwMFN3MGZYSC1lbnRLSzA1U0JjWDdTeHotQXpEODZBR3J3WF9IUEtINDlKSlF6TEVVNVV2QzVaaVctb1kwNHM3cko5VWxaT29KT3lXYnk0dld2aWgxX2dXX0t5Z0N4S2dReEpNMjZvdkluWmF5Q1hzTl9PODRmRjB1cWlTOGtndlJJRHVVSlc1awo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcmludFRva2VuUmVtYWluaW5nVGltZVw+</last-search>
+      <last-search encoding="base64">XDxjb25zdW1lc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcmludFRva2VuUmVtYWluaW5nVGltZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxjb25zdW1lc1w+</last-pattern>
       <last-replace>it</last-replace>
       <last-substitute>fit</last-substitute>
       <last-dir>1</last-dir>
@@ -938,7 +939,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXROb25FeHBpcmVkVG9rZW5Gcm9tU3RvcmVkRGF0YVw+</entry>
         <entry encoding="base64">XDxwZXJtaXNzaW9uc1NlcnZpY2VcPg==</entry>
         <entry encoding="base64">XDxnZXRBdXRoVG9rZW5Ub1dyaXRlVG9Tb2lzXD4=</entry>
         <entry>console</entry>
@@ -958,6 +958,7 @@
         <entry encoding="base64">XDxhdXRoVG9rZW5cPg==</entry>
         <entry encoding="base64">XDxvblRva2VuVXBkYXRlU3VjY2Vzc1w+</entry>
         <entry encoding="base64">XDxwcmludFRva2VuUmVtYWluaW5nVGltZVw+</entry>
+        <entry encoding="base64">XDxjb25zdW1lc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>%y</entry>
