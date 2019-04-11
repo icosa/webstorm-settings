@@ -342,7 +342,7 @@
         <mark key="^" line="7" column="9" />
         <mark key="." line="7" column="9" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/utils/observable-retry-adapter.ts" timestamp="1554987478201">
+      <file name="C:/dev/definiens/vt.portal/src/app/utils/observable-retry-adapter.ts" timestamp="1554996055805">
         <mark key="[" line="46" column="45" />
         <mark key="]" line="39" column="44" />
         <mark key="^" line="39" column="44" />
@@ -583,11 +583,12 @@
         <mark key="^" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/utils/observable-retry-adapter.spec.ts" timestamp="1554994611969">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="42" column="5" />
-        <mark key="^" line="40" column="40" />
-        <mark key="." line="40" column="41" />
+      <file name="C:/dev/definiens/vt.portal/src/app/utils/observable-retry-adapter.spec.ts" timestamp="1554996195494">
+        <mark key="'" line="45" column="46" />
+        <mark key="[" line="45" column="46" />
+        <mark key="]" line="45" column="47" />
+        <mark key="^" line="45" column="45" />
+        <mark key="." line="45" column="47" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slide-effects.spec.ts" timestamp="1554109575253">
         <mark key="[" line="15" column="0" />
@@ -750,7 +751,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="72" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.spec.ts" />
       <jump line="173" column="0" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.spec.ts" />
       <jump line="27" column="8" filename="C:/dev/definiens/vt.portal/component_tests/tests/reset-password/request-password-reset-spec.ts" />
       <jump line="26" column="0" filename="C:/dev/definiens/vt.portal/component_tests/tests/slide-upload/upload-slide-page-interactions-spec.ts" />
@@ -850,6 +850,7 @@
       <jump line="153" column="13" filename="C:/dev/definiens/vt.portal/node_modules/@types/jasmine/index.d.ts" />
       <jump line="170" column="5" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.spec.ts" />
       <jump line="77" column="3" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.spec.ts" />
+      <jump line="45" column="46" filename="C:/dev/definiens/vt.portal/src/app/utils/observable-retry-adapter.spec.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -862,16 +863,16 @@
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>--------------------</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvYmplY3RDb250YWluaW5nXD4=</text>
+        <text encoding="base64">XDxYXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBpdCAoJ1Nob3VsZCB3b3JrIHdpdGggYWR2YW5jZWQgc2NoZWR1bGVyJywgKCkgPT4gewogICAgY29uc3Qgc2NoZWR1bGVyID0gbmV3IFRlc3RTY2hlZHVsZXIoKGFjdHVhbCwgZXhwZWN0ZWQpID0+IHsKICAgICAgLy8gYXNzZXJ0aW5nIHRoZSB0d28gb2JqZWN0cyBhcmUgZXF1YWwKICAgICAgZXhwZWN0KGFjdHVhbCkudG9FcXVhbChleHBlY3RlZCk7CiAgICB9KTsKCiAgICAvLyBjb25zdCBzY2hlZHVsZXIgPSBnZXRUZXN0U2NoZWR1bGVyKCk7CiAgICBzY2hlZHVsZXIucnVuKGhlbHBlcnMgPT4gewogICAgICBjb25zdCB7IGV4cGVjdE9ic2VydmFibGUgfSA9IGhlbHBlcnM7CgogICAgICBjb25zdCB0ZXN0MSQgPSBvZigxKS5waXBlKGRlbGF5KDIwMDApKTsKICAgICAgZXhwZWN0T2JzZXJ2YWJsZSh0ZXN0MSQpLnRvQmUoJyAycyAoYXwpJywgeyBhOiAxIH0pOwogICAgfSk7CiAgfSk7Cg==</text>
+      <register name="0" type="4">
+        <text>'-a-a-X', { a: retryFailureError }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLy8gY29uc3QgZXhwZWN0ZWQxJCA9IHNjaGVkdWxlci5jcmVhdGVDb2xkT2JzZXJ2YWJsZSgnLS0oYXwpJywgeyBhOiAxIH0pOwogICAgICAvLyBjb25zdCBleHBlY3RlZDEkID0gY29sZCgnLS0oYXwpJywgeyBhOiAxIH0pOwogICAgICAvLyBleHBlY3QodGVzdDEkKS50b0JlT2JzZXJ2YWJsZShleHBlY3RlZDEkKTsK</text>
+        <text encoding="base64">ICAgICAgLy8gYXJyYW5nZQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -895,48 +896,47 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdCh0ZXN0MSQpLmRlZXAuZXF1YWwoWwogICAgICB7IGZyYW1lOiAzMCwgbm90aWZpY2F0aW9uOiBOb3RpZmljYXRpb24uY3JlYXRlTmV4dCgnYScpIH0sCiAgICAgIHsgZnJhbWU6IDMwLCBub3RpZmljYXRpb246IE5vdGlmaWNhdGlvbi5jcmVhdGVOZXh0KCdiJykgfSwKICAgICAgeyBmcmFtZTogMzAsIG5vdGlmaWNhdGlvbjogTm90aWZpY2F0aW9uLmNyZWF0ZU5leHQoJ2MnKSB9CiAgICBdKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBjb25zdCB0ZXN0MiQgPSBmcm9tKFsxLCAyXSk7CiAgICBjb25zdCBleHBlY3RlZDIkID0gY29sZCgnKGFifCknLCB7IGE6IDEsIGI6IDIgfSk7CiAgICBleHBlY3QodGVzdDIkKS50b0JlT2JzZXJ2YWJsZShleHBlY3RlZDIkKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZnJvbSB9IGZyb20gJ3J4anMvaW50ZXJuYWwvb2JzZXJ2YWJsZS9mcm9tJzsK</text>
+        <text encoding="base64">ICAgIC8vIGNvbnN0IHNjaGVkdWxlciA9IGdldFRlc3RTY2hlZHVsZXIoKTsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGtkZAo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">bmV3IFRlc3RTY2hlZHVsZXIoKGFjdHVhbCwgZXhwZWN0ZWQpID0+IHsKICAgICAgLy8gYXNzZXJ0aW5nIHRoZSB0d28gb2JqZWN0cyBhcmUgZXF1YWwKICAgICAgZXhwZWN0KGFjdHVhbCkudG9FcXVhbChleHBlY3RlZCk7CiAgICB9KQ==</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBpdCAoJ1Nob3VsZCB3b3JrIGluIHRoZSBzaW1wbGUgY2FzZXMnLCAoKSA9PiB7CiAgICBjb25zdCB0ZXN0MSQgPSBvZigxLCAyKTsKICAgIGNvbnN0IGV4cGVjdGVkMSQgPSBjb2xkKCcoYWJ8KScsIHsgYTogMSwgYjogMiB9KTsKICAgIGV4cGVjdCh0ZXN0MSQpLnRvQmVPYnNlcnZhYmxlKGV4cGVjdGVkMSQpOwoKICAgIGNvbnN0IHRlc3QyJCA9IGZyb20oWzEsIDJdKTsKICAgIGNvbnN0IGV4cGVjdGVkMiQgPSBjb2xkKCcoYWJ8KScsIHsgYTogMSwgYjogMiB9KTsKICAgIGV4cGVjdCh0ZXN0MiQpLnRvQmVPYnNlcnZhYmxlKGV4cGVjdGVkMiQpOwogIH0pOwoKICBpdCAoJ1Nob3VsZCB3b3JrIHdpdGggc2NoZWR1bGVycyBhbmQgZGVsYXlzJywgKCkgPT4gewogICAgY29uc3Qgc2NoZWR1bGVyID0gZ2V0VGVzdFNjaGVkdWxlcigpOwogICAgY29uc3QgdGVzdDEkID0gb2YoMSkucGlwZShkZWxheSgyMCwgc2NoZWR1bGVyKSk7CiAgICBjb25zdCBleHBlY3RlZDEkID0gY29sZCgnLS0oYXwpJywgeyBhOiAxIH0pOwogICAgZXhwZWN0KHRlc3QxJCkudG9CZU9ic2VydmFibGUoZXhwZWN0ZWQxJCk7CiAgfSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIGFjdAogICAgLy8gcmV0cnlJbnB1dCQuc3Vic2NyaWJlKAogICAgLy8gICAvLyBhc3NlcnQKICAgIC8vICAgcmVzdWx0ID0+IGV4cGVjdChyZXN1bHQpLnRvRXF1YWwoZXhwZWN0ZWRSZXN1bHQpCiAgICAvLyApOwo=</text>
+        <text encoding="base64">ICAgICAgLy8gY29uc3QgZXhwZWN0ZWQxJCA9IHNjaGVkdWxlci5jcmVhdGVDb2xkT2JzZXJ2YWJsZSgnLS0oYXwpJywgeyBhOiAxIH0pOwogICAgICAvLyBjb25zdCBleHBlY3RlZDEkID0gY29sZCgnLS0oYXwpJywgeyBhOiAxIH0pOwogICAgICAvLyBleHBlY3QodGVzdDEkKS50b0JlT2JzZXJ2YWJsZShleHBlY3RlZDEkKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnN0IGV4cGVjdGVkUmVzdWx0ID0gJ2Egc2ltcGxlIHJlc3VsdCc7Cg==</text>
+        <text encoding="base64">ICAgIGV4cGVjdCh0ZXN0MSQpLmRlZXAuZXF1YWwoWwogICAgICB7IGZyYW1lOiAzMCwgbm90aWZpY2F0aW9uOiBOb3RpZmljYXRpb24uY3JlYXRlTmV4dCgnYScpIH0sCiAgICAgIHsgZnJhbWU6IDMwLCBub3RpZmljYXRpb246IE5vdGlmaWNhdGlvbi5jcmVhdGVOZXh0KCdiJykgfSwKICAgICAgeyBmcmFtZTogMzAsIG5vdGlmaWNhdGlvbjogTm90aWZpY2F0aW9uLmNyZWF0ZU5leHQoJ2MnKSB9CiAgICBdKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCd4eHh4eCcpOwo=</text>
+        <text encoding="base64">CiAgICBjb25zdCB0ZXN0MiQgPSBmcm9tKFsxLCAyXSk7CiAgICBjb25zdCBleHBlY3RlZDIkID0gY29sZCgnKGFifCknLCB7IGE6IDEsIGI6IDIgfSk7CiAgICBleHBlY3QodGVzdDIkKS50b0JlT2JzZXJ2YWJsZShleHBlY3RlZDIkKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvYmplY3RDb250YWluaW5nXD4=</last-search>
+      <last-search encoding="base64">XDxYXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvYmplY3RDb250YWluaW5nXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxYXD4=</last-pattern>
       <last-replace>it</last-replace>
       <last-substitute>fit</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>fit</entry>
         <entry encoding="base64">XDxyZWFkQW5kVXBsb2FkU2xpZGVcPg==</entry>
         <entry encoding="base64">XDxPYnNlcnZlclw+</entry>
         <entry encoding="base64">XDxjbGVhbnVwXD4=</entry>
@@ -956,6 +956,7 @@
         <entry encoding="base64">XDxpbml0aWFsaXplU2xpZGVVcGxvYWRcPg==</entry>
         <entry encoding="base64">XDxjaGVja0FjY2Vzc1Rva2VuTmVlZHNSZWZyZXNoXD4=</entry>
         <entry encoding="base64">XDxvYmplY3RDb250YWluaW5nXD4=</entry>
+        <entry encoding="base64">XDxYXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>x</entry>
