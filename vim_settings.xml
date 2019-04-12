@@ -281,12 +281,12 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="23" column="0" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/services/upload-slide-remote-service-calls.ts" timestamp="1555084674740">
-        <mark key="'" line="65" column="10" />
-        <mark key="[" line="91" column="14" />
-        <mark key="]" line="91" column="18" />
-        <mark key="^" line="91" column="18" />
-        <mark key="." line="91" column="18" />
+      <file name="C:/dev/definiens/vt.portal/src/app/services/upload-slide-remote-service-calls.ts" timestamp="1555087409890">
+        <mark key="'" line="107" column="0" />
+        <mark key="[" line="103" column="28" />
+        <mark key="]" line="103" column="28" />
+        <mark key="^" line="43" column="65" />
+        <mark key="." line="103" column="28" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/pages/login-page/login-page.component.ts" timestamp="1543505087625">
         <mark key="[" line="51" column="0" />
@@ -294,12 +294,12 @@
         <mark key="." line="51" column="0" />
         <mark key="^" line="51" column="52" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.ts" timestamp="1555078260835">
-        <mark key="'" line="224" column="0" />
-        <mark key="[" line="82" column="61" />
-        <mark key="]" line="82" column="61" />
-        <mark key="^" line="82" column="61" />
-        <mark key="." line="82" column="61" />
+      <file name="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.ts" timestamp="1555086957596">
+        <mark key="'" line="227" column="0" />
+        <mark key="[" line="85" column="44" />
+        <mark key="]" line="85" column="53" />
+        <mark key="^" line="85" column="53" />
+        <mark key="." line="85" column="53" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/pages/project-properties-page/project-properties-page.component.spec.ts" timestamp="1542200589674">
         <mark key="[" line="39" column="0" />
@@ -696,11 +696,11 @@
         <mark key="." line="15" column="25" />
         <mark key="^" line="15" column="23" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/utils/retry-with-back-off.ts" timestamp="1555081326862">
-        <mark key="[" line="1" column="41" />
-        <mark key="]" line="53" column="43" />
-        <mark key="^" line="53" column="43" />
-        <mark key="." line="53" column="43" />
+      <file name="C:/dev/definiens/vt.portal/src/app/utils/retry-with-back-off.ts" timestamp="1555087289443">
+        <mark key="[" line="46" column="64" />
+        <mark key="]" line="46" column="64" />
+        <mark key="^" line="46" column="64" />
+        <mark key="." line="46" column="64" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/pages/state/queries/index.ts" timestamp="1544696006068">
         <mark key="[" line="0" column="0" />
@@ -777,8 +777,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="8" filename="C:/dev/definiens/vt.portal/component_tests/tests/slide-upload/upload-slide-page-interactions-spec.ts" />
-      <jump line="51" column="40" filename="C:/dev/definiens/vt.portal/node_modules/@types/superagent/index.d.ts" />
       <jump line="258" column="21" filename="C:/dev/definiens/vt.portal/component_tests/tests/slide-upload/upload-slide-page-interactions-spec.ts" />
       <jump line="278" column="8" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.spec.ts" />
       <jump line="151" column="8" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.spec.ts" />
@@ -877,6 +875,8 @@
       <jump line="28" column="6" filename="C:/dev/definiens/vt.portal/src/app/utils/retry-with-back-off.spec.ts" />
       <jump line="85" column="61" filename="C:/dev/definiens/vt.portal/src/app/utils/retry-with-back-off.spec.ts" />
       <jump line="63" column="10" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide-remote-service-calls.ts" />
+      <jump line="100" column="3" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide-remote-service-calls.ts" />
+      <jump line="107" column="0" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide-remote-service-calls.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -889,25 +889,16 @@
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>fromPromise</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cGRhdGVTb2lzQXBpS2V5c1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtZXRob2Q6ICdQT1NUJywKICAgICAgICBjYWNoZTogJ25vLWNhY2hlJywKICAgICAgICBoZWFkZXJzOiB7CiAgICAgICAgICAnQWNjZXB0JzogJ2FwcGxpY2F0aW9uL2pzb24nLAogICAgICAgICAgJ0F1dGhvcml6YXRpb24nOiBgQmVhcmVyICR7YWNjZXNzVG9rZW59YCwKICAgICAgICAgICdDb250ZW50LVR5cGUnOiAnYXBwbGljYXRpb24vanNvbicsCiAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5pbmZvKCc+Pj4+PiBnZXR0aW5nIGEgbmV3IHRva2VuIGF0IHN0YXJ0Jyk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>,
-      {
-        method: 'POST',
-        cache: 'no-cache',
-        headers: {
-          'Accept': 'application/json',
-          'Authorization': `Bearer ${accessToken}`,
-          'Content-Type': 'application/json',
-        },
-      }</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgdGFwKHZhbHVlID0+IHsgZGVidWdnZXI7IH0pLAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -931,31 +922,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgIG1ldGhvZDogJ1BPU1QnLAogICAgICAgIGNhY2hlOiAnbm8tY2FjaGUnLAogICAgICAgIGhlYWRlcnM6IHsKICAgICAgICAgICdBY2NlcHQnOiAnYXBwbGljYXRpb24vanNvbicsCiAgICAgICAgICAnQXV0aG9yaXphdGlvbic6IGBCZWFyZXIgJHthY2Nlc3NUb2tlbn1gLAogICAgICAgICAgJ0NvbnRlbnQtVHlwZSc6ICdhcHBsaWNhdGlvbi9qc29uJywKICAgICAgICB9LAogICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgdGFwKHZhbHVlID0+IHsgZGVidWdnZXI7IH0pLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Ly8gaW1wb3J0IHsgZnJvbVByb21pc2UgfSBmcm9tICdyeGpzJzsKLy8gaW1wb3J0IHsgZnJvbVByb21pc2UgfSBmcm9tICdyeGpzL2ludGVybmFsLWNvbXBhdGliaWxpdHknOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZGVmZXIgfSBmcm9tICdyeGpzJzsK</text>
+        <text encoding="base64">aW1wb3J0IHsgZnJvbVByb21pc2UgfSBmcm9tICdyeGpzL2ludGVybmFsLWNvbXBhdGliaWxpdHknOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICAudGhlbihib2R5ID0+IHsKICAgICAgICAgIHJldHVybiBib2R5WydhY2Nlc3NUb2tlbiddOwogICAgICAgIH0pOwo=</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCc+Pj4+Pj4+Pj4+Pj4+Pj4+PiBnb3QgYSBuZXcgYWNjZXNzIHRva2VuISA8PDw8PCcpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICBtZXRob2Q6ICdQT1NUJywKICAgICAgICAgIGNhY2hlOiAnbm8tY2FjaGUnLAogICAgICAgICAgaGVhZGVyczogewogICAgICAgICAgICAnQWNjZXB0JzogJ2FwcGxpY2F0aW9uL2pzb24nLAogICAgICAgICAgICAnQXV0aG9yaXphdGlvbic6IGBCZWFyZXIgJHtyZWZyZXNoVG9rZW59YCwKICAgICAgICAgICAgJ0NvbnRlbnQtVHlwZSc6ICdhcHBsaWNhdGlvbi9qc29uJywKICAgICAgICAgIH0sCiAgICAgICAgICBib2R5OiBKU09OLnN0cmluZ2lmeSh7IHJlZnJlc2hUb2tlbiB9KSwKICAgICAgICB9KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhwb3J0IGludGVyZmFjZSBTbGlkZVVwbG9hZENvbnRleHQgewogIHByb2plY3RJZDogc3RyaW5nLAogIGZpbGU6IEZpbGUsCiAgc2xpZGVJZDogc3RyaW5nLAogIHdyaXRlU2xpZGVUb2tlbjogc3RyaW5nLAp9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHJldHVybiBkZWZlcihyZXF1ZXN0KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
