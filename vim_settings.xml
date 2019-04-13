@@ -71,11 +71,12 @@
       <file name="/Dummy.txt" timestamp="1555098683728">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/services/upload-slide-remote-services.service.ts" timestamp="1555169962772">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="^" line="65" column="11" />
-        <mark key="." line="66" column="0" />
+      <file name="C:/dev/definiens/vt.portal/src/app/services/upload-slide-remote-services.service.ts" timestamp="1555171110681">
+        <mark key="'" line="72" column="47" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="^" line="74" column="37" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="/upload-slide.service.spec.ts" timestamp="1554810808106">
         <mark key="[" line="178" column="0" />
@@ -139,12 +140,12 @@
         <mark key="^" line="41" column="34" />
         <mark key="." line="41" column="34" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.ts" timestamp="1555169900069">
-        <mark key="'" line="245" column="0" />
-        <mark key="[" line="151" column="0" />
-        <mark key="]" line="151" column="94" />
-        <mark key="." line="172" column="0" />
-        <mark key="^" line="172" column="90" />
+      <file name="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.ts" timestamp="1555171102669">
+        <mark key="'" line="60" column="0" />
+        <mark key="[" line="23" column="2" />
+        <mark key="]" line="23" column="2" />
+        <mark key="." line="23" column="2" />
+        <mark key="^" line="34" column="0" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/services/index.ts" timestamp="1555067805664">
         <mark key="[" line="34" column="0" />
@@ -160,10 +161,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="221" column="8" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.spec.ts" />
-      <jump line="88" column="27" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.ts" />
-      <jump line="91" column="29" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.ts" />
-      <jump line="14" column="6" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.spec.ts" />
       <jump line="66" column="44" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.spec.ts" />
       <jump line="167" column="10" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.ts" />
       <jump line="168" column="10" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.ts" />
@@ -260,6 +257,10 @@
       <jump line="34" column="33" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide-remote-services.service.spec.ts" />
       <jump line="171" column="0" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide-remote-services.service.spec.ts" />
       <jump line="225" column="5" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.spec.ts" />
+      <jump line="34" column="0" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.ts" />
+      <jump line="52" column="0" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.ts" />
+      <jump line="60" column="0" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.ts" />
+      <jump line="73" column="47" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide-remote-services.service.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -272,16 +273,16 @@
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>end</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1cGRhdGVTb2lzQXBpS2V5c1w+</text>
+        <text>console.</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGVuZDogbnVtYmVyLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnRlbnRSYW5nZTogc3RyaW5nLCAK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdVcGRhdGluZyB0aGUgc29pcyBhcGkga2V5cyAnLCBhY2Nlc3NUb2tlbik7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -304,41 +305,41 @@
           <key char="40" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgY29udGVudFJhbmdlSGVhZGVyID0gYGJ5dGVzICR7c3RhcnR9LSR7ZW5kIC0gMX0vJHtmaWxlLnNpemV9YDsK</text>
+      <register name="2" type="4">
+        <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgdXBsbwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJz4+PiBnZXROZXdXcml0ZVRva2VuICcpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdXBsb2FkQ29udGV4dDogU2xpZGVVcGxvYWRDb250ZXh0LAo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJz4+PiBnZXRPckNyZWF0ZVNsaWRlICcsIHNsaWRlSWQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJz4+PiB1cGxvYWQgc2xpZGUnKTsK</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGNvbnRlbnRSYW5nZUhlYWRlciA9IGBieXRlcyAke3BhcmFtcy5zdGFydH0tJHtwYXJhbXMuZW5kIC0gMX0vJHtwYXJhbXMuZmlsZVNpemV9YDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyBsZXQgYXV0aFNweTogamFzbWluZS5TcHlPYmo8QXV0aFNlcnZpY2U+OwogIC8vIGxldCBjc0NsaWVudFNweTogamFzbWluZS5TcHlPYmo8Q29udGVudFNlcnZpY2U+OwogIC8vIGxldCBodHRwQ2xpZW50U3B5OiBqYXNtaW5lLlNweU9iajxIdHRwQ2xpZW50PjsK</text>
+        <text encoding="base64">ICAgICAgY29uc3QgY29udGVudFJhbmdlSGVhZGVyID0gYGJ5dGVzICR7cGFyYW1zLnN0YXJ0fS0ke3BhcmFtcy5lbmQgLSAxfS8ke3BhcmFtcy5maWxlU2l6ZX1gOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8gYXJyYW5nZQo=</text>
+        <text encoding="base64">ICAgIGNvbnRlbnRSYW5nZTogc3RyaW5nLCAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KGFjdGlvbkRpc3BhdGNoZXJTcHkuZGlzcGF0Y2gpLnRvSGF2ZUJlZW5DYWxsZWRXaXRoKG5ldyBVcGRhdGVQcm9ncmVzcyhmaWxlbmFtZSwgNjMpKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc3QgY29udGVudFJhbmdlSGVhZGVyID0gYGJ5dGVzICR7c3RhcnR9LSR7ZW5kIC0gMX0vJHtmaWxlLnNpemV9YDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1cGRhdGVTb2lzQXBpS2V5c1w+</last-search>
+      <last-search>console.</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1cGRhdGVTb2lzQXBpS2V5c1w+</last-pattern>
+      <last-pattern>console.</last-pattern>
       <last-replace>slideId</last-replace>
       <last-substitute encoding="base64">XDx1cGRhdGVTb2lzQXBpS2V5c1w+</last-substitute>
       <last-dir>1</last-dir>
@@ -346,7 +347,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjaG9vc2VVcGxvYWRDaHVua1NpemVcPg==</entry>
         <entry>.get</entry>
         <entry>abort</entry>
         <entry encoding="base64">XDx0b2tlbkV4cGlyZXNPbk5leHRUaWNrXD4=</entry>
@@ -366,6 +366,7 @@
         <entry>this.soisClient.slideId</entry>
         <entry encoding="base64">XDxlbmFibGVUb2tlbkV4cGlyeUNoZWNrXD4=</entry>
         <entry encoding="base64">XDx1cGRhdGVTb2lzQXBpS2V5c1w+</entry>
+        <entry>console.</entry>
       </history-search>
       <history-cmd>
         <entry>pu</entry>
