@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/dev/definiens/vt.portal/package.json" timestamp="1555321720443">
+        <mark key="'" line="25" column="3" />
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
+      </file>
       <file name="C:/dev/definiens/vt.portal/src/app/utils/test-utils.ts" timestamp="1555248700669">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -35,6 +41,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="^" line="6" column="5" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="C:/dev/definiens/vt.portal/src/app/services/auth-interceptor/auth-interceptor.ts" timestamp="1555321660969">
+        <mark key="[" line="41" column="13" />
+        <mark key="]" line="42" column="10" />
+        <mark key="." line="42" column="10" />
+        <mark key="^" line="42" column="10" />
       </file>
       <file name="C:/dev/definiens/vt.portal/node_modules/@types/jasmine/index.d.ts" timestamp="1554811504221">
         <mark key="'" line="153" column="13" />
@@ -169,7 +181,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="172" column="0" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.ts" />
       <jump line="90" column="84" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.spec.ts" />
       <jump line="0" column="0" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.spec.ts" />
       <jump line="156" column="7" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.ts" />
@@ -269,6 +280,7 @@
       <jump line="26" column="8" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.spec.ts" />
       <jump line="38" column="11" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.spec.ts" />
       <jump line="191" column="0" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide-remote-services.service.spec.ts" />
+      <jump line="25" column="3" filename="C:/dev/definiens/vt.portal/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -281,16 +293,16 @@
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>console.</text>
+        <text>fetch</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0ICogYXMgZmV0Y2hNb2NrIGZyb20gJ2ZldGNoLW1vY2snOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJAdHlwZXMvZmV0Y2gtbW9jayI6ICJeNy4yLjMiLAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -314,40 +326,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IG9iamVjdFdpdGhIZWFkZXJzID0gKGhlYWRlcnM6IHsgW2hlYWRlck5hbWU6IHN0cmluZ106IHN0cmluZyB9KTogamFzbWluZS5PYmplY3RDb250YWluaW5nPGFueT4gPT4KICBqYXNtaW5lLm9iamVjdENvbnRhaW5pbmcoewogICAgaGVhZGVyczogamFzbWluZS5vYmplY3RDb250YWluaW5nKHsKICAgICAgbGF6eVVwZGF0ZTogamFzbWluZS5hcnJheUNvbnRhaW5pbmcoT2JqZWN0LmdldE93blByb3BlcnR5TmFtZXMoaGVhZGVycykubWFwKGggPT4gKHsKICAgICAgICBuYW1lOiBoLAogICAgICAgIHZhbHVlOiBoZWFkZXJzW2hdLAogICAgICAgIG9wOiAncycsCiAgICAgIH0pKSksCiAgICB9KSwKICB9KTsK</text>
+        <text encoding="base64">ICAgICJmZXRjaC1tb2NrIjogIl43LjMuMSIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0ICdqYXNtaW5lJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IG9iamVjdFdpdGhIZWFkZXJzID0gKGhlYWRlcnM6IHsgW2hlYWRlck5hbWU6IHN0cmluZ106IHN0cmluZyB9KTogamFzbWluZS5PYmplY3RDb250YWluaW5nPGFueT4gPT4KICBqYXNtaW5lLm9iamVjdENvbnRhaW5pbmcoewogICAgaGVhZGVyczogamFzbWluZS5vYmplY3RDb250YWluaW5nKHsKICAgICAgbGF6eVVwZGF0ZTogamFzbWluZS5hcnJheUNvbnRhaW5pbmcoT2JqZWN0LmdldE93blByb3BlcnR5TmFtZXMoaGVhZGVycykubWFwKGggPT4gKHsKICAgICAgICBuYW1lOiBoLAogICAgICAgIHZhbHVlOiBoZWFkZXJzW2hdLAogICAgICAgIG9wOiAncycsCiAgICAgIH0pKSksCiAgICB9KSwKICB9KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0ICdqYXNtaW5lJzsK</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdjdXJyZW50IG1heCBpcyAtICcsIG1heFJldHJpZXMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgdGFwKCgpID0+IHsgY29uc29sZS5sb2coJz4+Pj4+Pj4+Pj4+Pj4gdG9rZW4gcnVubmluZyA8PDw8PDwnKX0pLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgZ2V0Q2h1bmtEYXRhRnJvbUNhbGwgPSAoc3B5OiBqYXNtaW5lLlNweSwgcGFyYW1zOiB7IGNhbGxJbmRleDogbnVtYmVyLCBhcmd1bWVudEluZGV4OiBudW1iZXIgfSk6IFVpbnQ4QXJyYXkgPT4gewogIGNvbnN0IHJhd0RhdGEgPSBzcHkuY2FsbHMuYXJnc0ZvcihwYXJhbXMuY2FsbEluZGV4KVtwYXJhbXMuYXJndW1lbnRJbmRleF0gYXMgQXJyYXlCdWZmZXI7CiAgcmV0dXJuIG5ldyBVaW50OEFycmF5KHJhd0RhdGEpOwp9OwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdjdXJyZW50IG1heCBpcyAtICcsIG1heFJldHJpZXMpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgdGFwKCgpID0+IHsgY29uc29sZS5sb2coJz4+Pj4+Pj4+Pj4+Pj4gdG9rZW4gcnVubmluZyA8PDw8PDwnKX0pLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>console.</last-search>
+      <last-search>fetch</last-search>
       <last-offset />
-      <last-pattern>console.</last-pattern>
+      <last-pattern>fetch</last-pattern>
       <last-replace>slideId</last-replace>
       <last-substitute encoding="base64">XDx1cGRhdGVTb2lzQXBpS2V5c1w+</last-substitute>
       <last-dir>1</last-dir>
@@ -355,7 +367,6 @@
     </search>
     <history>
       <history-search>
-        <entry>.get</entry>
         <entry>abort</entry>
         <entry encoding="base64">XDx0b2tlbkV4cGlyZXNPbk5leHRUaWNrXD4=</entry>
         <entry encoding="base64">XDxjaGVja0FjY2Vzc1Rva2VuVmFsaWRpdHlcPg==</entry>
@@ -375,6 +386,7 @@
         <entry encoding="base64">XDxlbmFibGVUb2tlbkV4cGlyeUNoZWNrXD4=</entry>
         <entry encoding="base64">XDx1cGRhdGVTb2lzQXBpS2V5c1w+</entry>
         <entry>console.</entry>
+        <entry>fetch</entry>
       </history-search>
       <history-cmd>
         <entry>271t</entry>
