@@ -9,10 +9,10 @@
         <mark key="]" line="83" column="0" />
         <mark key="." line="83" column="0" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/utils/test-utils.ts" timestamp="1555326818185">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="106" />
-        <mark key="." line="33" column="0" />
+      <file name="C:/dev/definiens/vt.portal/src/app/utils/test-utils.ts" timestamp="1555330103868">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
         <mark key="^" line="2" column="32" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.spec.ts" timestamp="1555248397561">
@@ -90,12 +90,12 @@
       <file name="/Dummy.txt" timestamp="1555246615576">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/services/upload-slide-remote-services.service.ts" timestamp="1555328183401">
-        <mark key="'" line="74" column="47" />
-        <mark key="[" line="152" column="35" />
-        <mark key="]" line="152" column="35" />
-        <mark key="." line="152" column="35" />
-        <mark key="^" line="104" column="5" />
+      <file name="C:/dev/definiens/vt.portal/src/app/services/upload-slide-remote-services.service.ts" timestamp="1555331604726">
+        <mark key="'" line="92" column="10" />
+        <mark key="[" line="154" column="0" />
+        <mark key="]" line="154" column="0" />
+        <mark key="." line="154" column="0" />
+        <mark key="^" line="107" column="10" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/services/content.service.ts" timestamp="1555177984597">
         <mark key="[" line="70" column="0" />
@@ -109,12 +109,12 @@
       <file name="C:/dev/definiens/vt.portal/src/app/utils/retry-with-back-off.ts" timestamp="1555186450077">
         <mark key="^" line="1" column="41" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/services/upload-slide-remote-services.service.spec.ts" timestamp="1555327375374">
-        <mark key="'" line="66" column="55" />
-        <mark key="[" line="72" column="74" />
-        <mark key="]" line="72" column="73" />
-        <mark key="^" line="72" column="73" />
-        <mark key="." line="72" column="73" />
+      <file name="C:/dev/definiens/vt.portal/src/app/services/upload-slide-remote-services.service.spec.ts" timestamp="1555330941262">
+        <mark key="'" line="68" column="55" />
+        <mark key="[" line="93" column="33" />
+        <mark key="]" line="94" column="3" />
+        <mark key="^" line="94" column="3" />
+        <mark key="." line="94" column="3" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/modules/authentication/services/auth/auth.service.ts" timestamp="1554817430723">
         <mark key="'" line="133" column="9" />
@@ -182,8 +182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="156" column="7" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.ts" />
-      <jump line="62" column="3" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.ts" />
       <jump line="177" column="9" filename="C:/dev/definiens/vt.portal/src/app/modules/authentication/services/auth/auth.service.ts" />
       <jump line="184" column="4" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.ts" />
       <jump line="185" column="4" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.ts" />
@@ -282,6 +280,8 @@
       <jump line="25" column="3" filename="C:/dev/definiens/vt.portal/package.json" />
       <jump line="21" column="4" filename="C:/dev/definiens/vt.portal/src/app/services/auth-interceptor/auth-interceptor.ts" />
       <jump line="65" column="55" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide-remote-services.service.spec.ts" />
+      <jump line="48" column="15" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide-remote-services.service.ts" />
+      <jump line="92" column="10" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide-remote-services.service.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -294,16 +294,16 @@
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>InterceptorIgnoreAccessTokenInBody</text>
+        <text>`</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx9XD4=</text>
+        <text encoding="base64">XDx1cGRhdGVTb2lzQXBpS2V5c1w+</text>
       </register>
-      <register name="0" type="4">
-        <text>X_IGNORE_ACCESS_TOKEN_IN_BODY</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgW1hfSUdOT1JFX0FDQ0VTU19UT0tFTl9JTl9CT0RZXTogJzEnLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgWF9JR05PUkVfQUNDRVNTX1RPS0VOX0lOX0JPRFk6ICcxJywK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -326,41 +326,41 @@
           <key char="40" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0ICogYXMgZmV0Y2hNb2NrIGZyb20gJ2ZldGNoLW1vY2snOwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIGV4cGVjdChodHRwQ2xpZW50U3B5LnBvc3QpLnRvSGF2ZUJlZW5DYWxsZWRXaXRoKAogICAgICBSRUZSRVNIX0FDQ0VTU19UT0tFTl9VUkwsCiAgICAgIG51bGws</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgZmV0Y2hNb2NrIGZyb20gJ2ZldGNoLW1vY2snOwo=</text>
+        <text encoding="base64">Ly8gZXhwb3J0IGNvbnN0IGdldFJlc3BvbnNlRnJvbUZldGNoQ2FsbCA9IChwYXJhbXM6IHsgdXJsOiBzdHJpbmcsIGNhbGxJbmRleDogbnVtYmVyfSk6IGFueSA9PiB7Ci8vICAgY29uc3QgcmF3RGF0YSA9IGh0dHBDbGllbnRTcHkucG9zdC5jYWxscy5hcmdzRm9yKHBhcmFtcy5jYWxsSW5kZXgpW3BhcmFtcy5hcmd1bWVudEluZGV4XSBhcyBBcnJheUJ1ZmZlcjsKLy8gICBjb25zdCBjYWxscyA9IGZldGNoTW9jay5jYWxscyhwYXJhbXMudXJsKTsKLy8gICBpZiAoIWNhbGxzIHx8IGNhbGxzLmxlbmd0aCA8IHBhcmFtcy5jYWxsSW5kZXgpIHsKLy8gICAgIHRocm93IEVycm9yKCdmZXRjaCBjYWxsIGluZGV4IG91dCBvZiBib3VuZHMnKTsKLy8gICB9Ci8vCi8vICAgcmV0dXJuIGNhbGxzW3BhcmFtcy5jYWxsSW5kZXhdWzFdOwovLyB9Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCc+Pj4+PicsIGFjY2Vzc1Rva2VuKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgcmVmcmVzaFRva2VuIH0gPSB0aGlzLmF1dGhTZXJ2aWNlLmV4dHJhY3RUb2tlbnMoKTsK</text>
+        <text encoding="base64">ICAgICAgb2JqZWN0V2l0aEhlYWRlcnMoe30pLAo=</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKCdQdXQgY2FsbHMgLSAnLCBKU09OLnN0cmluZ2lmeShodHRwQ2xpZW50U3B5LnB1dC5jYWxscy5hbGwoKSkpOwogICAgLy8gY29uc29sZS5sb2coJ1Bvc3QgY2FsbHMgLSAnLCBKU09OLnN0cmluZ2lmeShodHRwQ2xpZW50U3B5LnBvc3QuY2FsbHMuYWxsKCkpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIC8vIGNvbnN0IGFjY2Vzc1Rva2VuID0gYXdhaXQgdXBsb2FkU2xpZGVSZW1vdGVTZXJ2aWNlcy5nZXROZXdBY2Nlc3NUb2tlbigpLnRvUHJvbWlzZSgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGhlYWRlcnMgPSBoZWFkZXJzLnNldCgnQWNjZXB0JywgJ2FwcGxpY2F0aW9uL2pzb24nKTsKICAgIGhlYWRlcnMgPSBoZWFkZXJzLnNldCgnQXV0aG9yaXphdGlvbicsIGBCZWFyZXIgJHthY2Nlc3NUb2tlbn1gKTsKICAgIGhlYWRlcnMgPSBoZWFkZXJzLnNldCgnQ29udGVudC1UeXBlJywgJ2FwcGxpY2F0aW9uL29jdGV0LXN0cmVhbScpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Ly8gaW1wb3J0ICogYXMgZmV0Y2hNb2NrIGZyb20gJ2ZldGNoLW1vY2snOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx9XD4=</last-search>
+      <last-search encoding="base64">XDx1cGRhdGVTb2lzQXBpS2V5c1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx9XD4=</last-pattern>
+      <last-pattern encoding="base64">XDx1cGRhdGVTb2lzQXBpS2V5c1w+</last-pattern>
       <last-replace>slideId</last-replace>
       <last-substitute encoding="base64">XDx1cGRhdGVTb2lzQXBpS2V5c1w+</last-substitute>
       <last-dir>1</last-dir>
@@ -384,10 +384,10 @@
         <entry>this.slideId</entry>
         <entry>this.soisClient.slideId</entry>
         <entry encoding="base64">XDxlbmFibGVUb2tlbkV4cGlyeUNoZWNrXD4=</entry>
-        <entry encoding="base64">XDx1cGRhdGVTb2lzQXBpS2V5c1w+</entry>
         <entry>console.</entry>
         <entry>fetch</entry>
         <entry encoding="base64">XDx9XD4=</entry>
+        <entry encoding="base64">XDx1cGRhdGVTb2lzQXBpS2V5c1w+</entry>
       </history-search>
       <history-cmd>
         <entry>271t</entry>
