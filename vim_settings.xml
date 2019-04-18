@@ -22,12 +22,12 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="2" column="15" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.spec.ts" timestamp="1555572218194">
+      <file name="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.spec.ts" timestamp="1555573713106">
         <mark key="'" line="233" column="0" />
-        <mark key="[" line="213" column="87" />
-        <mark key="]" line="213" column="88" />
-        <mark key="^" line="181" column="33" />
-        <mark key="." line="213" column="88" />
+        <mark key="[" line="241" column="22" />
+        <mark key="]" line="241" column="22" />
+        <mark key="^" line="241" column="22" />
+        <mark key="." line="241" column="22" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/utils/observable-retry-adapter.ts" timestamp="1555073311111">
         <mark key="[" line="25" column="19" />
@@ -184,11 +184,12 @@
         <mark key="^" line="35" column="44" />
         <mark key="." line="35" column="44" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/state/reducers/upload-slides.reducer.spec.ts" timestamp="1555572437278">
-        <mark key="[" line="76" column="32" />
-        <mark key="]" line="76" column="32" />
-        <mark key="^" line="76" column="32" />
-        <mark key="." line="76" column="32" />
+      <file name="C:/dev/definiens/vt.portal/src/app/state/reducers/upload-slides.reducer.spec.ts" timestamp="1555573441587">
+        <mark key="'" line="97" column="78" />
+        <mark key="[" line="215" column="71" />
+        <mark key="]" line="215" column="71" />
+        <mark key="^" line="215" column="71" />
+        <mark key="." line="215" column="71" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/utils/request-retry-adapter.spec.ts" timestamp="1554973501772">
         <mark key="[" line="13" column="81" />
@@ -198,7 +199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="17" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.ts" />
       <jump line="103" column="6" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.ts" />
       <jump line="114" column="16" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.ts" />
       <jump line="105" column="17" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.ts" />
@@ -298,6 +298,7 @@
       <jump line="85" column="8" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.ts" />
       <jump line="14" column="6" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.ts" />
       <jump line="233" column="0" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.spec.ts" />
+      <jump line="97" column="78" filename="C:/dev/definiens/vt.portal/src/app/state/reducers/upload-slides.reducer.spec.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -310,23 +311,16 @@
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>filename</text>
+        <text encoding="base64">XDxzdGF0ZVw+</text>
       </register>
       <register name="0" type="4">
-        <text>{
-        fileName,
-        fileSize: 0,
-        slideId,
-        startTime: new Date(),
-        endTime: new Date(),
-        successfullyUploaded: true,
-      }</text>
+        <text encoding="base64">VVBEQVRFX1BST0dSRVNTIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlU2l6ZSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -349,49 +343,58 @@
           <key char="40" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlbmFtZTogZmlsZU5hbWUsCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICBpdCgnU2hvdWxkIHNldCBwcm9ncmVzcyB0byAxMDAgYW5kIHN0YXR1cyB0byBiZSBzdWNjZWVkZWQnLCAoKSA9PiB7CiAgICBjb25zdCBuZXdTdGF0ZSA9ICB1cGxvYWRTbGlkZVJlZHVjZXIoaW5pdGlhbCwgbmV3IEFkZEZpbGVzKFtkdW1teUZpbGUoJ3Rlc3QnKV0pKTsKICAgIGNvbnN0IG1ldGFJbmZvQWRkZWQgPSBtZXRhSW5mb0J5TmFtZSgndGVzdCcsIG5ld1N0YXRlKTsKICAgIGV4cGVjdChtZXRhSW5mb0FkZGVkLnN0YXR1cykubm90LnRvQmUoVXBsb2FkU2xpZGVTdGF0dXMuU3VjY2VlZGVkKTsKICAgIGNvbnN0IHVwbG9hZFN0YXJ0ZWRTdGF0ZSA9IHVwbG9hZFNsaWRlUmVkdWNlcihuZXdTdGF0ZSwgbmV3IEZpbGVVcGxvYWRTdWNjZWVkZWQoc2xpZGVVcGxvYWRNZXRhSW5mbygndGVzdCcpKSk7CiAgICBjb25zdCBtZXRhSW5mb1N0YXJ0ZWQgPSBtZXRhSW5mb0J5TmFtZSgndGVzdCcsIHVwbG9hZFN0YXJ0ZWRTdGF0ZSk7CiAgICBleHBlY3QobWV0YUluZm9TdGFydGVkKS5ub3QudG9CZU51bGwoKTsKICAgIGV4cGVjdChtZXRhSW5mb1N0YXJ0ZWQucHJvZ3Jlc3MpLnRvQmUoMTAwKTsKICAgIGV4cGVjdChtZXRhSW5mb1N0YXJ0ZWQuc3RhdHVzKS50b0JlKFVwbG9hZFNsaWRlU3RhdHVzLlN1Y2NlZWRlZCk7CiAgfSk7</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlcnJvckRlc2NyaXB0aW9uPzogc3RyaW5nOwo=</text>
+        <text encoding="base64">ICBpdCgnV2hlbiBGSUxFX1VQTE9BRF9GQUlMRUQgZGlzcGF0Y2hlZCwgc2hvdWxkIHNldCBwcm9ncmVzcyB0byAwIGFuZCBzdGF0dXMgdG8gaW4gcHJvZ3Jlc3MnLCAoKSA9PiB7CiAgICBjb25zdCBuZXdTdGF0ZSA9ICB1cGxvYWRTbGlkZVJlZHVjZXIoaW5pdGlhbCwgbmV3IEFkZEZpbGVzKFtkdW1teUZpbGUoJ3Rlc3QnKV0pKTsKICAgIGNvbnN0IG1ldGFJbmZvQWRkZWQgPSBtZXRhSW5mb0J5TmFtZSgndGVzdCcsIG5ld1N0YXRlKTsKICAgIGV4cGVjdChtZXRhSW5mb0FkZGVkLnN0YXR1cykubm90LnRvQmUoVXBsb2FkU2xpZGVTdGF0dXMuRmFpbGVkKTsKICAgIGNvbnN0IHVwbG9hZFN0YXJ0ZWRTdGF0ZSA9IHVwbG9hZFNsaWRlUmVkdWNlcihuZXdTdGF0ZSwgbmV3IEZpbGVVcGxvYWRGYWlsZWQoCiAgICAgIHNsaWRlVXBsb2FkTWV0YUluZm8oJ3Rlc3QnLCAndXBsb2FkIGRpc2FzdGVyJykpCiAgICApOwogICAgY29uc3QgbWV0YUluZm9TdGFydGVkID0gbWV0YUluZm9CeU5hbWUoJ3Rlc3QnLCB1cGxvYWRTdGFydGVkU3RhdGUpOwogICAgZXhwZWN0KG1ldGFJbmZvU3RhcnRlZCkubm90LnRvQmVOdWxsKCk7CiAgICBleHBlY3QobWV0YUluZm9TdGFydGVkLnByb2dyZXNzKS50b0JlKDApOwogICAgZXhwZWN0KG1ldGFJbmZvU3RhcnRlZC5zdGF0dXMpLnRvQmUoVXBsb2FkU2xpZGVTdGF0dXMuRmFpbGVkKTsKICAgIGV4cGVjdChtZXRhSW5mb1N0YXJ0ZWQuc3RhdHVzRGVzY3JpcHRpb24pLnRvQmUoJ3VwbG9hZCBkaXNhc3RlcicpOwogIH0pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLy8gbG9nIGVycm9yIHRvIGdsb2JhbCBlcnJvciBoYW5kbGVyCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5sb2dnZXIubG9nKFNldmVyaXR5LkVycm9yLCBub3JtYWxpemVkRXJyb3IubWVzc2FnZSk7CiAgICAgIHRoaXMuYWN0aW9uRGlzcGF0Y2hlci5kaXNwYXRjaChuZXcgU2xpZGVVcGxvYWRBY3Rpb25zLkZpbGVVcGxvYWRGYWlsZWQoewo=</text>
+        <text encoding="base64">ICBpdCgnV2hlbiBGSUxFX1VQTE9BRF9TVEFSVEVEIGRpc3BhdGNoZWQsIHNob3VsZCBzZXQgcHJvZ3Jlc3MgdG8gMCBhbmQgc3RhdHVzIHRvIGluIHByb2dyZXNzJywgKCkgPT4gewogICAgY29uc3QgbmV3U3RhdGUgPSAgdXBsb2FkU2xpZGVSZWR1Y2VyKGluaXRpYWwsIG5ldyBBZGRGaWxlcyhbZHVtbXlGaWxlKCd0ZXN0JyldKSk7CiAgICBjb25zdCBtZXRhSW5mb0FkZGVkID0gbWV0YUluZm9CeU5hbWUoJ3Rlc3QnLCBuZXdTdGF0ZSk7CiAgICBleHBlY3QobWV0YUluZm9BZGRlZC5zdGF0dXMpLm5vdC50b0JlKFVwbG9hZFNsaWRlU3RhdHVzLkluUHJvZ3Jlc3MpOwogICAgY29uc3QgdXBsb2FkU3RhcnRlZFN0YXRlID0gdXBsb2FkU2xpZGVSZWR1Y2VyKG5ld1N0YXRlLCBuZXcgRmlsZVVwbG9hZFN0YXJ0ZWQoJ3Rlc3QnKSk7CiAgICBjb25zdCBtZXRhSW5mb1N0YXJ0ZWQgPSBtZXRhSW5mb0J5TmFtZSgndGVzdCcsIHVwbG9hZFN0YXJ0ZWRTdGF0ZSk7CiAgICBleHBlY3QobWV0YUluZm9TdGFydGVkKS5ub3QudG9CZU51bGwoKTsKICAgIGV4cGVjdChtZXRhSW5mb1N0YXJ0ZWQucHJvZ3Jlc3MpLnRvQmUoMCk7CiAgICBleHBlY3QobWV0YUluZm9TdGFydGVkLnN0YXR1cykudG9CZShVcGxvYWRTbGlkZVN0YXR1cy5JblByb2dyZXNzKTsKICB9KTsK</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="6" type="4">
+        <text>{
+      fileName: 'test',
+      fileSize: 0,
+      startTime: new Date(),
+      successfullyUploaded: true,
+    }</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="7" type="4">
+        <text>{
+      fileName: 'test',
+      fileSize: 0,
+      startTime: new Date(),
+      successfullyUploaded: true,
+    }</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8gc2xpZGVVcGxvYWRNZXRhSW5mby5zdWNjZXNzZnVsbHlVcGxvYWRlZCA9IGZhbHNlOwogICAgICAvLyBzbGlkZVVwbG9hZE1ldGFJbmZvLmVycm9yRGVzY3JpcHRpb24gPSBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN1Y2Nlc3NmdWxseVVwbG9hZGVkOiBmYWxzZQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>filename</last-search>
+      <last-search encoding="base64">XDxzdGF0ZVw+</last-search>
       <last-offset />
-      <last-pattern>filename</last-pattern>
+      <last-pattern encoding="base64">XDxzdGF0ZVw+</last-pattern>
       <last-replace>fileName</last-replace>
       <last-substitute>filename</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcmludFRva2VuUmVtYWluaW5nVGltZVw+</entry>
         <entry encoding="base64">XDxjb25zdW1lc1w+</entry>
         <entry encoding="base64">XDxhdXRoU2VydmljZVw+</entry>
         <entry encoding="base64">XDxpbml0aWFsaXplU2xpZGVVcGxvYWRcPg==</entry>
@@ -411,12 +414,9 @@
         <entry>getItem</entry>
         <entry encoding="base64">XDxsb2dUcmFuc2ZlclNwZWVkXD4=</entry>
         <entry>filename</entry>
+        <entry encoding="base64">XDxzdGF0ZVw+</entry>
       </history-search>
       <history-cmd>
-        <entry>8</entry>
-        <entry>%/fit/it</entry>
-        <entry>%/fit/it/</entry>
-        <entry>%s/fit/it/</entry>
         <entry>action CollapseRegionRecursively</entry>
         <entry>ww</entry>
         <entry>s</entry>
@@ -430,8 +430,12 @@
         <entry>x</entry>
         <entry>w3</entry>
         <entry>action ExpandRegionRecursively</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>%s/filename/fileName/</entry>
+        <entry>197t213</entry>
+        <entry>197t212</entry>
+        <entry>199t215</entry>
+        <entry>199t214</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
