@@ -102,6 +102,12 @@
         <mark key="^" line="30" column="67" />
         <mark key="." line="30" column="67" />
       </file>
+      <file name="C:/dev/definiens/vt.portal/src/app/components/slide-upload-history/slide-upload-history.component.ts" timestamp="1556087849446">
+        <mark key="[" line="5" column="54" />
+        <mark key="]" line="5" column="54" />
+        <mark key="." line="5" column="54" />
+        <mark key="^" line="5" column="54" />
+      </file>
       <file name="C:/dev/definiens/vt.portal/src/app/services/upload-slide-history.service.spec.ts" timestamp="1555571861457">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -135,6 +141,12 @@
       <file name="C:/dev/definiens/vt.portal/src/app/pages/project-page/project-page.component.spec.ts" timestamp="1556025672687">
         <mark key="[" line="122" column="0" />
         <mark key="]" line="122" column="44" />
+      </file>
+      <file name="C:/dev/definiens/vt.portal/src/app/components/slide-upload-history/slide-upload-history.component.spec.ts" timestamp="1556087873250">
+        <mark key="[" line="8" column="19" />
+        <mark key="]" line="8" column="24" />
+        <mark key="^" line="8" column="24" />
+        <mark key="." line="8" column="24" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slide-effects.ts" timestamp="1555580315354">
         <mark key="[" line="101" column="48" />
@@ -365,7 +377,7 @@
         <text>SlideUploadImageSelectionComponent</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgfSBlbHNlIHsKICAgICAgICBleHBlY3QoY2hpbGRDb21wb25lbnQpLnRvQmVOdWxsKCk7CiAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -389,31 +401,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGNoaWxkQ29tcG9uZW50VHlwZSkgewo=</text>
+        <text encoding="base64">ICAgICAgfSBlbHNlIHsKICAgICAgICBleHBlY3QoY2hpbGRDb21wb25lbnQpLnRvQmVOdWxsKCk7CiAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wcm92ZSBuYW1pbmcK</text>
+        <text encoding="base64">ICAgICAgaWYgKGNoaWxkQ29tcG9uZW50VHlwZSkgewo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">aW1wcm92ZSBuYW1pbmcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA8ZGl2PioqIFRPRE8gLSBQbGFjZSB0aGUgc2xpZGUgdXBsb2FkIGhpc3RvcnkgdmlldyBoZXJlISAqKjwvZGl2Pgo=</text>
+        <text encoding="base64">aW1wcm92ZSBuYW1pbmcK</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IHsgQnkgfSBmcm9tICdAYW5ndWxhci9wbGF0Zm9ybS1icm93c2VyJzsK</text>
+        <text encoding="base64">ICA8ZGl2PioqIFRPRE8gLSBQbGFjZSB0aGUgc2xpZGUgdXBsb2FkIGhpc3RvcnkgdmlldyBoZXJlISAqKjwvZGl2Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAvLyBzbGlkZVNlbGVjdGlvbi51cAogICAgLy8gQWN0CiAgICAvLyB0YWJzW1NsaWRlVXBsb2FkVGFiSW5kZXguSGlzdG9yeV0udHJpZ2dlckV2ZW50SGFuZGxlcignY2xpY2snLCB7fSk7CiAgICAvLyBmaXh0dXJlLmRldGVjdENoYW5nZXMoKTsKICAgIC8vCiAgICAvLyBleHBlY3QoZml4dHVyZS5kZWJ1Z0VsZW1lbnQucXVlcnkoQnkuZGlyZWN0aXZlKFNsaWRlVXBsb2FkSW1hZ2VTZWxlY3Rpb25Db21wb25lbnQpKSkudG9CZU51bGwoKTsKICAgIC8vCiAgICAvLyB0YWJzW1NsaWRlVXBsb2FkVGFiSW5kZXguU2xpZGVTZWxlY3Rpb25dLnRyaWdnZXJFdmVudEhhbmRsZXIoJ2NsaWNrJywge30pOwogICAgLy8gZml4dHVyZS5kZXRlY3RDaGFuZ2VzKCk7CiAgICAvLwogICAgLy8gZXhwZWN0KGZpeHR1cmUuZGVidWdFbGVtZW50LnF1ZXJ5KEJ5LmRpcmVjdGl2ZShTbGlkZVVwbG9hZEltYWdlU2VsZWN0aW9uQ29tcG9uZW50KSkpLnRvQmVUcnV0aHkoKTsKICAgIC8vIHJlc2V0UGFzc3dvcmRMaW5rLnRyaWdnZXJFdmVudEhhbmRsZXIoJ2NsaWNrJywge30pOwoKICAgIC8vIGNsaWNrIG9uIGhpc3RvcnkgdGFiIHNob3cgaGlzdG9yeQogICAgLy8gY2xpY2sgb24gYWN0aXZlIHVwbG9hZHMgc2hvdyBhY3RpdmUgdXBsb2Fkcwo=</text>
+        <text encoding="base64">Ly8gaW1wb3J0IHsgQnkgfSBmcm9tICdAYW5ndWxhci9wbGF0Zm9ybS1icm93c2VyJzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnN0IHNsaWRlU2VsZWN0aW9uID0gZml4dHVyZS5kZWJ1Z0VsZW1lbnQucXVlcnkoQnkuZGlyZWN0aXZlKFNsaWRlVXBsb2FkSW1hZ2VTZWxlY3Rpb25Db21wb25lbnQpKTsK</text>
+        <text encoding="base64">CiAgICAvLyBzbGlkZVNlbGVjdGlvbi51cAogICAgLy8gQWN0CiAgICAvLyB0YWJzW1NsaWRlVXBsb2FkVGFiSW5kZXguSGlzdG9yeV0udHJpZ2dlckV2ZW50SGFuZGxlcignY2xpY2snLCB7fSk7CiAgICAvLyBmaXh0dXJlLmRldGVjdENoYW5nZXMoKTsKICAgIC8vCiAgICAvLyBleHBlY3QoZml4dHVyZS5kZWJ1Z0VsZW1lbnQucXVlcnkoQnkuZGlyZWN0aXZlKFNsaWRlVXBsb2FkSW1hZ2VTZWxlY3Rpb25Db21wb25lbnQpKSkudG9CZU51bGwoKTsKICAgIC8vCiAgICAvLyB0YWJzW1NsaWRlVXBsb2FkVGFiSW5kZXguU2xpZGVTZWxlY3Rpb25dLnRyaWdnZXJFdmVudEhhbmRsZXIoJ2NsaWNrJywge30pOwogICAgLy8gZml4dHVyZS5kZXRlY3RDaGFuZ2VzKCk7CiAgICAvLwogICAgLy8gZXhwZWN0KGZpeHR1cmUuZGVidWdFbGVtZW50LnF1ZXJ5KEJ5LmRpcmVjdGl2ZShTbGlkZVVwbG9hZEltYWdlU2VsZWN0aW9uQ29tcG9uZW50KSkpLnRvQmVUcnV0aHkoKTsKICAgIC8vIHJlc2V0UGFzc3dvcmRMaW5rLnRyaWdnZXJFdmVudEhhbmRsZXIoJ2NsaWNrJywge30pOwoKICAgIC8vIGNsaWNrIG9uIGhpc3RvcnkgdGFiIHNob3cgaGlzdG9yeQogICAgLy8gY2xpY2sgb24gYWN0aXZlIHVwbG9hZHMgc2hvdyBhY3RpdmUgdXBsb2Fkcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIC8vIGNvbnN0IHNsaWRlU2VsZWN0aW9uID0gZml4dHVyZS5kZWJ1Z0VsZW1lbnQucXVlcnkoQnkuZGlyZWN0aXZlKFNsaWRlVXBsb2FkSW1hZ2VTZWxlY3Rpb25Db21wb25lbnQpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -464,13 +476,13 @@
         <entry>we</entry>
         <entry>x</entry>
         <entry>w3</entry>
-        <entry>action ExpandRegionRecursively</entry>
         <entry>%s/filename/fileName/</entry>
         <entry>197t213</entry>
         <entry>197t212</entry>
         <entry>199t215</entry>
         <entry>199t214</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>action ExpandRegionRecursively</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
