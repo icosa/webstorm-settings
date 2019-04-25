@@ -17,11 +17,11 @@
         <mark key="." line="3" column="37" />
         <mark key="^" line="19" column="1" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/services/upload-slide-history.service.ts" timestamp="1556194185330">
-        <mark key="[" line="19" column="49" />
-        <mark key="]" line="19" column="76" />
-        <mark key="." line="19" column="76" />
-        <mark key="^" line="19" column="76" />
+      <file name="C:/dev/definiens/vt.portal/src/app/services/upload-slide-history.service.ts" timestamp="1556197843062">
+        <mark key="[" line="64" column="39" />
+        <mark key="]" line="64" column="39" />
+        <mark key="^" line="64" column="38" />
+        <mark key="." line="64" column="39" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/utils/test-utils.ts" timestamp="1555340005369">
         <mark key="[" line="31" column="0" />
@@ -36,10 +36,6 @@
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.spec.ts" timestamp="1556188859967">
         <mark key="'" line="240" column="47" />
-      </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/models/slide-upload-history-record.ts" timestamp="1556178776653">
-        <mark key="[" line="0" column="29" />
-        <mark key="]" line="8" column="28" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/utils/observable-retry-adapter.ts" timestamp="1555073311111">
         <mark key="[" line="25" column="19" />
@@ -103,12 +99,12 @@
         <mark key="." line="17" column="1" />
         <mark key="^" line="17" column="1" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/services/upload-slide-history.service.spec.ts" timestamp="1556177313727">
-        <mark key="'" line="82" column="24" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="36" column="100" />
-        <mark key="." line="14" column="0" />
+      <file name="C:/dev/definiens/vt.portal/src/app/services/upload-slide-history.service.spec.ts" timestamp="1556198113566">
+        <mark key="'" line="91" column="86" />
+        <mark key="[" line="40" column="4" />
+        <mark key="]" line="40" column="9" />
+        <mark key="^" line="40" column="9" />
+        <mark key="." line="40" column="9" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/pipes/sort-slide.pipe.ts" timestamp="1556024615543">
         <mark key="[" line="8" column="30" />
@@ -116,7 +112,7 @@
         <mark key="^" line="8" column="30" />
         <mark key="." line="8" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556189080711">
+      <file name="/Dummy.txt" timestamp="1556197125922">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -226,9 +222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="227" column="13" filename="C:/dev/definiens/vt.portal/src/app/modules/authentication/services/auth/auth.service.ts" />
-      <jump line="43" column="30" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.ts" />
-      <jump line="229" column="13" filename="C:/dev/definiens/vt.portal/src/app/modules/authentication/services/auth/auth.service.ts" />
       <jump line="158" column="9" filename="C:/dev/definiens/vt.portal/src/app/modules/authentication/services/auth/auth.service.ts" />
       <jump line="150" column="29" filename="C:/dev/definiens/vt.portal/src/app/modules/authentication/services/auth/auth.service.ts" />
       <jump line="246" column="19" filename="C:/dev/definiens/vt.portal/src/app/modules/authentication/services/auth/auth.service.ts" />
@@ -326,6 +319,9 @@
       <jump line="15" column="6" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.ts" />
       <jump line="146" column="0" filename="C:/dev/definiens/vt.portal/src/app/state/queries/upload-slides.queries.spec.ts" />
       <jump line="11" column="33" filename="C:/dev/definiens/vt.portal/src/app/state/reducers/upload-slide.reducer.ts" />
+      <jump line="116" column="0" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide-history.service.spec.ts" />
+      <jump line="40" column="63" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide-history.service.spec.ts" />
+      <jump line="91" column="86" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide-history.service.spec.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -338,16 +334,16 @@
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>UploadS</text>
+        <text>.All</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2dUcmFuc2ZlclNwZWVkXD4=</text>
+        <text encoding="base64">XDxGaWx0ZXJcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">VXBsb2FkU2xpZGVIaXN0b3J5RmlsdGVyIA==</text>
+        <text>UploadSlideHistoryFilter</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLi4uZW50aXR5U3RhdGUsCg==</text>
+        <text encoding="base64">ZXhwb3J0IGVudW0gRmlsdGVyIHsKICBMYXN0VXBsb2FkU2Vzc2lvbiA9IDEsCiAgTGFzdDI0SHJzLAogIExhc3QzRGF5cywKICBMYXN0V2VlaywKICBMYXN0TW9udGgsCiAgQWxsLAp9Cgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -371,10 +367,10 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgLi4uZW50aXR5U3RhdGUsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -402,18 +398,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2dUcmFuc2ZlclNwZWVkXD4=</last-search>
+      <last-search encoding="base64">XDxGaWx0ZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2dUcmFuc2ZlclNwZWVkXD4=</last-pattern>
-      <last-replace>fileName</last-replace>
-      <last-substitute encoding="base64">XDxzdGF0ZVw+</last-substitute>
+      <last-pattern encoding="base64">XDxGaWx0ZXJcPg==</last-pattern>
+      <last-replace>sessionTimeStamp</last-replace>
+      <last-substitute>uploadStartTime</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjaGVja0FjY2Vzc1Rva2VuTmVlZHNSZWZyZXNoXD4=</entry>
-        <entry encoding="base64">XDxvYmplY3RDb250YWluaW5nXD4=</entry>
         <entry encoding="base64">XDxYXD4=</entry>
         <entry>fit</entry>
         <entry>this.slideId</entry>
@@ -432,9 +426,10 @@
         <entry>some</entry>
         <entry>length</entry>
         <entry encoding="base64">XDxsb2dUcmFuc2ZlclNwZWVkXD4=</entry>
+        <entry>uploadStartTime</entry>
+        <entry encoding="base64">XDxGaWx0ZXJcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>action CollapseRegionRecursively</entry>
         <entry>ww</entry>
         <entry>s</entry>
         <entry>%s/this.slideId/slideId/</entry>
@@ -453,6 +448,7 @@
         <entry>199t214</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>action ExpandRegionRecursively</entry>
+        <entry>%s/uploadStartTime/sessionTimeStamp/</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
