@@ -33,9 +33,9 @@
         <mark key="." line="25" column="19" />
         <mark key="^" line="25" column="19" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/utils/permissions-utils.ts" timestamp="1557992930134">
-        <mark key="[" line="47" column="39" />
-        <mark key="]" line="47" column="37" />
+      <file name="C:/dev/definiens/vt.portal/src/app/utils/permissions-utils.ts" timestamp="1557993451301">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="36" column="28" />
         <mark key="." line="47" column="37" />
         <mark key="^" line="47" column="37" />
       </file>
@@ -56,6 +56,13 @@
         <mark key="]" line="84" column="76" />
         <mark key="^" line="84" column="76" />
         <mark key="." line="84" column="76" />
+      </file>
+      <file name="C:/dev/definiens/vt.portal/src/app/models/portal-roles.ts" timestamp="1557993630819">
+        <mark key="'" line="1" column="1" />
+        <mark key="[" line="1" column="23" />
+        <mark key="]" line="1" column="24" />
+        <mark key="." line="1" column="24" />
+        <mark key="^" line="1" column="11" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/pages/project-page/project-page.component.ts" timestamp="1557928945102">
         <mark key="[" line="16" column="32" />
@@ -327,7 +334,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="9" filename="C:/dev/definiens/vt.portal/src/app/modules/authentication/services/auth/auth.service.spec.ts" />
       <jump line="173" column="13" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.spec.ts" />
       <jump line="174" column="13" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.spec.ts" />
       <jump line="175" column="13" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.spec.ts" />
@@ -427,6 +433,7 @@
       <jump line="114" column="4" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.ts" />
       <jump line="46" column="104" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.spec.ts" />
       <jump line="1" column="14" filename="C:/dev/definiens/vt.portal/src/app/pages/project-page/state/queries.ts" />
+      <jump line="1" column="1" filename="C:/dev/definiens/vt.portal/src/app/models/portal-roles.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -439,81 +446,76 @@
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">Y2FzZSA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkaXNwYXRjaFw+</text>
+        <text encoding="base64">XDxQb3dlclVzZXJcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>permissions.</text>
+        <text>PowerUser</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
-          <key char="94" code="0" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="82" code="0" mods="0" />
-          <key char="54" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="82" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="35" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="80" code="0" mods="0" />
           <key char="101" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="118" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="40" code="0" mods="0" />
+          <key char="62" code="0" mods="0" />
+          <key char="62" code="0" mods="0" />
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IGNsYXNzIFBlcm1pc3Npb25zVXRpbHMgewoK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwZXJtaXNzaW9ucyA9IHsK</text>
+        <text encoding="base64">ZXhwb3J0IGNsYXNzIFBlcm1pc3Npb25zVXRpbHMgewoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Owo=</text>
+        <text encoding="base64">ICAgICAgICBwZXJtaXNzaW9ucyA9IHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwZXJtaXNzaW9ucyA9IHsKICAgICAgICAgIGFubm90YXRpb25zRWRpdDogdHJ1ZSwKCiAgICAgICAgfTsK</text>
+        <text encoding="base64">ICAgICAgICB9Owo=</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IHsgUG9ydGFsUGVybWlzc2lvbnMgfSBmcm9tICd2dC5zaGFyZWQvbW9kZWwnOwoK</text>
+        <text encoding="base64">ICAgICAgICBwZXJtaXNzaW9ucyA9IHsKICAgICAgICAgIGFubm90YXRpb25zRWRpdDogdHJ1ZSwKCiAgICAgICAgfTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBlcm1pc3Npb25zID0gewogICAgICAgICAgICAgICAgICAgIGFubm90YXRpb25zRWRpdDogZmFsc2UsCiAgICAgICAgICAgICAgICAgICAgbGFuZG1hcmtzRWRpdDogZmFsc2UsCiAgICAgICAgICAgICAgICAgICAgY3JlYXRlQW5ub3RhdGlvblNldHM6IGZhbHNlLAogICAgICAgICAgICAgICAgICAgIHZpZXdPcmlnaW5hbERSQzogZmFsc2UsCiAgICAgICAgICAgICAgICB9Owo=</text>
+        <text encoding="base64">Ly8gaW1wb3J0IHsgUG9ydGFsUGVybWlzc2lvbnMgfSBmcm9tICd2dC5zaGFyZWQvbW9kZWwnOwoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2aWV3T3JpZ2luYWxEUkM6IHRydWUsCiAgICAgICAgICAgICAgICB9Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBlcm1pc3Npb25zID0gewogICAgICAgICAgICAgICAgICAgIGFubm90YXRpb25zRWRpdDogZmFsc2UsCiAgICAgICAgICAgICAgICAgICAgbGFuZG1hcmtzRWRpdDogZmFsc2UsCiAgICAgICAgICAgICAgICAgICAgY3JlYXRlQW5ub3RhdGlvblNldHM6IGZhbHNlLAogICAgICAgICAgICAgICAgICAgIHZpZXdPcmlnaW5hbERSQzogZmFsc2UsCiAgICAgICAgICAgICAgICB9Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbm5vdGF0aW9uc0VkaXQ6IGZhbHNlLAogICAgICAgICAgICAgICAgICAgIGxhbmRtYXJrc0VkaXQ6IGZhbHNlLAogICAgICAgICAgICAgICAgICAgIGNyZWF0ZUFubm90YXRpb25TZXRzOiBmYWxzZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2aWV3T3JpZ2luYWxEUkM6IHRydWUsCiAgICAgICAgICAgICAgICB9Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkaXNwYXRjaFw+</last-search>
+      <last-search encoding="base64">XDxQb3dlclVzZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkaXNwYXRjaFw+</last-pattern>
+      <last-pattern encoding="base64">XDxQb3dlclVzZXJcPg==</last-pattern>
       <last-replace>sessionTimeStamp</last-replace>
       <last-substitute>uploadStartTime</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2dUcmFuc2ZlclNwZWVkXD4=</entry>
         <entry>uploadStartTime</entry>
         <entry encoding="base64">XDxGaWx0ZXJcPg==</entry>
         <entry encoding="base64">XDxxdWVyeUFsbFw+</entry>
@@ -533,6 +535,7 @@
         <entry encoding="base64">XDxqYXNtaW5lXD4=</entry>
         <entry encoding="base64">XDxyZXRyeVdpdGhCYWNrT2ZmXD4=</entry>
         <entry encoding="base64">XDxkaXNwYXRjaFw+</entry>
+        <entry encoding="base64">XDxQb3dlclVzZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/this.soisClient.slideId/slideId/</entry>
