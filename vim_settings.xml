@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/project-properties-tab.component.ts" timestamp="1558017517168" />
       <file name="C:/dev/definiens/vt.portal/src/app/utils/test-utils.ts" timestamp="1555340005369">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -26,6 +27,7 @@
         <mark key="." line="25" column="19" />
         <mark key="^" line="25" column="19" />
       </file>
+      <file name="/slide-viewer-page.component.ts" timestamp="1558017606033" />
       <file name="C:/dev/definiens/vt.portal/src/app/utils/permissions-utils.ts" timestamp="1558005090517">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="2" />
@@ -61,6 +63,7 @@
         <mark key="." line="6" column="21" />
         <mark key="^" line="6" column="21" />
       </file>
+      <file name="/active-project.queries.ts" timestamp="1558017652679" />
       <file name="C:/dev/definiens/vt.portal/src/app/pages/project-page/project-page.component.ts" timestamp="1558014688839">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -78,6 +81,7 @@
         <mark key="." line="18" column="8" />
         <mark key="^" line="18" column="8" />
       </file>
+      <file name="C:/dev/definiens/vt.portal/node_modules/content-service-typescript-angular/model/project.ts" timestamp="1558017245711" />
       <file name="C:/dev/definiens/vt.portal/src/app/components/index.ts" timestamp="1556359862738">
         <mark key="[" line="32" column="11" />
         <mark key="]" line="32" column="12" />
@@ -126,9 +130,6 @@
         <mark key="." line="7" column="1" />
         <mark key="^" line="7" column="1" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/pages/slide-viewer-page/slide-viewer-page.component.html" timestamp="1558000019293">
-        <mark key="[" line="1" column="7" />
-      </file>
       <file name="C:/dev/definiens/vt.portal/src/environments/environment.dev.ts" timestamp="1557404523998">
         <mark key="[" line="6" column="20" />
         <mark key="]" line="6" column="33" />
@@ -158,11 +159,19 @@
         <mark key="^" line="41" column="34" />
         <mark key="." line="41" column="34" />
       </file>
+      <file name="/projects.queries.ts" timestamp="1558017690774" />
       <file name="C:/dev/definiens/vt.portal/src/app/components/slide-upload-shared.scss" timestamp="1556090036052">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="C:/dev/definiens/vt.portal/src/app/pages/project-page/project-page.component.html" timestamp="1558018487364">
+        <mark key="[" line="26" column="8" />
+        <mark key="]" line="26" column="21" />
+        <mark key="." line="26" column="21" />
+        <mark key="^" line="26" column="21" />
+      </file>
+      <file name="/portal-permissions.ts" timestamp="1558016934326" />
       <file name="C:/dev/definiens/vt.portal/src/app/state/reducers/upload-slides.reducer.spec.ts" timestamp="1556192807824">
         <mark key="[" line="158" column="7" />
         <mark key="]" line="154" column="0" />
@@ -179,6 +188,7 @@
         <mark key="." line="30" column="80" />
         <mark key="^" line="30" column="80" />
       </file>
+      <file name="/permissions-utils.ts" timestamp="1558017812774" />
       <file name="C:/dev/definiens/vt.portal/src/app/utils/request-retry-adapter.spec.ts" timestamp="1554973501772">
         <mark key="[" line="13" column="81" />
         <mark key="]" line="13" column="78" />
@@ -201,9 +211,6 @@
         <mark key="]" line="1" column="6" />
         <mark key="." line="1" column="6" />
         <mark key="^" line="1" column="6" />
-      </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/state/reducers/upload-slide.reducer.spec.ts" timestamp="1556607538770">
-        <mark key="[" line="196" column="91" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/pages/project-properties-tab/project-properties/state/queries.spec.ts" timestamp="1556184774870">
         <mark key="[" line="1" column="24" />
@@ -254,7 +261,7 @@
         <mark key="." line="10" column="70" />
         <mark key="^" line="10" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558015086373">
+      <file name="/Dummy.txt" timestamp="1558018341306">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -299,6 +306,12 @@
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
+      </file>
+      <file name="C:/dev/definiens/vt.portal/src/app/pages/index.ts" timestamp="1558018444241">
+        <mark key="[" line="56" column="14" />
+        <mark key="]" line="56" column="14" />
+        <mark key="^" line="56" column="12" />
+        <mark key="." line="56" column="14" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/pages/project-page/state/models/permissions.ts" timestamp="1557932030964">
         <mark key="[" line="3" column="0" />
@@ -444,13 +457,13 @@
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Overview</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQcm9qZWN0UGFnZVF1ZXJpZXNNb2NrXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwdWJsaWMgcHJvamVjdElkJDogT2JzZXJ2YWJsZTxzdHJpbmc+Owo=</text>
+        <text encoding="base64">ICA8cC10YWJQYW5lbCBoZWFkZXI9IlByb2plY3QgT3ZlcnZpZXciPgogICAgPHZ0LXByb2plY3Qtb3ZlcnZpZXctdGFiPjwvdnQtcHJvamVjdC1vdmVydmlldy10YWI+CiAgPC9wLXRhYlBhbmVsPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIC8vIHRoaXMucHJvamVjdElkJCA9IGFjdGl2ZVByb2plY3RRdWVyaWVzLmlkJDsK</text>
@@ -552,9 +565,9 @@
         <entry>x</entry>
         <entry>qw</entry>
         <entry>we</entry>
-        <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>4,5t6</entry>
         <entry>7,8t8</entry>
+        <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
