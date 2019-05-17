@@ -28,11 +28,11 @@
         <mark key="^" line="25" column="19" />
       </file>
       <file name="/slide-viewer-page.component.ts" timestamp="1558017606033" />
-      <file name="C:/dev/definiens/vt.portal/src/app/utils/permissions-utils.ts" timestamp="1558005090517">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="2" />
-        <mark key="." line="13" column="2" />
-        <mark key="^" line="28" column="37" />
+      <file name="C:/dev/definiens/vt.portal/src/app/utils/permissions-utils.ts" timestamp="1558075303972">
+        <mark key="[" line="4" column="2" />
+        <mark key="]" line="4" column="32" />
+        <mark key="." line="4" column="32" />
+        <mark key="^" line="4" column="32" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/state/queries/upload-slide-queries.service.ts" timestamp="1556468372729">
         <mark key="[" line="22" column="0" />
@@ -60,11 +60,11 @@
         <mark key="^" line="6" column="21" />
       </file>
       <file name="/active-project.queries.ts" timestamp="1558017652679" />
-      <file name="C:/dev/definiens/vt.portal/src/app/pages/project-page/project-page.component.ts" timestamp="1558014688839">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="16" column="34" />
-        <mark key="." line="25" column="0" />
+      <file name="C:/dev/definiens/vt.portal/src/app/pages/project-page/project-page.component.ts" timestamp="1558075506588">
+        <mark key="[" line="15" column="2" />
+        <mark key="]" line="15" column="8" />
+        <mark key="^" line="15" column="8" />
+        <mark key="." line="15" column="8" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/pages/slide-viewer-page/slide-viewer-page.component.ts" timestamp="1558001290314">
         <mark key="'" line="18" column="8" />
@@ -179,12 +179,12 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/pages/project-page/project-page.component.html" timestamp="1558019639608">
+      <file name="C:/dev/definiens/vt.portal/src/app/pages/project-page/project-page.component.html" timestamp="1558075584740">
         <mark key="'" line="37" column="55" />
-        <mark key="[" line="26" column="8" />
-        <mark key="]" line="26" column="21" />
-        <mark key="." line="26" column="21" />
-        <mark key="^" line="26" column="21" />
+        <mark key="[" line="25" column="69" />
+        <mark key="]" line="25" column="69" />
+        <mark key="." line="25" column="69" />
+        <mark key="^" line="25" column="66" />
       </file>
       <file name="/portal-permissions.ts" timestamp="1558016934326" />
       <file name="C:/dev/definiens/vt.portal/src/app/state/reducers/upload-slides.reducer.spec.ts" timestamp="1556192807824">
@@ -233,12 +233,12 @@
         <mark key="." line="1" column="24" />
         <mark key="^" line="1" column="24" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/pages/project-page/state/queries.ts" timestamp="1558020504279">
-        <mark key="'" line="42" column="36" />
-        <mark key="[" line="6" column="47" />
-        <mark key="]" line="6" column="47" />
-        <mark key="." line="6" column="47" />
-        <mark key="^" line="6" column="47" />
+      <file name="C:/dev/definiens/vt.portal/src/app/pages/project-page/state/queries.ts" timestamp="1558075232954">
+        <mark key="'" line="41" column="36" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="18" column="90" />
       </file>
       <file name="C:/dev/definiens/vt.portal/tsconfig.json" timestamp="1556532391144">
         <mark key="[" line="15" column="17" />
@@ -485,16 +485,16 @@
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>lideUpload</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzbGlkZVVwbG9hZFRhYlw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZW52aXJvbm1lbnQgfSBmcm9tICcuLi8uLi8uLi9lbnZpcm9ubWVudHMvZW52aXJvbm1lbnQnOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">IGlkPSJzbGlkZVVwbG9hZFRhYiIgaA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIHRoaXMucHJvamVjdElkJCA9IGFjdGl2ZVByb2plY3RRdWVyaWVzLmlkJDsK</text>
+        <text encoding="base64">ICAgIC8vIFRPIGgK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -514,31 +514,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyBwdWJsaWMgcHJvamVjdElkJDogT2JzZXJ2YWJsZTxzdHJpbmc+Owo=</text>
+        <text encoding="base64">ICAgIC8vIHRoaXMucHJvamVjdElkJCA9IGFjdGl2ZVByb2plY3RRdWVyaWVzLmlkJDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgbmF2UXVlcmllczogTmF2aWdhdGlvblF1ZXJpZXMsCg==</text>
+        <text encoding="base64">ICAvLyBwdWJsaWMgcHJvamVjdElkJDogT2JzZXJ2YWJsZTxzdHJpbmc+Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUHJvamVjdFBhZ2VRdWVyaWVzIH0gZnJvbSAnLi4vcHJvamVjdC1wYWdlL3N0YXRlL3F1ZXJpZXMnOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgbmF2UXVlcmllczogTmF2aWdhdGlvblF1ZXJpZXMsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwdWJsaWMgZ2V0UHJvamVjdElkKCk6IE9ic2VydmFibGU8c3RyaW5nPiB7CiAgICByZXR1cm4gdGhpcy5wcm9qZWN0SWQkOwogIH0KCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgUHJvamVjdFBhZ2VRdWVyaWVzIH0gZnJvbSAnLi4vcHJvamVjdC1wYWdlL3N0YXRlL3F1ZXJpZXMnOwo=</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIGdldERldGFpbGVkUHJvamVjdEluZm86ICgpID0+IG5ldyBCZWhhdmlvclN1YmplY3Qoe30pLAogICAgLy8gZ2V0V29ya0Zsb3dQaGFzZXM6ICgpID0+IG5ldyBCZWhhdmlvclN1YmplY3Qoe30pLAogICAgLy8gZ2V0RmlsZXM6ICgpID0+IG5ldyBCZWhhdmlvclN1YmplY3QoW10pLAogICAgLy8gaGFzV29ya2Zsb3dQaGFzZXM6ICgpID0+IG5ldyBCZWhhdmlvclN1YmplY3QoZmFsc2UpLAo=</text>
+        <text encoding="base64">ICBwdWJsaWMgZ2V0UHJvamVjdElkKCk6IE9ic2VydmFibGU8c3RyaW5nPiB7CiAgICByZXR1cm4gdGhpcy5wcm9qZWN0SWQkOwogIH0KCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyBnZXRBdWRpdERpYWxvZ1Zpc2libGU6ICgpID0+IG5ldyBCZWhhdmlvclN1YmplY3QoZmFsc2UpLAogICAgLy8gZ2V0UHJvamVjdElkOiAoKSA9PiBuZXcgQmVoYXZpb3JTdWJqZWN0KCcxJyksCg==</text>
+        <text encoding="base64">ICAgIC8vIGdldERldGFpbGVkUHJvamVjdEluZm86ICgpID0+IG5ldyBCZWhhdmlvclN1YmplY3Qoe30pLAogICAgLy8gZ2V0V29ya0Zsb3dQaGFzZXM6ICgpID0+IG5ldyBCZWhhdmlvclN1YmplY3Qoe30pLAogICAgLy8gZ2V0RmlsZXM6ICgpID0+IG5ldyBCZWhhdmlvclN1YmplY3QoW10pLAogICAgLy8gaGFzV29ya2Zsb3dQaGFzZXM6ICgpID0+IG5ldyBCZWhhdmlvclN1YmplY3QoZmFsc2UpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgT2JzZXJ2YWJsZSB9IGZyb20gJ3J4anMvaW50ZXJuYWwvT2JzZXJ2YWJsZSc7Cg==</text>
+        <text encoding="base64">ICAvLyBnZXRBdWRpdERpYWxvZ1Zpc2libGU6ICgpID0+IG5ldyBCZWhhdmlvclN1YmplY3QoZmFsc2UpLAogICAgLy8gZ2V0UHJvamVjdElkOiAoKSA9PiBuZXcgQmVoYXZpb3JTdWJqZWN0KCcxJyksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgT2JzZXJ2YWJsZSB9IGZyb20gJ3J4anMvaW50ZXJuYWwvT2JzZXJ2YWJsZSc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
