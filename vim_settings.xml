@@ -3,6 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/dev/definiens/vt.portal/src/app/modules/data-browser/components/item-list/item-list.component.html" timestamp="1558443526417">
+        <mark key="[" line="0" column="29" />
+        <mark key="]" line="0" column="29" />
+        <mark key="." line="0" column="29" />
+        <mark key="^" line="0" column="29" />
+      </file>
+      <file name="C:/dev/definiens/vt.portal/src/app/modules/data-browser/components/item-list/item-list.component.scss" timestamp="1558444056457">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="30" column="5" />
+      </file>
       <file name="C:/dev/definiens/vt.portal/src/app/pages/settings-page/settings-page.component.scss" timestamp="1558430301868">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -197,6 +209,12 @@
         <mark key="^" line="41" column="34" />
         <mark key="." line="41" column="34" />
       </file>
+      <file name="C:/dev/definiens/vt.portal/src/app/pages/analytics-page/analytics-page.component.scss" timestamp="1558442647737">
+        <mark key="[" line="3" column="17" />
+        <mark key="]" line="4" column="1" />
+        <mark key="^" line="4" column="1" />
+        <mark key="." line="4" column="1" />
+      </file>
       <file name="C:/dev/definiens/vt.portal/src/environments/environment.qa.ts" timestamp="1558020173426">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="26" />
@@ -265,12 +283,6 @@
         <mark key="." line="1" column="24" />
         <mark key="^" line="1" column="24" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/pages/project-page/state/queries.ts" timestamp="1558175823996">
-        <mark key="'" line="18" column="9" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="C:/dev/definiens/vt.portal/tsconfig.json" timestamp="1556532391144">
         <mark key="[" line="15" column="17" />
         <mark key="]" line="15" column="20" />
@@ -318,7 +330,7 @@
         <mark key="]" line="10" column="26" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558436915033">
+      <file name="/Dummy.txt" timestamp="1558444102194">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -520,7 +532,7 @@
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>*ngIf=&quot;!(tableItems$ | async)&quot; [</text>
       </register>
       <register name="/" type="4">
         <text>class</text>
@@ -529,7 +541,7 @@
         <text encoding="base64">PGxhYmVsIGZvcj0iZmlsdGVyLXNlbGVjdGlvbiI+U2hvdzo8L2xhYmVsPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAucm9sZXNMYWJlbCB7CiAgICB3aGl0ZS1zcGFjZTogbm93cmFwOwogIH0KCg==</text>
+        <text encoding="base64">dGFibGUgewogIHRyIHsKICB9Cn0KCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -549,34 +561,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGN1cnNvcjogcG9pbnRlcjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAKICBAZXh0ZW5kICVib3gtc2hhZG93OwogIGZsZXg6IDAgMCA0MHB4OwogIGJhY2tncm91bmQtY29sb3I6ICR3aGl0ZTsKICBkaXNwbGF5OiBmbGV4OwogIHBhZGRpbmc6IDA7CiAgZmxleC1kaXJlY3Rpb246IHJvdzsKICBqdXN0aWZ5LWNvbnRlbnQ6IGZsZXgtc3RhcnQ7CiAgbWFyZ2luOiAyMHB4IDQwcHg7CiAgbGluZS1oZWlnaHQ6IHJlbS1jYWxjKDQwcHgpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICBAZXh0ZW5kICVib3gtc2hhZG93OwogIGZsZXg6IDAgMCA0MHB4OwogIGJhY2tncm91bmQtY29sb3I6ICR3aGl0ZTsKICBkaXNwbGF5OiBmbGV4OwogIHBhZGRpbmc6IDA7CiAgZmxleC1kaXJlY3Rpb246IHJvdzsKICBqdXN0aWZ5LWNvbnRlbnQ6IGZsZXgtc3RhcnQ7CiAgbWFyZ2luOiAyMHB4IDQwcHg7CiAgbGluZS1oZWlnaHQ6IHJlbS1jYWxjKDQwcHgpOw==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAubm8taXRlbXMgewogICAgdGV4dC1hbGlnbjogY2VudGVyOwogIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAudGl0bGUgewogICAgQGV4dGVuZCAuSW50ZXJGYWNlLUJvbGQ7CiAgfQo=</text>
+        <text encoding="base64">ICB0aCB7CiAgICB1c2VyLXNlbGVjdDogbm9uZQogIH0KICB0ZCB7CiAgICB1c2VyLXNlbGVjdDogbm9uZQogIH0K</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA8c3Bhbj50aXRsZTwvc3Bhbj4K</text>
+        <text encoding="base64">ICBwb3NpdGlvbjogcmVsYXRpdmU7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PHA+CiAgc2V0dGluZ3MtcGFnZSB3b3JrcyEKPC9wPgo=</text>
+        <text encoding="base64">ICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsKICAgIHRvcDogNTAlOwogICAgbGVmdDogNTAlOwogICAgdHJhbnNmb3JtOiB0cmFuc2xhdGUoLTUwJSwgLTUwJSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB3aWR0aDogMTAwJTsK</text>
+        <text encoding="base64">dnQtcHJvZ3Jlc3Mtc3Bpbm5lci13cmFwcGVyIHsKICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgdG9wOiA1MCU7CiAgLy90cmFuc2Zvcm06IHRyYW5zbGF0ZSgtNTAlLCAtNTAlKTsKICB3aWR0aDogMTAwJTsKICBtaW4taGVpZ2h0OiAxMDBweDsKfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiBhbnRpcXVld2hpdGU7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -630,8 +642,8 @@
         <entry>7,8t8</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
         <entry>vs</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
