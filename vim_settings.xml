@@ -15,11 +15,11 @@
         <mark key="." line="11" column="4" />
         <mark key="^" line="11" column="4" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/pages/settings-page/settings-page.component.scss" timestamp="1558527109884">
-        <mark key="[" line="12" column="12" />
-        <mark key="]" line="12" column="12" />
-        <mark key="." line="12" column="12" />
-        <mark key="^" line="12" column="12" />
+      <file name="C:/dev/definiens/vt.portal/src/app/pages/settings-page/settings-page.component.scss" timestamp="1558529726424">
+        <mark key="[" line="31" column="7" />
+        <mark key="]" line="32" column="5" />
+        <mark key="^" line="32" column="5" />
+        <mark key="." line="32" column="5" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/components/app/app.component.scss" timestamp="1558365200760">
         <mark key="[" line="0" column="0" />
@@ -49,12 +49,12 @@
         <mark key="." line="25" column="19" />
         <mark key="^" line="25" column="19" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/pages/settings-page/settings-page.component.html" timestamp="1558523065666">
+      <file name="C:/dev/definiens/vt.portal/src/app/pages/settings-page/settings-page.component.html" timestamp="1558529679737">
         <mark key="'" line="7" column="0" />
-        <mark key="[" line="3" column="25" />
-        <mark key="]" line="3" column="31" />
-        <mark key="." line="52" column="17" />
-        <mark key="^" line="48" column="17" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="4" />
+        <mark key="." line="4" column="4" />
+        <mark key="^" line="3" column="3" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/utils/permissions-utils.ts" timestamp="1558426415954">
         <mark key="[" line="4" column="33" />
@@ -331,7 +331,7 @@
         <mark key="]" line="10" column="26" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558522903964">
+      <file name="/Dummy.txt" timestamp="1558528559737">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -539,16 +539,16 @@
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>title</text>
+        <text>/*</text>
       </register>
       <register name="/" type="4">
         <text>class</text>
       </register>
-      <register name="0" type="4">
-        <text>project</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgZmxleDogMCAwIGF1dG87Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICNwcm9qZWN0LWlkIHsKICAgICAgZmxleDogMCAwIGF1dG87CiAgICAgIG1hcmdpbi1sZWZ0OiAxMHB4OwogICAgfQ==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -568,31 +568,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgZmxleDogMSAxIGF1dG87Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvL3BhZGRpbmc6IDEwcHggMTBweDsK</text>
+        <text encoding="base64">ICAgIGxhYmVsIHsKICAgICAgZmxleDogMCAwIGF1dG87CiAgICB9CgogICAgI3Byb2plY3QtdGl0bGUgewogICAgICBmbGV4OiAxIDEgYXV0bzsKICAgIH0KCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvL2JvcmRlcjogYmxhY2sgMXB4IHNvbGlkOwo=</text>
+        <text encoding="base64">ICA8L2Rpdj4K</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8L2Rpdj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ci8qICAgIC5yaWdodCB7CiAgICAgIGZsZXg6IDEgMSBhdXRvOwogICAgICBkaXNwbGF5OiBmbGV4OwogICAgICBmbGV4LWRpcmVjdGlvbjogY29sdW1uOwogICAgICBsYWJlbCB7CiAgICAgICAgZmxleDogMCAwIGF1dG87CiAgICAgIH0KICAgICAgdGV4dGFyZWEgewogICAgICAgIGZsZXg6IDEgMSBhdXRvOwogICAgICB9CiAgICB9Ki8KCi8qICAgIHRleHRhcmVhIHsKICAgICAgd2lkdGg6IDEwMCU7CiAgICAgIGhlaWdodDogMTAwJTsKICAgICAgcmVzaXplOiBub25lOwogICAgfSovCg==</text>
+        <text encoding="base64">ICA8ZGl2Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbGFiZWwgewogICAgICAgIGZsZXg6IDAgMCBhdXRvOwogICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYXJnaW4tcmlnaHQ6IDEwcHg7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
