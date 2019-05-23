@@ -152,6 +152,12 @@
         <mark key="." line="30" column="14" />
         <mark key="^" line="42" column="14" />
       </file>
+      <file name="C:/dev/definiens/vt.portal/src/app/state/actions/index.ts" timestamp="1558623766496">
+        <mark key="[" line="4" column="31" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="4" column="19" />
+      </file>
       <file name="C:/dev/definiens/vt.portal/src/app/pages/project-properties-tab/project-properties/state/queries.spec.ts" timestamp="1558596885292">
         <mark key="[" line="16" column="37" />
         <mark key="]" line="16" column="39" />
@@ -171,11 +177,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/state/reducers/index.ts" timestamp="1558623591318">
-        <mark key="[" line="27" column="31" />
-        <mark key="]" line="27" column="48" />
-        <mark key="^" line="27" column="48" />
-        <mark key="." line="27" column="48" />
+      <file name="C:/dev/definiens/vt.portal/src/app/state/reducers/index.ts" timestamp="1558623662587">
+        <mark key="[" line="8" column="24" />
+        <mark key="]" line="8" column="24" />
+        <mark key="^" line="8" column="24" />
+        <mark key="." line="8" column="24" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/pages/project-page/project-page.component.spec.ts" timestamp="1558597393199">
         <mark key="'" line="22" column="8" />
@@ -315,16 +321,16 @@
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>projects</text>
+        <text>effects</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcm9qZWN0c1JlZHVjZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByb2plY3RzOiB7IC4uLmluaXRpYWxQcm9qZWN0c1N0YXRlIH0sCg==</text>
+        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9hY3RpdmUtcHJvamVjdC5yZWR1Y2VyJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBwcm9qZWN0SWQ6IHN0cmluZywK</text>
+        <text encoding="base64">ICBOYXZpZ2F0aW9uRWZmZWN0cywKICBQcm9qZWN0c0VmZmVjdHMsCiAgVXBsb2FkU2xpZGVFZmZlY3RzLAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -344,38 +350,35 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBwcm9qZWN0SWQ6IHN0cmluZywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIFthY3Rpb24ucHJvamVjdElkXTogewogICAgICAgICAgICAuLi5zdGF0ZS5wcm9qZWN0RmlsZVZlcnNpb25zW2FjdGlvbi5wcm9qZWN0SWRdLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIH0sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgIFthY3Rpb24ucHJvamVjdElkXTogewogICAgICAgICAgICAuLi5zdGF0ZS5wcm9qZWN0RmlsZVZlcnNpb25zW2FjdGlvbi5wcm9qZWN0SWRdLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICB9LAo=</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
       </register>
-      <register name="6" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIH0sCg==</text>
+      </register>
+      <register name="7" type="4">
         <text>{
           ...state.projectFileVersions,
           [action.projectId]: {
             ...state.projectFileVersions[action.projectId],
             [action.id]:</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB9LAo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ewogICAgICAgICAgLi4uc3RhdGUucHJvamVjdE1lbWJlcnNoaXAsCiAgICAgICAgICBbYWN0aW9uLnByb2plY3RJZF06IA==</text>
-      </register>
       <register name="9" type="4">
-        <text>{j
-          ...state.projectSlides,
-          [action.projectId]: action.slideStates,
-        }</text>
+        <text encoding="base64">ewogICAgICAgICAgLi4uc3RhdGUucHJvamVjdE1lbWJlcnNoaXAsCiAgICAgICAgICBbYWN0aW9uLnByb2plY3RJZF06IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
