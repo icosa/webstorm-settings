@@ -68,11 +68,12 @@
       <file name="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/components/image-viewer/tiled-image-viewer/tiled-image-viewer.ts" timestamp="1558616834413">
         <mark key="'" line="40" column="9" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/state/reducers/active-project.reducer.ts" timestamp="1558621753113">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="^" line="30" column="28" />
-        <mark key="." line="48" column="0" />
+      <file name="C:/dev/definiens/vt.portal/src/app/state/reducers/active-project.reducer.ts" timestamp="1558623469696">
+        <mark key="'" line="22" column="16" />
+        <mark key="[" line="15" column="20" />
+        <mark key="]" line="22" column="28" />
+        <mark key="^" line="22" column="28" />
+        <mark key="." line="22" column="28" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/pages/project-page/project-page.component.html" timestamp="1558554832990">
         <mark key="'" line="20" column="7" />
@@ -116,6 +117,12 @@
         <mark key="'" line="151" column="10" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.ts" timestamp="1558439042646" />
+      <file name="C:/dev/definiens/vt.portal/src/app/pages/project-overview-tab/state/actions.ts" timestamp="1558622791639">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="43" column="3" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="C:/dev/definiens/vt.portal/src/app/pages/start-page/start-page.component.ts" timestamp="1558613772474">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="6" />
@@ -139,11 +146,11 @@
         <mark key="." line="49" column="49" />
         <mark key="^" line="49" column="49" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/state/actions/active-project.actions.ts" timestamp="1558622070944">
-        <mark key="[" line="78" column="28" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
-        <mark key="^" line="79" column="0" />
+      <file name="C:/dev/definiens/vt.portal/src/app/state/actions/active-project.actions.ts" timestamp="1558623306266">
+        <mark key="[" line="30" column="14" />
+        <mark key="]" line="30" column="14" />
+        <mark key="." line="30" column="14" />
+        <mark key="^" line="42" column="14" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/pages/project-properties-tab/project-properties/state/queries.spec.ts" timestamp="1558596885292">
         <mark key="[" line="16" column="37" />
@@ -164,6 +171,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="C:/dev/definiens/vt.portal/src/app/state/reducers/index.ts" timestamp="1558623591318">
+        <mark key="[" line="27" column="31" />
+        <mark key="]" line="27" column="48" />
+        <mark key="^" line="27" column="48" />
+        <mark key="." line="27" column="48" />
+      </file>
       <file name="C:/dev/definiens/vt.portal/src/app/pages/project-page/project-page.component.spec.ts" timestamp="1558597393199">
         <mark key="'" line="22" column="8" />
         <mark key="[" line="30" column="0" />
@@ -182,12 +195,14 @@
         <mark key="." line="34" column="66" />
         <mark key="^" line="34" column="66" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/state/reducers/projects.reducer.ts" timestamp="1558621717734">
-        <mark key="[" line="29" column="20" />
+      <file name="C:/dev/definiens/vt.portal/src/app/state/reducers/projects.reducer.ts" timestamp="1558622317805">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="26" column="5" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="C:/dev/definiens/vt.portal/src/app/components/slide-upload-image-selection/slide-upload-image-selection.component.spec.ts" />
       <jump line="342" column="3" filename="C:/dev/definiens/vt.portal/src/app/components/slide-upload-image-selection/slide-upload-image-selection.component.spec.ts" />
       <jump line="13" column="13" filename="C:/dev/definiens/vt.portal/src/app/components/slide-upload-history/slide-upload-history.component.spec.ts" />
       <jump line="230" column="23" filename="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slide-effects.spec.ts" />
@@ -287,6 +302,7 @@
       <jump line="151" column="10" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/utils/interaction-result-processors/modify-interaction-processor.ts" />
       <jump line="25" column="21" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/utils/interaction-result-processors/draw-interaction-processor.ts" />
       <jump line="282" column="10" filename="C:/dev/definiens/vt.imageviewer/src/app/image-viewer/utils/interaction-result-processors/draw-interaction-processor.ts" />
+      <jump line="22" column="16" filename="C:/dev/definiens/vt.portal/src/app/state/reducers/active-project.reducer.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -299,16 +315,16 @@
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>pbs</text>
+        <text>projects</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZWxheURpc3BhdGNoQW5ub3RhdGlvbkNoYW5nZWRFdmVudFw+</text>
+        <text encoding="base64">XDxwcm9qZWN0c1JlZHVjZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAmOjpuZy1kZWVwIHsK</text>
+        <text encoding="base64">ICAgIHByb2plY3RzOiB7IC4uLmluaXRpYWxQcm9qZWN0c1N0YXRlIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBwcm9qZWN0SWQ6IHN0cmluZywK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -328,40 +344,47 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBMb2FkUHJvamVjdHMKICB8IExvYWRQcm9qZWN0c1N1Y2Nlc3MK</text>
+        <text encoding="base64">ICAgICAgICAgIH0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IGNsYXNzIExvYWRQcm9qZWN0cyBpbXBsZW1lbnRzIEFjdGlvbiB7CiAgcmVhZG9ubHkgdHlwZSA9IExPQURfUFJPSkVDVFM7CgogIGNvbnN0cnVjdG9yKCkgeyB9Cn0KCmV4cG9ydCBjbGFzcyBMb2FkUHJvamVjdHNTdWNjZXNzIGltcGxlbWVudHMgQWN0aW9uIHsKICByZWFkb25seSB0eXBlID0gTE9BRF9QUk9KRUNUU19TVUNDRVNTOwoKICBjb25zdHJ1Y3RvcihwdWJsaWMgcHJvamVjdHM6IFByb2plY3RbXSkgeyB9Cn0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgIFthY3Rpb24ucHJvamVjdElkXTogewogICAgICAgICAgICAuLi5zdGF0ZS5wcm9qZWN0RmlsZVZlcnNpb25zW2FjdGlvbi5wcm9qZWN0SWRdLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IExPQURfUFJPSkVDVFMgPSAnW1BvcnRhbF1bUHJvamVjdF0gTE9BRF9QUk9KRUNUUyc7CmV4cG9ydCBjb25zdCBMT0FEX1BST0pFQ1RTX1NVQ0NFU1MgPSAnW1BvcnRhbF1bUHJvamVjdF0gTE9BRF9QUk9KRUNUU19TVUNDRVNTJzsKCg==</text>
+        <text encoding="base64">ICAgICAgICB9LAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIH0sCg==</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUHJvamVjdE1lbWJlcnNoaXBJbmZvcm1hdGlvbiwgUHJvamVjdFNsaWRlU3RhdHVzU3VtbWFyeSB9IGZyb20gJ2NvbnRlbnQtc2VydmljZS10eXBlc2NyaXB0LWFuZ3VsYXInOwo=</text>
+      <register name="6" type="4">
+        <text>{
+          ...state.projectFileVersions,
+          [action.projectId]: {
+            ...state.projectFileVersions[action.projectId],
+            [action.id]:</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9LAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IExPQURfRklMRVMgPSAnW1BvcnRhbF1bUHJvamVjdF0gTE9BRF9GSUxFUyc7CmV4cG9ydCBjb25zdCBMT0FEX0ZJTEVTX1NVQ0NFU1MgPSAnW1BvcnRhbF1bUHJvamVjdF0gTE9BRF9GSUxFU19TVUNDRVNTJzsKCmV4cG9ydCBjb25zdCBMT0FEX1NMSURFX1NUQVRFUyA9ICdbUG9ydGFsXVtQcm9qZWN0XSBMT0FEX1NMSURFX1NUQVRFUyc7CmV4cG9ydCBjb25zdCBMT0FEX1NMSURFX1NUQVRFU19TVUNDRVNTID0gJ1tQb3J0YWxdW1Byb2plY3RdIExPQURfU0xJREVfU1RBVEVTX1NVQ0NFU1MnOwoKZXhwb3J0IGNvbnN0IExPQURfTVlfTUVNQkVSU0hJUCA9ICdbUG9ydGFsXVtQcm9qZWN0XSBMT0FEX01ZX01FTUJFUlNISVAnOwpleHBvcnQgY29uc3QgTE9BRF9NWV9NRU1CRVJTSElQX1NVQ0NFU1MgPSAnW1BvcnRhbF1bUHJvamVjdF0gTE9BRF9NWV9NRU1CRVJTSElQX1NVQ0NFU1MnOwoKZXhwb3J0IGNvbnN0IENSRUFURV9BTk5PVEFUSU9OX1NFVFMgPSAnW1BvcnRhbF1bUHJvamVjdF0gQ1JFQVRFX0FOTk9UQVRJT05fU0VUUyc7CmV4cG9ydCBjb25zdCBDUkVBVEVfQU5OT1RBVElPTl9TRVRTX1NVQ0NFU1MgPSAnW1BvcnRhbF1bUHJvamVjdF0gQ1JFQVRFX0FOTk9UQVRJT05fU0VUU19TVUNDRVNTJzsKZXhwb3J0IGNvbnN0IENSRUFURV9BTk5PVEFUSU9OX1NFVFNfRkFJTCA9ICdbUG9ydGFsXVtQcm9qZWN0XSBDUkVBVEVfQU5OT1RBVElPTl9TRVRTX0ZBSUwnOwo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">ewogICAgICAgICAgLi4uc3RhdGUucHJvamVjdE1lbWJlcnNoaXAsCiAgICAgICAgICBbYWN0aW9uLnByb2plY3RJZF06IA==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICB8IExvYWRGaWxlcwogIHwgTG9hZEZpbGVzU3VjY2VzcwogIHwgTG9hZFNsaWRlU3RhdGVzCiAgfCBMb2FkU2xpZGVTdGF0ZXNTdWNjZXNzCiAgfCBMb2FkTXlNZW1iZXJzaGlwCiAgfCBMb2FkTXlNZW1iZXJzaGlwU3VjY2VzcwogIHwgQ3JlYXRlQW5ub3RhdGlvblNldHMKICB8IENyZWF0ZUFubm90YXRpb25TZXRzU3VjY2VzcwogIHwgQ3JlYXRlQW5ub3RhdGlvblNldHNGYWlsOwo=</text>
+      <register name="9" type="4">
+        <text>{j
+          ...state.projectSlides,
+          [action.projectId]: action.slideStates,
+        }</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkZWxheURpc3BhdGNoQW5ub3RhdGlvbkNoYW5nZWRFdmVudFw+</last-search>
+      <last-search encoding="base64">XDxwcm9qZWN0c1JlZHVjZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZWxheURpc3BhdGNoQW5ub3RhdGlvbkNoYW5nZWRFdmVudFw+</last-pattern>
+      <last-pattern encoding="base64">XDxwcm9qZWN0c1JlZHVjZXJcPg==</last-pattern>
       <last-replace>sessionTimeStamp</last-replace>
       <last-substitute>uploadStartTime</last-substitute>
       <last-dir>1</last-dir>
@@ -369,7 +392,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwZXJtaXNzaW9uc1w+</entry>
         <entry encoding="base64">XDxzaG93U2xpZGVVcGxvYWRQYWdlXD4=</entry>
         <entry encoding="base64">XDxzbGlkZVVwbG9hZFRhYlw+</entry>
         <entry encoding="base64">XDxzaG93U2V0dGluZ3NQYWdlXD4=</entry>
@@ -389,6 +411,7 @@
         <entry encoding="base64">XDxleHRlbmRIZWFkQW5kRGlzcGF0Y2hDaGFuZ2VkRXZlbnRcPg==</entry>
         <entry encoding="base64">XDxhbm5vdGF0aW9uQ2hhbmdlZFw+</entry>
         <entry encoding="base64">XDxkZWxheURpc3BhdGNoQW5ub3RhdGlvbkNoYW5nZWRFdmVudFw+</entry>
+        <entry encoding="base64">XDxwcm9qZWN0c1JlZHVjZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>sv</entry>
