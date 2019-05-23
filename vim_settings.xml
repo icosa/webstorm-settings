@@ -88,6 +88,12 @@
         <mark key="^" line="13" column="39" />
         <mark key="." line="13" column="39" />
       </file>
+      <file name="C:/dev/definiens/vt.portal/src/app/state/reducers/project.reducer.ts" timestamp="1558592265015">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="11" />
+        <mark key="." line="5" column="11" />
+        <mark key="^" line="5" column="11" />
+      </file>
       <file name="C:/dev/definiens/vt.portal/src/app/components/index.ts" timestamp="1556359862738">
         <mark key="[" line="32" column="11" />
         <mark key="]" line="32" column="12" />
@@ -287,7 +293,7 @@
         <mark key="." line="10" column="70" />
         <mark key="^" line="10" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558591733135">
+      <file name="/Dummy.txt" timestamp="1558592013406">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -485,7 +491,7 @@
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>147</text>
+        <text>{ FileVersion, Project }</text>
       </register>
       <register name="/" type="4">
         <text>class</text>
@@ -493,8 +499,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZmxleDogMCAwIGF1dG87Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICA8aHI+Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ewogIEZpbGVNZXRhZGF0YSwKICBQcm9qZWN0TWVtYmVyc2hpcEluZm9ybWF0aW9uLAogIFByb2plY3RTbGlkZVN0YXR1c1N1bW1hcnksCn0g</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -513,32 +519,38 @@
           <key char="62" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">PGhyPgo=</text>
+      <register name="2" type="4">
+        <text>{
+  AllTypes,
+  LOAD_FILES_SUCCESS,
+  LOAD_MY_MEMBERSHIP_SUCCESS,
+  LOAD_PROJECTS_SUCCESS,
+  LOAD_SLIDE_STATES_SUCCESS,
+}</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8aHI+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICA8cC10YWJQYW5lbCBoZWFkZXI9IlByb2plY3QgT3ZlcnZpZXciIGlkPSJwcm9qZWN0LW92ZXJ2aWV3LXRhYiI+CiAgICA8dnQtcHJvamVjdC1vdmVydmlldy10YWI+PC92dC1wcm9qZWN0LW92ZXJ2aWV3LXRhYj4KICA8L3AtdGFiUGFuZWw+Cg==</text>
+        <text encoding="base64">PGhyPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAubGVmdCB7CiAgICAgIG1hcmdpbi1yaWdodDogMTBweDsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgbWFyZ2luLXJpZ2h0OiAxMHB4Owo=</text>
+        <text encoding="base64">ICA8cC10YWJQYW5lbCBoZWFkZXI9IlByb2plY3QgT3ZlcnZpZXciIGlkPSJwcm9qZWN0LW92ZXJ2aWV3LXRhYiI+CiAgICA8dnQtcHJvamVjdC1vdmVydmlldy10YWI+PC92dC1wcm9qZWN0LW92ZXJ2aWV3LXRhYj4KICA8L3AtdGFiUGFuZWw+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBhZGRpbmctcmlnaHQ6IDEwcHg7Cg==</text>
+        <text encoding="base64">CiAgICAubGVmdCB7CiAgICAgIG1hcmdpbi1yaWdodDogMTBweDsKICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgbWFyZ2luLXJpZ2h0OiAxMHB4Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vYmFja2dyb3VuZC1jb2xvcjogIzVlY2ZlZjsK</text>
+        <text encoding="base64">ICAgICAgICAgIHBhZGRpbmctcmlnaHQ6IDEwcHg7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
