@@ -18,8 +18,8 @@
         <mark key="^" line="23" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="C:/dev/definiens/shared-protractor-utils/pageObjects/portal/pages/settings-page.po/settings-page.po.ts" timestamp="1559296491924">
-        <mark key="'" line="4" column="2" />
+      <file name="C:/dev/definiens/shared-protractor-utils/pageObjects/portal/pages/settings-page.po/settings-page.po.ts" timestamp="1559298216903">
+        <mark key="'" line="16" column="0" />
         <mark key="[" line="15" column="26" />
         <mark key="]" line="15" column="26" />
         <mark key="^" line="15" column="26" />
@@ -363,7 +363,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="20" filename="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slide-effects.spec.ts" />
       <jump line="52" column="42" filename="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slide-effects.spec.ts" />
       <jump line="51" column="50" filename="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slide-effects.spec.ts" />
       <jump line="49" column="49" filename="C:/dev/definiens/vt.portal/src/app/state/effects/upload-slide-effects.spec.ts" />
@@ -463,6 +462,7 @@
       <jump line="4840" column="1" filename="C:/dev/definiens/shared-protractor-utils/node_modules/@types/selenium-webdriver/index.d.ts" />
       <jump line="4306" column="46" filename="C:/dev/definiens/shared-protractor-utils/node_modules/@types/selenium-webdriver/index.d.ts" />
       <jump line="1" column="2" filename="C:/dev/definiens/shared-protractor-utils/pageObjects/portal/pages/settings-page.po/settings-page.po.ts" />
+      <jump line="16" column="0" filename="C:/dev/definiens/shared-protractor-utils/pageObjects/portal/pages/settings-page.po/settings-page.po.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -478,7 +478,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>const</text>
+        <text>getText()</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdDb21wbGV0ZSBodG1sIC0gJywgaHRtbFZhbHVlKTsK</text>
@@ -529,17 +529,16 @@
       </register>
     </registers>
     <search>
-      <last-search>const</last-search>
+      <last-search>getText()</last-search>
       <last-offset />
-      <last-pattern>const</last-pattern>
-      <last-replace>private</last-replace>
-      <last-substitute>const</last-substitute>
+      <last-pattern>getText()</last-pattern>
+      <last-replace>getAttribute('value')</last-replace>
+      <last-substitute>getText()</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxuZXdcPg==</entry>
         <entry encoding="base64">XDwkXD4=</entry>
         <entry encoding="base64">XDxleHRlbmRIZWFkQW5kRGlzcGF0Y2hDaGFuZ2VkRXZlbnRcPg==</entry>
         <entry encoding="base64">XDxhbm5vdGF0aW9uQ2hhbmdlZFw+</entry>
@@ -559,9 +558,9 @@
         <entry>prime</entry>
         <entry>inner</entry>
         <entry>const</entry>
+        <entry>getText()</entry>
       </history-search>
       <history-cmd>
-        <entry>w3</entry>
         <entry>%s/filename/fileName/</entry>
         <entry>197t213</entry>
         <entry>197t212</entry>
@@ -580,6 +579,7 @@
         <entry>s/const/private/</entry>
         <entry>%s/const/private/</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>%s/getText()/getAttribute('value')/</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
