@@ -3,11 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/definiens/vt.portal/src/app/state/queries/projects.queries.ts" timestamp="1559057985150">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="C:/dev/definiens/vt.portal/component_tests/tests/project-overview/bulk-create-annotation-set-spec.ts" timestamp="1559313158488">
         <mark key="[" line="31" column="2" />
         <mark key="]" line="31" column="2" />
@@ -69,11 +64,6 @@
         <mark key="]" line="97" column="16" />
         <mark key="^" line="97" column="16" />
         <mark key="." line="97" column="16" />
-      </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/pages/project-overview-tab/state/actions.ts" timestamp="1559057767334">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/pages/start-page/start-page.component.ts" timestamp="1558781326712">
         <mark key="[" line="6" column="0" />
@@ -304,10 +294,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="24" column="1" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/utils/retry-with-back-off.ts" timestamp="1559375159614">
-        <mark key="[" line="30" column="28" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
+      <file name="C:/dev/definiens/vt.portal/src/app/utils/retry-with-back-off.ts" timestamp="1559375892774">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="0" column="30" />
+        <mark key="^" line="0" column="30" />
+        <mark key="." line="0" column="30" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/pages/project-properties-tab/project-properties/state/queries.ts" timestamp="1558811029313">
         <mark key="[" line="4" column="29" />
@@ -444,7 +435,7 @@
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>retried</text>
@@ -453,7 +444,7 @@
         <text>'Should display the correct project settings values'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">CiAgICAvLyBhY3R1YWwgbG9vcCB3aGljaCByZWFkcyB0aGUgZmlsZQogICAgd2hpbGUgKHN0YXJ0IDwgZmlsZS5zaXplKSB7CiAgICAgIGNvbnN0IGJpbmFyeUJsb2IgPSBmaWxlLnNsaWNlKHN0YXJ0LCBlbmQpOwogICAgICByZWFkZXIucmVhZEFzQXJyYXlCdWZmZXIoYmluYXJ5QmxvYik7CiAgICAgIHN0YXJ0ID0gZW5kOwogICAgICBlbmQgPSBNYXRoLm1pbihlbmQgKyBjaHVua1NpemUsIGZpbGUuc2l6ZSk7CiAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -467,31 +458,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS53YXJuKCcnKQo=</text>
+        <text encoding="base64">ICAgIH07Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdPcGVuaW5nIHRoZSB0YWIgLS0tLT4gJyArIHRhYklkKTsK</text>
+        <text encoding="base64">ICAgIC8vIGNhbGxlZCBhZnRlciBlYWNoIGNodW5rIGhhcyBiZWVuIHJlYWQKICAgIGxldCBzdGFydCA9IDA7CiAgICBsZXQgZW5kID0gTWF0aC5taW4oY2h1bmtTaXplLCBmaWxlLnNpemUpOwogICAgcmVhZGVyLm9ubG9hZCA9ICgpID0+IHsKICAgICAgY29uc3QgcmVzdWx0ID0gcmVhZGVyLnJlc3VsdDsKICAgICAgaWYgKHR5cGVvZiByZXN1bHQgIT09ICdvYmplY3QnKSB7CiAgICAgICAgb2JzLmVycm9yKG5ldyBFcnJvcignUmVjZWl2ZWQgc29tZXRoaW5nIG90aGVyIHRoYW4gb2JqZWN0IChBcnJheUJ1ZmZlcikgd2hlbiBhdHRlbXB0aW5nIHRvIHJlYWQgZmlsZSBhcyBiaW5hcnkgc3RyaW5nJykpOwogICAgICAgIHJldHVybjsKICAgICAgfQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2F1dGggbG9hZGVkIHh4eCcpOwo=</text>
+        <text encoding="base64">ICAgIHJlYWRlci5vbmVycm9yID0gZXJyID0+IG9icy5lcnJvcihlcnIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJz4+Pj4+PiBUaGlzIGlzIHRoZSB0YWIgdGV4dCAnICsgdGV4dCk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJlYWRlciA9IG5ldyBGaWxlUmVhZGVyKCk7Cg==</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCc+Pj4+Pj4gVGhpcyBpcyB0aGUgdGFiIHRleHQgJyArIHRleHQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJ2dC5hbmFseXRpY3MiOiAiMC4wLjE5MiIsCiAgICAidnQuaW1hZ2V2aWV3ZXIiOiAiMC4wLjI3NiIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS53YXJuKCcnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJ2dC5hbmFseXRpY3MiOiAiMC4wLjE5MiIsCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdPcGVuaW5nIHRoZSB0YWIgLS0tLT4gJyArIHRhYklkKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJ2dC5pbWFnZXZpZXdlciI6ICIwLjAuMjc2IiwK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2F1dGggbG9hZGVkIHh4eCcpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
