@@ -8,6 +8,12 @@
         <mark key="]" line="3" column="21" />
         <mark key="." line="3" column="21" />
       </file>
+      <file name="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.spec.ts" timestamp="1559571047356">
+        <mark key="'" line="150" column="0" />
+        <mark key="[" line="219" column="79" />
+        <mark key="]" line="219" column="80" />
+        <mark key="." line="219" column="80" />
+      </file>
       <file name="C:/dev/definiens/vt.portal/src/app/state/queries/projects.queries.ts" timestamp="1559057985150">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -301,14 +307,14 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="17" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559565937860">
+      <file name="/Dummy.txt" timestamp="1559570725108">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/services/upload-slide-remote-services.service.ts" timestamp="1559562142455">
-        <mark key="[" line="80" column="62" />
-        <mark key="]" line="80" column="62" />
-        <mark key="^" line="80" column="62" />
-        <mark key="." line="80" column="62" />
+        <mark key="[" line="79" column="62" />
+        <mark key="]" line="79" column="62" />
+        <mark key="^" line="79" column="62" />
+        <mark key="." line="79" column="62" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/state/actions/projects.actions.ts" timestamp="1559056967741">
         <mark key="[" line="57" column="0" />
@@ -356,10 +362,10 @@
         <mark key="." line="8" column="87" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/utils/retry-with-back-off.ts" timestamp="1559561758283">
-        <mark key="[" line="64" column="77" />
-        <mark key="]" line="64" column="77" />
-        <mark key="." line="64" column="77" />
-        <mark key="^" line="64" column="77" />
+        <mark key="[" line="63" column="77" />
+        <mark key="]" line="63" column="77" />
+        <mark key="." line="63" column="77" />
+        <mark key="^" line="63" column="77" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/modules/authentication/services/auth/auth.service.ts" timestamp="1559552709873">
         <mark key="[" line="36" column="54" />
@@ -406,7 +412,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="1" filename="C:/dev/definiens/vt.portal/src/app/models/portal-roles.ts" />
       <jump line="23" column="2" filename="C:/dev/definiens/vt.portal/src/app/pages/slide-viewer-page/slide-viewer-page.component.ts" />
       <jump line="51" column="9" filename="C:/dev/definiens/vt.portal/src/app/pages/slide-viewer-page/slide-viewer-page.component.ts" />
       <jump line="11" column="47" filename="C:/dev/definiens/vt.portal/src/app/pages/slide-viewer-page/slide-viewer-page.component.ts" />
@@ -506,6 +511,7 @@
       <jump line="111" column="47" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.ts" />
       <jump line="122" column="37" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.ts" />
       <jump line="144" column="37" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.ts" />
+      <jump line="150" column="0" filename="C:/dev/definiens/vt.portal/src/app/services/upload-slide.service.spec.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -521,7 +527,7 @@
         <text>this.remoteServiceCalls.finalizeSlideUpload(uploadContext.slideId)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZW1vdGVTZXJ2aWNlQ2FsbHNcPg==</text>
+        <text>6</text>
       </register>
       <register name="0" type="4">
         <text>this.remoteServiceCalls.finalizeSlideUpload(uploadContext.slideId)</text>
@@ -572,9 +578,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZW1vdGVTZXJ2aWNlQ2FsbHNcPg==</last-search>
+      <last-search>6</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZW1vdGVTZXJ2aWNlQ2FsbHNcPg==</last-pattern>
+      <last-pattern>6</last-pattern>
       <last-replace>getAttribute('value')</last-replace>
       <last-substitute>getText()</last-substitute>
       <last-dir>1</last-dir>
@@ -582,7 +588,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcm9qZWN0c1JlZHVjZXJcPg==</entry>
         <entry encoding="base64">XDxwcm9qZWN0UXVlcmllc1w+</entry>
         <entry encoding="base64">XDxjdXJyZW50UHJvamVjdFw+</entry>
         <entry encoding="base64">XDxjb252ZXJ0RGF0ZVN0cmluZ1RvRGF0ZU9iamVjdFw+</entry>
@@ -602,6 +607,7 @@
         <entry>jasmine</entry>
         <entry encoding="base64">XDxzYXZlQWN0aXZpdHlUaW1lXD4=</entry>
         <entry encoding="base64">XDxyZW1vdGVTZXJ2aWNlQ2FsbHNcPg==</entry>
+        <entry>6</entry>
       </history-search>
       <history-cmd>
         <entry>%s/filename/fileName/</entry>
