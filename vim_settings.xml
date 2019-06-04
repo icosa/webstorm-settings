@@ -30,11 +30,11 @@
         <mark key="^" line="31" column="2" />
         <mark key="." line="31" column="2" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/state/effects/active-project-effects.ts" timestamp="1559640334153">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-        <mark key="^" line="38" column="16" />
+      <file name="C:/dev/definiens/vt.portal/src/app/state/effects/active-project-effects.ts" timestamp="1559660809437">
+        <mark key="[" line="141" column="0" />
+        <mark key="]" line="141" column="0" />
+        <mark key="." line="141" column="0" />
+        <mark key="^" line="139" column="57" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/utils/permissions-utils.ts" timestamp="1559031794151">
         <mark key="[" line="4" column="33" />
@@ -125,11 +125,6 @@
         <mark key="^" line="16" column="51" />
         <mark key="." line="22" column="34" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/components/index.ts" timestamp="1559652919693">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="C:/dev/definiens/vt.portal/src/app/modules/data-browser/services/item/item.service.ts" timestamp="1559653028861">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="32" column="3" />
@@ -183,6 +178,12 @@
         <mark key="." line="74" column="103" />
         <mark key="^" line="74" column="103" />
       </file>
+      <file name="C:/dev/definiens/vt.portal/src/app/modules/data-browser/state/queries/tables.queries.ts" timestamp="1559660915797">
+        <mark key="[" line="40" column="1" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+      </file>
       <file name="C:/dev/definiens/vt.portal/component_tests/tests/slide-upload/upload-slide-page-interactions-spec.ts" timestamp="1559313153918">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -235,12 +236,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="^" line="48" column="49" />
         <mark key="." line="5" column="0" />
-      </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/modules/data-browser/data-browser.module.ts" timestamp="1559652756492">
-        <mark key="'" line="67" column="0" />
-        <mark key="]" line="3" column="31" />
-        <mark key="^" line="3" column="31" />
-        <mark key="." line="3" column="31" />
       </file>
       <file name="C:/dev/definiens/auth-service/src/server.ts" timestamp="1559558117323">
         <mark key="[" line="97" column="45" />
@@ -352,6 +347,12 @@
         <mark key="." line="17" column="22" />
         <mark key="^" line="17" column="22" />
       </file>
+      <file name="C:/dev/definiens/vt.portal/src/app/modules/data-browser/state/queries/base.queries.ts" timestamp="1559660502103">
+        <mark key="[" line="19" column="1" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="C:/dev/definiens/vt.portal/src/app/state/effects/index.ts" timestamp="1558707994158">
         <mark key="[" line="13" column="39" />
         <mark key="]" line="13" column="39" />
@@ -432,6 +433,12 @@
         <mark key="]" line="4" column="29" />
         <mark key="^" line="17" column="10" />
         <mark key="." line="4" column="29" />
+      </file>
+      <file name="C:/dev/definiens/vt.portal/src/app/modules/data-browser/state/effects/projects.ts" timestamp="1559660880614">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="54" column="2" />
+        <mark key="^" line="54" column="2" />
+        <mark key="." line="54" column="2" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/modules/data-browser/services/item/item.service.config.ts" timestamp="1559652969090" />
       <file name="C:/dev/definiens/vt.portal/src/app/state/reducers/projects.reducer.ts" timestamp="1559384372620">
@@ -566,16 +573,16 @@
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>myRole</text>
+        <text>projectId: string</text>
       </register>
       <register name="/" type="4">
         <text>fdescribe</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi90YWJsZS1zdGF0ZS5tb2RlbCc7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiB0aGlzLmFjdGl2ZVByb2plY3RRdWVyaWVzLmlkJC5waXBlKAogICAgICB0YWtlKDEpLAogICAgICBzd2l0Y2hNYXAocHJvamVjdElkID0+IHRoaXMubG9hZFByb2plY3RGaWxlcyhwcm9qZWN0SWQpKQogICAgKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IHsgSVByb2plY3RCcm93c2luZ0RhdGEgfSBmcm9tICcuLi9tb2RlbHMnOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiB0aGlzLmxvYWRQcm9qZWN0QnJvd3NpbmdEYXRhKCkgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -592,28 +599,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiB1bmRlZmluZWQ7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IHsgSVByb2plY3RCcm93c2luZ0RhdGEgfSBmcm9tICcuLi8uLi9tb2R1bGVzL2RhdGEtYnJvd3Nlci9tb2RlbHMnOwo=</text>
+        <text encoding="base64">Ly8gaW1wb3J0IHsgSVByb2plY3RCcm93c2luZ0RhdGEgfSBmcm9tICcuLi9tb2RlbHMnOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ki8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyByZWFkb25seSBwcm9qZWN0SWQ6IHN0cmluZywK</text>
+        <text encoding="base64">Ly8gaW1wb3J0IHsgSVByb2plY3RCcm93c2luZ0RhdGEgfSBmcm9tICcuLi8uLi9tb2R1bGVzL2RhdGEtYnJvd3Nlci9tb2RlbHMnOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyByZWFkb25seSBwcm9qZWN0SWQ6IHN0cmluZywK</text>
+        <text encoding="base64">Ki8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIFByb2plY3RzUmVkdWNlci5pdGVtc0ZldGNoU3VjY2VzcyhzdGF0ZSwgYWN0aW9uIGFzIFByb2plY3RzQWN0aW9ucy5Ccm93c2luZ0RhdGFGZXRjaFN1Y2Nlc3MpOwo=</text>
+        <text encoding="base64">LyoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
