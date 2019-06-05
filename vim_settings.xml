@@ -14,9 +14,9 @@
         <mark key="]" line="3" column="21" />
         <mark key="." line="3" column="21" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/services/portal-backend.service.ts" timestamp="1559653033942">
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="81" column="3" />
+      <file name="C:/dev/definiens/vt.portal/src/app/services/portal-backend.service.ts" timestamp="1559720081154">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="65" />
         <mark key="." line="79" column="0" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/state/queries/projects.queries.ts" timestamp="1559637737496">
@@ -88,6 +88,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="^" line="24" column="24" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="C:/dev/definiens/vt.portal/src/app/utils/workflow-utils.ts" timestamp="1559720227127">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="2" column="70" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/modules/data-browser/state/reducers/tables.ts" timestamp="1559716992881">
         <mark key="'" line="61" column="0" />
@@ -230,7 +235,6 @@
         <mark key="^" line="47" column="3" />
         <mark key="." line="47" column="3" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/modules/data-browser/models/toggle.model.ts" timestamp="1559653103461" />
       <file name="C:/dev/definiens/vt.portal/src/app/state/models/project-browsing-data.ts" timestamp="1559659344247">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -339,7 +343,6 @@
         <mark key="]" line="10" column="21" />
         <mark key="." line="10" column="21" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/state/models/project-state.model.ts" timestamp="1559659242060" />
       <file name="C:/dev/definiens/vt.portal/component_tests/utils/config-generator.ts" timestamp="1559642204120">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -467,7 +470,6 @@
         <mark key="^" line="54" column="2" />
         <mark key="." line="54" column="2" />
       </file>
-      <file name="C:/dev/definiens/vt.portal/src/app/modules/data-browser/services/item/item.service.config.ts" timestamp="1559652969090" />
       <file name="C:/dev/definiens/vt.portal/src/app/app.module.ts" timestamp="1559661375447">
         <mark key="[" line="69" column="0" />
         <mark key="]" line="69" column="0" />
@@ -611,10 +613,10 @@
         <text>fdescribe</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0aGlzLmFjdGl2ZVByb2plY3RRdWVyaWVzLmlkJC5waXBlKAogICAgICB0YWtlKDEpLAogICAgICBzd2l0Y2hNYXAocHJvamVjdElkID0+IHRoaXMubG9hZFByb2plY3RGaWxlcyhwcm9qZWN0SWQpKQogICAgKTsK</text>
+        <text encoding="base64">ICAgIHJldHVybiB0aGlzLnByb2plY3RzQXBpLmdldEJyb3dzaW5nRGF0YUZvclByb2plY3QocHJvamVjdElkKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IHsgQ29sdW1uLCBDb2x1bW5Tb3J0aW5nLCBJQ2FzZUd1aSwgSVNsaWRlR3VpLCBJVGFibGVEYXRhR3VpIH0gZnJvbSAnLi9tb2RlbHMvVGFibGVEYXRhJzsK</text>
+        <text encoding="base64">LyppbXBvcnQgewogIEFsbFNsaWRlU3RhdGVzLAogIFNsaWRlU3RhdGUsCiAgc2xpZGVTdGF0ZVRvV29ya2Zsb3dPcmRlciwKfSBmcm9tICcuLi9tb2R1bGVzL2RhdGEtYnJvd3Nlci9jb21wb25lbnRzL2l0ZW0tbGlzdC1zdGF0ZS1maWx0ZXIvbW9kZWxzL2ZpbHRlckRhdGEnOyovCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -628,31 +630,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0ICogYXMgUHJvamVjdHNBY3Rpb25zIGZyb20gJy4uLy4uL21vZHVsZXMvZGF0YS1icm93c2VyL3N0YXRlL2FjdGlvbnMvcHJvamVjdHMnOwovLyBpbXBvcnQgKiBhcyBUYWJsZXNBY3Rpb25zIGZyb20gJy4uLy4uL21vZHVsZXMvZGF0YS1icm93c2VyL3N0YXRlL2FjdGlvbnMvdGFibGVzJzsK</text>
+        <text encoding="base64">Ly8gaW1wb3J0IHsgQ29sdW1uLCBDb2x1bW5Tb3J0aW5nLCBJQ2FzZUd1aSwgSVNsaWRlR3VpLCBJVGFibGVEYXRhR3VpIH0gZnJvbSAnLi9tb2RlbHMvVGFibGVEYXRhJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IHsgU2V0Q3VycmVudEl0ZW0gfSBmcm9tICcuLi8uLi9zdGF0ZS9hY3Rpb25zL3RhYmxlcyc7Cg==</text>
+        <text encoding="base64">Ly8gaW1wb3J0ICogYXMgUHJvamVjdHNBY3Rpb25zIGZyb20gJy4uLy4uL21vZHVsZXMvZGF0YS1icm93c2VyL3N0YXRlL2FjdGlvbnMvcHJvamVjdHMnOwovLyBpbXBvcnQgKiBhcyBUYWJsZXNBY3Rpb25zIGZyb20gJy4uLy4uL21vZHVsZXMvZGF0YS1icm93c2VyL3N0YXRlL2FjdGlvbnMvdGFibGVzJzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0ICogYXMgVGFibGVzQWN0aW9ucyBmcm9tICcuLi9hY3Rpb25zL3RhYmxlcyc7Cgo=</text>
+        <text encoding="base64">Ly8gaW1wb3J0IHsgU2V0Q3VycmVudEl0ZW0gfSBmcm9tICcuLi8uLi9zdGF0ZS9hY3Rpb25zL3RhYmxlcyc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gaW1wb3J0ICogYXMgVGFibGVzQWN0aW9ucyBmcm9tICcuLi9hY3Rpb25zL3RhYmxlcyc7Cgo=</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CgpjbGFzcyBUYWJsZXNSZWR1Y2VyIHsKfQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJyZW50SXRlbTogKGFjdGlvbiBhcyBUYWJsZXNBY3Rpb25zLlNldEN1cnJlbnRJdGVtKS5pZCwK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">CgpjbGFzcyBUYWJsZXNSZWR1Y2VyIHsKfQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBjdXJyZW50SXRlbTogKGFjdGlvbiBhcyBUYWJsZXNBY3Rpb25zLlNldEN1cnJlbnRJdGVtKS5pZCwK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
