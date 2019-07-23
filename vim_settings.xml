@@ -183,11 +183,11 @@
         <mark key="." line="11" column="21" />
         <mark key="^" line="11" column="21" />
       </file>
-      <file name="C:/dev/definiens/sidus/sidus-fe/src/pages/WorkContext.tsx" timestamp="1563889323274">
-        <mark key="[" line="3" column="28" />
-        <mark key="]" line="3" column="28" />
-        <mark key="." line="3" column="28" />
-        <mark key="^" line="2" column="32" />
+      <file name="C:/dev/definiens/sidus/sidus-fe/src/pages/WorkContext.tsx" timestamp="1563889416484">
+        <mark key="[" line="3" column="29" />
+        <mark key="]" line="3" column="34" />
+        <mark key="." line="3" column="34" />
+        <mark key="^" line="3" column="34" />
       </file>
       <file name="C:/dev/definiens/sidus/sidus-fe/package.json" timestamp="1563885472101">
         <mark key="[" line="12" column="0" />
@@ -343,10 +343,10 @@
         <mark key="^" line="8" column="87" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="C:/dev/definiens/sidus/sidus-fe/src/pages/WorkContexts.tsx" timestamp="1563888829073">
-        <mark key="[" line="2" column="9" />
-        <mark key="]" line="2" column="9" />
-        <mark key="." line="2" column="9" />
+      <file name="C:/dev/definiens/sidus/sidus-fe/src/pages/WorkContexts.tsx" timestamp="1563889544560">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
         <mark key="^" line="2" column="37" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/modules/authentication/services/auth/auth.service.ts" timestamp="1559840937963">
@@ -377,11 +377,10 @@
         <mark key="." line="20" column="117" />
         <mark key="^" line="20" column="117" />
       </file>
-      <file name="C:/dev/definiens/sidus/sidus-fe/src/components/App.tsx" timestamp="1563889276376">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="30" column="18" />
-        <mark key="." line="31" column="0" />
+      <file name="C:/dev/definiens/sidus/sidus-fe/src/components/App.tsx" timestamp="1563889550763">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="C:/dev/definiens/customer-portal/src/components/navigationBar/navigationBar.tsx" timestamp="1562355283692">
         <mark key="[" line="38" column="34" />
@@ -449,6 +448,7 @@
         <mark key="^" line="54" column="40" />
         <mark key="." line="52" column="11" />
       </file>
+      <file name="C:/dev/definiens/customer-portal/src/pages/dashboard/dashboard.tsx" timestamp="1563889400902" />
       <file name="C:/dev/definiens/vt.portal/src/environments/type.ts" timestamp="1562918266498">
         <mark key="[" line="9" column="4" />
         <mark key="]" line="9" column="14" />
@@ -845,7 +845,7 @@
         <text encoding="base64">ICAgICAgICAgIHJldHVybiA8V29ya0NvbnRleHQgbmFtZT17cHJvcHMubWF0Y2gucGFyYW1zLm5hbWV9Lz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiA8V29ya0NvbnRleHQvPgo=</text>
+        <text encoding="base64">LyogIGNvbnN0IHNlbGVjdFdvcmtDb250ZXh0ID0gKG5hbWU6IHN0cmluZykgPT4gewogICAgY29uc29sZS5lcnJvcihuYW1lKTsKICAgIHByb3BzWydoaXN0b3J5J10ucHVzaChgL3djLyR7bmFtZX1gKTsKICB9OyovCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -859,31 +859,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gc2VsZWN0V29ya0NvbnRleHQobmFtZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgYWJjID0gYGpvZSR7bmFtZX1gOwogICAgICB7Lyo8UmVkaXJlY3QgdG89YHdjLyR7bmFtZX1gIC8+OyovfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3Qgb3B0aW9uczogTVVJRGF0YVRhYmxlT3B0aW9ucyA9IHsKICBvblJvd0NsaWNrOiAocm93RGF0YTogc3RyaW5nW10sIHJvd01ldGE6IHsgZGF0YUluZGV4OiBudW1iZXI7IHJvd0luZGV4OiBudW1iZXIgfSkgPT4gewogICAgY29uc3QgbmFtZSA9IHJvd0RhdGFbMF07CiAgICBjb25zdCBhYmMgPSBgam9lJHtuYW1lfWA7CiAgICB7Lyo8UmVkaXJlY3QgdG89YHdjLyR7bmFtZX1gIC8+OyovfQogIH0sCn07Cgo=</text>
+        <text encoding="base64">ICAgICAgICB7Lyo8UmVkaXJlY3QgdG89Ii8iIC8+Ki99Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJvd0RhdGEsIHJvd1N0YXRlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiA8V29ya0NvbnRleHQvPgo=</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBvblJvd0NsaWNrOiAocm93RGF0YTogc3RyaW5nW10sIHJvd1N0YXRlKSA9PiB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgYWJjID0gYGpvZSR7bmFtZX1gOwogICAgICB7Lyo8UmVkaXJlY3QgdG89YHdjLyR7bmFtZX1gIC8+OyovfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8Um91dGU+Cg==</text>
+        <text encoding="base64">Y29uc3Qgb3B0aW9uczogTVVJRGF0YVRhYmxlT3B0aW9ucyA9IHsKICBvblJvd0NsaWNrOiAocm93RGF0YTogc3RyaW5nW10sIHJvd01ldGE6IHsgZGF0YUluZGV4OiBudW1iZXI7IHJvd0luZGV4OiBudW1iZXIgfSkgPT4gewogICAgY29uc3QgbmFtZSA9IHJvd0RhdGFbMF07CiAgICBjb25zdCBhYmMgPSBgam9lJHtuYW1lfWA7CiAgICB7Lyo8UmVkaXJlY3QgdG89YHdjLyR7bmFtZX1gIC8+OyovfQogIH0sCn07Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJvd0RhdGEsIHJvd1N0YXRlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
