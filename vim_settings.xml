@@ -219,6 +219,12 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="35" column="0" />
       </file>
+      <file name="C:/dev/definiens/sidus/sidus-fe/src/App.tsx" timestamp="1563865172992">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="7" column="23" />
+      </file>
       <file name="C:/dev/definiens/vt.portal/src/app/pages/project-page/state/queries.ts" timestamp="1562918285472">
         <mark key="[" line="25" column="73" />
         <mark key="]" line="25" column="83" />
@@ -366,11 +372,6 @@
         <mark key="." line="21" column="61" />
         <mark key="^" line="8" column="4" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.ts" timestamp="1562586636874">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="C:/dev/definiens/vt.portal/src/app/pages/project-page/project-page.component.ts" timestamp="1559903598108">
         <mark key="[" line="87" column="39" />
         <mark key="]" line="87" column="39" />
@@ -454,6 +455,11 @@
         <mark key="^" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
+      <file name="C:/dev/definiens/sidus/sidus-fe/src/App.css" timestamp="1563865143502">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="C:/dev/definiens/vt.portal/src/app/modules/authentication/services/token-utils.ts" timestamp="1559574793867">
         <mark key="[" line="74" column="9" />
         <mark key="]" line="74" column="10" />
@@ -525,6 +531,11 @@
         <mark key="]" line="27" column="20" />
         <mark key="^" line="27" column="20" />
         <mark key="." line="27" column="20" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.ts" timestamp="1562586636874">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="C:/dev/definiens/customer-portal/src/context/project.context.tsx" timestamp="1562355905177">
         <mark key="[" line="3" column="0" />
@@ -795,7 +806,7 @@
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQcm9qZWN0VHlwZXNcPg==</text>
@@ -804,7 +815,7 @@
         <text encoding="base64">ICAgIHNsaWRlVXBsb2FkOiB0cnVlLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLSBwcm9qZWN0VHlwZQo=</text>
+        <text encoding="base64">ICAgICAgICA8YQogICAgICAgICAgY2xhc3NOYW1lPSJBcHAtbGluayIKICAgICAgICAgIGhyZWY9Imh0dHBzOi8vcmVhY3Rqcy5vcmciCiAgICAgICAgICB0YXJnZXQ9Il9ibGFuayIKICAgICAgICAgIHJlbD0ibm9vcGVuZXIgbm9yZWZlcnJlciIKICAgICAgICA+CiAgICAgICAgICBMZWFybiBSZWFjdAogICAgICAgIDwvYT4K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -818,31 +829,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIEVkaXQgPGNvZGU+c3JjL0FwcC50c3g8L2NvZGU+IGFuZCBzYXZlIHRvIHJlbG9hZC4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdCBbYXV0aFN0YXRlXSA9IHVzZUNvbnRleHQoQXV0aENvbnRleHQpCg==</text>
+        <text encoding="base64">LkFwcCB7CiAgdGV4dC1hbGlnbjogY2VudGVyOwp9CgouQXBwLWhlYWRlciB7CiAgYmFja2dyb3VuZC1jb2xvcjogIzI4MmMzNDsKICBtaW4taGVpZ2h0OiAxMDB2aDsKICBkaXNwbGF5OiBmbGV4OwogIGZsZXgtZGlyZWN0aW9uOiBjb2x1bW47CiAgYWxpZ24taXRlbXM6IGNlbnRlcjsKICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjsKICBmb250LXNpemU6IGNhbGMoMTBweCArIDJ2bWluKTsKICBjb2xvcjogd2hpdGU7Cn0KCi5BcHAtbGluayB7CiAgY29sb3I6ICM2MWRhZmI7Cn0KCkBrZXlmcmFtZXMgQXBwLWxvZ28tc3BpbiB7CiAgZnJvbSB7CiAgICB0cmFuc2Zvcm06IHJvdGF0ZSgwZGVnKTsKICB9CiAgdG8gewogICAgdHJhbnNmb3JtOiByb3RhdGUoMzYwZGVnKTsKICB9Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZGlzcGF0Y2goZmV0Y2hCcm93c2luZ0RhdGFTdWNjZXNzQWN0aW9uKHJlc3VsdCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2ZldGNoQnJvd3NpbmdEYXRhU3VjY2VzcycpOwo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">LkFwcC1sb2dvIHsKICBhbmltYXRpb246IEFwcC1sb2dvLXNwaW4gaW5maW5pdGUgMjBzIGxpbmVhcjsKICBoZWlnaHQ6IDQwdm1pbjsKICBwb2ludGVyLWV2ZW50czogbm9uZTsKfQo=</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNhc2UgYWN0aW9ucy5GRVRDSF9VU0VSU19TVUNDRVNTOgogICAgICByZXR1cm4gewogICAgICAgIC4uLnN0YXRlLAogICAgICAgIHByb2plY3RzOiBhY3Rpb24udXNlcnMsCiAgICAgIH07CgogICAgY2FzZSBhY3Rpb25zLkZFVENIX1VTRVJTX0ZBSUxFRDoKICAgICAgcmV0dXJuIHsKICAgICAgICAuLi5zdGF0ZSwKICAgICAgICBtZXNzYWdlOiBhY3Rpb24ubWVzc2FnZSwKICAgICAgfTsKCg==</text>
+        <text encoding="base64">ICAgICAgICA8aW1nIHNyYz17bG9nb30gY2xhc3NOYW1lPSJBcHAtbG9nbyIgYWx0PSJsb2dvIiAvPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCBsb2FkVXNlcnMgPSBhc3luYyAodG9rZW46IHN0cmluZykgPT4gewogICAgdHJ5IHsKICAgICAgY29uc3QgcmVzdWx0ID0gYXdhaXQgZ2V0VXNlcnModG9rZW4pOwogICAgICBkaXNwYXRjaChmZXRjaFVzZXJzU3VjY2Vzc0FjdGlvbihyZXN1bHQpKQogICAgfSBjYXRjaCAoZSkgewogICAgICBkaXNwYXRjaChmZXRjaFVzZXJzRmFpbGVkQWN0aW9uKGUubWVzc2FnZSkpCiAgICB9CiAgfTsKCg==</text>
+        <text encoding="base64">aW1wb3J0IGxvZ28gZnJvbSAnLi9sb2dvLnN2Zyc7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgZmV0Y2hVc2Vyc1N1Y2Nlc3NBY3Rpb24gPSAodXNlcnM6IGFueSkgPT4gKHsKICB0eXBlOiBhY3Rpb25zLkZFVENIX1VTRVJTX1NVQ0NFU1MsCiAgdXNlcnMKfSk7Cgpjb25zdCBmZXRjaFVzZXJzRmFpbGVkQWN0aW9uID0gKG1lc3NhZ2U6IHN0cmluZykgPT4gKHsKICB0eXBlOiBhY3Rpb25zLkZFVENIX1VTRVJTX0ZBSUxFRCwKICBtZXNzYWdlCn0pOwoK</text>
+        <text encoding="base64">ICAgICAgLSBwcm9qZWN0VHlwZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBGRVRDSF9VU0VSU19TVUNDRVNTOiAnRkVUQ0hfVVNFUlNfU1VDQ0VTUycsCiAgRkVUQ0hfVVNFUlNfRkFJTEVEOiAnRkVUQ0hfVVNFUlNfRkFJTEVEJywK</text>
+        <text encoding="base64">ICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
