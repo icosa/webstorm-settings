@@ -323,10 +323,11 @@
         <mark key="]" line="1" column="35" />
         <mark key="." line="1" column="35" />
       </file>
-      <file name="C:/dev/definiens/sidus/sidus-fe/src/Components/App.tsx" timestamp="1563880769498">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="C:/dev/definiens/sidus/sidus-fe/src/Components/App.tsx" timestamp="1563882568197">
+        <mark key="[" line="40" column="14" />
+        <mark key="]" line="40" column="17" />
+        <mark key="." line="40" column="17" />
+        <mark key="^" line="40" column="17" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/models/portal-role.ts" timestamp="1558859270011">
         <mark key="[" line="1" column="2" />
@@ -340,11 +341,11 @@
         <mark key="^" line="34" column="71" />
         <mark key="." line="34" column="71" />
       </file>
-      <file name="C:/dev/definiens/sidus/sidus-fe/src/Models/WorkContext.ts" timestamp="1563881406487">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="6" />
-        <mark key="^" line="0" column="6" />
-        <mark key="." line="0" column="6" />
+      <file name="C:/dev/definiens/sidus/sidus-fe/src/Models/WorkContext.ts" timestamp="1563882490008">
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="4" column="17" />
+        <mark key="^" line="4" column="17" />
+        <mark key="." line="4" column="17" />
       </file>
       <file name="C:/dev/definiens/vt.portal/src/app/state/actions/upload-slide.actions.ts" timestamp="1559840793121">
         <mark key="[" line="2" column="0" />
@@ -715,6 +716,10 @@
         <mark key="]" line="4" column="68" />
         <mark key="." line="4" column="68" />
       </file>
+      <file name="C:/dev/definiens/customer-portal/src/components/slideList/slideList.tsx" timestamp="1563882184999">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="72" column="7" />
+      </file>
       <file name="C:/dev/definiens/vt.portal/component_tests/tests/project-overview/element-visibility-by-user-role-spec.ts" timestamp="1559307180706">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -847,16 +852,20 @@
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>News</text>
+        <text>props.slides</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQcm9qZWN0VHlwZXNcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICJtdWktZGF0YXRhYmxlcyI6ICJeMi42LjQiLAo=</text>
+      <register name="0" type="4">
+        <text>[{
+    name: 'Acme Company 1',
+    description: 'This is a great project to work on',
+    veriTrovaProjects: [],
+  }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgPFJlYWN0LkZyYWdtZW50Pgo=</text>
+        <text encoding="base64">ICAgIGFsZnJlc2NvUHJvamVjdDogc3QK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -870,31 +879,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPEljb25CdXR0b24gZWRnZT0ic3RhcnQiIGNsYXNzTmFtZT17Y2xhc3Nlcy5tZW51QnV0dG9ufSBjb2xvcj0iaW5oZXJpdCIgYXJpYS1sYWJlbD0iTWVudSI+CiAgICAgICAgPE1lbnVJY29uLz4KICAgICAgPC9JY29uQnV0dG9uPgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPEJ1dHRvbiBjb2xvcj0iaW5oZXJpdCI+TG9naW48L0J1dHRvbj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IFRvb2xiYXIgZnJvbSAnQG1hdGVyaWFsLXVpL2NvcmUvVG9vbGJhcic7Cg==</text>
+        <text encoding="base64">ICAgIHsKICAgICAgbmFtZTogInRodW1ibmFpbCIsCiAgICAgIGxhYmVsOiAiVGh1bWJuYWlsIiwKICAgICAgb3B0aW9uczogewogICAgICAgIGN1c3RvbUJvZHlSZW5kZXI6ICh2YWx1ZTogYW55LCB0YWJsZU1ldGE6IGFueSwgdXBkYXRlVmFsdWU6IGFueSkgPT4gewogICAgICAgICAgcmV0dXJuICgKICAgICAgICAgICAgPGltZyBjbGFzc05hbWU9e2NsYXNzZXMudGh1bWJuYWlsfSBzcmM9eydkYXRhOmltYWdlL2pwZWc7YmFzZTY0LCcgKyAodmFsdWUgfHwgbW9ja1RodW1ibmFpbEJhc2U2NCl9IC8+CiAgICAgICAgICApOwogICAgICAgIH0KICAgICAgfQogICAgfSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA8ZGl2PjxoMT5IZWFkZXI8L2gxPjwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgPGRpdj5IZWxsbyBmcm9tIFJlYWN0ITwvZGl2Pgo=</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPAo=</text>
+        <text encoding="base64">ICAgICAgPEZvb3Rlci8+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IEZvb3RlciBmcm9tICcuL0xheW91dHMnOwovLyBpbXBvcnQgSGVhZGVyIGZyb20gJy4vTGF5b3V0cy9IZWFkZXInOwo=</text>
+        <text encoding="base64">ICAgICAgICAgPFJlYWN0LkZyYWdtZW50Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IEhlYWRlciBmcm9tICcuL0xheW91dHMvSGVhZGVyJzsKZXhwb3J0ICogZnJvbSBIZWFkZXIK</text>
+        <text encoding="base64">ICAgICAgPEljb25CdXR0b24gZWRnZT0ic3RhcnQiIGNsYXNzTmFtZT17Y2xhc3Nlcy5tZW51QnV0dG9ufSBjb2xvcj0iaW5oZXJpdCIgYXJpYS1sYWJlbD0iTWVudSI+CiAgICAgICAgPE1lbnVJY29uLz4KICAgICAgPC9JY29uQnV0dG9uPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPEJ1dHRvbiBjb2xvcj0iaW5oZXJpdCI+TG9naW48L0J1dHRvbj4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
