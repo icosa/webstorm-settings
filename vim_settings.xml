@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxoYW5kbGVDb2x1bW5Nb3ZlZFw+</entry>
         <entry encoding="base64">XDxjdXJyZW50Um93SGVpZ2h0XD4=</entry>
         <entry>GetCol</entry>
         <entry>Id(</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxpbWFnZUNvbHVtbklkc1w+</entry>
         <entry encoding="base64">XDxsb2NhbFN0YXRlXD4=</entry>
         <entry>olumnRes</entry>
+        <entry>key\c</entry>
       </history-search>
       <history-cmd>
         <entry>80</entry>
@@ -163,11 +163,17 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" timestamp="1586872755524">
-        <mark key="[" line="121" column="34" />
-        <mark key="]" line="121" column="35" />
-        <mark key="^" line="121" column="35" />
-        <mark key="." line="121" column="34" />
+      <file name="C:/dev/definiens/cp2/portal-ui/src/services/agGridColumnsProfile.service.test.ts" timestamp="1586877486225">
+        <mark key="[" line="114" column="36" />
+        <mark key="]" line="114" column="38" />
+        <mark key="^" line="114" column="38" />
+        <mark key="." line="114" column="37" />
+      </file>
+      <file name="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" timestamp="1586876154473">
+        <mark key="[" line="127" column="32" />
+        <mark key="]" line="127" column="41" />
+        <mark key="^" line="127" column="41" />
+        <mark key="." line="127" column="40" />
       </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/state/slideMetadataTable/reducer.test.ts" timestamp="1586352636867">
         <mark key="[" line="81" column="69" />
@@ -181,11 +187,12 @@
         <mark key="." line="92" column="26" />
         <mark key="^" line="92" column="27" />
       </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/services/agGridColumnsProfile.service.ts" timestamp="1586851444292">
-        <mark key="[" line="4" column="24" />
-        <mark key="]" line="5" column="2" />
-        <mark key="^" line="5" column="2" />
-        <mark key="." line="5" column="1" />
+      <file name="C:/dev/definiens/cp2/portal-ui/src/services/agGridColumnsProfile.service.ts" timestamp="1586877547517">
+        <mark key="'" line="90" column="16" />
+        <mark key="[" line="83" column="13" />
+        <mark key="]" line="83" column="15" />
+        <mark key="^" line="83" column="15" />
+        <mark key="." line="83" column="14" />
       </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/state/slideMetadataTable/actions.ts" timestamp="1586352260961">
         <mark key="[" line="17" column="13" />
@@ -231,13 +238,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="376" column="15" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
-      <jump line="378" column="43" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
-      <jump line="379" column="77" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
-      <jump line="402" column="29" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
-      <jump line="403" column="40" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
-      <jump line="211" column="17" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
-      <jump line="363" column="52" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
       <jump line="187" column="38" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
       <jump line="267" column="29" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
       <jump line="162" column="20" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
@@ -331,6 +331,13 @@
       <jump line="148" column="66" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
       <jump line="296" column="6" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
       <jump line="342" column="61" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
+      <jump line="89" column="33" filename="C:/dev/definiens/cp2/portal-ui/src/services/agGridColumnsProfile.service.ts" />
+      <jump line="110" column="9" filename="C:/dev/definiens/cp2/portal-ui/src/services/agGridColumnsProfile.service.ts" />
+      <jump line="68" column="0" filename="C:/dev/definiens/cp2/portal-ui/src/services/agGridColumnsProfile.service.ts" />
+      <jump line="83" column="14" filename="C:/dev/definiens/cp2/portal-ui/src/services/agGridColumnsProfile.service.ts" />
+      <jump line="116" column="9" filename="C:/dev/definiens/cp2/portal-ui/src/services/agGridColumnsProfile.service.ts" />
+      <jump line="82" column="9" filename="C:/dev/definiens/cp2/portal-ui/src/services/agGridColumnsProfile.service.ts" />
+      <jump line="90" column="16" filename="C:/dev/definiens/cp2/portal-ui/src/services/agGridColumnsProfile.service.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -341,38 +348,38 @@
       <register name="i" type="4">
         <text />
       </register>
-      <register name="*" type="4">
-        <text>handle</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgICAgICAnYSc6IHsKICAgICAgICAgIGlkOiAnYScsCiAgICAgICAgICBpbmRleDogLTEsCiAgICAgICAgfSwK</text>
       </register>
       <register name="k" type="4">
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>handle</text>
+        <text>undefined</text>
       </register>
       <register name="/" type="4">
-        <text>olumnRes</text>
+        <text>key\c</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zdCBoYW5kbGVHZXRSb3dIZWlnaHQgPSAocGFyYW1zOiB7IG5vZGU6IFJvd05vZGUgfSk6IG51bWJlciA9PiB7CiAgICBjb25zdCB7IG5vZGUgfSA9IHBhcmFtczsKICAgIHJldHVybiBub2RlLmdyb3VwIHx8IChjdXJyZW50Um93SGVpZ2h0LmN1cnJlbnQgPT09IDApID8gRGVmYXVsdEFnR3JpZFJvd0hlaWdodCA6IGN1cnJlbnRSb3dIZWlnaHQuY3VycmVudDsKICB9Owo=</text>
+        <text encoding="base64">ICAgICAgICAnYic6IHsKICAgICAgICAgIGlkOiAnYicsCiAgICAgICAgICBpbmRleDogLTEsCiAgICAgICAgICB2aXNpYmxlOiB1bmRlZmluZWQsCiAgICAgICAgfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zdCBjb2x1bW5IZWkK</text>
+        <text encoding="base64">ICAgICAgICAnYSc6IHsKICAgICAgICAgIGlkOiAnYScsCiAgICAgICAgICBpbmRleDogLTEsCiAgICAgICAgfSwK</text>
       </register>
       <register name="q" type="4">
         <text>f,D</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCBfd2lkdGggPSB3aWR0aDsKICByZXR1cm4gX3dpZHRoOwo=</text>
+        <text encoding="base64">ICBjb25zdCBjb2x1bW5IZWkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdCBoYW5kbGVHZXRSb3dIZWlnaHQgPSB1c2VDYWxsYmFjaygocGFyYW1zOiB7IG5vZGU6IFJvd05vZGUgfSk6IG51bWJlciA9PiB7CiAgICBjb25zdCB7IG5vZGUgfSA9IHBhcmFtczsKICAgIHJldHVybiBub2RlLmdyb3VwIHx8IChsb2NhbFN0YXRlLmN1cnJlbnRSb3dIZWlnaHQgPT09IDApID8gRGVmYXVsdEFnR3JpZFJvd0hlaWdodCA6IGxvY2FsU3RhdGUuY3VycmVudFJvd0hlaWdodDsKICB9LCBbbG9jYWxTdGF0ZS5jdXJyZW50Um93SGVpZ2h0XSk7Cgo=</text>
+        <text encoding="base64">ICBjb25zdCBfd2lkdGggPSB3aWR0aDsKICByZXR1cm4gX3dpZHRoOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpZiAoIXZpc2libGUgfHwgaXNOdWxsT3JVbmRlZmluZWQod2lkdGgpKSB7CiAgICAvLyAwIHdpbGwgY2F1c2UgdGhlIGdyaWQgdG8gdXNlIGRlZmF1bHQgcm93IGhlaWdodAogICAgcmV0dXJuIDA7CiAgfQoKICByZXR1cm4gd2lkdGghOwo=</text>
+        <text encoding="base64">ICBjb25zdCBoYW5kbGVHZXRSb3dIZWlnaHQgPSB1c2VDYWxsYmFjaygocGFyYW1zOiB7IG5vZGU6IFJvd05vZGUgfSk6IG51bWJlciA9PiB7CiAgICBjb25zdCB7IG5vZGUgfSA9IHBhcmFtczsKICAgIHJldHVybiBub2RlLmdyb3VwIHx8IChsb2NhbFN0YXRlLmN1cnJlbnRSb3dIZWlnaHQgPT09IDApID8gRGVmYXVsdEFnR3JpZFJvd0hlaWdodCA6IGxvY2FsU3RhdGUuY3VycmVudFJvd0hlaWdodDsKICB9LCBbbG9jYWxTdGF0ZS5jdXJyZW50Um93SGVpZ2h0XSk7Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICBpZiAoIXZpc2libGUgfHwgaXNOdWxsT3JVbmRlZmluZWQod2lkdGgpKSB7CiAgICAvLyAwIHdpbGwgY2F1c2UgdGhlIGdyaWQgdG8gdXNlIGRlZmF1bHQgcm93IGhlaWdodAogICAgcmV0dXJuIDA7CiAgfQoKICByZXR1cm4gd2lkdGghOwo=</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
@@ -381,13 +388,13 @@
         <text encoding="base64">ICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb2wyOiB7IGlkOiAnY29sMicsIGluZGV4OiA2IH0sCiAgICAgICAgY29sMzogeyBpZDogJ2NvbDMnLCBpbmRleDogNyB9LAo=</text>
+        <text encoding="base64">ICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB7IGlkOiAnY29sMicsIGluZGV4OiA1IH0sCiAgICAgICAgeyBpZDogJ2NvbDMnLCBpbmRleDogMTUgfSwK</text>
+        <text encoding="base64">ICAgICAgICBjb2wyOiB7IGlkOiAnY29sMicsIGluZGV4OiA2IH0sCiAgICAgICAgY29sMzogeyBpZDogJ2NvbDMnLCBpbmRleDogNyB9LAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGpsCg==</text>
+        <text encoding="base64">ICAgICAgICB7IGlkOiAnY29sMicsIGluZGV4OiA1IH0sCiAgICAgICAgeyBpZDogJ2NvbDMnLCBpbmRleDogMTUgfSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -396,9 +403,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>olumnRes</last-search>
+      <last-search>key\c</last-search>
       <last-offset />
-      <last-pattern>olumnRes</last-pattern>
+      <last-pattern>key\c</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute encoding="base64">XDxjdXJyZW50UHJvamVjdFw+</last-substitute>
       <last-dir>1</last-dir>
