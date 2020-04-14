@@ -27,7 +27,6 @@
         <entry>key\c</entry>
       </history-search>
       <history-cmd>
-        <entry>80</entry>
         <entry>5</entry>
         <entry>220</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
@@ -46,6 +45,7 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
         <entry>wq</entry>
+        <entry>46</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -143,7 +143,7 @@
         <mark key="^" line="42" column="11" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1586851446918">
+      <file name="/Dummy.txt" timestamp="1586879725073">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/utils/agGrid/columnDefinitions.ts" timestamp="1586343955978">
@@ -163,17 +163,18 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/services/agGridColumnsProfile.service.test.ts" timestamp="1586877486225">
-        <mark key="[" line="114" column="36" />
-        <mark key="]" line="114" column="38" />
-        <mark key="^" line="114" column="38" />
-        <mark key="." line="114" column="37" />
+      <file name="C:/dev/definiens/cp2/portal-ui/src/services/agGridColumnsProfile.service.test.ts" timestamp="1586879709588">
+        <mark key="[" line="43" column="14" />
+        <mark key="]" line="43" column="16" />
+        <mark key="^" line="43" column="16" />
+        <mark key="." line="43" column="15" />
       </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" timestamp="1586876154473">
-        <mark key="[" line="127" column="32" />
-        <mark key="]" line="127" column="41" />
-        <mark key="^" line="127" column="41" />
-        <mark key="." line="127" column="40" />
+      <file name="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" timestamp="1586879319212">
+        <mark key="'" line="264" column="25" />
+        <mark key="[" line="134" column="7" />
+        <mark key="]" line="134" column="7" />
+        <mark key="^" line="191" column="7" />
+        <mark key="." line="134" column="7" />
       </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/state/slideMetadataTable/reducer.test.ts" timestamp="1586352636867">
         <mark key="[" line="81" column="69" />
@@ -187,12 +188,12 @@
         <mark key="." line="92" column="26" />
         <mark key="^" line="92" column="27" />
       </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/services/agGridColumnsProfile.service.ts" timestamp="1586877547517">
+      <file name="C:/dev/definiens/cp2/portal-ui/src/services/agGridColumnsProfile.service.ts" timestamp="1586878494192">
         <mark key="'" line="90" column="16" />
-        <mark key="[" line="83" column="13" />
-        <mark key="]" line="83" column="15" />
-        <mark key="^" line="83" column="15" />
-        <mark key="." line="83" column="14" />
+        <mark key="[" line="88" column="53" />
+        <mark key="]" line="88" column="54" />
+        <mark key="^" line="88" column="54" />
+        <mark key="." line="88" column="53" />
       </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/state/slideMetadataTable/actions.ts" timestamp="1586352260961">
         <mark key="[" line="17" column="13" />
@@ -238,27 +239,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="187" column="38" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
-      <jump line="267" column="29" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
-      <jump line="162" column="20" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
-      <jump line="204" column="22" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
-      <jump line="326" column="22" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
-      <jump line="389" column="6" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
-      <jump line="300" column="18" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
-      <jump line="303" column="41" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
-      <jump line="226" column="25" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
-      <jump line="229" column="32" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
-      <jump line="237" column="61" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
-      <jump line="248" column="32" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
-      <jump line="253" column="66" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
-      <jump line="264" column="35" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
-      <jump line="273" column="66" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
-      <jump line="373" column="74" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
-      <jump line="74" column="46" filename="C:/dev/definiens/cp2/portal-ui/src/state/slideMetadataTable/reducer.ts" />
-      <jump line="159" column="20" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
-      <jump line="149" column="58" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
-      <jump line="223" column="0" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
-      <jump line="146" column="46" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
       <jump line="158" column="49" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
       <jump line="160" column="32" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
       <jump line="163" column="43" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
@@ -280,9 +260,6 @@
       <jump line="396" column="36" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
       <jump line="397" column="36" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
       <jump line="404" column="18" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
-      <jump line="0" column="0" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
-      <jump line="18" column="11" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
-      <jump line="26" column="38" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
       <jump line="41" column="27" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
       <jump line="56" column="36" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
       <jump line="57" column="40" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
@@ -326,11 +303,9 @@
       <jump line="105" column="25" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
       <jump line="116" column="10" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
       <jump line="117" column="42" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
-      <jump line="122" column="38" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
       <jump line="139" column="32" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
       <jump line="148" column="66" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
       <jump line="296" column="6" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
-      <jump line="342" column="61" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
       <jump line="89" column="33" filename="C:/dev/definiens/cp2/portal-ui/src/services/agGridColumnsProfile.service.ts" />
       <jump line="110" column="9" filename="C:/dev/definiens/cp2/portal-ui/src/services/agGridColumnsProfile.service.ts" />
       <jump line="68" column="0" filename="C:/dev/definiens/cp2/portal-ui/src/services/agGridColumnsProfile.service.ts" />
@@ -338,6 +313,32 @@
       <jump line="116" column="9" filename="C:/dev/definiens/cp2/portal-ui/src/services/agGridColumnsProfile.service.ts" />
       <jump line="82" column="9" filename="C:/dev/definiens/cp2/portal-ui/src/services/agGridColumnsProfile.service.ts" />
       <jump line="90" column="16" filename="C:/dev/definiens/cp2/portal-ui/src/services/agGridColumnsProfile.service.ts" />
+      <jump line="122" column="39" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
+      <jump line="249" column="33" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
+      <jump line="252" column="40" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
+      <jump line="258" column="22" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
+      <jump line="273" column="59" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
+      <jump line="321" column="6" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
+      <jump line="338" column="35" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
+      <jump line="339" column="35" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
+      <jump line="340" column="35" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
+      <jump line="341" column="35" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
+      <jump line="342" column="35" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
+      <jump line="349" column="17" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
+      <jump line="350" column="56" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
+      <jump line="363" column="17" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
+      <jump line="0" column="0" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
+      <jump line="18" column="10" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
+      <jump line="26" column="37" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
+      <jump line="40" column="33" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
+      <jump line="97" column="35" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
+      <jump line="102" column="94" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
+      <jump line="229" column="67" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
+      <jump line="231" column="61" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
+      <jump line="232" column="18" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
+      <jump line="235" column="41" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
+      <jump line="236" column="21" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
+      <jump line="248" column="25" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -348,53 +349,53 @@
       <register name="i" type="4">
         <text />
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICAnYSc6IHsKICAgICAgICAgIGlkOiAnYScsCiAgICAgICAgICBpbmRleDogLTEsCiAgICAgICAgfSwK</text>
+      <register name="*" type="4">
+        <text>,</text>
       </register>
       <register name="k" type="4">
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>undefined</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>key\c</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnYic6IHsKICAgICAgICAgIGlkOiAnYicsCiAgICAgICAgICBpbmRleDogLTEsCiAgICAgICAgICB2aXNpYmxlOiB1bmRlZmluZWQsCiAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAnYSc6IHsKICAgICAgICAgIGlkOiAnYScsCiAgICAgICAgICBpbmRleDogLTEsCiAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgIC8vIHNldCBpbml0aWFsIGNvbHVtbiB2aXNpYmlsaXR5IChuZWVkcyB0byBiZSBzZXQgc2VwYXJhdGVseSBvdGhlcndpc2UgaW50ZXJuYWxseSB0aGUgZ3JpZCBzdGF0ZSBpcyBjb3JydXB0KQogICAgY29sdW1uQXBpLnNldENvbHVtbnNWaXNpYmxlKGdldEludmlzaWJsZUNvbHVtbklkcyhncmlkQ29uZmlnLmNvbHVtblBhcmFtcyksIGZhbHNlKTsKCg==</text>
       </register>
       <register name="q" type="4">
         <text>f,D</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCBjb2x1bW5IZWkK</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdCBfd2lkdGggPSB3aWR0aDsKICByZXR1cm4gX3dpZHRoOwo=</text>
+        <text encoding="base64">ICAgICAgICB1cGRhdGVDb2x1bW5Qb3NpdGlvbihncmlkQ29uZmlnLmNvbHVtblBhcmFtcywgY29sdW1uLmdldElkKCksIGNvbHVtbi5nZXRBY3R1YWxXaWR0aCgpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdCBoYW5kbGVHZXRSb3dIZWlnaHQgPSB1c2VDYWxsYmFjaygocGFyYW1zOiB7IG5vZGU6IFJvd05vZGUgfSk6IG51bWJlciA9PiB7CiAgICBjb25zdCB7IG5vZGUgfSA9IHBhcmFtczsKICAgIHJldHVybiBub2RlLmdyb3VwIHx8IChsb2NhbFN0YXRlLmN1cnJlbnRSb3dIZWlnaHQgPT09IDApID8gRGVmYXVsdEFnR3JpZFJvd0hlaWdodCA6IGxvY2FsU3RhdGUuY3VycmVudFJvd0hlaWdodDsKICB9LCBbbG9jYWxTdGF0ZS5jdXJyZW50Um93SGVpZ2h0XSk7Cgo=</text>
+        <text encoding="base64">ICAgICAgdXBkYXRlQ29sdW1uUG9zaXRpb24oZ3JpZENvbmZpZy5jb2x1bW5QYXJhbXMsIGNvbHVtbnNbMF0uZ2V0SWQoKSwgY29sdW1uSW5kaWNlcyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpZiAoIXZpc2libGUgfHwgaXNOdWxsT3JVbmRlZmluZWQod2lkdGgpKSB7CiAgICAvLyAwIHdpbGwgY2F1c2UgdGhlIGdyaWQgdG8gdXNlIGRlZmF1bHQgcm93IGhlaWdodAogICAgcmV0dXJuIDA7CiAgfQoKICByZXR1cm4gd2lkdGghOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgIHVwZGF0ZUNvbHVtbldpZHRoKGdyaWRDb25maWcuY29sdW1uUGFyYW1zLCBjb2x1bW5zWzBdLmdldElkKCksIGNvbHVtbnNbMF0uZ2V0QWN0dWFsV2lkdGgoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb2wyOiB7IGlkOiAnY29sMicsIGluZGV4OiA2IH0sCiAgICAgICAgY29sMzogeyBpZDogJ2NvbDMnLCBpbmRleDogNyB9LAo=</text>
+        <text encoding="base64">ICBpc051bGxPclVuZGVmaW5lZCwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB7IGlkOiAnY29sMicsIGluZGV4OiA1IH0sCiAgICAgICAgeyBpZDogJ2NvbDMnLCBpbmRleDogMTUgfSwK</text>
+        <text encoding="base64">ICBpZiAoIWlzTnVsbE9yVW5kZWZpbmVkKGNvbHVtblBhcmFtcy52aXNpYmxlKSkgewogICAgY29sdW1uLmhpZGUgPSAhY29sdW1uUGFyYW1zLnZpc2libGU7CiAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
