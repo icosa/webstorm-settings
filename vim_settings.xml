@@ -143,7 +143,7 @@
         <mark key="^" line="42" column="11" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1586848568722">
+      <file name="/Dummy.txt" timestamp="1586849577389">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/utils/agGrid/columnDefinitions.ts" timestamp="1586343955978">
@@ -163,11 +163,11 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" timestamp="1586848582996">
-        <mark key="'" line="342" column="61" />
-        <mark key="[" line="316" column="25" />
-        <mark key="]" line="293" column="0" />
-        <mark key="." line="293" column="0" />
+      <file name="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" timestamp="1586850846625">
+        <mark key="'" line="338" column="61" />
+        <mark key="[" line="316" column="20" />
+        <mark key="]" line="316" column="21" />
+        <mark key="." line="316" column="21" />
       </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/state/slideMetadataTable/reducer.test.ts" timestamp="1586352636867">
         <mark key="[" line="81" column="69" />
@@ -195,19 +195,6 @@
         <mark key="]" line="27" column="5" />
         <mark key="." line="24" column="44" />
         <mark key="^" line="20" column="28" />
-      </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/components/AgGridThumbnailCellRenderer/AgGridThumbnailCellRenderer.tsx" timestamp="1586338774307">
-        <mark key="[" line="25" column="44" />
-        <mark key="]" line="25" column="44" />
-        <mark key="." line="25" column="44" />
-        <mark key="^" line="25" column="48" />
-      </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/state/slideMetadataTable/reducer.ts" timestamp="1586849314782">
-        <mark key="'" line="163" column="10" />
-        <mark key="[" line="25" column="9" />
-        <mark key="]" line="25" column="10" />
-        <mark key="^" line="25" column="10" />
-        <mark key="." line="25" column="9" />
       </file>
       <file name="/JavaScript Console" timestamp="1586362290672">
         <mark key="[" line="0" column="0" />
@@ -240,6 +227,9 @@
         <mark key="]" line="55" column="49" />
         <mark key="." line="55" column="49" />
         <mark key="^" line="55" column="49" />
+      </file>
+      <file name="/agGridColumnsProfile.service.ts" timestamp="1586851358454">
+        <mark key="[" line="4" column="24" />
       </file>
     </filemarks>
     <jumps>
@@ -354,13 +344,13 @@
         <text />
       </register>
       <register name="*" type="4">
-        <text>any</text>
+        <text>handle</text>
       </register>
       <register name="k" type="4">
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>any</text>
+        <text>handle</text>
       </register>
       <register name="/" type="4">
         <text>olumnRes</text>
@@ -369,19 +359,19 @@
         <text encoding="base64">ICBjb25zdCBoYW5kbGVHZXRSb3dIZWlnaHQgPSAocGFyYW1zOiB7IG5vZGU6IFJvd05vZGUgfSk6IG51bWJlciA9PiB7CiAgICBjb25zdCB7IG5vZGUgfSA9IHBhcmFtczsKICAgIHJldHVybiBub2RlLmdyb3VwIHx8IChjdXJyZW50Um93SGVpZ2h0LmN1cnJlbnQgPT09IDApID8gRGVmYXVsdEFnR3JpZFJvd0hlaWdodCA6IGN1cnJlbnRSb3dIZWlnaHQuY3VycmVudDsKICB9Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zdCBfd2lkdGggPSB3aWR0aDsKICByZXR1cm4gX3dpZHRoOwo=</text>
+        <text encoding="base64">ICBjb25zdCBjb2x1bW5IZWkK</text>
       </register>
       <register name="q" type="4">
         <text>f,D</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCBoYW5kbGVHZXRSb3dIZWlnaHQgPSB1c2VDYWxsYmFjaygocGFyYW1zOiB7IG5vZGU6IFJvd05vZGUgfSk6IG51bWJlciA9PiB7CiAgICBjb25zdCB7IG5vZGUgfSA9IHBhcmFtczsKICAgIHJldHVybiBub2RlLmdyb3VwIHx8IChsb2NhbFN0YXRlLmN1cnJlbnRSb3dIZWlnaHQgPT09IDApID8gRGVmYXVsdEFnR3JpZFJvd0hlaWdodCA6IGxvY2FsU3RhdGUuY3VycmVudFJvd0hlaWdodDsKICB9LCBbbG9jYWxTdGF0ZS5jdXJyZW50Um93SGVpZ2h0XSk7Cgo=</text>
+        <text encoding="base64">ICBjb25zdCBfd2lkdGggPSB3aWR0aDsKICByZXR1cm4gX3dpZHRoOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpZiAoIXZpc2libGUgfHwgaXNOdWxsT3JVbmRlZmluZWQod2lkdGgpKSB7CiAgICAvLyAwIHdpbGwgY2F1c2UgdGhlIGdyaWQgdG8gdXNlIGRlZmF1bHQgcm93IGhlaWdodAogICAgcmV0dXJuIDA7CiAgfQoKICByZXR1cm4gd2lkdGghOwo=</text>
+        <text encoding="base64">ICBjb25zdCBoYW5kbGVHZXRSb3dIZWlnaHQgPSB1c2VDYWxsYmFjaygocGFyYW1zOiB7IG5vZGU6IFJvd05vZGUgfSk6IG51bWJlciA9PiB7CiAgICBjb25zdCB7IG5vZGUgfSA9IHBhcmFtczsKICAgIHJldHVybiBub2RlLmdyb3VwIHx8IChsb2NhbFN0YXRlLmN1cnJlbnRSb3dIZWlnaHQgPT09IDApID8gRGVmYXVsdEFnR3JpZFJvd0hlaWdodCA6IGxvY2FsU3RhdGUuY3VycmVudFJvd0hlaWdodDsKICB9LCBbbG9jYWxTdGF0ZS5jdXJyZW50Um93SGVpZ2h0XSk7Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICBpZiAoIXZpc2libGUgfHwgaXNOdWxsT3JVbmRlZmluZWQod2lkdGgpKSB7CiAgICAvLyAwIHdpbGwgY2F1c2UgdGhlIGdyaWQgdG8gdXNlIGRlZmF1bHQgcm93IGhlaWdodAogICAgcmV0dXJuIDA7CiAgfQoKICByZXR1cm4gd2lkdGghOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICBkZWJ1Z2dlcjsK</text>
@@ -390,16 +380,16 @@
         <text>uuuuuhhhhh</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb2wyOiB7IGlkOiAnY29sMicsIGluZGV4OiA2IH0sCiAgICAgICAgY29sMzogeyBpZDogJ2NvbDMnLCBpbmRleDogNyB9LAo=</text>
+        <text encoding="base64">ICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB7IGlkOiAnY29sMicsIGluZGV4OiA1IH0sCiAgICAgICAgeyBpZDogJ2NvbDMnLCBpbmRleDogMTUgfSwK</text>
+        <text encoding="base64">ICAgICAgICBjb2wyOiB7IGlkOiAnY29sMicsIGluZGV4OiA2IH0sCiAgICAgICAgY29sMzogeyBpZDogJ2NvbDMnLCBpbmRleDogNyB9LAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGpsCg==</text>
+        <text encoding="base64">ICAgICAgICB7IGlkOiAnY29sMicsIGluZGV4OiA1IH0sCiAgICAgICAgeyBpZDogJ2NvbDMnLCBpbmRleDogMTUgfSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogQHBhcmFtIHZpc2libGUK</text>
+        <text encoding="base64">ICAgIGpsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
