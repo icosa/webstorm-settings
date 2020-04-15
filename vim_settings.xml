@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxMYWJlbENvbHVtbktleVw+</entry>
         <entry encoding="base64">XDxEZWZhdWx0QWdHcmlkQ2VsbFBhZGRpbmdcPg==</entry>
         <entry>ey</entry>
         <entry encoding="base64">XDxjb2x1bW5zSW5pdGlhbGl6ZWRcPg==</entry>
@@ -25,6 +24,7 @@
         <entry>dom\c</entry>
         <entry>ref</entry>
         <entry encoding="base64">XDxIVE1MRWxlbWVudFw+</entry>
+        <entry encoding="base64">XDxBZ0dyaWRSZWFjdFw+</entry>
       </history-search>
       <history-cmd>
         <entry>5</entry>
@@ -137,6 +137,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="C:/dev/definiens/cp2/portal-ui/src/components/AgGridReactEx/AgGridReactEx.ts" timestamp="1586967017175">
+        <mark key="[" line="5" column="6" />
+        <mark key="]" line="5" column="16" />
+        <mark key="^" line="5" column="16" />
+        <mark key="." line="5" column="15" />
+      </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/state/slideMetadata/selectors.ts" timestamp="1586849248345">
         <mark key="[" line="92" column="20" />
         <mark key="]" line="92" column="27" />
@@ -152,9 +158,6 @@
         <mark key="'" line="242" column="7" />
       </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/components/SlidesUnavailable/SlidesUnavailable.tsx" timestamp="1586935045739" />
-      <file name="/JavaScript Console" timestamp="1586362290672">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/dev/definiens/cp2/portal-ui/package.json" timestamp="1586362419114">
         <mark key="[" line="113" column="23" />
         <mark key="]" line="113" column="24" />
@@ -198,6 +201,11 @@
         <mark key="^" line="88" column="54" />
         <mark key="." line="88" column="53" />
       </file>
+      <file name="C:/dev/definiens/cp2/portal-ui/node_modules/@ag-grid-community/react/main.d.ts" timestamp="1586967076252">
+        <mark key="'" line="7" column="21" />
+        <mark key="[" line="7" column="41" />
+        <mark key="]" line="7" column="71" />
+      </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/components/SlidesUnavailable/SlidesUnavailable.test.tsx" timestamp="1586935502159">
         <mark key="'" line="18" column="26" />
         <mark key="[" line="18" column="73" />
@@ -206,21 +214,16 @@
         <mark key="^" line="18" column="78" />
       </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataList/SlideMetadataList.tsx" timestamp="1586961961054" />
-      <file name="C:/dev/definiens/cp2/portal-ui/src/utils/slideMetadataTableUtils.test.ts" timestamp="1586360516710">
-        <mark key="[" line="55" column="45" />
-        <mark key="]" line="55" column="49" />
-        <mark key="." line="55" column="49" />
-        <mark key="^" line="55" column="49" />
-      </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/node_modules/@ag-grid-community/react/lib/agGridReact.d.ts" timestamp="1586964396642">
+      <file name="C:/dev/definiens/cp2/portal-ui/node_modules/@ag-grid-community/react/lib/agGridReact.d.ts" timestamp="1586966973631">
         <mark key="'" line="23" column="24" />
+        <mark key="[" line="12" column="41" />
+        <mark key="]" line="12" column="67" />
       </file>
       <file name="/agGridColumnsProfile.service.ts" timestamp="1586851358454">
         <mark key="[" line="4" column="24" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="287" column="62" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
       <jump line="288" column="19" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
       <jump line="291" column="42" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
       <jump line="292" column="22" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
@@ -320,6 +323,7 @@
       <jump line="236" column="22" filename="C:/dev/definiens/cp2/portal-ui/node_modules/@ag-grid-community/core/dist/es6/gridApi.d.ts" />
       <jump line="242" column="7" filename="C:/dev/definiens/cp2/portal-ui/node_modules/@ag-grid-community/core/dist/es6/gridApi.d.ts" />
       <jump line="23" column="24" filename="C:/dev/definiens/cp2/portal-ui/node_modules/@ag-grid-community/react/lib/agGridReact.d.ts" />
+      <jump line="7" column="21" filename="C:/dev/definiens/cp2/portal-ui/node_modules/@ag-grid-community/react/main.d.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -330,20 +334,20 @@
       <register name="i" type="4">
         <text />
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICBjb25zdCBncmlkRWxlbWVudCA9IFJlYWN0LnVzZVJlZjx7fT4oKTsK</text>
+      <register name="*" type="4">
+        <text>super</text>
       </register>
       <register name="k" type="4">
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>className</text>
+        <text>super</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxIVE1MRWxlbWVudFw+</text>
+        <text encoding="base64">XDxBZ0dyaWRSZWFjdFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBjb25zdCBncmlkQXBpID0gUmVhY3QudXNlUmVmPEdyaWRBcGk+KCk7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">Q29tcG9uZW50PEFnR3JpZFJlYWN0UHJvcHMsIHt9Pg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBjb25zdCBncmlkRWxlbWVudCA9IFJlYWN0LnVzZVJlZjx7fT4oKTsK</text>
@@ -385,9 +389,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxIVE1MRWxlbWVudFw+</last-search>
+      <last-search encoding="base64">XDxBZ0dyaWRSZWFjdFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxIVE1MRWxlbWVudFw+</last-pattern>
+      <last-pattern encoding="base64">XDxBZ0dyaWRSZWFjdFw+</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute encoding="base64">XDxjdXJyZW50UHJvamVjdFw+</last-substitute>
       <last-dir>1</last-dir>
