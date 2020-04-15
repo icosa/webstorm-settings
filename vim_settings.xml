@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDx2aXNpYmxlXD4=</entry>
         <entry encoding="base64">XDxMYWJlbENvbHVtbktleVw+</entry>
         <entry encoding="base64">XDxEZWZhdWx0QWdHcmlkQ2VsbFBhZGRpbmdcPg==</entry>
         <entry>ey</entry>
@@ -25,6 +24,7 @@
         <entry>id?</entry>
         <entry>dom\c</entry>
         <entry>ref</entry>
+        <entry encoding="base64">XDxIVE1MRWxlbWVudFw+</entry>
       </history-search>
       <history-cmd>
         <entry>5</entry>
@@ -184,12 +184,12 @@
         <mark key="^" line="43" column="16" />
         <mark key="." line="43" column="15" />
       </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" timestamp="1586962450352">
+      <file name="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" timestamp="1586964360130">
         <mark key="'" line="263" column="25" />
-        <mark key="[" line="242" column="67" />
-        <mark key="]" line="243" column="13" />
-        <mark key="." line="243" column="12" />
-        <mark key="^" line="243" column="13" />
+        <mark key="[" line="409" column="35" />
+        <mark key="]" line="409" column="36" />
+        <mark key="." line="409" column="35" />
+        <mark key="^" line="409" column="36" />
       </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/services/agGridColumnsProfile.service.ts" timestamp="1586878494192">
         <mark key="'" line="90" column="16" />
@@ -206,25 +206,20 @@
         <mark key="^" line="18" column="78" />
       </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataList/SlideMetadataList.tsx" timestamp="1586961961054" />
-      <file name="C:/dev/definiens/cp2/portal-ui/src/utils/slideMetadataTableUtils.ts" timestamp="1586359886421">
-        <mark key="'" line="97" column="19" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="83" />
-        <mark key="." line="130" column="26" />
-        <mark key="^" line="130" column="26" />
-      </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/utils/slideMetadataTableUtils.test.ts" timestamp="1586360516710">
         <mark key="[" line="55" column="45" />
         <mark key="]" line="55" column="49" />
         <mark key="." line="55" column="49" />
         <mark key="^" line="55" column="49" />
       </file>
+      <file name="C:/dev/definiens/cp2/portal-ui/node_modules/@ag-grid-community/react/lib/agGridReact.d.ts" timestamp="1586964396642">
+        <mark key="'" line="23" column="24" />
+      </file>
       <file name="/agGridColumnsProfile.service.ts" timestamp="1586851358454">
         <mark key="[" line="4" column="24" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="285" column="68" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
       <jump line="287" column="62" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
       <jump line="288" column="19" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
       <jump line="291" column="42" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
@@ -324,6 +319,7 @@
       <jump line="18" column="26" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlidesUnavailable/SlidesUnavailable.test.tsx" />
       <jump line="236" column="22" filename="C:/dev/definiens/cp2/portal-ui/node_modules/@ag-grid-community/core/dist/es6/gridApi.d.ts" />
       <jump line="242" column="7" filename="C:/dev/definiens/cp2/portal-ui/node_modules/@ag-grid-community/core/dist/es6/gridApi.d.ts" />
+      <jump line="23" column="24" filename="C:/dev/definiens/cp2/portal-ui/node_modules/@ag-grid-community/react/lib/agGridReact.d.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -344,7 +340,7 @@
         <text>className</text>
       </register>
       <register name="/" type="4">
-        <text>ref</text>
+        <text encoding="base64">XDxIVE1MRWxlbWVudFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBjb25zdCBncmlkQXBpID0gUmVhY3QudXNlUmVmPEdyaWRBcGk+KCk7Cg==</text>
@@ -389,9 +385,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>ref</last-search>
+      <last-search encoding="base64">XDxIVE1MRWxlbWVudFw+</last-search>
       <last-offset />
-      <last-pattern>ref</last-pattern>
+      <last-pattern encoding="base64">XDxIVE1MRWxlbWVudFw+</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute encoding="base64">XDxjdXJyZW50UHJvamVjdFw+</last-substitute>
       <last-dir>1</last-dir>
