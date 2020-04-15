@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>Id(</entry>
         <entry encoding="base64">XDx2aXNpYmxlXD4=</entry>
         <entry encoding="base64">XDxMYWJlbENvbHVtbktleVw+</entry>
         <entry encoding="base64">XDxEZWZhdWx0QWdHcmlkQ2VsbFBhZGRpbmdcPg==</entry>
@@ -25,6 +24,7 @@
         <entry>key\c</entry>
         <entry>id?</entry>
         <entry>dom\c</entry>
+        <entry>ref</entry>
       </history-search>
       <history-cmd>
         <entry>5</entry>
@@ -344,7 +344,7 @@
         <text>className</text>
       </register>
       <register name="/" type="4">
-        <text>dom\c</text>
+        <text>ref</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBjb25zdCBncmlkQXBpID0gUmVhY3QudXNlUmVmPEdyaWRBcGk+KCk7Cg==</text>
@@ -389,9 +389,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>dom\c</last-search>
+      <last-search>ref</last-search>
       <last-offset />
-      <last-pattern>dom\c</last-pattern>
+      <last-pattern>ref</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute encoding="base64">XDxjdXJyZW50UHJvamVjdFw+</last-substitute>
       <last-dir>1</last-dir>
