@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>ender</entry>
         <entry>setCol</entry>
         <entry encoding="base64">XDxzZXRDb2x1bW5EZWZzXD4=</entry>
         <entry encoding="base64">XDxpbml0aWFsaXplR3JpZFJvd0hlaWdodFw+</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxBZ0dyaWRSZWFjdFw+</entry>
         <entry encoding="base64">XDxzZXRSb290RG9tRWxlbWVudElkXD4=</entry>
         <entry>SlideMetadata</entry>
+        <entry encoding="base64">XDxSb3dOb2RlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
@@ -142,6 +142,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="C:/dev/definiens/cp2/portal-ui/src/state/slideMetadata/selectors.ts" timestamp="1587022510386">
+        <mark key="[" line="41" column="61" />
+        <mark key="]" line="41" column="61" />
+        <mark key="." line="41" column="61" />
+        <mark key="^" line="41" column="62" />
+      </file>
       <file name="C:/dev/definiens/cp2/portal-ui/node_modules/@ag-grid-community/react/lib/agGridReact.js" timestamp="1586970676598">
         <mark key="'" line="78" column="29" />
       </file>
@@ -156,9 +162,6 @@
         <mark key="]" line="192" column="6" />
         <mark key="." line="191" column="57" />
         <mark key="^" line="191" column="58" />
-      </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/node_modules/@ag-grid-community/core/dist/es6/gridApi.d.ts" timestamp="1586962443093">
-        <mark key="'" line="242" column="7" />
       </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/utils/slideMetadataUtils.ts" timestamp="1587020954955">
         <mark key="[" line="4" column="1" />
@@ -192,7 +195,7 @@
         <mark key="^" line="31" column="7" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587015917120">
+      <file name="/Dummy.txt" timestamp="1587022269846">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/components/SlideNavigationPanel/SlideNavigationPanel.tsx" timestamp="1586973568459">
@@ -201,16 +204,19 @@
         <mark key="." line="184" column="53" />
         <mark key="^" line="184" column="54" />
       </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" timestamp="1587020211957">
-        <mark key="'" line="416" column="0" />
-        <mark key="[" line="398" column="0" />
-        <mark key="]" line="398" column="0" />
-        <mark key="." line="398" column="0" />
+      <file name="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" timestamp="1587022100988">
+        <mark key="'" line="307" column="59" />
+        <mark key="[" line="48" column="21" />
+        <mark key="]" line="49" column="2" />
+        <mark key="." line="49" column="1" />
+        <mark key="^" line="49" column="2" />
       </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/node_modules/@ag-grid-community/react/main.d.ts" timestamp="1586967076252">
-        <mark key="'" line="7" column="21" />
-        <mark key="[" line="7" column="41" />
-        <mark key="]" line="7" column="71" />
+      <file name="C:/dev/definiens/cp2/portal-ui/src/services/agGridColumnsProfile.service.ts" timestamp="1587022251245">
+        <mark key="'" line="90" column="16" />
+        <mark key="[" line="85" column="76" />
+        <mark key="]" line="85" column="85" />
+        <mark key="^" line="85" column="85" />
+        <mark key="." line="85" column="84" />
       </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/components/UploadGrid/UploadGrid.tsx" timestamp="1586973419087">
         <mark key="]" line="469" column="10" />
@@ -222,12 +228,12 @@
         <mark key="]" line="154" column="0" />
         <mark key="." line="154" column="0" />
       </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/utils/slideMetadataTableUtils.ts" timestamp="1587020943019">
-        <mark key="'" line="56" column="10" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="69" />
-        <mark key="." line="80" column="24" />
-        <mark key="^" line="80" column="25" />
+      <file name="C:/dev/definiens/cp2/portal-ui/src/utils/slideMetadataTableUtils.ts" timestamp="1587021854880">
+        <mark key="'" line="1" column="17" />
+        <mark key="[" line="80" column="36" />
+        <mark key="]" line="80" column="45" />
+        <mark key="." line="80" column="44" />
+        <mark key="^" line="80" column="45" />
       </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/utils/agGrid/index.ts" timestamp="1587017714432">
         <mark key="'" line="0" column="9" />
@@ -236,15 +242,14 @@
         <mark key="^" line="179" column="2" />
         <mark key="." line="91" column="0" />
       </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/node_modules/@ag-grid-community/react/lib/agGridReact.d.ts" timestamp="1586966973631">
-        <mark key="'" line="23" column="24" />
-        <mark key="[" line="12" column="41" />
-        <mark key="]" line="12" column="67" />
+      <file name="C:/dev/definiens/cp2/portal-ui/src/utils/slideMetadataTableUtils.test.ts" timestamp="1587022340900">
+        <mark key="[" line="7" column="21" />
+        <mark key="]" line="122" column="74" />
+        <mark key="." line="122" column="73" />
+        <mark key="^" line="122" column="74" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="214" column="6" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
-      <jump line="175" column="23" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
       <jump line="45" column="0" filename="C:/dev/definiens/cp2/portal-ui/src/components/AgGridThumbnailCellRenderer/AgGridThumbnailCellRenderer.test.tsx" />
       <jump line="0" column="0" filename="C:/dev/definiens/cp2/portal-ui/src/components/AgGridThumbnailCellRenderer/AgGridThumbnailCellRenderer.test.tsx" />
       <jump line="44" column="41" filename="C:/dev/definiens/cp2/portal-ui/src/utils/agGrid/columnDefinitions.ts" />
@@ -332,7 +337,6 @@
       <jump line="283" column="4" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
       <jump line="0" column="0" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
       <jump line="23" column="0" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
-      <jump line="306" column="0" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
       <jump line="416" column="0" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
       <jump line="138" column="13" filename="C:/dev/definiens/cp2/portal-ui/src/utils/slideMetadataTableUtils.ts" />
       <jump line="139" column="10" filename="C:/dev/definiens/cp2/portal-ui/src/utils/slideMetadataTableUtils.ts" />
@@ -343,6 +347,9 @@
       <jump line="14" column="39" filename="C:/dev/definiens/cp2/portal-ui/src/utils/slideMetadataTableUtils.ts" />
       <jump line="55" column="5" filename="C:/dev/definiens/cp2/portal-ui/src/utils/slideMetadataTableUtils.ts" />
       <jump line="56" column="10" filename="C:/dev/definiens/cp2/portal-ui/src/utils/slideMetadataTableUtils.ts" />
+      <jump line="80" column="36" filename="C:/dev/definiens/cp2/portal-ui/src/utils/slideMetadataTableUtils.ts" />
+      <jump line="1" column="17" filename="C:/dev/definiens/cp2/portal-ui/src/utils/slideMetadataTableUtils.ts" />
+      <jump line="306" column="59" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -354,52 +361,52 @@
         <text />
       </register>
       <register name="*" type="4">
-        <text>false</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="k" type="4">
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>SlideMetadata</text>
+        <text encoding="base64">XDxSb3dOb2RlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGl0KCdzaG91bGQgcmV0dXJuIGZhbHNlIGlmIHNsaWRlIG9yIHNsaWRlIHN0YXR1cyBpcyB1bmRlZmluZWQnLCAoKSA9PiB7CiAgICAgIGV4cGVjdChpc1NsaWRlQXZhaWxhYmxlKHVuZGVmaW5lZCkpLnRvQmUoZmFsc2UpOwogICAgICBleHBlY3QoaXNTbGlkZUF2YWlsYWJsZSh7fSBhcyBTbGlkZU1ldGFkYXRhKSkudG9CZShmYWxzZSk7CiAgICB9KTsK</text>
+        <text encoding="base64">ICAgIGl0KCdzaG91bGQgcmV0dXJuIGZhbHNlIGlmIHJvdyBoYXMgbm8gZGF0YScsICgpID0+IHsKICAgICAgZXhwZWN0KGlzUm93QXNzb2NpYXRlZFNsaWRlQXZhaWxhYmxlKHt9IGFzIFJvd05vZGUpKS50b0JlKGZhbHNlKTsKICAgIH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KGlzU2xpZGVBdmFpbGFibGUodW5kZWZpbmVkKSkudG9CZShmYWxzZSk7Cg==</text>
+        <text encoding="base64">ICBpZiAoIXNsaWRlIHx8ICFzbGlkZS5zdGF0dXMgfHwgKHNsaWRlLnN0YXR1cyAhPT0gJ2F2YWlsYWJsZScpKSB7CiAgICByZXR1cm4gJyc7CiAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text>f,D</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KGlzU2xpZGVBdmFpbGFibGUodW5kZWZpbmVkKSkudG9CZShmYWxzZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpdCgnc2hvdWxkIGJsYScsICgpID0+IHsKCiAgfSk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICBpdCgnc2hvdWxkIGJsYScsICgpID0+IHsKCiAgfSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICByZXR1cm4gISFzbGlkZSAmJiBzbGlkZS5zdGF0ZTsK</text>
+        <text encoding="base64">ICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpZiAoIXNsaWRlIHx8ICFzbGlkZS5zdGF0dXMgfHwgKHNsaWRlLnN0YXR1cyAhPT0gJ2F2YWlsYWJsZScpKSB7CiAgICByZXR1cm4gZmFsc2U7CiAgfQogIHJldHVybiB0cnVlOwo=</text>
+        <text encoding="base64">ICByZXR1cm4gISFzbGlkZSAmJiBzbGlkZS5zdGF0ZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaWQ9J3Rlc3QtaWQnCg==</text>
+        <text encoding="base64">ICBpZiAoIXNsaWRlIHx8ICFzbGlkZS5zdGF0dXMgfHwgKHNsaWRlLnN0YXR1cyAhPT0gJ2F2YWlsYWJsZScpKSB7CiAgICByZXR1cm4gZmFsc2U7CiAgfQogIHJldHVybiB0cnVlOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8gY29uc3QgZUdyaWREaXYgPSB7fTsK</text>
+        <text encoding="base64">ICAgICAgaWQ9J3Rlc3QtaWQnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgZ3JpZDogUGFydGlhbDxBZ0dyaWRSZWFjdD4gPSB7CiAgICAgICAgZUdyaWREaXY6IGplc3QuZm4oKSwKICAgICAgfTsK</text>
+        <text encoding="base64">ICAgICAgLy8gY29uc3QgZUdyaWREaXYgPSB7fTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -408,9 +415,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>SlideMetadata</last-search>
+      <last-search encoding="base64">XDxSb3dOb2RlXD4=</last-search>
       <last-offset />
-      <last-pattern>SlideMetadata</last-pattern>
+      <last-pattern encoding="base64">XDxSb3dOb2RlXD4=</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute encoding="base64">XDxjdXJyZW50UHJvamVjdFw+</last-substitute>
       <last-dir>1</last-dir>
