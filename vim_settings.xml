@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb2x1bW5zSW5pdGlhbGl6ZWRcPg==</entry>
         <entry>ender</entry>
         <entry>setCol</entry>
         <entry encoding="base64">XDxzZXRDb2x1bW5EZWZzXD4=</entry>
@@ -25,10 +24,9 @@
         <entry>eGridDiv</entry>
         <entry encoding="base64">XDxBZ0dyaWRSZWFjdFw+</entry>
         <entry encoding="base64">XDxzZXRSb290RG9tRWxlbWVudElkXD4=</entry>
+        <entry>SlideMetadata</entry>
       </history-search>
       <history-cmd>
-        <entry>5</entry>
-        <entry>220</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>ww</entry>
         <entry>92</entry>
@@ -47,6 +45,8 @@
         <entry>wq</entry>
         <entry>46</entry>
         <entry>w</entry>
+        <entry>307</entry>
+        <entry>gg</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -154,7 +154,6 @@
       <file name="C:/dev/definiens/cp2/portal-ui/node_modules/@ag-grid-community/core/dist/es6/gridApi.d.ts" timestamp="1586962443093">
         <mark key="'" line="242" column="7" />
       </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/components/SlidesUnavailable/SlidesUnavailable.tsx" timestamp="1586935045739" />
       <file name="/JavaScript Console" timestamp="1586980346340">
         <mark key="[" line="0" column="0" />
       </file>
@@ -190,8 +189,8 @@
         <mark key="." line="184" column="53" />
         <mark key="^" line="184" column="54" />
       </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" timestamp="1587017693580">
-        <mark key="'" line="45" column="2" />
+      <file name="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" timestamp="1587020211957">
+        <mark key="'" line="416" column="0" />
         <mark key="[" line="398" column="0" />
         <mark key="]" line="398" column="0" />
         <mark key="." line="398" column="0" />
@@ -218,6 +217,13 @@
         <mark key="]" line="154" column="0" />
         <mark key="." line="154" column="0" />
       </file>
+      <file name="C:/dev/definiens/cp2/portal-ui/src/utils/slideMetadataTableUtils.ts" timestamp="1587020403172">
+        <mark key="'" line="56" column="10" />
+        <mark key="[" line="80" column="1" />
+        <mark key="]" line="79" column="15" />
+        <mark key="." line="79" column="14" />
+        <mark key="^" line="79" column="15" />
+      </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/utils/agGrid/index.ts" timestamp="1587017714432">
         <mark key="'" line="0" column="9" />
         <mark key="[" line="180" column="33" />
@@ -232,19 +238,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="393" column="36" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
-      <jump line="394" column="36" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
-      <jump line="395" column="36" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
-      <jump line="396" column="36" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
-      <jump line="397" column="36" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
-      <jump line="404" column="18" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
-      <jump line="41" column="27" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
-      <jump line="56" column="36" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
-      <jump line="57" column="40" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
-      <jump line="73" column="37" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
-      <jump line="135" column="8" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
-      <jump line="190" column="33" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
-      <jump line="202" column="31" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
       <jump line="214" column="6" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
       <jump line="175" column="23" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
       <jump line="45" column="0" filename="C:/dev/definiens/cp2/portal-ui/src/components/AgGridThumbnailCellRenderer/AgGridThumbnailCellRenderer.test.tsx" />
@@ -305,7 +298,6 @@
       <jump line="349" column="17" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
       <jump line="350" column="56" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
       <jump line="363" column="17" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
-      <jump line="0" column="0" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
       <jump line="18" column="10" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
       <jump line="26" column="37" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
       <jump line="40" column="33" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
@@ -332,6 +324,20 @@
       <jump line="0" column="9" filename="C:/dev/definiens/cp2/portal-ui/src/utils/agGrid/index.ts" />
       <jump line="414" column="8" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
       <jump line="45" column="2" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
+      <jump line="283" column="4" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
+      <jump line="0" column="0" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
+      <jump line="23" column="0" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
+      <jump line="306" column="0" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
+      <jump line="416" column="0" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
+      <jump line="138" column="13" filename="C:/dev/definiens/cp2/portal-ui/src/utils/slideMetadataTableUtils.ts" />
+      <jump line="139" column="10" filename="C:/dev/definiens/cp2/portal-ui/src/utils/slideMetadataTableUtils.ts" />
+      <jump line="141" column="3" filename="C:/dev/definiens/cp2/portal-ui/src/utils/slideMetadataTableUtils.ts" />
+      <jump line="145" column="33" filename="C:/dev/definiens/cp2/portal-ui/src/utils/slideMetadataTableUtils.ts" />
+      <jump line="2" column="24" filename="C:/dev/definiens/cp2/portal-ui/src/utils/slideMetadataTableUtils.ts" />
+      <jump line="3" column="9" filename="C:/dev/definiens/cp2/portal-ui/src/utils/slideMetadataTableUtils.ts" />
+      <jump line="14" column="39" filename="C:/dev/definiens/cp2/portal-ui/src/utils/slideMetadataTableUtils.ts" />
+      <jump line="55" column="5" filename="C:/dev/definiens/cp2/portal-ui/src/utils/slideMetadataTableUtils.ts" />
+      <jump line="56" column="10" filename="C:/dev/definiens/cp2/portal-ui/src/utils/slideMetadataTableUtils.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -352,7 +358,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXRSb290RG9tRWxlbWVudElkXD4=</text>
+        <text>SlideMetadata</text>
       </register>
       <register name="0" type="4">
         <text>eGridDiv</text>
@@ -391,15 +397,15 @@
         <text encoding="base64">ICAgICAgZXhwZWN0KHJlc3VsdCkudG9TdHJpY3RFcXVhbCh7IGlkOiAnYScgfSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>307</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxzZXRSb290RG9tRWxlbWVudElkXD4=</last-search>
+      <last-search>SlideMetadata</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXRSb290RG9tRWxlbWVudElkXD4=</last-pattern>
+      <last-pattern>SlideMetadata</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute encoding="base64">XDxjdXJyZW50UHJvamVjdFw+</last-substitute>
       <last-dir>1</last-dir>
