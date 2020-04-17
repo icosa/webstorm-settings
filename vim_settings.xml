@@ -137,10 +137,27 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1587022269846">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/dev/definiens/cp2/portal-ui/src/state/equalizationBySlideId/reducer.ts" timestamp="1587108291165" />
+      <file name="C:/dev/definiens/cp2/portal-ui/src/components/SlideNavigationPanel/SlideNavigationPanel.tsx" timestamp="1586973568459">
+        <mark key="[" line="184" column="48" />
+        <mark key="]" line="184" column="54" />
+        <mark key="." line="184" column="53" />
+        <mark key="^" line="184" column="54" />
+      </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/components/AgGridReactEx/AgGridReactEx.ts" timestamp="1586973082311">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" timestamp="1587022100988">
+        <mark key="'" line="307" column="59" />
+        <mark key="[" line="48" column="21" />
+        <mark key="]" line="49" column="2" />
+        <mark key="." line="49" column="1" />
+        <mark key="^" line="49" column="2" />
       </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/state/slideMetadata/selectors.ts" timestamp="1587022510386">
         <mark key="[" line="41" column="61" />
@@ -148,8 +165,12 @@
         <mark key="." line="41" column="61" />
         <mark key="^" line="41" column="62" />
       </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/node_modules/@ag-grid-community/react/lib/agGridReact.js" timestamp="1586970676598">
-        <mark key="'" line="78" column="29" />
+      <file name="C:/dev/definiens/cp2/portal-ui/src/services/agGridColumnsProfile.service.ts" timestamp="1587022251245">
+        <mark key="'" line="90" column="16" />
+        <mark key="[" line="85" column="76" />
+        <mark key="]" line="85" column="85" />
+        <mark key="^" line="85" column="85" />
+        <mark key="." line="85" column="84" />
       </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/utils/slideMetadataUtils.test.ts" timestamp="1587021271846">
         <mark key="[" line="12" column="68" />
@@ -162,6 +183,11 @@
         <mark key="]" line="192" column="6" />
         <mark key="." line="191" column="57" />
         <mark key="^" line="191" column="58" />
+      </file>
+      <file name="C:/dev/definiens/cp2/portal-ui/src/components/UploadGrid/UploadGrid.tsx" timestamp="1586973419087">
+        <mark key="]" line="469" column="10" />
+        <mark key="." line="469" column="9" />
+        <mark key="^" line="469" column="10" />
       </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/utils/slideMetadataUtils.ts" timestamp="1587020954955">
         <mark key="[" line="4" column="1" />
@@ -178,51 +204,6 @@
       <file name="/JavaScript Console" timestamp="1587021323123">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/package.json" timestamp="1587015902818">
-        <mark key="[" line="113" column="23" />
-        <mark key="]" line="113" column="24" />
-        <mark key="." line="113" column="24" />
-      </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/utils/agGrid/index.test.ts" timestamp="1586981267006">
-        <mark key="[" line="369" column="0" />
-        <mark key="]" line="369" column="0" />
-        <mark key="^" line="370" column="46" />
-        <mark key="." line="369" column="0" />
-      </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.test.tsx" timestamp="1586973638120">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="31" column="7" />
-        <mark key="." line="31" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1587022269846">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/components/SlideNavigationPanel/SlideNavigationPanel.tsx" timestamp="1586973568459">
-        <mark key="[" line="184" column="48" />
-        <mark key="]" line="184" column="54" />
-        <mark key="." line="184" column="53" />
-        <mark key="^" line="184" column="54" />
-      </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" timestamp="1587022100988">
-        <mark key="'" line="307" column="59" />
-        <mark key="[" line="48" column="21" />
-        <mark key="]" line="49" column="2" />
-        <mark key="." line="49" column="1" />
-        <mark key="^" line="49" column="2" />
-      </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/services/agGridColumnsProfile.service.ts" timestamp="1587022251245">
-        <mark key="'" line="90" column="16" />
-        <mark key="[" line="85" column="76" />
-        <mark key="]" line="85" column="85" />
-        <mark key="^" line="85" column="85" />
-        <mark key="." line="85" column="84" />
-      </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/components/UploadGrid/UploadGrid.tsx" timestamp="1586973419087">
-        <mark key="]" line="469" column="10" />
-        <mark key="." line="469" column="9" />
-        <mark key="^" line="469" column="10" />
-      </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataList/SlideMetadataList.tsx" timestamp="1586973680652">
         <mark key="[" line="154" column="0" />
         <mark key="]" line="154" column="0" />
@@ -235,6 +216,11 @@
         <mark key="." line="80" column="44" />
         <mark key="^" line="80" column="45" />
       </file>
+      <file name="C:/dev/definiens/cp2/portal-ui/package.json" timestamp="1587015902818">
+        <mark key="[" line="113" column="23" />
+        <mark key="]" line="113" column="24" />
+        <mark key="." line="113" column="24" />
+      </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/utils/agGrid/index.ts" timestamp="1587017714432">
         <mark key="'" line="0" column="9" />
         <mark key="[" line="180" column="33" />
@@ -242,11 +228,23 @@
         <mark key="^" line="179" column="2" />
         <mark key="." line="91" column="0" />
       </file>
+      <file name="C:/dev/definiens/cp2/portal-ui/src/utils/agGrid/index.test.ts" timestamp="1586981267006">
+        <mark key="[" line="369" column="0" />
+        <mark key="]" line="369" column="0" />
+        <mark key="^" line="370" column="46" />
+        <mark key="." line="369" column="0" />
+      </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/utils/slideMetadataTableUtils.test.ts" timestamp="1587022340900">
         <mark key="[" line="7" column="21" />
         <mark key="]" line="122" column="74" />
         <mark key="." line="122" column="73" />
         <mark key="^" line="122" column="74" />
+      </file>
+      <file name="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.test.tsx" timestamp="1586973638120">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="31" column="7" />
+        <mark key="." line="31" column="0" />
       </file>
     </filemarks>
     <jumps>
