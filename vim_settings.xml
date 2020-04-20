@@ -5,10 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbWFnZUNvbHVtbklkc1w+</entry>
-        <entry encoding="base64">XDxsb2NhbFN0YXRlXD4=</entry>
-        <entry>olumnRes</entry>
-        <entry>key\c</entry>
         <entry>id?</entry>
         <entry>dom\c</entry>
         <entry>ref</entry>
@@ -25,6 +21,10 @@
         <entry encoding="base64">XDxtZXRhZGF0YUZldGNoU3RhdHVzXD4=</entry>
         <entry encoding="base64">XDxpbXBvcnRcPg==</entry>
         <entry encoding="base64">XDxNYWluRmVhdHVyZUxpc3RTeW5jaHJvbml6ZXJcPg==</entry>
+        <entry encoding="base64">XDxJbnRlcmFjdGlvbkZlYXR1cmVMaXN0U3luY2hyb25pemVyXD4=</entry>
+        <entry encoding="base64">XDxmZWF0dXJlTGlzdFN5bmNocm9uaXplclw+</entry>
+        <entry encoding="base64">XDxHZW5lcmljSW5pdGlhbEdyb3VwRW50aXR5U3RhdGVcPg==</entry>
+        <entry encoding="base64">XDxHZW5lcmljSW5pdGlhbEVudGl0eVN0YXRlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>ww</entry>
@@ -188,15 +188,15 @@
         <mark key="." line="128" column="74" />
         <mark key="^" line="128" column="83" />
       </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/state/configurations/reducer.test.ts" timestamp="1587372208152">
-        <mark key="[" line="32" column="19" />
-        <mark key="]" line="51" column="27" />
-        <mark key="^" line="51" column="27" />
-        <mark key="." line="51" column="26" />
+      <file name="C:/dev/definiens/cp2/portal-ui/src/state/configurations/reducer.test.ts" timestamp="1587372772968">
+        <mark key="[" line="33" column="27" />
+        <mark key="]" line="33" column="36" />
+        <mark key="^" line="33" column="36" />
+        <mark key="." line="33" column="35" />
       </file>
       <file name="C:/dev/definiens/cp1/vt.imageviewer/src/app/image-viewer/utils/features/synchronizers/main-feature-list-synchronizer.ts" timestamp="1587372427525" />
-      <file name="C:/dev/definiens/cp2/portal-ui/src/state/configurations/reducer.ts" timestamp="1587371877485">
-        <mark key="[" line="28" column="49" />
+      <file name="C:/dev/definiens/cp2/portal-ui/src/state/configurations/reducer.ts" timestamp="1587372750483">
+        <mark key="[" line="16" column="6" />
         <mark key="]" line="28" column="49" />
         <mark key="." line="28" column="49" />
         <mark key="^" line="28" column="41" />
@@ -206,7 +206,7 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1587365050504">
+      <file name="/JavaScript Console" timestamp="1587372804770">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/components/ImageViewer/ImageViewer.tsx" timestamp="1587366390834">
@@ -218,14 +218,15 @@
       <file name="/Dummy.txt" timestamp="1587369016769">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/dev/definiens/cp1/vt.imageviewer/src/app/image-viewer/components/image-viewer/tiled-image-viewer/layers/annotation-layer.ts" timestamp="1587372434356">
-        <mark key="'" line="7" column="45" />
+      <file name="C:/dev/definiens/cp1/vt.imageviewer/src/app/image-viewer/components/image-viewer/tiled-image-viewer/layers/annotation-layer.ts" timestamp="1587372551110">
+        <mark key="'" line="34" column="10" />
       </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/utils/entityUtils.ts" timestamp="1587372128884">
-        <mark key="[" line="60" column="6" />
-        <mark key="]" line="55" column="7" />
+      <file name="C:/dev/definiens/cp2/portal-ui/src/utils/entityUtils.ts" timestamp="1587372689062">
+        <mark key="'" line="55" column="6" />
+        <mark key="[" line="99" column="18" />
+        <mark key="]" line="99" column="18" />
         <mark key="^" line="99" column="41" />
-        <mark key="." line="55" column="7" />
+        <mark key="." line="99" column="18" />
       </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/state/imageViewer/selectors.test.ts" timestamp="1587365363619">
         <mark key="[" line="21" column="17" />
@@ -241,11 +242,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="58" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
-      <jump line="119" column="57" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
-      <jump line="121" column="16" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
-      <jump line="124" column="7" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
-      <jump line="127" column="28" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
       <jump line="128" column="29" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
       <jump line="130" column="33" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
       <jump line="97" column="19" filename="C:/dev/definiens/cp2/portal-ui/src/utils/slideMetadataTableUtils.ts" />
@@ -340,7 +336,12 @@
       <jump line="128" column="12" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataList/SlideMetadataList.test.tsx" />
       <jump line="129" column="41" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataList/SlideMetadataList.test.tsx" />
       <jump line="1" column="0" filename="C:/dev/definiens/cp2/portal-ui/src/utils/testing/portalTesting.ts" />
-      <jump line="7" column="45" filename="C:/dev/definiens/cp1/vt.imageviewer/src/app/image-viewer/components/image-viewer/tiled-image-viewer/layers/annotation-layer.ts" />
+      <jump line="7" column="9" filename="C:/dev/definiens/cp1/vt.imageviewer/src/app/image-viewer/components/image-viewer/tiled-image-viewer/layers/annotation-layer.ts" />
+      <jump line="34" column="10" filename="C:/dev/definiens/cp1/vt.imageviewer/src/app/image-viewer/components/image-viewer/tiled-image-viewer/layers/annotation-layer.ts" />
+      <jump line="60" column="6" filename="C:/dev/definiens/cp2/portal-ui/src/utils/entityUtils.ts" />
+      <jump line="69" column="9" filename="C:/dev/definiens/cp2/portal-ui/src/utils/entityUtils.ts" />
+      <jump line="99" column="18" filename="C:/dev/definiens/cp2/portal-ui/src/utils/entityUtils.ts" />
+      <jump line="55" column="6" filename="C:/dev/definiens/cp2/portal-ui/src/utils/entityUtils.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -352,16 +353,16 @@
         <text />
       </register>
       <register name="*" type="4">
-        <text>)</text>
+        <text>getInitialEntityState</text>
       </register>
       <register name="k" type="4">
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>getInitialEntityState</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxNYWluRmVhdHVyZUxpc3RTeW5jaHJvbml6ZXJcPg==</text>
+        <text encoding="base64">XDxHZW5lcmljSW5pdGlhbEVudGl0eVN0YXRlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y29uc3QgZ2VuZXJpY0luaXRpYWxHcm91cEVudGl0eVN0YXRlOiBSZWFkb25seTxFbnRpdHlHcm91cFN0YXRlPHt9Pj4gPSBPYmplY3QuZnJlZXplKHsKICBrZXlzOiB0eXBlZEVtcHR5QXJyYXk8c3RyaW5nPigpLAogIGVudGl0aWVzOiBFbXB0eU9iamVjdCwKICBmZXRjaFN0YXR1czogRW50aXR5RmV0Y2hTdGF0dXMuTm90U3RhcnRlZCwKfSk7Cg==</text>
@@ -406,9 +407,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxNYWluRmVhdHVyZUxpc3RTeW5jaHJvbml6ZXJcPg==</last-search>
+      <last-search encoding="base64">XDxHZW5lcmljSW5pdGlhbEVudGl0eVN0YXRlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxNYWluRmVhdHVyZUxpc3RTeW5jaHJvbml6ZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxHZW5lcmljSW5pdGlhbEVudGl0eVN0YXRlXD4=</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute encoding="base64">XDxjdXJyZW50UHJvamVjdFw+</last-substitute>
       <last-dir>1</last-dir>
