@@ -197,17 +197,17 @@
         <mark key="." line="5" column="27" />
         <mark key="^" line="5" column="28" />
       </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/state/entity/actions.ts" timestamp="1587482117004">
-        <mark key="[" line="6" column="12" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="2" column="7" />
-        <mark key="." line="0" column="0" />
+      <file name="C:/dev/definiens/cp2/portal-ui/src/state/entity/actions.ts" timestamp="1587483008254">
+        <mark key="[" line="6" column="76" />
+        <mark key="]" line="6" column="77" />
+        <mark key="^" line="6" column="53" />
+        <mark key="." line="6" column="77" />
       </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/state/entity/reducer.ts" timestamp="1587482783617">
-        <mark key="[" line="6" column="54" />
-        <mark key="]" line="6" column="55" />
-        <mark key="." line="6" column="55" />
-        <mark key="^" line="6" column="73" />
+      <file name="C:/dev/definiens/cp2/portal-ui/src/state/entity/reducer.ts" timestamp="1587483052944">
+        <mark key="[" line="7" column="40" />
+        <mark key="]" line="7" column="46" />
+        <mark key="." line="7" column="45" />
+        <mark key="^" line="7" column="46" />
       </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/state/configurations/actions.ts" timestamp="1587482046034">
         <mark key="[" line="15" column="0" />
@@ -361,14 +361,14 @@
       <register name="i" type="4">
         <text />
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">Ly8gQHRzLWlnbm9yZQo=</text>
+      <register name="*" type="4">
+        <text>{ type: string; payload?: unknown }</text>
       </register>
       <register name="k" type="4">
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>{ type: string; payload?: unknown }</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxHZW5lcmljSW5pdGlhbEVudGl0eVN0YXRlXD4=</text>
