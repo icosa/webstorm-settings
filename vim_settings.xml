@@ -170,17 +170,15 @@
         <mark key="." line="38" column="79" />
         <mark key="^" line="38" column="64" />
       </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/model/entityState.ts" timestamp="1587452745410">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="7" />
-        <mark key="." line="24" column="6" />
-        <mark key="^" line="24" column="7" />
-      </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/state/imageViewer/selectors.ts" timestamp="1587459209266">
         <mark key="[" line="51" column="41" />
         <mark key="]" line="51" column="41" />
         <mark key="^" line="51" column="37" />
         <mark key="." line="51" column="41" />
+      </file>
+      <file name="C:/dev/definiens/cp2/portal-ui/src/state/slideMetadata/actions.ts" timestamp="1587471299465">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="7" column="49" />
       </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/state/annotationSets/reducer.ts" timestamp="1587460322557">
         <mark key="[" line="32" column="0" />
@@ -199,17 +197,17 @@
         <mark key="." line="5" column="27" />
         <mark key="^" line="5" column="28" />
       </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/state/configurations/selectors.ts" timestamp="1587452911756">
-        <mark key="[" line="1" column="23" />
-        <mark key="]" line="1" column="23" />
-        <mark key="^" line="1" column="11" />
-        <mark key="." line="1" column="23" />
+      <file name="C:/dev/definiens/cp2/portal-ui/src/state/entity/actions.ts" timestamp="1587471330382">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="2" column="6" />
+        <mark key="^" line="0" column="7" />
       </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/state/configurations/reducer.ts" timestamp="1587452870903">
-        <mark key="[" line="2" column="23" />
-        <mark key="]" line="2" column="23" />
-        <mark key="^" line="2" column="14" />
-        <mark key="." line="2" column="23" />
+      <file name="C:/dev/definiens/cp2/portal-ui/src/state/entity/reducer.ts" timestamp="1587471407026">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="20" />
+        <mark key="^" line="0" column="20" />
+        <mark key="." line="0" column="19" />
       </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/state/slideMetadata/reducer.ts" timestamp="1587453195328">
         <mark key="[" line="3" column="7" />
@@ -357,20 +355,20 @@
       <register name="i" type="4">
         <text />
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">Ly8gVE9ETyByZW5hbWUgdG8gbWFwQWxsCg==</text>
+      <register name="*" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="k" type="4">
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>EntityState,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxHZW5lcmljSW5pdGlhbEVudGl0eVN0YXRlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgRW50aXR5R3JvdXBVdGlscyBmcm9tICcuLi8uLi91dGlscy9lbnRpdHlHcm91cFV0aWxzJzsK</text>
+        <text encoding="base64">ICBGRVRDSF9TVEFSVEVEID0gJ0ZFVENIX1NMSURFX01FVEFEQVRBX1NUQVJURUQnLAogIEZFVENIX1NVQ0NFU1MgPSAnRkVUQ0hfU0xJREVfTUVUQURBVEFfU1VDQ0VTUycsCiAgRkVUQ0hfRkFJTFVSRSA9ICdGRVRDSF9TTElERV9NRVRBREFUQV9GQUlMVVJFJywK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8gVE9ETyByZW5hbWUgdG8gbWFwQWxsCg==</text>
