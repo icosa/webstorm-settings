@@ -197,17 +197,23 @@
         <mark key="." line="5" column="27" />
         <mark key="^" line="5" column="28" />
       </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/state/entity/actions.ts" timestamp="1587472659196">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="36" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="12" column="28" />
+      <file name="C:/dev/definiens/cp2/portal-ui/src/state/entity/actions.ts" timestamp="1587473713660">
+        <mark key="[" line="9" column="87" />
+        <mark key="]" line="9" column="88" />
+        <mark key="." line="9" column="88" />
+        <mark key="^" line="9" column="103" />
       </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/state/entity/reducer.ts" timestamp="1587473028589">
-        <mark key="[" line="3" column="86" />
-        <mark key="]" line="3" column="31" />
-        <mark key="^" line="3" column="52" />
-        <mark key="." line="3" column="31" />
+      <file name="C:/dev/definiens/cp2/portal-ui/src/state/entity/reducer.ts" timestamp="1587473227832">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="9" column="56" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="C:/dev/definiens/cp2/portal-ui/src/state/configurations/reducer.ts" timestamp="1587473214233">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="84" />
+        <mark key="^" line="2" column="14" />
+        <mark key="." line="2" column="23" />
       </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/state/slideMetadata/reducer.ts" timestamp="1587453195328">
         <mark key="[" line="3" column="7" />
@@ -355,23 +361,23 @@
       <register name="i" type="4">
         <text />
       </register>
-      <register name="*" type="4">
-        <text>, K extends EntityKey</text>
+      <register name="*" type="2">
+        <text encoding="base64">dHlwZSBGZXRjaEVudGl0eVN0YXJ0ZWRBY3Rpb24gPSBBY3Rpb248dHlwZW9mIEZFVENIX0VOVElUWV9TVEFSVEVELCB7IGVudGl0eUtleTogc3RyaW5nIH0+Owo=</text>
       </register>
       <register name="k" type="4">
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>, K extends EntityKey</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxHZW5lcmljSW5pdGlhbEVudGl0eVN0YXRlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB8IEZldGNoRW50aXR5U3RhcnRlZEFjdGlvbgo=</text>
+        <text encoding="base64">dHlwZSBGZXRjaEVudGl0eVN0YXJ0ZWRBY3Rpb24gPSBBY3Rpb248dHlwZW9mIEZFVENIX0VOVElUWV9TVEFSVEVELCB7IGVudGl0eUtleTogc3RyaW5nIH0+Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gVE9ETyBlbnRpdHkgbmVlZHMgdG8gYmUgbWVudGlvbmVkCg==</text>
+        <text encoding="base64">ICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -408,28 +414,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU2xpZGVNZXRhZGF0YUFjdGlvbkNyZWF0b3JzIH0gZnJvbSAnLi4vc2xpZGVNZXRhZGF0YS9hY3Rpb25zJzsK</text>
+        <text encoding="base64">ICAgICAgLy8gYWN0aW9uLnBheWxvYWQuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bGV0IHh5eiA9IHR5cGVvZiBGRVRDSF9FTlRJVFlfRkFJTFVSRTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gVE9ETyByZW5hbWUgdG8gbWFwQWxsCg==</text>
+        <text encoding="base64">ICAgICAgYWN0aW9uLnBheWxvYWQuCiAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gVE9ETyBlbnRpdHkgbmVlZHMgdG8gYmUgbWVudGlvbmVkCg==</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgU2xpZGVNZXRhZGF0YUFjdGlvbkNyZWF0b3JzIH0gZnJvbSAnLi4vc2xpZGVNZXRhZGF0YS9hY3Rpb25zJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyBUT0RPIHdoYXQgcmVhbGx5IGhhcHBlbnMgaWYgaWQgaXMgdW5kZWZpbmVkPwo=</text>
+        <text encoding="base64">bGV0IHh5eiA9IHR5cGVvZiBGRVRDSF9FTlRJVFlfRkFJTFVSRTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Ly8gVE9ETyByZW5hbWUgdG8gbWFwQWxsCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
