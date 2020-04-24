@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZXRSb290RG9tRWxlbWVudElkXD4=</entry>
         <entry>SlideMetadata</entry>
         <entry encoding="base64">XDxSb3dOb2RlXD4=</entry>
         <entry encoding="base64">XDxkZWZhdWx0R2F0ZXdheVNsaWRlXD4=</entry>
@@ -25,6 +24,7 @@
         <entry>onfiguration</entry>
         <entry encoding="base64">XDxFbnRpdHlHcm91cFN0YXRlXD4=</entry>
         <entry encoding="base64">XDxtb2NrSGlzdG9yeVB1c2hcPg==</entry>
+        <entry encoding="base64">XDxBcHBTdGF0ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>210</entry>
@@ -185,6 +185,13 @@
         <mark key="." line="92" column="0" />
         <mark key="^" line="57" column="67" />
       </file>
+      <file name="C:/dev/definiens/cp2/portal-ui/src/state/projects/selectors.test.ts" timestamp="1587734858388">
+        <mark key="'" line="1" column="9" />
+        <mark key="[" line="2" column="9" />
+        <mark key="]" line="2" column="9" />
+        <mark key="." line="2" column="9" />
+        <mark key="^" line="38" column="46" />
+      </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/state/imageViewer/saga.ts" timestamp="1587730688813">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="40" />
@@ -230,12 +237,6 @@
       <file name="/Dummy.txt" timestamp="1587731661230">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataList/SlideMetadataList.tsx" timestamp="1587723242894">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="123" column="34" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/components/ControlPanel/ControlPanel.test.tsx" timestamp="1587723468019">
         <mark key="[" line="8" column="23" />
         <mark key="]" line="8" column="36" />
@@ -244,7 +245,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="39" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
       <jump line="249" column="33" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
       <jump line="252" column="40" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
       <jump line="258" column="22" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
@@ -344,6 +344,7 @@
       <jump line="130" column="9" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataList/SlideMetadataList.test.tsx" />
       <jump line="76" column="25" filename="C:/dev/definiens/cp2/portal-ui/src/components/UploadGrid/UploadGrid.test.tsx" />
       <jump line="5" column="9" filename="C:/dev/definiens/cp2/portal-ui/src/components/SideNavBar/SideNavBar.test.tsx" />
+      <jump line="1" column="9" filename="C:/dev/definiens/cp2/portal-ui/src/state/projects/selectors.test.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -364,7 +365,7 @@
         <text>undefined</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtb2NrSGlzdG9yeVB1c2hcPg==</text>
+        <text encoding="base64">XDxBcHBTdGF0ZVw+</text>
       </register>
       <register name="0" type="4">
         <text>&quot;/projects/undefined/slide/slideA&quot;</text>
@@ -440,9 +441,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxtb2NrSGlzdG9yeVB1c2hcPg==</last-search>
+      <last-search encoding="base64">XDxBcHBTdGF0ZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtb2NrSGlzdG9yeVB1c2hcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxBcHBTdGF0ZVw+</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute encoding="base64">XDxjdXJyZW50UHJvamVjdFw+</last-substitute>
       <last-dir>1</last-dir>
