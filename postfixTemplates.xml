@@ -1,0 +1,12 @@
+<application>
+  <component name="PostfixTemplates">
+    <template id="describle@userDefined" key=".descr" provider="builtin.js" language-level="ES6" topmost="false">
+      <conditions />
+      <template name="fakeKey" value="describe($EXPR$, () =&gt; {&#10;  it('should $END$', () =&gt; {&#10;    const result = ;&#10;    expect(result).toBe(true);&#10;  });&#10;});" toReformat="true" toShortenFQNames="true" />
+    </template>
+    <template id="it@userDefined" key=".it" provider="builtin.js" language-level="ES6" topmost="false">
+      <conditions />
+      <template name="fakeKey" value="it($EXPR$, () =&gt; {&#10;  const result = $END$;&#10;  expect(result).toBe(true);&#10;});" toReformat="true" toShortenFQNames="true" />
+    </template>
+  </component>
+</application>
