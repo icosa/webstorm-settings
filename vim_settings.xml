@@ -135,6 +135,9 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed 2</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -145,11 +148,20 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1588262672721">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/state/projects/reducer.ts" timestamp="1588262669411">
         <mark key="[" line="8" column="112" />
         <mark key="]" line="8" column="108" />
         <mark key="." line="8" column="107" />
         <mark key="^" line="8" column="108" />
+      </file>
+      <file name="C:/dev/definiens/cp2/portal-ui/src/components/UploadPanel/UploadPanel.test.tsx" timestamp="1588256810715">
+        <mark key="[" line="11" column="23" />
+        <mark key="]" line="11" column="26" />
+        <mark key="^" line="11" column="26" />
+        <mark key="." line="11" column="25" />
       </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/state/imageViewer/saga.ts" timestamp="1588257379534">
         <mark key="[" line="8" column="0" />
@@ -157,20 +169,17 @@
         <mark key="." line="8" column="24" />
         <mark key="^" line="16" column="66" />
       </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/state/projects/selectors.ts" timestamp="1588262451475">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="C:/dev/definiens/cp2/portal-ui/src/state/app/selectors.ts" timestamp="1588262611245">
+        <mark key="[" line="12" column="42" />
+        <mark key="]" line="12" column="42" />
+        <mark key="^" line="12" column="14" />
+        <mark key="." line="12" column="42" />
       </file>
-      <file name="/actions.ts" timestamp="1588261465720">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="36" />
-      </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/state/configurations/saga.ts" timestamp="1588261990955">
-        <mark key="[" line="34" column="17" />
-        <mark key="]" line="34" column="48" />
-        <mark key="." line="34" column="47" />
-        <mark key="^" line="34" column="48" />
+      <file name="C:/dev/definiens/cp2/portal-ui/src/state/configurations/saga.test.ts" timestamp="1588261816618">
+        <mark key="[" line="6" column="45" />
+        <mark key="]" line="6" column="48" />
+        <mark key="." line="6" column="47" />
+        <mark key="^" line="6" column="48" />
       </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/components/UploadGrid/UploadGrid.tsx" timestamp="1588256793976">
         <mark key="[" line="21" column="52" />
@@ -178,26 +187,36 @@
         <mark key="." line="21" column="54" />
         <mark key="^" line="21" column="55" />
       </file>
+      <file name="C:/dev/definiens/cp2/portal-ui/src/pages/ProjectPage/ProjectPage.test.tsx" timestamp="1588259196233">
+        <mark key="[" line="11" column="23" />
+        <mark key="]" line="11" column="26" />
+        <mark key="." line="11" column="25" />
+        <mark key="^" line="11" column="26" />
+      </file>
+      <file name="C:/dev/definiens/cp2/portal-ui/src/state/projects/selectors.ts" timestamp="1588262451475">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/pages/ProjectPage/ProjectPage.tsx" timestamp="1588256843441">
         <mark key="[" line="13" column="9" />
         <mark key="]" line="13" column="9" />
         <mark key="." line="13" column="9" />
       </file>
+      <file name="C:/dev/definiens/cp2/portal-ui/src/App.tsx" timestamp="1588405969479" />
       <file name="C:/dev/definiens/cp2/portal-ui/src/components/SlidesUnavailable/SlidesUnavailable.test.tsx" timestamp="1588256889989">
         <mark key="[" line="19" column="46" />
         <mark key="]" line="19" column="46" />
         <mark key="." line="19" column="46" />
         <mark key="^" line="19" column="22" />
       </file>
+      <file name="/actions.ts" timestamp="1588261465720">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="36" />
+      </file>
       <file name="/selectors.ts" timestamp="1588262432189">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="73" />
-      </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/pages/ProjectPage/ProjectPage.test.tsx" timestamp="1588259196233">
-        <mark key="[" line="11" column="23" />
-        <mark key="]" line="11" column="26" />
-        <mark key="." line="11" column="25" />
-        <mark key="^" line="11" column="26" />
       </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/App.test.tsx" timestamp="1588259024754">
         <mark key="[" line="35" column="0" />
@@ -211,26 +230,11 @@
         <mark key="." line="54" column="0" />
         <mark key="^" line="51" column="47" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588262672721">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/components/UploadPanel/UploadPanel.test.tsx" timestamp="1588256810715">
-        <mark key="[" line="11" column="23" />
-        <mark key="]" line="11" column="26" />
-        <mark key="^" line="11" column="26" />
-        <mark key="." line="11" column="25" />
-      </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/state/app/selectors.ts" timestamp="1588262611245">
-        <mark key="[" line="12" column="42" />
-        <mark key="]" line="12" column="42" />
-        <mark key="^" line="12" column="14" />
-        <mark key="." line="12" column="42" />
-      </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/state/configurations/saga.test.ts" timestamp="1588261816618">
-        <mark key="[" line="6" column="45" />
-        <mark key="]" line="6" column="48" />
-        <mark key="." line="6" column="47" />
-        <mark key="^" line="6" column="48" />
+      <file name="C:/dev/definiens/cp2/portal-ui/src/state/configurations/saga.ts" timestamp="1588261990955">
+        <mark key="[" line="34" column="17" />
+        <mark key="]" line="34" column="48" />
+        <mark key="." line="34" column="47" />
+        <mark key="^" line="34" column="48" />
       </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/state/imageViewer/saga.test.ts" timestamp="1588257853038">
         <mark key="[" line="7" column="0" />
