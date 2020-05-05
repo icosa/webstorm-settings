@@ -35,7 +35,6 @@
         <entry>e</entry>
         <entry>v</entry>
         <entry>vs</entry>
-        <entry>we</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>%s/initialState/state/</entry>
         <entry>qw</entry>
@@ -46,6 +45,7 @@
         <entry>154</entry>
         <entry>8</entry>
         <entry>46</entry>
+        <entry>we</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -171,7 +171,7 @@
         <mark key="^" line="43" column="18" />
         <mark key="." line="5" column="9" />
       </file>
-      <file name="/JavaScript Console" timestamp="1588668256859">
+      <file name="/JavaScript Console" timestamp="1588670665462">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/components/CreateProject/CreateProject.tsx" timestamp="1588669996031">
@@ -189,12 +189,6 @@
       </file>
       <file name="C:/dev/definiens/cp2/portal-ui/package.json" timestamp="1588670448522">
         <mark key="'" line="20" column="0" />
-      </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/state/app/reducer.test.ts" timestamp="1588621608200">
-        <mark key="[" line="59" column="94" />
-        <mark key="]" line="59" column="95" />
-        <mark key="." line="59" column="94" />
-        <mark key="^" line="59" column="95" />
       </file>
       <file name="/Dummy.txt" timestamp="1588664438072">
         <mark key="[" line="0" column="0" />
@@ -221,11 +215,11 @@
         <mark key="[" line="16" column="13" />
         <mark key="]" line="16" column="40" />
       </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/components/CreateProject/CreateProject.test.tsx" timestamp="1588670140287">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
-        <mark key="^" line="56" column="35" />
+      <file name="C:/dev/definiens/cp2/portal-ui/src/components/CreateProject/CreateProject.test.tsx" timestamp="1588671507600">
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="121" column="0" />
+        <mark key="." line="121" column="0" />
+        <mark key="^" line="121" column="0" />
       </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/utils/networkUtils.ts" timestamp="1588663131148">
         <mark key="[" line="4" column="37" />
@@ -244,6 +238,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="^" line="3" column="53" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="C:/dev/definiens/cp2/portal-ui/src/setupTests.ts" timestamp="1588670584091">
+        <mark key="[" line="16" column="20" />
+        <mark key="]" line="16" column="23" />
+        <mark key="." line="16" column="22" />
+        <mark key="^" line="16" column="23" />
       </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/state/projects/errorCodes.ts" timestamp="1588622548972">
         <mark key="[" line="1" column="25" />
@@ -364,22 +364,22 @@
         <text />
       </register>
       <register name="*" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnN0IGNvbXBvbmVudCA9IHNoYWxsb3dNVUlDb21wb25lbnQoPENyZWF0ZVByb2plY3QgLz4pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="k" type="4">
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>: 'an error'</text>
+        <text>'an error occurred'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxub1NsaWRlc0luUHJvamVjdFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnN0IGNvbXBvbmVudCA9IHNoYWxsb3dNVUlDb21wb25lbnQoPENyZWF0ZVByb2plY3QgLz4pOwo=</text>
+        <text encoding="base64">ICAgIGV4cGVjdChtb2NrVXNlRm9ybS5yZXNldCkudG9IYXZlQmVlbkNhbGxlZFRpbWVzKDApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnN0IGNvbXBvbmVudCA9IHNoYWxsb3dNVUlDb21wb25lbnQoPENyZWF0ZVByb2plY3QgLz4pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -416,31 +416,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGNvbXBvbmVudCA9IG1vdW50TVVJQ29tcG9uZW50KDxDcmVhdGVQcm9qZWN0IC8+KTsK</text>
+        <text encoding="base64">Ci8vIGVzbGludC1kaXNhYmxlLW5leHQtbGluZSBqZXN0L25vLWNvbW1lbnRlZC1vdXQtdGVzdHMKLyoKICBpdC5lYWNoKFsKICAgIFswLCAnVGhlIHByb2plY3QgbmFtZTogbmFtZSBpcyBhbHJlYWR5IGluIHVzZS4gUGxlYXNlIHNlbGVjdCBhIGRpZmZlcmVudCBuYW1lIGZvciB0aGlzIHByb2plY3QnXSwKICAgIFsxLCAnUGxlYXNlIGVudGVyIGEgbmFtZSBmb3IgdGhlIHByb2plY3QuJ10sCiAgXSkoCiAgICAnc2hvdWxkIGNhdGNoIHNlcnZlciBlcnJvcicsCiAgICAoaWR4LCBtc2cpID0+IHsKICAgICAgaWYgKGlkeCA9PT0gMSkgewogICAgICAgIG1vY2tVc2VGb3JtLmhhbmRsZVN1Ym1pdC5tb2NrSW1wbGVtZW50YXRpb24oKGZ1bmM6IEZ1bmN0aW9uKSA9PiAoKSA9PiBmdW5jKHsgcHJvamVjdE5hbWU6ICcnIH0pKTsKICAgICAgfQogICAgICBzZXRVc2VEaXNwYXRjaFRocm93c0Vycm9yKCk7CiAgICAgIGNvbnN0IGNvbXBvbmVudCA9IG1vdW50V2l0aERpYWxvZygpOwogICAgICBjb21wb25lbnQuZmluZCgnLmNyZWF0ZScpLnNpbXVsYXRlKCdjbGljaycpOwoKICAgICAgZXhwZWN0KG1vY2tVc2VGb3JtLnNldEVycm9yKS50b0hhdmVCZWVuQ2FsbGVkVGltZXMoMSk7CiAgICAgIGV4cGVjdChtb2NrVXNlRm9ybS5zZXRFcnJvcikudG9IYXZlQmVlbkNhbGxlZFdpdGgoJ3Byb2plY3ROYW1lJywgJ3JlcXVpcmVkJywgbXNnKTsKICAgICAgZXhwZWN0KG1vY2tVc2VGb3JtLnJlc2V0KS50b0hhdmVCZWVuQ2FsbGVkVGltZXMoMCk7CiAgICB9KTsKKi8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IHsgYWN0IH0gZnJvbSAncmVhY3QtZG9tL3Rlc3QtdXRpbHMnOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIGV4cGVjdCh1c2VEaXNwYXRjaE1vY2spLnRvSGF2ZUJlZW5OdGhDYWxsZWRXaXRoKAogICAgLy8gICAyLAogICAgLy8gICBQcm9qZWN0c0FjdGlvbkNyZWF0b3JzLnNldENyZWF0aW9uU3RhdHVzKEVudGl0eUNyZWF0aW9uU3RhdHVzLk5vdFN0YXJ0ZWQpLAogICAgLy8gKTsK</text>
+        <text encoding="base64">ICAgIHAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgUHJvamVjdHNBY3Rpb25DcmVhdG9ycy5jcmVhdGVQcm9qZWN0KCcnKSwK</text>
+        <text encoding="base64">CiAgICAvLyBleHBlY3QobW9ja1VzZUZvcm0uc2V0RXJyb3IpLnRvSGF2ZUJlZW5DYWxsZWRUaW1lcygxKTsK</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgUHJvamVjdHNBY3Rpb25DcmVhdG9ycy5zZXRDcmVhdGlvblN0YXR1cyhFbnRpdHlDcmVhdGlvblN0YXR1cy5Ob3RTdGFydGVkKSwK</text>
+        <text encoding="base64">ICAgIGV4cGVjdChtb2NrVXNlRm9ybS5yZXNldCkudG9IYXZlQmVlbkNhbGxlZFRpbWVzKDApOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRmV0Y2hTdGF0dXNGbGFncyB9IGZyb20gJy4uLy4uL21vZGVsL2VudGl0eUZldGNoU3RhdHVzJzsK</text>
+        <text encoding="base64">ICBjb25zdCBtb2NrQ3JlYXRpb25FcnJvciA9IChtZXNzYWdlPzogc3RyaW5nKSA9PiB7CiAgICBzYWZlQ2FzdDxqZXN0Lk1vY2s+KHByb2plY3RDcmVhdGlvbkVycm9yU2VsZWN0b3IpLm1vY2tSZXR1cm5WYWx1ZU9uY2UoewogICAgICBjb2RlOiBQcm9qZWN0UmVxdWVzdEVycm9yQ29kZXMuQ3JlYXRpb25FcnJvck5hbWVBbHJlYWR5SW5Vc2UsCiAgICAgIG1lc3NhZ2UsCiAgICB9KTsKICB9OwoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IGxhc3RQcm9qZWN0UmVxdWVzdEVycm9yU2VsZWN0b3IgPSBjcmVhdGVTZWxlY3RvcigKICBsYXN0QXBwUmVxdWVzdEVycm9yU2VsZWN0b3IsCiAgKGVycm9ySW5mbykgPT4gewogICAgaWYgKGVycm9ySW5mbyAmJiBpc1Byb2plY3RzUmVxdWVzdEVycm9yKGVycm9ySW5mby5jb2RlKSkgewogICAgICByZXR1cm4gZXJyb3JJbmZvOwogICAgfQogIH0sCik7Cgo=</text>
+        <text encoding="base64">ICAgIHNhZmVDYXN0PGplc3QuTW9jaz4ocHJvamVjdENyZWF0aW9uRXJyb3JTZWxlY3RvcikubW9ja1JldHVyblZhbHVlT25jZSh7CiAgICAgIGNvZGU6IFByb2plY3RSZXF1ZXN0RXJyb3JDb2Rlcy5DcmVhdGlvbkVycm9yTmFtZUFscmVhZHlJblVzZSwKICAgICAgbWVzc2FnZTogJycsCiAgICB9KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
