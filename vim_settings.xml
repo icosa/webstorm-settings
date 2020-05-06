@@ -45,8 +45,8 @@
         <entry>we</entry>
         <entry encoding="base64">JzwsJz40Mw==</entry>
         <entry encoding="base64">JzwsJz4zMg==</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -143,7 +143,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1588693806963">
+      <file name="/Dummy.txt" timestamp="1588749841453">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1588692960130">
@@ -156,6 +156,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="^" line="150" column="32" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="C:/dev/definiens/cp2/portal-ui/src/utils/testing/portalTesting.ts" timestamp="1588748971050" />
+      <file name="C:/dev/definiens/cp2/portal-ui/src/components/AgGridAssayPopupEditor/AgGridAssayPopupEditor.test.tsx" timestamp="1588749830064">
+        <mark key="]" line="51" column="7" />
+        <mark key="^" line="51" column="7" />
+        <mark key="." line="51" column="6" />
       </file>
       <file name="/reducer.test.ts" timestamp="1588690463552">
         <mark key="[" line="96" column="0" />
@@ -346,13 +352,13 @@
         <text />
       </register>
       <register name="*" type="4">
-        <text>10</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="k" type="4">
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>10</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjdXJyZW50U2xpZGVJZFw+</text>
@@ -425,7 +431,7 @@
         <text encoding="base64">ICAgICAgd2F0Y2hGZXRjaEFubm90YXRpb25zQnlTZXRJZCwK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zb3J0</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
