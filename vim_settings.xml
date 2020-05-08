@@ -27,7 +27,6 @@
         <entry encoding="base64">XDxhc3NpZ25JbWFnZUNlbGxSZW5kZXJlclBhcmFtc1w+</entry>
       </history-search>
       <history-cmd>
-        <entry>e</entry>
         <entry>v</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>%s/initialState/state/</entry>
@@ -46,6 +45,7 @@
         <entry>vs</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
+        <entry>145</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -148,7 +148,10 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/SlideMetadataTable.tsx" timestamp="1588925857210" />
+      <file name="/SlideMetadataTable.tsx" timestamp="1588945064873">
+        <mark key="[" line="144" column="0" />
+        <mark key="]" line="149" column="0" />
+      </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/utils/slideMetadataUtils.test.ts" timestamp="1588924171376">
         <mark key="[" line="16" column="29" />
         <mark key="]" line="16" column="30" />
@@ -175,12 +178,12 @@
       <file name="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataListToolbar/SlideMetadataListToolbar.tsx" timestamp="1588927653485">
         <mark key="'" line="48" column="4" />
       </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" timestamp="1588940015736">
-        <mark key="'" line="44" column="2" />
-        <mark key="[" line="74" column="13" />
-        <mark key="]" line="74" column="30" />
-        <mark key="^" line="377" column="44" />
-        <mark key="." line="75" column="30" />
+      <file name="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" timestamp="1588945428618">
+        <mark key="'" line="223" column="12" />
+        <mark key="[" line="405" column="8" />
+        <mark key="]" line="404" column="42" />
+        <mark key="^" line="404" column="42" />
+        <mark key="." line="404" column="41" />
       </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/utils/testing/sagaTestingUtils.ts" timestamp="1588923680057">
         <mark key="'" line="10" column="46" />
@@ -225,7 +228,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="184" column="9" filename="C:/dev/definiens/cp2/portal-ui/src/pages/ImageViewerPage/ImageViewerPage.tsx" />
       <jump line="187" column="57" filename="C:/dev/definiens/cp2/portal-ui/src/pages/ImageViewerPage/ImageViewerPage.tsx" />
       <jump line="112" column="8" filename="C:/dev/definiens/cp2/portal-ui/src/pages/ImageViewerPage/ImageViewerPage.tsx" />
       <jump line="76" column="0" filename="C:/dev/definiens/cp2/portal-ui/src/state/multiView/imageViewer/reducer.ts" />
@@ -325,6 +327,7 @@
       <jump line="79" column="8" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
       <jump line="123" column="4" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
       <jump line="44" column="2" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
+      <jump line="216" column="12" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -335,8 +338,8 @@
       <register name="i" type="4">
         <text />
       </register>
-      <register name="*" type="4">
-        <text>SlideMetadataTable</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICB1c2VFZmZlY3QoKCkgPT4gewogICAgaWYgKGdyaWRBcGkuY3VycmVudCkgewogICAgICBncmlkQXBpLmN1cnJlbnQuc2V0Q29sdW1uRGVmcyhbXSk7CiAgICB9CiAgfSwgW2N1cnJlbnRQcm9qZWN0SWQsIGdyaWRBcGldKTsKCg==</text>
       </register>
       <register name="k" type="4">
         <text>kjkjllllllllllljjkkhhhh</text>
@@ -347,8 +350,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxhc3NpZ25JbWFnZUNlbGxSZW5kZXJlclBhcmFtc1w+</text>
       </register>
-      <register name="0" type="4">
-        <text>SlideMetadataTable</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICB1c2VFZmZlY3QoKCkgPT4gewogICAgaWYgKGdyaWRBcGkuY3VycmVudCkgewogICAgICBncmlkQXBpLmN1cnJlbnQuc2V0Q29sdW1uRGVmcyhbXSk7CiAgICB9CiAgfSwgW2N1cnJlbnRQcm9qZWN0SWQsIGdyaWRBcGldKTsKCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CiAgLy8gc29sdXRpb24gZm9yIHN0YWxlIGNhbGxiYWNrCiAgLy8gaHR0cHM6Ly9kZXYudG8vYW5wb3MyMzEvcmVhY3QtaG9va3MtdGhlLWNsb3N1cmUtaGVsbC03MW0KICAvLyBodHRwczovL3JlYWN0anMub3JnL2RvY3MvaG9va3MtZmFxLmh0bWwjaG93LXRvLXJlYWQtYW4tb2Z0ZW4tY2hhbmdpbmctdmFsdWUtZnJvbS11c2VjYWxsYmFjawogIC8vIGNvbnN0IHByb2plY3RJZFJlZiA9IHVzZVJlZihjdXJyZW50UHJvamVjdElkKTsKICAvLyBwcm9qZWN0SWRSZWYuY3VycmVudCA9IGN1cnJlbnRQcm9qZWN0SWQ7Cg==</text>
