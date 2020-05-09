@@ -166,11 +166,12 @@
       <file name="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataListToolbar/SlideMetadataListToolbar.tsx" timestamp="1588927653485">
         <mark key="'" line="48" column="4" />
       </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" timestamp="1589034343284">
+      <file name="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" timestamp="1589035526475">
         <mark key="'" line="313" column="27" />
-        <mark key="[" line="363" column="0" />
-        <mark key="]" line="363" column="0" />
-        <mark key="." line="363" column="0" />
+        <mark key="[" line="322" column="12" />
+        <mark key="]" line="322" column="13" />
+        <mark key="." line="322" column="12" />
+        <mark key="^" line="322" column="13" />
       </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/state/slideMetadata/saga.test.ts" timestamp="1588924105753">
         <mark key="[" line="33" column="0" />
@@ -326,14 +327,14 @@
       <register name="i" type="4">
         <text />
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGBVcGRhdGluZyBncmlkIG9wdGlvbnMgZm9yICR7Y3VycmVudFByb2plY3RJZH0gKyAke2NvdW50fWApOwo=</text>
+      <register name="*" type="4">
+        <text>componentRenderCount.current</text>
       </register>
       <register name="k" type="4">
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>renderNumber</text>
+        <text>componentRenderCount.current</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb3VudFw+</text>
