@@ -150,7 +150,7 @@
         <mark key="^" line="263" column="55" />
         <mark key="." line="265" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589536687810">
+      <file name="/Dummy.txt" timestamp="1589547107069">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/state/app/reducer.ts" timestamp="1589477002648">
@@ -190,10 +190,10 @@
         <mark key="." line="41" column="98" />
         <mark key="^" line="41" column="99" />
       </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/state/createProject/selector.ts" timestamp="1589482625576">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="C:/dev/definiens/cp2/portal-ui/src/state/createProject/selector.ts" timestamp="1589546979460">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="C:/dev/definiens/cp2/portal-ui/Dockerfile" timestamp="1589536625688">
         <mark key="[" line="8" column="45" />
@@ -201,7 +201,7 @@
         <mark key="." line="8" column="43" />
         <mark key="^" line="8" column="44" />
       </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/components/CreateProject/CreateProject.tsx" timestamp="1589534195867">
+      <file name="C:/dev/definiens/cp2/portal-ui/src/components/CreateProject/CreateProject.tsx" timestamp="1589546925437">
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
@@ -329,8 +329,8 @@
       <register name="i" type="4">
         <text />
       </register>
-      <register name="*" type="4">
-        <text>=</text>
+      <register name="*" type="2">
+        <text encoding="base64">aW1wb3J0IHsgY3JlYXRlU2VsZWN0b3IgfSBmcm9tICdyZXNlbGVjdCc7CmltcG9ydCB7IGxhc3RBcHBSZXF1ZXN0RXJyb3JTZWxlY3RvciB9IGZyb20gJy4uL2FwcC9zZWxlY3RvcnMnOwppbXBvcnQgeyBpc1Byb2plY3RzUmVxdWVzdEVycm9yIH0gZnJvbSAnLi4vcHJvamVjdHMvcmVxdWVzdEVycm9yQ29kZXMnOwppbXBvcnQgeyBwcm9qZWN0Q3JlYXRpb25TdGF0ZXNTZWxlY3RvciB9IGZyb20gJy4uL3Byb2plY3RzL3NlbGVjdG9ycyc7CgpleHBvcnQgY29uc3QgcHJvamVjdENyZWF0aW9uRXJyb3JTZWxlY3RvciA9IGNyZWF0ZVNlbGVjdG9yKAogIHByb2plY3RDcmVhdGlvblN0YXRlc1NlbGVjdG9yLAogIGxhc3RBcHBSZXF1ZXN0RXJyb3JTZWxlY3RvciwKICAoeyBjcmVhdGlvbkVycm9yIH0sIGVycm9ySW5mbykgPT4gewogICAgaWYgKGNyZWF0aW9uRXJyb3IgJiYgZXJyb3JJbmZvICYmIGlzUHJvamVjdHNSZXF1ZXN0RXJyb3IoZXJyb3JJbmZvLmNvZGUpKSB7CiAgICAgIHJldHVybiBlcnJvckluZm87CiAgICB9CiAgfSwKKTsKCg==</text>
       </register>
       <register name="k" type="4">
         <text>kjkjllllllllllljjkkhhhh</text>
@@ -342,7 +342,7 @@
         <text>operation\c</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">RU5WIE5PREVfRU5WIHByb2R1Y3Rpb24K</text>
+        <text encoding="base64">aW1wb3J0IHsgY3JlYXRlU2VsZWN0b3IgfSBmcm9tICdyZXNlbGVjdCc7CmltcG9ydCB7IGxhc3RBcHBSZXF1ZXN0RXJyb3JTZWxlY3RvciB9IGZyb20gJy4uL2FwcC9zZWxlY3RvcnMnOwppbXBvcnQgeyBpc1Byb2plY3RzUmVxdWVzdEVycm9yIH0gZnJvbSAnLi4vcHJvamVjdHMvcmVxdWVzdEVycm9yQ29kZXMnOwppbXBvcnQgeyBwcm9qZWN0Q3JlYXRpb25TdGF0ZXNTZWxlY3RvciB9IGZyb20gJy4uL3Byb2plY3RzL3NlbGVjdG9ycyc7CgpleHBvcnQgY29uc3QgcHJvamVjdENyZWF0aW9uRXJyb3JTZWxlY3RvciA9IGNyZWF0ZVNlbGVjdG9yKAogIHByb2plY3RDcmVhdGlvblN0YXRlc1NlbGVjdG9yLAogIGxhc3RBcHBSZXF1ZXN0RXJyb3JTZWxlY3RvciwKICAoeyBjcmVhdGlvbkVycm9yIH0sIGVycm9ySW5mbykgPT4gewogICAgaWYgKGNyZWF0aW9uRXJyb3IgJiYgZXJyb3JJbmZvICYmIGlzUHJvamVjdHNSZXF1ZXN0RXJyb3IoZXJyb3JJbmZvLmNvZGUpKSB7CiAgICAgIHJldHVybiBlcnJvckluZm87CiAgICB9CiAgfSwKKTsKCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
