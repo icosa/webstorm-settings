@@ -144,17 +144,14 @@
     <globalmarks />
     <filemarks>
       <file name="C:/dev/definiens/cp2/portal-ui/src/state/projects/saga.test.ts" timestamp="1589486502619">
-        <mark key="'" line="265" column="0" />
-        <mark key="[" line="265" column="0" />
-        <mark key="]" line="265" column="0" />
-        <mark key="^" line="263" column="55" />
-        <mark key="." line="265" column="0" />
+        <mark key="'" line="164" column="0" />
+        <mark key="[" line="164" column="0" />
+        <mark key="]" line="164" column="0" />
+        <mark key="^" line="162" column="55" />
+        <mark key="." line="164" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1589547107069">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1589477021569">
-        <mark key="[" line="0" column="9" />
       </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/state/app/saga.test.ts" timestamp="1589550775888">
         <mark key="[" line="173" column="0" />
@@ -190,16 +187,18 @@
         <mark key="^" line="47" column="33" />
         <mark key="." line="49" column="25" />
       </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/state/app/reducer.test.ts" timestamp="1589479318113">
-        <mark key="[" line="59" column="67" />
-        <mark key="]" line="59" column="67" />
-        <mark key="." line="59" column="67" />
-      </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/state/app/saga.ts" timestamp="1589550791236">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
         <mark key="^" line="1" column="34" />
-        <mark key="." line="59" column="0" />
+      </file>
+      <file name="/jsUtils.ts" timestamp="1589568155109">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="75" column="0" />
+      </file>
+      <file name="C:/dev/definiens/cp2/portal-ui/src/utils/jsUtils.ts" timestamp="1589568172539">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="^" line="69" column="0" />
+        <mark key="." line="72" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -326,7 +325,7 @@
         <text>operation\c</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB3YXRjaE5hdmlnYXRlVG9TbGlkZXMsCg==</text>
+        <text encoding="base64">Ly8gSGFuZHkgd29yayBhcm91bmQgZm9yIGhhdmUgdG8gdXNlICEgYXQgZW5kIG9mIHBvc3NpYmxlIG51bGwgb3IgdW5kZWZpbmVkIHZhcmlhYmxlcyAndHMtZXNsaW50L25vLW5vbi1udWxsLWFzc2VydGlvbicKZXhwb3J0IGNvbnN0IGlzRGVmaW5lZFR5cGVHdWFyZCA9IDxUPih2YWx1ZTogVCB8IHVuZGVmaW5lZCB8IG51bGwpOiB2YWx1ZSBpcyBUID0+IHZhbHVlICE9IG51bGw7Cgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -366,31 +365,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KG5leHRFZmZlY3QubmV4dCgpLnZhbHVlKS50b01hdGNoT2JqZWN0KGZvcmsod2F0Y2hOYXZpZ2F0ZVRvU2xpZGUpKTsK</text>
+        <text encoding="base64">Ly8gSGFuZHkgd29yayBhcm91bmQgZm9yIGhhdmUgdG8gdXNlICEgYXQgZW5kIG9mIHBvc3NpYmxlIG51bGwgb3IgdW5kZWZpbmVkIHZhcmlhYmxlcyAndHMtZXNsaW50L25vLW5vbi1udWxsLWFzc2VydGlvbicKZXhwb3J0IGNvbnN0IGlzRGVmaW5lZFR5cGVHdWFyZCA9IDxUPih2YWx1ZTogVCB8IHVuZGVmaW5lZCB8IG51bGwpOiB2YWx1ZSBpcyBUID0+IHZhbHVlICE9IG51bGw7Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgd2F0Y2hBcHBTYWdhcywgd2F0Y2hDaGFuZ2VBY3RpdmVQcm9qZWN0LCB3YXRjaEdsb2JhbExvZ291dCwgd2F0Y2hOYXZpZ2F0ZVRvU2xpZGUgfSBmcm9tICcuL3NhZ2EnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnVuY3Rpb24qIGhhbmRsZU5hdmlnYXRlVG9TbGlkZShhY3Rpb246IEFjdGlvbkJvZHk8dHlwZW9mIEFwcEFjdGlvbkNyZWF0b3JzLm5hdmlnYXRlVG9TbGlkZT4pIHsKICBsZXQgeyBzbGlkZUlkLCBwcm9qZWN0SWQgfSA9IGFjdGlvbi5wYXlsb2FkOwogIGlmICghcHJvamVjdElkKSB7CiAgICBwcm9qZWN0SWQgPSB5aWVsZCBzZWxlY3QoY3VycmVudFByb2plY3RJZFNlbGVjdG9yKTsKICB9CiAgaGlzdG9yeS5wdXNoKGAvcHJvamVjdHMvJHtwcm9qZWN0SWR9L3NsaWRlLyR7c2xpZGVJZH1gKTsKfQoKZXhwb3J0IGZ1bmN0aW9uKiB3YXRjaE5hdmlnYXRlVG9TbGlkZSgpIHsKICB5aWVsZCB0YWtlTGVhZGluZyhBY3Rpb25UeXBlcy5OQVZJR0FURV9UT19TTElERSwgaGFuZGxlTmF2aWdhdGVUb1NsaWRlKTsKfQoK</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KG5leHRFZmZlY3QubmV4dCgpLnZhbHVlKS50b01hdGNoT2JqZWN0KGZvcmsod2F0Y2hOYXZpZ2F0ZVRvU2xpZGUpKTsK</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB5aWVsZCBmb3JrKHdhdGNoTmF2aWdhdGVUb1NsaWRlKTsK</text>
+        <text encoding="base64">aW1wb3J0IHsgd2F0Y2hBcHBTYWdhcywgd2F0Y2hDaGFuZ2VBY3RpdmVQcm9qZWN0LCB3YXRjaEdsb2JhbExvZ291dCwgd2F0Y2hOYXZpZ2F0ZVRvU2xpZGUgfSBmcm9tICcuL3NhZ2EnOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8gVE9ETyByZW1vdmUgdGhlIG1lc3NhZ2UK</text>
+        <text encoding="base64">ZnVuY3Rpb24qIGhhbmRsZU5hdmlnYXRlVG9TbGlkZShhY3Rpb246IEFjdGlvbkJvZHk8dHlwZW9mIEFwcEFjdGlvbkNyZWF0b3JzLm5hdmlnYXRlVG9TbGlkZT4pIHsKICBsZXQgeyBzbGlkZUlkLCBwcm9qZWN0SWQgfSA9IGFjdGlvbi5wYXlsb2FkOwogIGlmICghcHJvamVjdElkKSB7CiAgICBwcm9qZWN0SWQgPSB5aWVsZCBzZWxlY3QoY3VycmVudFByb2plY3RJZFNlbGVjdG9yKTsKICB9CiAgaGlzdG9yeS5wdXNoKGAvcHJvamVjdHMvJHtwcm9qZWN0SWR9L3NsaWRlLyR7c2xpZGVJZH1gKTsKfQoKZXhwb3J0IGZ1bmN0aW9uKiB3YXRjaE5hdmlnYXRlVG9TbGlkZSgpIHsKICB5aWVsZCB0YWtlTGVhZGluZyhBY3Rpb25UeXBlcy5OQVZJR0FURV9UT19TTElERSwgaGFuZGxlTmF2aWdhdGVUb1NsaWRlKTsKfQoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gamVzdC5tb2NrKCcuL3NlbGVjdG9ycycpOwo=</text>
+        <text encoding="base64">ICB5aWVsZCBmb3JrKHdhdGNoTmF2aWdhdGVUb1NsaWRlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
