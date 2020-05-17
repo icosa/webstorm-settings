@@ -170,12 +170,6 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/state/imageMetaBySlideId/saga.ts" timestamp="1589618978920">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="26" column="48" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/state/slideMetadata/saga.test.ts" timestamp="1589627754774">
         <mark key="[" line="167" column="9" />
         <mark key="]" line="167" column="24" />
@@ -187,6 +181,11 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
         <mark key="^" line="78" column="106" />
+      </file>
+      <file name="C:/dev/definiens/cp2/portal-ui/src/state/multiView/imageViewer/selectors.test.ts" timestamp="1589628975508">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/state/multiView/selectors.ts" timestamp="1589625986730">
         <mark key="[" line="22" column="3" />
@@ -211,13 +210,19 @@
       <file name="/JavaScript Console" timestamp="1589627603227">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589628621511">
+      <file name="/Dummy.txt" timestamp="1589730865662">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/dev/definiens/cp2/portal-ui/src/state/configurations/saga.test.ts" timestamp="1589730751558">
+        <mark key="'" line="105" column="47" />
+        <mark key="[" line="93" column="76" />
+        <mark key="]" line="93" column="76" />
+        <mark key="^" line="93" column="65" />
+        <mark key="." line="93" column="76" />
       </file>
       <file name="/saga.test.ts" timestamp="1589622476401" />
     </filemarks>
     <jumps>
-      <jump line="315" column="20" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
       <jump line="320" column="25" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
       <jump line="69" column="2" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
       <jump line="327" column="8" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" />
@@ -317,6 +322,7 @@
       <jump line="14" column="22" filename="C:/dev/definiens/cp2/portal-ui/src/state/configurations/selectors.test.ts" />
       <jump line="106" column="0" filename="C:/dev/definiens/cp2/portal-ui/src/state/equalizationBySlideId/saga.test.ts" />
       <jump line="32" column="0" filename="C:/dev/definiens/cp2/portal-ui/src/state/multiView/imageViewer/selectors.ts" />
+      <jump line="105" column="47" filename="C:/dev/definiens/cp2/portal-ui/src/state/configurations/saga.test.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -327,14 +333,14 @@
       <register name="i" type="4">
         <text />
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">Ly8gVE9ETyBkZWxtZQovLyBleHBvcnQgY29uc3QgYWN0aXZlVmlld2VySW50ZXJhY3Rpb25UeXBlU2VsZWN0b3IgPSBjcmVhdGVTZWxlY3RvcigKLy8gICBhY3RpdmVWaWV3ZXJTZWxlY3RvciwKLy8gICAodmlld2VyU3RhdGUpID0+IHZpZXdlclN0YXRlLmludGVyYWN0aW9uVHlwZSwKLy8gKTsKCg==</text>
+      <register name="*" type="4">
+        <text>,</text>
       </register>
       <register name="k" type="4">
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>equalizationBySlideId</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>operation\c</text>
@@ -343,7 +349,7 @@
         <text encoding="base64">ICAgIChlcXVhbGl6YXRpb25CeVNsaWRlSWRSb290U2VsZWN0b3IgYXMgamVzdC5Nb2NrKS5tb2NrUmV0dXJuVmFsdWVPbmNlKGVxdWFsaXphdGlvbkJ5U2xpZGVJZCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gVE9ETyBkZWxtZQovLyBleHBvcnQgY29uc3QgYWN0aXZlVmlld2VySW50ZXJhY3Rpb25UeXBlU2VsZWN0b3IgPSBjcmVhdGVTZWxlY3RvcigKLy8gICBhY3RpdmVWaWV3ZXJTZWxlY3RvciwKLy8gICAodmlld2VyU3RhdGUpID0+IHZpZXdlclN0YXRlLmludGVyYWN0aW9uVHlwZSwKLy8gKTsKCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgSW50ZXJhY3Rpb25UeXBlIH0gZnJvbSAnLi4vLi4vLi4vbW9kZWwvaW50ZXJhY3Rpb25zJzsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -380,31 +386,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgYWN0aXZlQW5ub3RhdGlvbkNsYXNzSWRTZWxlY3RvciwgY3VycmVudFNsaWRlU2VsZWN0b3IgfSBmcm9tICcuL3NlbGVjdG9ycyc7Cg==</text>
+        <text encoding="base64">Ly8gVE9ETyBkZWxtZQovLyBleHBvcnQgY29uc3QgYWN0aXZlVmlld2VySW50ZXJhY3Rpb25UeXBlU2VsZWN0b3IgPSBjcmVhdGVTZWxlY3RvcigKLy8gICBhY3RpdmVWaWV3ZXJTZWxlY3RvciwKLy8gICAodmlld2VyU3RhdGUpID0+IHZpZXdlclN0YXRlLmludGVyYWN0aW9uVHlwZSwKLy8gKTsKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgaW5pdGlhbFNsaWRlTWV0YWRhdGFTdGF0ZSwgU2xpZGVNZXRhZGF0YVN0YXRlIH0gZnJvbSAnLi4vc2xpZGVNZXRhZGF0YS9yZWR1Y2VyJzsK</text>
+        <text encoding="base64">aW1wb3J0IHsgYWN0aXZlQW5ub3RhdGlvbkNsYXNzSWRTZWxlY3RvciwgY3VycmVudFNsaWRlU2VsZWN0b3IgfSBmcm9tICcuL3NlbGVjdG9ycyc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IHsgUm9vdFN0YXRlIH0gZnJvbSAnLi4vcm9vdFJlZHVjZXInOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgaW5pdGlhbFNsaWRlTWV0YWRhdGFTdGF0ZSwgU2xpZGVNZXRhZGF0YVN0YXRlIH0gZnJvbSAnLi4vc2xpZGVNZXRhZGF0YS9yZWR1Y2VyJzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnN0IHN0YXRlOiBQYXJ0aWFsPFJvb3RTdGF0ZT4gPSB7IGVxdWFsaXphdGlvbkJ5U2xpZGVJZDogaW5pdGlhbEVxdWFsaXphdGlvbkJ5U2xpZGVJZFN0YXRlIH07Cgo=</text>
+        <text encoding="base64">Ly8gaW1wb3J0IHsgUm9vdFN0YXRlIH0gZnJvbSAnLi4vcm9vdFJlZHVjZXInOwo=</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyBsZXQgYXBwU3RhdGU6IFBhcnRpYWw8Um9vdFN0YXRlPiA9IHt9Owo=</text>
+        <text encoding="base64">ICAgIC8vIGNvbnN0IHN0YXRlOiBQYXJ0aWFsPFJvb3RTdGF0ZT4gPSB7IGVxdWFsaXphdGlvbkJ5U2xpZGVJZDogaW5pdGlhbEVxdWFsaXphdGlvbkJ5U2xpZGVJZFN0YXRlIH07Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IHsgUm9vdFN0YXRlIH0gZnJvbSAnLi4vLi4vcm9vdFJlZHVjZXInOwo=</text>
+        <text encoding="base64">ICAvLyBsZXQgYXBwU3RhdGU6IFBhcnRpYWw8Um9vdFN0YXRlPiA9IHt9Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnN0IHN0YXRlOiBQYXJ0aWFsPFJvb3RTdGF0ZT4gPSB7IGVxdWFsaXphdGlvbkJ5U2xpZGVJZDogaW5pdGlhbEVxdWFsaXphdGlvbkJ5U2xpZGVJZFN0YXRlIH07Cg==</text>
+        <text encoding="base64">Ly8gaW1wb3J0IHsgUm9vdFN0YXRlIH0gZnJvbSAnLi4vLi4vcm9vdFJlZHVjZXInOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIChnZXRBbGxTbGlkZXNGb3JQcm9qZWN0IGFzIGplc3QuTW9jaykubW9ja0NsZWFyKCk7CiAgICAvLyAoc2xpZGVNZXRhZGF0YVJvb3RTZWxlY3RvciBhcyBqZXN0Lk1vY2spLm1vY2tDbGVhcigpOwo=</text>
+        <text encoding="base64">ICAgIC8vIGNvbnN0IHN0YXRlOiBQYXJ0aWFsPFJvb3RTdGF0ZT4gPSB7IGVxdWFsaXphdGlvbkJ5U2xpZGVJZDogaW5pdGlhbEVxdWFsaXphdGlvbkJ5U2xpZGVJZFN0YXRlIH07Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
