@@ -145,6 +145,7 @@
     <filemarks>
       <file name="/entityState.ts" timestamp="1589974357427" />
       <file name="/reducer.ts" timestamp="1589974798643" />
+      <file name="C:/dev/definiens/cp2/portal-ui/src/state/slideMetadata/reducer.ts" timestamp="1589986850378" />
       <file name="/reducer.test.ts" timestamp="1589983569611">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="17" column="5" />
@@ -162,13 +163,6 @@
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="43" />
       </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/state/annotationSets/reducer.test.ts" timestamp="1589920600526">
-        <mark key="'" line="8" column="6" />
-        <mark key="[" line="72" column="6" />
-        <mark key="]" line="72" column="17" />
-        <mark key="." line="72" column="16" />
-        <mark key="^" line="72" column="17" />
-      </file>
       <file name="/Dummy.txt" timestamp="1589983429937">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
@@ -179,28 +173,30 @@
         <mark key="]" line="50" column="79" />
         <mark key="." line="50" column="0" />
       </file>
+      <file name="C:/dev/definiens/cp2/portal-ui/src/model/entityState.ts" timestamp="1589987785665" />
       <file name="C:/dev/definiens/cp2/portal-ui/src/state/entities/saga.ts" timestamp="1589956274233">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/state/annotationSets/reducer.ts" timestamp="1589920662367">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
       <file name="/saga.test.ts" timestamp="1589956569639">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="79" />
       </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/state/entities/actions.ts" timestamp="1589983533607">
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
-        <mark key="." line="93" column="0" />
+      <file name="C:/dev/definiens/cp2/portal-ui/src/state/entities/actions.ts" timestamp="1589985979064">
+        <mark key="[" line="12" column="2" />
+        <mark key="]" line="12" column="32" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="/selectors.ts" timestamp="1589974706397" />
       <file name="C:/dev/definiens/cp2/portal-ui/src/utils/entity/reducer.ts" timestamp="1589979986071">
         <mark key="[" line="27" column="3" />
+        <mark key="]" line="28" column="2" />
+        <mark key="." line="28" column="1" />
+        <mark key="^" line="28" column="2" />
+      </file>
+      <file name="C:/dev/definiens/cp2/portal-ui/src/state/entities/reducer.ts" timestamp="1589987581043">
+        <mark key="[" line="18" column="42" />
         <mark key="]" line="28" column="2" />
         <mark key="." line="28" column="1" />
         <mark key="^" line="28" column="2" />
@@ -324,20 +320,20 @@
       <register name="i" type="4">
         <text />
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="*" type="4">
+        <text>Project</text>
       </register>
       <register name="k" type="4">
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Project</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbnRpdGllc1JlZHVjZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBpdCgnc2hvdWxkIHVzZSBpbml0aWFsIHN0YXRlIHdoZW4gc3RhdGUgcGFyYW1ldGVyIGlzIHVuZGVmaW5lZCcsICgpID0+IHsKICAgIGNvbnN0IGFjdGlvbjogQWN0aW9uID0geyB0eXBlOiAnPycgfTsKICAgIGNvbnN0IGFjdHVhbFN0YXRlID0gZW50aXRpZXNSZWR1Y2VyKHVuZGVmaW5lZCwgYWN0aW9uKTsKICAgIGV4cGVjdChhY3R1YWxTdGF0ZSkudG9TdHJpY3RFcXVhbChpbml0aWFsRW50aXRpZXNTdGF0ZSk7CiAgfSk7Cg==</text>
+        <text encoding="base64">ICBbRW50aXR5VHlwZS5Qcm9qZWN0c0J5SWRdOiBFbnRpdHlTdGF0ZTxQcm9qZWN0PjsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
