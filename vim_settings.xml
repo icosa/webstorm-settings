@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcm9qZWN0c1NlbGVjdG9yXD4=</entry>
         <entry encoding="base64">XDxFcXVhbGl6YXRpb25CeVNsaWRlSWRTdGF0ZVw+</entry>
         <entry encoding="base64">XDxlcXVhbGl6YXRpb25CeVNsaWRlSWRSb290U2VsZWN0b3JcPg==</entry>
         <entry encoding="base64">XDxoYW5kbGVGZXRjaEltYWdlTWV0YVw+</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxjdXJyZW50U2xpZGVTZWxlY3Rvclw+</entry>
         <entry encoding="base64">XDxlbnRpdGllc1JlZHVjZXJcPg==</entry>
         <entry encoding="base64">XDxpbWFnZU1ldGFCeVNsaWRlSWRTZWxlY3Rvclw+</entry>
+        <entry>toThrow</entry>
       </history-search>
       <history-cmd>
         <entry>vs</entry>
@@ -143,12 +143,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/state/projects/selectors.test.ts" timestamp="1590007070475">
-        <mark key="[" line="15" column="7" />
-        <mark key="]" line="15" column="8" />
-        <mark key="^" line="12" column="12" />
-        <mark key="." line="15" column="8" />
-      </file>
       <file name="/a.dummy" timestamp="1590053494058">
         <mark key="[" line="0" column="14" />
         <mark key="]" line="0" column="7" />
@@ -171,6 +165,16 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="8" column="1" />
       </file>
+      <file name="C:/dev/definiens/cp2/portal-ui/src/utils/entity/action.test.ts" timestamp="1590154093782">
+        <mark key="[" line="20" column="57" />
+        <mark key="]" line="20" column="58" />
+        <mark key="." line="20" column="57" />
+        <mark key="^" line="20" column="58" />
+      </file>
+      <file name="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataList/listEventHandlers.test.ts" timestamp="1590152771539">
+        <mark key="[" line="134" column="0" />
+        <mark key="]" line="134" column="76" />
+      </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/state/entities/selectors.ts" timestamp="1590046801198">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -183,7 +187,6 @@
         <mark key="." line="200" column="19" />
         <mark key="^" line="200" column="20" />
       </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/state/slideMetadata/actions.ts" timestamp="1589990903638" />
       <file name="C:/dev/definiens/cp2/portal-ui/src/utils/entity/actions.ts" timestamp="1590053547729">
         <mark key="[" line="17" column="12" />
         <mark key="]" line="17" column="48" />
@@ -204,13 +207,9 @@
         <mark key="[" line="19" column="0" />
         <mark key="]" line="21" column="2" />
       </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/state/slideMetadata/reducer.ts" timestamp="1590053692959" />
       <file name="/reducer.test.ts" timestamp="1590045122380">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="106" />
-      </file>
-      <file name="/fragment.ts" timestamp="1590006052634">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/saga.ts" timestamp="1590047627249">
         <mark key="[" line="137" column="0" />
@@ -227,6 +226,12 @@
         <mark key="." line="0" column="1" />
       </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/state/entities/reducer.ts" timestamp="1590152372482" />
+      <file name="C:/dev/definiens/cp2/portal-ui/src/utils/entity/reducer.test.ts" timestamp="1590153971975">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="54" />
+        <mark key="^" line="145" column="37" />
+        <mark key="." line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="88" column="6" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataList/SlideMetadataList.tsx" />
@@ -339,23 +344,23 @@
       <register name="i" type="4">
         <text />
       </register>
-      <register name="*" type="4">
-        <text encoding="base64">IEVudGl0eVN0YXRlPEU+LA==</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgICAgY3JlYXRlRW50aXR5QWN0aW9uQ3JlYXRvcnMoJ2Zha2VFbnRpdHknKSAgICAgCg==</text>
       </register>
       <register name="k" type="4">
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IEVudGl0eVN0YXRlPEU+LA==</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbWFnZU1ldGFCeVNsaWRlSWRTZWxlY3Rvclw+</text>
+        <text>toThrow</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB2YWx1ZUhpc3RvcnlIYW5kbGVycz86IFZhbHVlSGlzdG9yeUhhbmRsZXJzLAo=</text>
+        <text encoding="base64">ICB0eXBlIEZha2VFbnRpdHkgPSB7IGlkOiBzdHJpbmc7IHRlc3RGbGFnOiBib29sZWFuIH07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZW50aXR5UmVkdWNlciB9IGZyb20gJy4uLy4uL3V0aWxzL2VudGl0eS9yZWR1Y2VyJzsK</text>
+        <text encoding="base64">ICAgICAgY3JlYXRlRW50aXR5QWN0aW9uQ3JlYXRvcnMoJ2Zha2VFbnRpdHknKSAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -392,31 +397,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRW50aXR5UmVkdWNlckFjdGlvbiB9IGZyb20gJy4uLy4uL3V0aWxzL2VudGl0eS9hY3Rpb25zJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRW50aXR5S2V5LCBFbnRpdHlTdGF0ZSB9IGZyb20gJy4uLy4uL21vZGVsL2VudGl0eVN0YXRlJzsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJlc3VsdCA9Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgc2FmZUNhc3QgfSBmcm9tICcuLi8uLi91dGlscy9qc1V0aWxzJzsK</text>
+        <text>describe()</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgc2FmZUNhc3QgfSBmcm9tICcuLi8uLi91dGlscy9qc1V0aWxzJzsK</text>
+        <text encoding="base64">aW1wb3J0IHsgaGFuZGxlU2VhcmNoVGV4dENoYW5nZWQgfSBmcm9tICcuLi8uLi9jb21wb25lbnRzL1NsaWRlTWV0YWRhdGFMaXN0L2xpc3RFdmVudEhhbmRsZXJzJzsK</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CmV4cG9ydCBjb25zdCB1cGRhdGVNYW55VXNlSGlzdG9yeSA9IDxFLCBLIGV4dGVuZHMgRW50aXR5S2V5ID0gc3RyaW5nPigKICBzdGF0ZTogRW50aXR5U3RhdGU8RSwgSz4sCiAgZW50aXRpZXM6IEVudGl0eUNvbGxlY3Rpb248UGFydGlhbDxFPj4sCik6IEVudGl0eVN0YXRlPEUsIEs+ID0+IHsKICByZXR1cm4gc3RhdGU7Cn07Cgo=</text>
+        <text encoding="base64">CiAgICAgIC8vIGFjdAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gYXJyYW5nZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gVE9ETyByZXZlcnNlIHRoZSBvcmRlcgo=</text>
+        <text encoding="base64">ICAgICAgLy8gY29uc3QgYWN0aW9uID0gZW50aXR5QWN0aW9uQ3JlYXRvcnMudW5kb1VwZGF0ZUVudGl0aWVzRnJvbUhpc3RvcnlTdWNjZXNzKHt9KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBFbnRpdHlVdGlscy51cGRhdGVNYW55KHN0YXRlLCBlbnRpdGllcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -425,9 +430,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxpbWFnZU1ldGFCeVNsaWRlSWRTZWxlY3Rvclw+</last-search>
+      <last-search>toThrow</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbWFnZU1ldGFCeVNsaWRlSWRTZWxlY3Rvclw+</last-pattern>
+      <last-pattern>toThrow</last-pattern>
       <last-replace>state</last-replace>
       <last-substitute>initialState</last-substitute>
       <last-dir>1</last-dir>
