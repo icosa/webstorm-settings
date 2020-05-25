@@ -43,9 +43,9 @@
         <entry>21</entry>
         <entry>ww</entry>
         <entry>143</entry>
-        <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>we</entry>
         <entry>wq</entry>
+        <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -143,16 +143,21 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/state/projects/selectors.test.ts" timestamp="1590407008152">
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
-        <mark key="^" line="34" column="37" />
+      <file name="C:/dev/definiens/cp2/portal-ui/src/state/projects/selectors.test.ts" timestamp="1590407948245">
+        <mark key="[" line="27" column="71" />
+        <mark key="]" line="28" column="69" />
+        <mark key="." line="28" column="68" />
+        <mark key="^" line="28" column="69" />
       </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/state/projects/saga.test.ts" timestamp="1590406424223">
         <mark key="[" line="5" column="9" />
         <mark key="]" line="5" column="9" />
         <mark key="." line="5" column="9" />
+      </file>
+      <file name="/a.dummy" timestamp="1590407886660">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="20" />
+        <mark key="." line="0" column="20" />
       </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/state/projects/reducer.ts" timestamp="1590406490911">
         <mark key="[" line="1" column="9" />
@@ -166,10 +171,10 @@
         <mark key="." line="224" column="42" />
         <mark key="^" line="224" column="43" />
       </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/model/entityStatus.ts" timestamp="1590407042064">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="C:/dev/definiens/cp2/portal-ui/src/model/entityStatus.ts" timestamp="1590407902912">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="11" column="21" />
+        <mark key="." line="11" column="21" />
       </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/state/projects/saga.ts" timestamp="1590406513792">
         <mark key="[" line="2" column="9" />
@@ -226,13 +231,6 @@
         <mark key="[" line="0" column="28" />
         <mark key="]" line="0" column="28" />
         <mark key="." line="0" column="28" />
-      </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/state/entities/actions.ts" timestamp="1590402718211">
-        <mark key="'" line="73" column="0" />
-        <mark key="[" line="63" column="74" />
-        <mark key="]" line="63" column="87" />
-        <mark key="." line="63" column="86" />
-        <mark key="^" line="63" column="87" />
       </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/state/projects/actions.ts" timestamp="1590406281013">
         <mark key="[" line="1" column="9" />
@@ -367,14 +365,14 @@
       <register name="i" type="4">
         <text />
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ZXhwb3J0IHR5cGUgQ3JlYXRpb25TdGF0dXNGbGFncyA9IHsKICBzdWNjZXNzOiBib29sZWFuOwogIGVycm9yOiBib29sZWFuOwogIHBlbmRpbmc6IGJvb2xlYW47CiAgbm90U3RhcnRlZDogYm9vbGVhbjsKfQo=</text>
+      <register name="*" type="4">
+        <text>creationN</text>
       </register>
       <register name="k" type="4">
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>creationN</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDcmVhdGlvblN0YXR1c0ZsYWdzXD4=</text>
