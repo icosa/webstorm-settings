@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZWxlY3RcPg==</entry>
         <entry encoding="base64">XDxsb2dFcnJvclw+</entry>
         <entry>to.throw</entry>
         <entry encoding="base64">XDxQcm9qZWN0XD4=</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxmaW5kXD4=</entry>
         <entry encoding="base64">XDxyZXBsYWNlXD4=</entry>
         <entry encoding="base64">XDxyZXNldEFsbE1vY2tzXD4=</entry>
+        <entry>as any</entry>
       </history-search>
       <history-cmd>
         <entry>145</entry>
@@ -227,14 +227,14 @@
         <mark key="." line="68" column="0" />
         <mark key="^" line="68" column="7" />
       </file>
+      <file name="C:/dev/definiens/cp2/portal-ui/src/state/multiView/selectors.ts" timestamp="1590566920909">
+        <mark key="'" line="87" column="17" />
+      </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/utils/entity/reducer.ts" timestamp="1590561929577">
         <mark key="[" line="87" column="52" />
         <mark key="]" line="87" column="54" />
         <mark key="^" line="87" column="54" />
         <mark key="." line="87" column="53" />
-      </file>
-      <file name="vm:2917" timestamp="1590518843918">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/utils/entity/reducer.test.ts" timestamp="1590562572914">
         <mark key="[" line="132" column="41" />
@@ -244,8 +244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="6" filename="C:/dev/definiens/cp2/portal-ui/src/state/annotationSets/reducer.test.ts" />
-      <jump line="35" column="9" filename="C:/dev/definiens/cp2/portal-ui/src/state/entities/saga.ts" />
       <jump line="42" column="58" filename="C:/dev/definiens/cp2/portal-ui/src/state/entities/saga.ts" />
       <jump line="14" column="10" filename="C:/dev/definiens/cp2/portal-ui/src/state/entities/reducer.test.ts" />
       <jump line="0" column="9" filename="C:/dev/definiens/cp2/portal-ui/src/state/entities/reducer.test.ts" />
@@ -344,6 +342,8 @@
       <jump line="313" column="7" filename="C:/dev/definiens/cp2/portal-ui/src/state/multiView/imageViewer/saga.test.ts" />
       <jump line="94" column="9" filename="C:/dev/definiens/cp2/portal-ui/src/state/multiView/imageViewer/saga.test.ts" />
       <jump line="312" column="14" filename="C:/dev/definiens/cp2/portal-ui/src/state/multiView/imageViewer/saga.test.ts" />
+      <jump line="6" column="7" filename="C:/dev/definiens/cp2/portal-ui/src/state/multiView/selectors.ts" />
+      <jump line="87" column="17" filename="C:/dev/definiens/cp2/portal-ui/src/state/multiView/selectors.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -364,7 +364,7 @@
         <text>Error updating slide!</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXNldEFsbE1vY2tzXD4=</text>
+        <text>as any</text>
       </register>
       <register name="0" type="4">
         <text>'annotationSetId'</text>
@@ -440,9 +440,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxyZXNldEFsbE1vY2tzXD4=</last-search>
+      <last-search>as any</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXNldEFsbE1vY2tzXD4=</last-pattern>
+      <last-pattern>as any</last-pattern>
       <last-replace>state</last-replace>
       <last-substitute>initialState</last-substitute>
       <last-dir>1</last-dir>
