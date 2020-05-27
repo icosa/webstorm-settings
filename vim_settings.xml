@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2dFcnJvclw+</entry>
         <entry>to.throw</entry>
         <entry encoding="base64">XDxQcm9qZWN0XD4=</entry>
         <entry encoding="base64">XDxTbGlkZXNQYXJ0aWFsTWV0YWRhdGFcPg==</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxyZXBsYWNlXD4=</entry>
         <entry encoding="base64">XDxyZXNldEFsbE1vY2tzXD4=</entry>
         <entry>as any</entry>
+        <entry encoding="base64">IGZhaWx1cmU=</entry>
       </history-search>
       <history-cmd>
         <entry>322</entry>
@@ -149,17 +149,12 @@
         <mark key="." line="191" column="74" />
         <mark key="^" line="191" column="75" />
       </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/utils/entity/entityUtils.ts" timestamp="1590562180887">
+      <file name="C:/dev/definiens/cp2/portal-ui/src/utils/entity/entityUtils.ts" timestamp="1590577878233">
         <mark key="'" line="146" column="33" />
-        <mark key="[" line="72" column="23" />
-        <mark key="]" line="72" column="23" />
-        <mark key="." line="70" column="57" />
-        <mark key="^" line="70" column="24" />
-      </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/state/app/actions.ts" timestamp="1590559829006">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+        <mark key="[" line="91" column="26" />
+        <mark key="]" line="91" column="26" />
+        <mark key="." line="91" column="26" />
+        <mark key="^" line="91" column="21" />
       </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/state/multiView/imageViewer/saga.test.ts" timestamp="1590562977839">
         <mark key="[" line="325" column="99" />
@@ -172,11 +167,11 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/state/entities/saga.test.ts" timestamp="1590561225199">
-        <mark key="[" line="183" column="93" />
-        <mark key="]" line="183" column="104" />
-        <mark key="." line="183" column="103" />
-        <mark key="^" line="183" column="104" />
+      <file name="C:/dev/definiens/cp2/portal-ui/src/state/entities/saga.test.ts" timestamp="1590578437738">
+        <mark key="[" line="440" column="60" />
+        <mark key="]" line="440" column="61" />
+        <mark key="." line="440" column="61" />
+        <mark key="^" line="769" column="40" />
       </file>
       <file name="/JavaScript Console" timestamp="1590562138002">
         <mark key="[" line="0" column="0" />
@@ -187,16 +182,16 @@
         <mark key="." line="36" column="91" />
         <mark key="^" line="36" column="92" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590565698285">
+      <file name="/Dummy.txt" timestamp="1590578528384">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="59" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/state/entities/selectors.ts" timestamp="1590560353563">
-        <mark key="[" line="71" column="24" />
-        <mark key="]" line="71" column="24" />
-        <mark key="^" line="71" column="110" />
-        <mark key="." line="71" column="24" />
+      <file name="C:/dev/definiens/cp2/portal-ui/src/state/entities/selectors.ts" timestamp="1590578098721">
+        <mark key="[" line="28" column="31" />
+        <mark key="]" line="28" column="31" />
+        <mark key="." line="28" column="31" />
+        <mark key="^" line="29" column="2" />
       </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/model/entityState.ts" timestamp="1590560492336">
         <mark key="[" line="39" column="0" />
@@ -207,7 +202,7 @@
       <file name="vm:2914" timestamp="1590562155548">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/state/entities/saga.ts" timestamp="1590569115767">
+      <file name="C:/dev/definiens/cp2/portal-ui/src/state/entities/saga.ts" timestamp="1590577036990">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
@@ -220,6 +215,10 @@
       </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/state/multiView/selectors.ts" timestamp="1590566920909">
         <mark key="'" line="87" column="17" />
+      </file>
+      <file name="/selectors.ts" timestamp="1590578035560">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="36" column="0" />
       </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/utils/entity/reducer.ts" timestamp="1590561929577">
         <mark key="[" line="87" column="52" />
@@ -348,20 +347,20 @@
       <register name="i" type="4">
         <text />
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+      <register name="*" type="4">
+        <text>slide</text>
       </register>
       <register name="k" type="4">
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>Error updating slide!</text>
+        <text>slide</text>
       </register>
       <register name="/" type="4">
-        <text>as any</text>
+        <text encoding="base64">IGZhaWx1cmU=</text>
       </register>
-      <register name="0" type="4">
-        <text>'annotationSetId'</text>
+      <register name="0" type="2">
+        <text encoding="base64">LyogLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSAqLwovKiAgICBBbm5vdGF0aW9uc0J5U2V0SWQgc2VsZWN0b3JzICAgICovCi8qIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0gKi8KZXhwb3J0IGNvbnN0IGFubm90YXRpb25zU2VsZWN0b3IgPSAoYW5ub3RhdGlvblNldElkOiBzdHJpbmcpOiAocm9vdFN0YXRlOiBSb290U3RhdGUpID0+IEFubm90YXRpb25bXSB8IHVuZGVmaW5lZCA9PiB7CiAgcmV0dXJuIHNlbGVjdEFkYXB0KAogICAgYW5ub3RhdGlvbnNCeVNldElkU2VsZWN0b3IsCiAgICAoYW5ub3RhdGlvbnNCeVNldElkU3RhdGUpID0+IEVudGl0eVV0aWxzLmZpbmQoYW5ub3RhdGlvbnNCeVNldElkU3RhdGUsIGFubm90YXRpb25TZXRJZCksCiAgKTsKfTsKCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
@@ -434,9 +433,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>as any</last-search>
+      <last-search encoding="base64">IGZhaWx1cmU=</last-search>
       <last-offset />
-      <last-pattern>as any</last-pattern>
+      <last-pattern encoding="base64">IGZhaWx1cmU=</last-pattern>
       <last-replace>state</last-replace>
       <last-substitute>initialState</last-substitute>
       <last-dir>1</last-dir>
