@@ -151,12 +151,6 @@
         <mark key="." line="58" column="28" />
         <mark key="^" line="91" column="21" />
       </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/state/entities/sagas/projects.saga.ts" timestamp="1590755797685">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="42" />
-        <mark key="." line="56" column="33" />
-        <mark key="^" line="56" column="34" />
-      </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/components/ProjectSelector/ProjectSelector.test.tsx" timestamp="1590761781939">
         <mark key="[" line="15" column="41" />
         <mark key="]" line="15" column="60" />
@@ -170,6 +164,12 @@
       </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/state/multiView/imageViewer/selectors.ts" timestamp="1590762117973" />
       <file name="C:/dev/definiens/cp2/portal-ui/src/model/entityState.ts" timestamp="1590760671118" />
+      <file name="C:/dev/definiens/cp2/portal-ui-api-gateway/swagger.yaml" timestamp="1590764983369">
+        <mark key="[" line="1474" column="10" />
+        <mark key="]" line="1474" column="14" />
+        <mark key="." line="1474" column="13" />
+        <mark key="^" line="1474" column="14" />
+      </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/utils/entity/reducer.ts" timestamp="1590760587144">
         <mark key="[" line="87" column="52" />
         <mark key="]" line="87" column="54" />
@@ -341,19 +341,19 @@
         <text />
       </register>
       <register name="*" type="4">
-        <text>d</text>
+        <text>id</text>
       </register>
       <register name="k" type="4">
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>id</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoaXN0b3J5XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB5aWVsZCB0YWtlTGVhZGluZyhTYWdhQWN0aW9uVHlwZS5VU0VSU19GRVRDSCwgaGFuZGxlVXNlcnNGZXRjaCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAtIGlkCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICB5aWVsZCB0YWtlTGF0ZXN0KFNhZ2FBY3Rpb25UeXBlLkdFVF9VU0VSU19MSVNULCBoYW5kbGVVc2Vyc0ZldGNoKTsK</text>
