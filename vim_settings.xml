@@ -144,13 +144,6 @@
     <globalmarks />
     <filemarks>
       <file name="C:/dev/definiens/cp2/portal-ui/src/state/entities/selectors/selectors.ts" timestamp="1590761711562" />
-      <file name="C:/dev/definiens/cp2/portal-ui/src/utils/entity/entityUtils.ts" timestamp="1590761353475">
-        <mark key="'" line="146" column="33" />
-        <mark key="[" line="58" column="28" />
-        <mark key="]" line="58" column="28" />
-        <mark key="." line="58" column="28" />
-        <mark key="^" line="91" column="21" />
-      </file>
       <file name="/a.dummy" timestamp="1590769056849">
         <mark key="[" line="0" column="8" />
       </file>
@@ -165,6 +158,12 @@
         <mark key="]" line="15" column="60" />
         <mark key="^" line="15" column="60" />
         <mark key="." line="15" column="59" />
+      </file>
+      <file name="C:/dev/definiens/cp2/portal-ui/src/services/fileDetection.service.ts" timestamp="1590770962829">
+        <mark key="[" line="214" column="54" />
+        <mark key="]" line="1" column="66" />
+        <mark key="^" line="155" column="65" />
+        <mark key="." line="155" column="64" />
       </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/state/entities/sagas/saga.ts" timestamp="1590764468249">
         <mark key="[" line="17" column="0" />
@@ -209,12 +208,17 @@
         <mark key="." line="36" column="51" />
         <mark key="^" line="36" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590769507283">
+      <file name="/Dummy.txt" timestamp="1590770971244">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="59" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/components/ProjectSelector/ProjectSelector.tsx" timestamp="1590761873148" />
+      <file name="C:/dev/definiens/cp2/portal-ui/src/components/ProjectSelector/ProjectSelector.tsx" timestamp="1590770401811">
+        <mark key="[" line="9" column="9" />
+        <mark key="]" line="9" column="9" />
+        <mark key="^" line="87" column="38" />
+        <mark key="." line="9" column="9" />
+      </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/state/entities/actions.ts" timestamp="1590769213678">
         <mark key="[" line="0" column="36" />
         <mark key="]" line="0" column="36" />
@@ -341,7 +345,7 @@
         <text />
       </register>
       <register name="*" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'portal-ui-api-gateway-fetch-client'</text>
       </register>
       <register name="k" type="4">
         <text>kjkjllllllllllljjkkhhhh</text>
@@ -352,8 +356,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxjcmVhdGVkQXRcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAtIGNyZWF0ZWRBdAo=</text>
+      <register name="0" type="4">
+        <text>'portal-ui-api-gateway-fetch-client'</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAtIG5hbWUK</text>
