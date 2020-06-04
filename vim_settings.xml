@@ -27,8 +27,6 @@
         <entry encoding="base64">XDxyaWdodEFsaWduZWRDb250cm9sc1w+</entry>
       </history-search>
       <history-cmd>
-        <entry>269t310</entry>
-        <entry>269t330</entry>
         <entry>331t362</entry>
         <entry>42t53</entry>
         <entry>147</entry>
@@ -46,6 +44,8 @@
         <entry>we</entry>
         <entry>qw</entry>
         <entry>2</entry>
+        <entry>w2</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -143,11 +143,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/state/projectUsers/saga.ts" timestamp="1591249516730">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="15" column="0" />
+      <file name="C:/dev/definiens/cp2/portal-ui/src/state/projectUsers/saga.ts" timestamp="1591252626105">
+        <mark key="[" line="39" column="8" />
+        <mark key="]" line="39" column="39" />
+        <mark key="." line="39" column="38" />
+        <mark key="^" line="39" column="39" />
       </file>
       <file name="/a.dummy" timestamp="1591215659302">
         <mark key="[" line="0" column="6" />
@@ -166,17 +166,17 @@
         <mark key="." line="105" column="39" />
         <mark key="^" line="25" column="29" />
       </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/pages/ProjectUsersPage/ProjectUsersPage.tsx" timestamp="1591214597552">
-        <mark key="[" line="45" column="23" />
-        <mark key="]" line="47" column="35" />
-        <mark key="." line="47" column="34" />
-        <mark key="^" line="47" column="35" />
+      <file name="C:/dev/definiens/cp2/portal-ui/src/pages/ProjectUsersPage/ProjectUsersPage.tsx" timestamp="1591251998492">
+        <mark key="[" line="36" column="6" />
+        <mark key="]" line="36" column="24" />
+        <mark key="." line="36" column="23" />
+        <mark key="^" line="36" column="24" />
       </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/state/projectUsers/actions.ts" timestamp="1591248701735">
-        <mark key="[" line="10" column="71" />
-        <mark key="]" line="10" column="78" />
-        <mark key="." line="10" column="77" />
-        <mark key="^" line="10" column="78" />
+      <file name="C:/dev/definiens/cp2/portal-ui/src/state/projectUsers/actions.ts" timestamp="1591251895073">
+        <mark key="[" line="10" column="82" />
+        <mark key="]" line="10" column="82" />
+        <mark key="." line="10" column="82" />
+        <mark key="^" line="10" column="77" />
       </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/state/entities/sagas/projectMembers.saga.ts" timestamp="1591249286407">
         <mark key="[" line="20" column="0" />
@@ -200,11 +200,11 @@
         <mark key="[" line="105" column="0" />
         <mark key="]" line="105" column="44" />
       </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/components/ProjectUsersAdd/ProjectUsersAdd.tsx" timestamp="1591215463474">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="33" column="61" />
+      <file name="C:/dev/definiens/cp2/portal-ui/src/components/ProjectUsersAdd/ProjectUsersAdd.tsx" timestamp="1591251829989">
+        <mark key="[" line="34" column="25" />
+        <mark key="]" line="34" column="38" />
+        <mark key="." line="34" column="37" />
+        <mark key="^" line="34" column="38" />
       </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/components/ProjectUsersList/ProjectUsersList.tsx" timestamp="1591214553159">
         <mark key="[" line="8" column="0" />
@@ -222,11 +222,11 @@
         <mark key="." line="25" column="27" />
         <mark key="^" line="25" column="28" />
       </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/services/project.service.ts" timestamp="1591248796012">
-        <mark key="[" line="12" column="19" />
-        <mark key="]" line="12" column="30" />
-        <mark key="." line="12" column="29" />
-        <mark key="^" line="12" column="30" />
+      <file name="C:/dev/definiens/cp2/portal-ui/src/services/project.service.ts" timestamp="1591252423017">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="16" column="11" />
       </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/utils/entity/reducer.test.ts" timestamp="1591203458375">
         <mark key="'" line="11" column="2" />
@@ -347,23 +347,23 @@
       <register name="i" type="4">
         <text />
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="*" type="4">
+        <text>EntityUtils.find(usersState, userId)</text>
       </register>
       <register name="k" type="4">
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>EntityUtils.find(usersState, userId)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyaWdodEFsaWduZWRDb250cm9sc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHlpZWxkIHB1dChQcm9qZWN0TWVtYmVyQWN0aW9uQ3JlYXRvcnMuZmV0Y2hFbnRpdGllc1N1Y2Nlc3MobWVtYmVycywgKHVzZXIpID0+IHVzZXIudXNlcklkKSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJlc3VsdHM6IFByb2plY3RNZW1iZXJbXVtdID0geWllbGQgYWxsKFsKICAgICAgdXNlcnMubWFwKCh1c2VyKSA9PiBjYWxsKGFkZE1lbWJlcjJQcm9qZWN0LCBwcm9qZWN0SWQsIHsgdXNlcklkOiB1c2VyLnVzZXJJZCwgcm9sZSB9KSksCiAgICBdKTsKICAgIGNvbnN0IG1lbWJlcnMgPSBwaWNrTGFyZ2VzdENvbGxlY3Rpb24ocmVzdWx0cyk7CiAgICBpZiAoIW1lbWJlcnMgfHwgbWVtYmVycy5sZW5ndGggPT09IDApIHsKICAgICAgeWllbGQqIGhhbmRsZUFkZE5ld1VzZXJzRmFpbHVyZSgnbm8gbWVtYmVycyByZXR1cm5lZCcpOwogICAgICByZXR1cm47CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -400,31 +400,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHlpZWxkIHB1dChBcHBBY3Rpb25DcmVhdG9ycy5uYXZpZ2F0ZVRvU2xpZGVzKHByb2plY3QuaWQpKTsK</text>
+        <text encoding="base64">ICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiB1bmRlZmluZWQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxldCBjb2RlID0gRXJyb3JDb2Rlcy5QUk9KRUNUX0NSRUFUSU9OX0ZBSUxFRDsKICAgIGxldCBtZXNzYWdlID0gJ1Byb2plY3QgY3JlYXRpb24gZmFpbGVkISc7CiAgICBjb25zdCBlcnJvckluZm8gPSB5aWVsZCBjYWxsKGdldEVycm9ySW5mb0Zyb21SZXNwb25zZSwgZSk7CiAgICBpZiAoZXJyb3JJbmZvKSB7CiAgICAgIGNvZGUgPSBlcnJvckluZm8uY29kZTsKICAgICAgbWVzc2FnZSA9IGVycm9ySW5mby5tZXNzYWdlOwogICAgICBpZiAoZXJyb3JJbmZvLmNvZGUgPT09IEVycm9yQ29kZXMuUFJPSkVDVF9DUkVBVElPTl9GQUlMRURfQUxSRUFEWV9FWElTVFMpIHsKICAgICAgICBtZXNzYWdlID0gYFRoZSBwcm9qZWN0IG5hbWU6ICR7cHJvamVjdE5hbWV9IGlzIGFscmVhZHkgaW4gdXNlLiBQbGVhc2Ugc2VsZWN0IGEgZGlmZmVyZW50IG5hbWUgZm9yIHRoaXMgcHJvamVjdGA7CiAgICAgIH0KICAgIH0KICAgIHlpZWxkKiBoYW5kbGVQcm9qZWN0Q3JlYXRpb25GYWlsdXJlKGNvZGUsIG1lc3NhZ2UpOwo=</text>
+        <text encoding="base64">ZnVuY3Rpb24qIGFkZE5ld1Byb2plY3RNZW1iZXJzKHByb2plY3RJZDogc3RyaW5nLCBuZXdQcm9qZWN0VXNlcnM6IFVzZXJbXSwgcm9sZTogTWVtYmVyUm9sZXMpIHsKICBjb25zdCByZXN1bHRzOiBQcm9qZWN0TWVtYmVyW11bXSA9IHlpZWxkIGFsbChbCiAgICBuZXdQcm9qZWN0VXNlcnMubWFwKCh1c2VyKSA9PiBjYWxsKGFkZE1lbWJlcjJQcm9qZWN0LCBwcm9qZWN0SWQsIHsgdXNlcklkOiB1c2VyLnVzZXJJZCwgcm9sZSB9KSksCiAgXSk7CiAgY29uc3QgbWVtYmVycyA9IHBpY2tMYXJnZXN0Q29sbGVjdGlvbihyZXN1bHRzKTsKICBpZiAoIW1lbWJlcnMgfHwgbWVtYmVycy5sZW5ndGggPT09IDApIHsKICAgIHlpZWxkKiBoYW5kbGVBZGROZXdVc2Vyc0ZhaWx1cmUoJ25vIG1lbWJlcnMgcmV0dXJuZWQnKTsKICAgIHJldHVybjsKICB9Cn0KCg==</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IHsgQWN0aW9uVHlwZXMgfSBmcm9tICcuLi9hcHAvYWN0aW9ucyc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnVuY3Rpb24qIGhhbmRsZUFkZFByb2plY3RVc2VycyhhY3Rpb246IEFjdGlvbkJvZHk8dHlwZW9mIFByb2plY3RVc2Vyc0FjdGlvbkNyZWF0b3JzLmFkZFVzZXJzVG9Qcm9qZWN0KCk+KSB7CiAgCn0KCg==</text>
+        <text encoding="base64">ZnVuY3Rpb24qIGFkZE5ld1Byb2plY3RNZW1iZXJzKCkgewoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgYXJyYXkyT2JqZWN0TWFwLCBoYXNPd25Qcm9wZXJ0eVNhZmUgfSBmcm9tICcuLi8uLi91dGlscy9qc1V0aWxzJzsK</text>
+        <text encoding="base64">ICAgIC8vIG5lZWQgdG8gZW5zdXJlIHRoZSB1c2VycyBhcmUgaW5zdGF0ZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNldFNlbGVjdGVkVXNlcnMobmV3VmFsdWUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
