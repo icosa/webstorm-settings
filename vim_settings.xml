@@ -143,11 +143,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/state/projectUsers/saga.ts" timestamp="1591216032774">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="22" column="81" />
+      <file name="C:/dev/definiens/cp2/portal-ui/src/state/projectUsers/saga.ts" timestamp="1591248869843">
+        <mark key="[" line="19" column="32" />
+        <mark key="]" line="19" column="32" />
+        <mark key="." line="19" column="32" />
+        <mark key="^" line="19" column="33" />
       </file>
       <file name="/a.dummy" timestamp="1591215659302">
         <mark key="[" line="0" column="6" />
@@ -172,11 +172,11 @@
         <mark key="." line="47" column="34" />
         <mark key="^" line="47" column="35" />
       </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/state/projectUsers/actions.ts" timestamp="1591215697506">
-        <mark key="[" line="8" column="109" />
-        <mark key="]" line="8" column="130" />
-        <mark key="." line="8" column="129" />
-        <mark key="^" line="8" column="130" />
+      <file name="C:/dev/definiens/cp2/portal-ui/src/state/projectUsers/actions.ts" timestamp="1591248701735">
+        <mark key="[" line="10" column="71" />
+        <mark key="]" line="10" column="78" />
+        <mark key="." line="10" column="77" />
+        <mark key="^" line="10" column="78" />
       </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/state/app/saga.ts" timestamp="1591202590063">
         <mark key="[" line="47" column="0" />
@@ -206,13 +206,6 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="30" />
       </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/state/entities/sagas/usersFiltered.saga.ts" timestamp="1591200152936">
-        <mark key="'" line="7" column="7" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="11" column="13" />
-      </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/state/entities/sagas/saga.test.ts" timestamp="1591203002525">
         <mark key="[" line="0" column="9" />
         <mark key="]" line="0" column="19" />
@@ -224,6 +217,12 @@
         <mark key="]" line="25" column="28" />
         <mark key="." line="25" column="27" />
         <mark key="^" line="25" column="28" />
+      </file>
+      <file name="C:/dev/definiens/cp2/portal-ui/src/services/project.service.ts" timestamp="1591248796012">
+        <mark key="[" line="12" column="19" />
+        <mark key="]" line="12" column="30" />
+        <mark key="." line="12" column="29" />
+        <mark key="^" line="12" column="30" />
       </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/utils/entity/reducer.test.ts" timestamp="1591203458375">
         <mark key="'" line="11" column="2" />
@@ -344,20 +343,20 @@
       <register name="i" type="4">
         <text />
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgIHlpZWxkIHB1dChBcHBBY3Rpb25DcmVhdG9ycy5uYXZpZ2F0ZVRvU2xpZGVzKHByb2plY3QuaWQpKTsK</text>
+      <register name="*" type="4">
+        <text>s</text>
       </register>
       <register name="k" type="4">
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyaWdodEFsaWduZWRDb250cm9sc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHlpZWxkIHB1dChDdXJyZW50U2xpZGVBbm5vdGF0aW9uU2V0c0FjdGlvbkNyZWF0b3JzLnVwZGF0ZUNyZWF0aW9uU3RhdHVzKEVudGl0eVJlcXVlc3RTdGF0dXMuRmFpbGVkKSk7CiAgICB5aWVsZCBwdXQoQXBwQWN0aW9uQ3JlYXRvcnMuYWRkTm90aWZpY2F0aW9uKGBBbm5vdGF0aW9uIHNldCBjcmVhdGlvbiAtICR7ZS5tZXNzYWdlfWAsICdlcnJvcicpKTsK</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IGdldFByb2plY3RNZW1iZXJzID0gYXN5bmMgKHByb2plY3RJZDogc3RyaW5nKTogUHJvbWlzZTxQcm9qZWN0TWVtYmVyW10+ID0+IHsKICBjb25zdCBwcm9qZWN0QXBpID0gYXdhaXQgZ2V0UHJvamVjdEFwaSgpOwogIHJldHVybiBhd2FpdCBwcm9qZWN0QXBpLmdldFByb2plY3RNZW1iZXJzKHByb2plY3RJZCk7Cn07Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHlpZWxkIHB1dChBcHBBY3Rpb25DcmVhdG9ycy5uYXZpZ2F0ZVRvU2xpZGVzKHByb2plY3QuaWQpKTsK</text>
