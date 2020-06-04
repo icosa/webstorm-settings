@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZXBsYWNlXD4=</entry>
         <entry encoding="base64">XDxyZXNldEFsbE1vY2tzXD4=</entry>
         <entry>as any</entry>
         <entry encoding="base64">IGZhaWx1cmU=</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDx0cmlnZ2VyS2V5R2VuZXJhdGlvblw+</entry>
         <entry encoding="base64">XDxoYW5kbGVHZW5lcmF0ZUtleUNvbmZpcm1lZFw+</entry>
         <entry encoding="base64">XDxTd2l0Y2hcPg==</entry>
+        <entry encoding="base64">XDx9XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>147</entry>
@@ -143,12 +143,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/fragment.js" timestamp="1591266005420">
-        <mark key="[" line="0" column="0" />
+      <file name="C:/dev/definiens/cp2/portal-ui/src/state/entities/selectors/projects.selectors.test.ts" timestamp="1591275523192">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="47" column="8" />
       </file>
-      <file name="/SideNavBar.tsx" timestamp="1591266909549">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="69" />
+      <file name="C:/dev/definiens/cp2/portal-ui/src/utils/entity/entityUtils.ts" timestamp="1591275245666">
+        <mark key="[" line="217" column="2" />
+        <mark key="]" line="218" column="0" />
+        <mark key="." line="218" column="0" />
+        <mark key="^" line="218" column="0" />
       </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/state/app/saga.test.ts" timestamp="1591269879592" />
       <file name="C:/dev/definiens/cp2/portal-ui/src/pages/ProjectPage/ProjectPage.test.tsx" timestamp="1591268068359">
@@ -156,13 +159,6 @@
         <mark key="]" line="55" column="24" />
         <mark key="." line="55" column="23" />
         <mark key="^" line="55" column="24" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1591266094189">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/App.test.tsx" timestamp="1591265802040">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="90" />
       </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/state/entities/reducer.test.ts" timestamp="1591269399829">
         <mark key="[" line="41" column="23" />
@@ -176,10 +172,20 @@
         <mark key="^" line="40" column="51" />
         <mark key="." line="40" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591268074984">
+      <file name="/Dummy.txt" timestamp="1591275806793">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="59" />
         <mark key="." line="0" column="1" />
+      </file>
+      <file name="/entityUtils.ts" timestamp="1591275239232">
+        <mark key="[" line="222" column="0" />
+        <mark key="]" line="227" column="3" />
+      </file>
+      <file name="C:/dev/definiens/cp2/portal-ui/src/utils/entity/entityUtils.test.ts" timestamp="1591275788695">
+        <mark key="[" line="361" column="22" />
+        <mark key="]" line="361" column="27" />
+        <mark key="." line="361" column="26" />
+        <mark key="^" line="361" column="27" />
       </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/state/entities/sagas/projects.saga.test.ts" timestamp="1591274001888">
         <mark key="[" line="101" column="0" />
@@ -329,22 +335,22 @@
         <text />
       </register>
       <register name="*" type="4">
-        <text>user</text>
+        <text>true</text>
       </register>
       <register name="k" type="4">
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>user</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTd2l0Y2hcPg==</text>
+        <text encoding="base64">XDx9XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBiZWZvcmVFYWNoKCgpID0+IHsKICAgIC8vIGplc3QuY2xlYXJBbGxNb2NrcygpOwogICAgc2FmZUNhc3Q8amVzdC5Nb2NrPihwcm9qZWN0TWVtYmVyc1NlbGVjdG9yKS5tb2NrUmV0dXJuVmFsdWVPbmNlKGluaXRpYWxQcm9qZWN0TWVtYmVyc1N0YXRlKTsKICB9KTsK</text>
+        <text encoding="base64">ICAgICAgY29uc3Qgc3RhdGU6IFJlcXVlc3RTdGF0dXNGbGFncyA9IHsKICAgICAgICBzdWNjZWVkZWQ6IGZhbHNlLAogICAgICAgIGZhaWxlZDogZmFsc2UsCiAgICAgICAgcGVuZGluZzogZmFsc2UsCiAgICAgICAgbm90U3RhcnRlZDogZmFsc2UsCiAgICAgIH07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBiZWZvcmVFYWNoKCgpID0+IHsKICAgIHNhZmVDYXN0PGplc3QuTW9jaz4ocHJvamVjdE1lbWJlcnNTZWxlY3RvcikubW9ja1JldHVyblZhbHVlT25jZShpbml0aWFsUHJvamVjdE1lbWJlcnNTdGF0ZSk7CiAgfSk7Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -381,31 +387,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAvLyBqZXN0LmNsZWFyQWxsTW9ja3MoKTsK</text>
+        <text encoding="base64">ICBiZWZvcmVFYWNoKCgpID0+IHsKICAgIHNhZmVDYXN0PGplc3QuTW9jaz4ocHJvamVjdE1lbWJlcnNTZWxlY3RvcikubW9ja1JldHVyblZhbHVlT25jZShpbml0aWFsUHJvamVjdE1lbWJlcnNTdGF0ZSk7CiAgfSk7Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNhZmVDYXN0PGplc3QuTW9jaz4ocHJvamVjdE1lbWJlcnNTZWxlY3RvcikubW9ja1JldHVyblZhbHVlT25jZShpbml0aWFsUHJvamVjdE1lbWJlcnNTdGF0ZSk7Cg==</text>
+        <text encoding="base64">CiAgICAvLyBqZXN0LmNsZWFyQWxsTW9ja3MoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgc2FmZUNhc3Q8amVzdC5Nb2NrPihwcm9qZWN0TWVtYmVyc1NlbGVjdG9yKS5tb2NrUmV0dXJuVmFsdWVPbmNlKGluaXRpYWxQcm9qZWN0TWVtYmVyc1N0YXRlKTsK</text>
+        <text encoding="base64">ICAgIHNhZmVDYXN0PGplc3QuTW9jaz4ocHJvamVjdE1lbWJlcnNTZWxlY3RvcikubW9ja1JldHVyblZhbHVlT25jZShpbml0aWFsUHJvamVjdE1lbWJlcnNTdGF0ZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9KTsK</text>
+        <text encoding="base64">ICAgICAgc2FmZUNhc3Q8amVzdC5Nb2NrPihwcm9qZWN0TWVtYmVyc1NlbGVjdG9yKS5tb2NrUmV0dXJuVmFsdWVPbmNlKGluaXRpYWxQcm9qZWN0TWVtYmVyc1N0YXRlKTsK</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgRW50aXRpZXNTYWdhQWN0aW9uQ3JlYXRvcnMucHJvamVjdHNGZXRjaCh0cnVlKSwK</text>
+        <text encoding="base64">ICB9KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNhZmVDYXN0PGplc3QuTW9jaz4ocHJvamVjdHNTZWxlY3RvcikubW9ja1JldHVyblZhbHVlT25jZShpbml0aWFsUHJvamVjdFN0YXRlKTsK</text>
+        <text encoding="base64">ICAgICAgRW50aXRpZXNTYWdhQWN0aW9uQ3JlYXRvcnMucHJvamVjdHNGZXRjaCh0cnVlKSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHNhZmVDYXN0PGplc3QuTW9jaz4ocHJvamVjdHNTZWxlY3RvcikubW9ja1JldHVyblZhbHVlT25jZShpbml0aWFsUHJvamVjdFN0YXRlKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgc2FmZUNhc3Q8amVzdC5Nb2NrPihwcm9qZWN0TWVtYmVyc1NlbGVjdG9yKS5tb2NrUmV0dXJuVmFsdWVPbmNlKGluaXRpYWxQcm9qZWN0TWVtYmVyc1N0YXRlKTsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -414,12 +420,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxTd2l0Y2hcPg==</last-search>
+      <last-search encoding="base64">XDx9XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTd2l0Y2hcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx9XD4=</last-pattern>
       <last-replace>state</last-replace>
       <last-substitute>initialState</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
