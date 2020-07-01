@@ -143,7 +143,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1593608259229">
+      <file name="/Dummy.txt" timestamp="1593610194131">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="59" />
         <mark key="." line="0" column="1" />
@@ -169,11 +169,11 @@
         <mark key="." line="46" column="74" />
         <mark key="^" line="46" column="75" />
       </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/components/ConfirmDialog/ConfirmDialog.test.tsx" timestamp="1593609112406">
-        <mark key="[" line="35" column="37" />
-        <mark key="]" line="35" column="38" />
-        <mark key="." line="35" column="37" />
-        <mark key="^" line="35" column="38" />
+      <file name="C:/dev/definiens/cp2/portal-ui/src/components/ConfirmDialog/ConfirmDialog.test.tsx" timestamp="1593610180344">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="^" line="49" column="29" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/components/ProjectMembersAdd/ProjectMembersAdd.tsx" timestamp="1593089589770">
         <mark key="[" line="86" column="42" />
@@ -203,23 +203,13 @@
         <mark key="." line="71" column="4" />
         <mark key="^" line="70" column="59" />
       </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/state/entities/actions.ts" timestamp="1591366587624">
-        <mark key="[" line="70" column="70" />
-        <mark key="]" line="70" column="81" />
-        <mark key="." line="70" column="80" />
-        <mark key="^" line="70" column="81" />
+      <file name="C:/dev/definiens/cp2/portal-ui/src/components/ProjectMembersList/ProjectMembersList.test.tsx" timestamp="1593610602460">
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
+        <mark key="^" line="78" column="75" />
       </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/components/ProjectMembersList/ProjectMembersList.test.tsx" timestamp="1593608910619">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="46" column="38" />
-      </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/pages/ProjectMembersPage/ProjectMembersPage.tsx" timestamp="1591366568779">
-        <mark key="[" line="44" column="65" />
-        <mark key="]" line="44" column="83" />
-        <mark key="^" line="44" column="83" />
-        <mark key="." line="44" column="82" />
-      </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/components/ConfirmDialog/ConfirmDialog.tsx" timestamp="1593605357085">
+      <file name="C:/dev/definiens/cp2/portal-ui/src/components/ConfirmDialog/ConfirmDialog.tsx" timestamp="1593610492315">
         <mark key="'" line="15" column="96" />
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -256,7 +246,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="4" filename="C:/dev/definiens/cp2/portal-ui/src/components/CreateProject/CreateProject.tsx" />
       <jump line="62" column="6" filename="C:/dev/definiens/cp2/portal-ui/src/components/CreateProject/CreateProject.tsx" />
       <jump line="21" column="9" filename="C:/dev/definiens/cp2/portal-ui/src/state/multiView/imageViewer/saga.ts" />
       <jump line="68" column="71" filename="C:/dev/definiens/cp2/portal-ui/src/state/multiView/imageViewer/saga.ts" />
@@ -356,6 +345,7 @@
       <jump line="2" column="2" filename="C:/dev/definiens/cp2/portal-ui/src/components/ProjectMembersList/ProjectMembersList.test.tsx" />
       <jump line="95" column="41" filename="C:/dev/definiens/cp2/portal-ui/src/components/ProjectMembersList/ProjectMembersList.test.tsx" />
       <jump line="5" column="2" filename="C:/dev/definiens/cp2/portal-ui/src/components/ProjectMembersList/ProjectMembersList.test.tsx" />
+      <jump line="78" column="36" filename="C:/dev/definiens/cp2/portal-ui/src/components/ProjectMembersList/ProjectMembersList.test.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -366,23 +356,23 @@
       <register name="i" type="4">
         <text />
       </register>
-      <register name="*" type="4">
-        <text>}</text>
+      <register name="*" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="k" type="4">
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSb3dOb2RlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBpdCgnc2hvdWxkIHJlbmRlciBjb3JyZWN0bHknLCAoKSA9PiB7CiAgICBjb25zdCBjb21wb25lbnQgPSBzaGFsbG93Q29tcG9uZW50KCk7CiAgICBleHBlY3QoY29tcG9uZW50KS50b0hhdmVMZW5ndGgoMSk7CiAgfSk7Cg==</text>
+        <text encoding="base64">ICAgIGV4cGVjdChjb21wb25lbnQuZmluZChDb25maXJtRGlhbG9nKS5wcm9wKCdzaG93JykpLnRvU3RyaWN0RXF1YWwoZmFsc2UpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdCgxKS50b0JlKDEpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -419,31 +409,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgLy8gZXhwZWN0KGNvbXBvbmVudC5maW5kKERpYWxvZykucHJvcCgnb3BlbicpKS50b1N0cmljdEVxdWFsKHRydWUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIC8vIGV4cGVjdChjb21wb25lbnQuZmluZChEaWFsb2cpLnByb3AoJ29wZW4nKSkudG9TdHJpY3RFcXVhbChmYWxzZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXhwb3J0IHt9Owo=</text>
+        <text encoding="base64">ICAgIC8vIGNvbXBvbmVudC5maW5kKCcuY29uZmlybScpLnNpbXVsYXRlKCdjbGljaycpOwogICAgLy8gY29tcG9uZW50LnVwZGF0ZSgpOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">PD4KICAgICAgICAgIFBsZWFzZSBjb25maXJtIHRoYXQgeW91IHdhbnQgdG8gcmVtb3ZlIHRoZSBmb2xsb3dpbmcgbWVtYmVycyBmcm9tIHRoZSBwcm9qZWN0CiAgICAgICAgICAmcXVvdDs8Yj57Y3VycmVudFByb2plY3ROYW1lfTwvYj4mcXVvdDsKICAgICAgICA8Lz4=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIC8vIGNvbXBvbmVudC51cGRhdGUoKTsK</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUHJvamVjdE1lbWJlciB9IGZyb20gJy4uLy4uL21vZGVsL3Byb2plY3RNZW1iZXInOwo=</text>
+        <text encoding="base64">ICAgIC8vIGNvbXBvbmVudC5maW5kKCcuY2FuY2VsJykuc2ltdWxhdGUoJ2NsaWNrJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTWVtYmVyUm9sZXMgfSBmcm9tICdwb3J0YWwtdWktYXBpLWdhdGV3YXktZmV0Y2gtY2xpZW50JzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJyZW50UHJvamVjdE5hbWU9J3Byb2plY3ROYW1lJwogICAgICAgIGN1cnJlbnRSb2xlPXtyb2xlfQogICAgICAgIG9uRGVsZXRlTWVtYmVycz17bW9ja09uRGVsZXRlTWVtYmVyc30KICAgICAgICBvblVwZGF0ZU1lbWJlclJvbGU9e21vY2tPblVwZGF0ZU1lbWJlclJvbGV9CiAgICAgICAgcHJvamVjdFVzZXJzPXt1c2Vyc30K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUHJvamVjdE1lbWJlcnNMaXN0IH0gZnJvbSAnLi4vUHJvamVjdE1lbWJlcnNMaXN0L1Byb2plY3RNZW1iZXJzTGlzdCc7Cg==</text>
+        <text encoding="base64">CiAgaXQoJ3Nob3VsZCBub3QgcmVuZGVyIGRpYWxvZyB3aGVuIHNob3cgZmxhZyBpcyBzZXQgdG8gZmFsc2UnLCAoKSA9PiB7CiAgICBjb25zdCBjb21wb25lbnQgPSBzaGFsbG93Q29tcG9uZW50KHsgc2hvdzogZmFsc2UgfSk7CiAgICBleHBlY3QoY29tcG9uZW50LmZpbmQoRGlhbG9nKSkudG9IYXZlTGVuZ3RoKDApOwogIH0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
