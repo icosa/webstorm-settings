@@ -215,12 +215,12 @@
       <file name="/JavaScript Console" timestamp="1591368206737">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataList/SlideMetadataList.tsx" timestamp="1593590452320">
+      <file name="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataList/SlideMetadataList.tsx" timestamp="1593592742644">
         <mark key="'" line="60" column="23" />
-        <mark key="[" line="82" column="53" />
-        <mark key="]" line="82" column="55" />
-        <mark key="." line="82" column="54" />
-        <mark key="^" line="82" column="55" />
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
+        <mark key="." line="107" column="0" />
+        <mark key="^" line="113" column="24" />
       </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/utils/agGrid/typedFields.ts" timestamp="1591365182041">
         <mark key="'" line="193" column="18" />
@@ -357,8 +357,8 @@
       <register name="i" type="4">
         <text />
       </register>
-      <register name="*" type="4">
-        <text>:</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgICAgLy8gU2hvdyBwcm9tcHQgZGlhbG9nCiAgICAgIC8vIE9ubHkgY29udGludWUgaWYgb2sK</text>
       </register>
       <register name="k" type="4">
         <text>kjkjllllllllllljjkkhhhh</text>
@@ -373,7 +373,7 @@
         <text encoding="base64">ICBjb25zdCBbY29uZmlybWF0aW9uT3Blbiwgc2V0Q29uZmlybWF0aW9uT3Blbl0gPSB1c2VTdGF0ZShmYWxzZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLy8gY2hlY2sgaWYgYW55dGhpbmcgZmlsdGVyZWQK</text>
+        <text encoding="base64">ICAgICAgLy8gU2hvdyBwcm9tcHQgZGlhbG9nCiAgICAgIC8vIE9ubHkgY29udGludWUgaWYgb2sK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -410,31 +410,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBDaGlwLAo=</text>
+        <text encoding="base64">ICAgICAgLy8gY2hlY2sgaWYgYW55dGhpbmcgZmlsdGVyZWQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRmlsdGVyIGFjdGl2ZQogICAgICAgICAgICBQbGVhc2UgY29uZmlybSB0aGF0IHlvdSB3YW50IHRvIHJlbW92ZSB0aGUgZm9sbG93aW5nIG1lbWJlcnMgZnJvbSB0aGUgcHJvamVjdAo=</text>
+        <text encoding="base64">ICAgICAgLy8gY2hlY2sgaWYgYW55dGhpbmcgZmlsdGVyZWQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJnF1b3Q7PGI+e2N1cnJlbnRQcm9qZWN0TmFtZX08L2I+JnF1b3Q7Ogo=</text>
+        <text encoding="base64">ICBDaGlwLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNldENvbmZpcm1hdGlvbk9wZW4oZmFsc2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgRmlsdGVyIGFjdGl2ZQogICAgICAgICAgICBQbGVhc2UgY29uZmlybSB0aGF0IHlvdSB3YW50IHRvIHJlbW92ZSB0aGUgZm9sbG93aW5nIG1lbWJlcnMgZnJvbSB0aGUgcHJvamVjdAo=</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJnF1b3Q7PGI+e2N1cnJlbnRQcm9qZWN0TmFtZX08L2I+JnF1b3Q7Ogo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxpc3RFdmVudEhhbmRsZXJzLmhhbmRsZUV4cG9ydChncmlkQXBpLmN1cnJlbnQsIGN1cnJlbnRQcm9qZWN0LCBleHBvcnRUeXBlKTsK</text>
+        <text encoding="base64">ICAgIHNldENvbmZpcm1hdGlvbk9wZW4oZmFsc2UpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPXt1c2Vyc1RvRGVsZXRlQ2xhc3N9PgogICAgICAgICAgICB7dXNlcnNUb0RlbGV0ZS5tYXAoKHsgZGF0YSB9KSA9PiA8Q2hpcCBrZXk9e2RhdGEuZW1haWx9IGxhYmVsPXtkYXRhLmVtYWlsfSAvPil9CiAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGxpc3RFdmVudEhhbmRsZXJzLmhhbmRsZUV4cG9ydChncmlkQXBpLmN1cnJlbnQsIGN1cnJlbnRQcm9qZWN0LCBleHBvcnRUeXBlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
