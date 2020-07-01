@@ -211,6 +211,12 @@
       <file name="/JavaScript Console" timestamp="1591368206737">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataList/SlideMetadataList.tsx" timestamp="1593588214785">
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="100" column="28" />
+        <mark key="^" line="100" column="28" />
+        <mark key="." line="100" column="27" />
+      </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/utils/agGrid/typedFields.ts" timestamp="1591365182041">
         <mark key="'" line="193" column="18" />
         <mark key="[" line="193" column="0" />
@@ -347,7 +353,7 @@
         <text />
       </register>
       <register name="*" type="4">
-        <text>p</text>
+        <text encoding="base64">KGV4cG9ydFR5cGU6IEV4cG9ydFR5cGUpID0+CiAgICAgICAgICBsaXN0RXZlbnRIYW5kbGVycy5oYW5kbGVFeHBvcnQoZ3JpZEFwaS5jdXJyZW50LCBjdXJyZW50UHJvamVjdCwgZXhwb3J0VHlwZSk=</text>
       </register>
       <register name="k" type="4">
         <text>kjkjllllllllllljjkkhhhh</text>
@@ -359,10 +365,10 @@
         <text encoding="base64">XDxoYW5kbGVWYWx1ZVNldFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgeWllbGQgcHV0KEFwcEFjdGlvbkNyZWF0b3JzLmFkZE5vdGlmaWNhdGlvbignT25lIG9yIG1vcmUgc2xpZGUocykgd2VyZSBub3QgdXBkYXRlZCEnLCAnZXJyb3InKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGxpc3RFdmVudEhhbmRsZXJzLmhhbmRsZUV4cG9ydChncmlkQXBpLmN1cnJlbnQsIGN1cnJlbnRQcm9qZWN0LCBleHBvcnRUeXBlKX0K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">KGV4cG9ydFR5cGU6IEV4cG9ydFR5cGUpID0+CiAgICAgICAgICBsaXN0RXZlbnRIYW5kbGVycy5oYW5kbGVFeHBvcnQoZ3JpZEFwaS5jdXJyZW50LCBjdXJyZW50UHJvamVjdCwgZXhwb3J0VHlwZSk=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -402,28 +408,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhcmFtcy5uZXdWYWx1ZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBQcm9qZWN0TWVtYmVyQWN0aW9uQ3JlYXRvcnMuZmV0Y2hFbnRpdGllc1N1Y2Nlc3MoW10pLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBBcHBBY3Rpb25DcmVhdG9ycy5hZGROb3RpZmljYXRpb24oJ1Byb2plY3QgTWVtYmVycyB1cGRhdGUgLSBmYWlsZWQgdG8gdXBkYXRlIG1lbWJlcicsICdlcnJvcicpLAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhcmFtcy5uZXdWYWx1ZSk7Cg==</text>
       </register>
       <register name="u" type="4">
         <text>uuuuuhhhhh</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGl0KCdzaG91bGQgJywgKCkgPT4gewogICAgICBjb25zdCByZXN1bHQgPTsKICAgICAgZXhwZWN0KHJlc3VsdCkudG9CZSh0cnVlKTsKICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBQcm9qZWN0TWVtYmVyQWN0aW9uQ3JlYXRvcnMuZmV0Y2hFbnRpdGllc1N1Y2Nlc3MoW10pLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICBBcHBBY3Rpb25DcmVhdG9ycy5hZGROb3RpZmljYXRpb24oJ1Byb2plY3QgTWVtYmVycyB1cGRhdGUgLSBmYWlsZWQgdG8gdXBkYXRlIG1lbWJlcicsICdlcnJvcicpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gY29uc3QgZ3JpZE9wdGlvbnM6IEdyaWRPcHRpb25zID0gewovLyAgIGNvbHVtbkRlZnM6IGNvbHVtbkRlZmluaXRpb25zLAovLyAgIGRlZmF1bHRDb2xEZWY6IGdyaWRVdGlscy5EZWZhdWx0Q29sRGVmLAovLyAgIGdldFJvd05vZGVJZDogKHByb2plY3RVc2VyOiBQcm9qZWN0TWVtYmVyKSA9PiBwcm9qZWN0VXNlci51c2VySWQsCi8vICAgbXVsdGlTb3J0S2V5OiAnY3RybCcsCi8vICAgcm93TW9kZWxUeXBlOiAnY2xpZW50U2lkZScsCi8vICAgcm93U2VsZWN0aW9uOiAnc2luZ2xlJywKLy8gfTsKCg==</text>
+        <text encoding="base64">ICAgIGl0KCdzaG91bGQgJywgKCkgPT4gewogICAgICBjb25zdCByZXN1bHQgPTsKICAgICAgZXhwZWN0KHJlc3VsdCkudG9CZSh0cnVlKTsKICAgIH0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
