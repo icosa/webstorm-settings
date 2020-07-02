@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxoYW5kbGVHZW5lcmF0ZUtleUNvbmZpcm1lZFw+</entry>
         <entry encoding="base64">XDxTd2l0Y2hcPg==</entry>
         <entry encoding="base64">XDx9XD4=</entry>
         <entry encoding="base64">XDxtb2NrVXNlRGlzcGF0Y2hcPg==</entry>
@@ -24,6 +23,7 @@
         <entry encoding="base64">XDxncmlkQ29uZmlnXD4=</entry>
         <entry encoding="base64">XDxleHBlY3RlZFw+</entry>
         <entry encoding="base64">XDxtb2NrVXNlU3RhdGVcPg==</entry>
+        <entry encoding="base64">XDxncmlkRmlsdGVyQWN0aXZlXD4=</entry>
         <entry encoding="base64">XDxzZXRHcmlkRmlsdGVyQWN0aXZlXD4=</entry>
       </history-search>
       <history-cmd>
@@ -199,14 +199,15 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="24" column="2" />
       </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/components/NavigationBar/NavigationBar.tsx" timestamp="1593614951004" />
+      <file name="C:/dev/definiens/cp2/portal-ui/src/components/NavigationBar/NavigationBar.tsx" timestamp="1593683511263" />
       <file name="C:/dev/definiens/cp2/portal-ui/src/components/ProjectMembersList/ProjectMembersList.test.tsx" timestamp="1593611622916">
         <mark key="[" line="10" column="13" />
         <mark key="]" line="10" column="13" />
         <mark key="." line="10" column="13" />
         <mark key="^" line="10" column="15" />
       </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/components/ConfirmDialog/ConfirmDialog.tsx" timestamp="1593614612418">
+      <file name="C:/dev/definiens/cp2/portal-ui/src/App.tsx" timestamp="1593682944709" />
+      <file name="C:/dev/definiens/cp2/portal-ui/src/components/ConfirmDialog/ConfirmDialog.tsx" timestamp="1593683436931">
         <mark key="'" line="15" column="96" />
         <mark key="[" line="34" column="27" />
         <mark key="]" line="34" column="33" />
@@ -216,11 +217,11 @@
       <file name="/JavaScript Console" timestamp="1593678573478">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataList/SlideMetadataList.tsx" timestamp="1593682419495">
+      <file name="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataList/SlideMetadataList.tsx" timestamp="1593683464158">
         <mark key="'" line="61" column="27" />
         <mark key="[" line="61" column="50" />
         <mark key="]" line="61" column="56" />
-        <mark key="." line="61" column="55" />
+        <mark key="." line="60" column="77" />
         <mark key="^" line="61" column="56" />
       </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/utils/slideMetadataTableUtils.ts" timestamp="1593671621067">
@@ -235,12 +236,6 @@
         <mark key="." line="80" column="0" />
         <mark key="^" line="59" column="71" />
       </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/state/entities/sagas/saga.test.ts" timestamp="1591367683578">
-        <mark key="[" line="42" column="81" />
-        <mark key="]" line="42" column="104" />
-        <mark key="." line="42" column="103" />
-        <mark key="^" line="42" column="104" />
-      </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/utils/slideMetadataTableUtils.test.ts" timestamp="1593672411997">
         <mark key="'" line="133" column="63" />
         <mark key="[" line="139" column="15" />
@@ -250,9 +245,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="158" column="50" filename="C:/dev/definiens/cp2/portal-ui/src/pages/ImageViewerPage/ImageViewerPage.tsx" />
-      <jump line="116" column="8" filename="C:/dev/definiens/cp2/portal-ui/src/pages/ImageViewerPage/ImageViewerPage.tsx" />
-      <jump line="163" column="25" filename="C:/dev/definiens/cp2/portal-ui/src/pages/ImageViewerPage/ImageViewerPage.tsx" />
       <jump line="173" column="13" filename="C:/dev/definiens/cp2/portal-ui/src/utils/entity/reducer.test.ts" />
       <jump line="12" column="2" filename="C:/dev/definiens/cp2/portal-ui/src/utils/entity/reducer.test.ts" />
       <jump line="24" column="0" filename="C:/dev/definiens/cp2/portal-ui/src/utils/entity/entityUtils.ts" />
@@ -349,6 +341,9 @@
       <jump line="31" column="6" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataList/SlideMetadataList.test.tsx" />
       <jump line="100" column="8" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataList/SlideMetadataList.test.tsx" />
       <jump line="115" column="8" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataList/SlideMetadataList.test.tsx" />
+      <jump line="107" column="10" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataList/SlideMetadataList.tsx" />
+      <jump line="112" column="10" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataList/SlideMetadataList.tsx" />
+      <jump line="121" column="18" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataList/SlideMetadataList.tsx" />
       <jump line="61" column="27" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataList/SlideMetadataList.tsx" />
     </jumps>
   </component>
