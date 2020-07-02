@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDx0cmlnZ2VyS2V5R2VuZXJhdGlvblw+</entry>
         <entry encoding="base64">XDxoYW5kbGVHZW5lcmF0ZUtleUNvbmZpcm1lZFw+</entry>
         <entry encoding="base64">XDxTd2l0Y2hcPg==</entry>
         <entry encoding="base64">XDx9XD4=</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxncmlkQ29uZmlnXD4=</entry>
         <entry encoding="base64">XDxleHBlY3RlZFw+</entry>
         <entry encoding="base64">XDxtb2NrVXNlU3RhdGVcPg==</entry>
+        <entry encoding="base64">XDxzZXRHcmlkRmlsdGVyQWN0aXZlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>143</entry>
@@ -188,12 +188,12 @@
         <mark key="^" line="195" column="18" />
         <mark key="." line="195" column="17" />
       </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataList/SlideMetadataList.test.tsx" timestamp="1593680520984">
+      <file name="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataList/SlideMetadataList.test.tsx" timestamp="1593680552159">
         <mark key="'" line="115" column="8" />
         <mark key="[" line="186" column="32" />
-        <mark key="]" line="191" column="69" />
-        <mark key="." line="191" column="69" />
-        <mark key="^" line="186" column="33" />
+        <mark key="]" line="185" column="31" />
+        <mark key="." line="185" column="30" />
+        <mark key="^" line="185" column="31" />
       </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/components/ColorBox/ColorBox.tsx" timestamp="1593597131839">
         <mark key="[" line="11" column="0" />
@@ -216,7 +216,8 @@
       <file name="/JavaScript Console" timestamp="1593678573478">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataList/SlideMetadataList.tsx" timestamp="1593678760936">
+      <file name="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataList/SlideMetadataList.tsx" timestamp="1593682419495">
+        <mark key="'" line="61" column="27" />
         <mark key="[" line="61" column="50" />
         <mark key="]" line="61" column="56" />
         <mark key="." line="61" column="55" />
@@ -249,7 +250,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="157" column="34" filename="C:/dev/definiens/cp2/portal-ui/src/pages/ImageViewerPage/ImageViewerPage.tsx" />
       <jump line="158" column="50" filename="C:/dev/definiens/cp2/portal-ui/src/pages/ImageViewerPage/ImageViewerPage.tsx" />
       <jump line="116" column="8" filename="C:/dev/definiens/cp2/portal-ui/src/pages/ImageViewerPage/ImageViewerPage.tsx" />
       <jump line="163" column="25" filename="C:/dev/definiens/cp2/portal-ui/src/pages/ImageViewerPage/ImageViewerPage.tsx" />
@@ -349,6 +349,7 @@
       <jump line="31" column="6" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataList/SlideMetadataList.test.tsx" />
       <jump line="100" column="8" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataList/SlideMetadataList.test.tsx" />
       <jump line="115" column="8" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataList/SlideMetadataList.test.tsx" />
+      <jump line="61" column="27" filename="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataList/SlideMetadataList.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -369,7 +370,7 @@
         <text>'slides'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtb2NrVXNlU3RhdGVcPg==</text>
+        <text encoding="base64">XDxzZXRHcmlkRmlsdGVyQWN0aXZlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBpdCgnc2hvdWxkIHRyaWdnZXIgZXhwb3J0IHdpdGggdmFsdWUnLCAoKSA9PiB7CiAgICBjb25zdCBjb21wb25lbnQgPSBtb3VudENvbXBvbmVudCgpOwogICAgY29uc3QgbW9ja0hhbmRsZUV4cG9ydCA9IGplc3Quc3B5T24obGlzdEV2ZW50SGFuZGxlcnMsICdoYW5kbGVFeHBvcnQnKTsKICAgIGNvbXBvbmVudC5maW5kKFNsaWRlTWV0YWRhdGFMaXN0VG9vbGJhcikucHJvcCgnb25FeHBvcnQnKSgnc2xpZGVzJyk7CiAgICBleHBlY3QobW9ja0hhbmRsZUV4cG9ydCkudG9IYXZlQmVlbkNhbGxlZFRpbWVzKDEpOwogICAgZXhwZWN0KG1vY2tIYW5kbGVFeHBvcnQpLnRvSGF2ZUJlZW5DYWxsZWRXaXRoKHVuZGVmaW5lZCwgeyBpZDogJzAnLCBuYW1lOiAnbmFtZTAnIH0sICdzbGlkZXMnKTsKICB9KTsK</text>
@@ -445,9 +446,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxtb2NrVXNlU3RhdGVcPg==</last-search>
+      <last-search encoding="base64">XDxzZXRHcmlkRmlsdGVyQWN0aXZlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtb2NrVXNlU3RhdGVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzZXRHcmlkRmlsdGVyQWN0aXZlXD4=</last-pattern>
       <last-replace>state</last-replace>
       <last-substitute>initialState</last-substitute>
       <last-dir>1</last-dir>
