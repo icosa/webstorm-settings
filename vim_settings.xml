@@ -160,11 +160,17 @@
         <mark key="." line="78" column="79" />
         <mark key="^" line="78" column="79" />
       </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/state/multiView/saga.ts" timestamp="1593765827829">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="21" column="23" />
+      <file name="C:/dev/definiens/cp2/portal-ui/src/utils/slideMetadataUtils.ts" timestamp="1593767237094">
+        <mark key="[" line="2" column="9" />
+        <mark key="]" line="2" column="9" />
+        <mark key="." line="2" column="9" />
+        <mark key="^" line="14" column="47" />
+      </file>
+      <file name="C:/dev/definiens/cp2/portal-ui/src/components/SlideNavigationPanel/SlideNavigationPanel.tsx" timestamp="1593767208195">
+        <mark key="[" line="176" column="29" />
+        <mark key="]" line="176" column="47" />
+        <mark key="." line="176" column="46" />
+        <mark key="^" line="176" column="47" />
       </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/SlideMetadataTable.tsx" timestamp="1593766397813">
         <mark key="'" line="418" column="15" />
@@ -195,11 +201,6 @@
         <mark key="]" line="16" column="0" />
         <mark key="^" line="0" column="30" />
         <mark key="." line="16" column="0" />
-      </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/state/entities/selectors/selectors.test.ts" timestamp="1593765788481">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/utils/slideMetadataTableUtils.ts" timestamp="1593767112942">
         <mark key="'" line="60" column="30" />
@@ -242,10 +243,10 @@
         <mark key="]" line="18" column="9" />
         <mark key="." line="18" column="9" />
       </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/state/entities/selectors/slideMetadata.selectors.test.ts" timestamp="1593765806902">
-        <mark key="[" line="3" column="9" />
-        <mark key="]" line="3" column="9" />
-        <mark key="." line="3" column="9" />
+      <file name="/Dummy.txt" timestamp="1593769088360">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="59" />
+        <mark key="." line="0" column="1" />
       </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/utils/agGrid/fieldFormatters.ts" timestamp="1593766891512">
         <mark key="[" line="3" column="0" />
@@ -370,13 +371,13 @@
         <text />
       </register>
       <register name="*" type="4">
-        <text>SlideMetadataKeyEx</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="k" type="4">
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>SlideMetadataKeyEx</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb2RlbDJHYXRld2F5U2xpZGVcPg==</text>
@@ -385,7 +386,7 @@
         <text encoding="base64">ICAgICAgY29tbWVudDogJycsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQXNzYXkgfSBmcm9tICdwb3J0YWwtdWktYXBpLWdhdGV3YXktZmV0Y2gtY2xpZW50L3NyYy9tb2RlbHMvQXNzYXknOwo=</text>
+        <text encoding="base64">Ly8gaW1wb3J0IHsgU2xpZGVNZXRhZGF0YSB9IGZyb20gJy4uLy4uL21vZGVsL3NsaWRlTWV0YWRhdGEnOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -422,7 +423,7 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQXNzYXkgfSBmcm9tICcuLi8uLi9tb2RlbC9zbGlkZU1ldGFkYXRhJzsK</text>
+        <text encoding="base64">aW1wb3J0IHsgQXNzYXkgfSBmcm9tICdwb3J0YWwtdWktYXBpLWdhdGV3YXktZmV0Y2gtY2xpZW50L3NyYy9tb2RlbHMvQXNzYXknOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">aW1wb3J0IHsgQXNzYXkgfSBmcm9tICcuLi8uLi9tb2RlbC9zbGlkZU1ldGFkYXRhJzsK</text>
@@ -440,13 +441,13 @@
         <text encoding="base64">aW1wb3J0IHsgQXNzYXkgfSBmcm9tICcuLi8uLi9tb2RlbC9zbGlkZU1ldGFkYXRhJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IHsgQXNzYXkgfSBmcm9tICcuLi8uLi9tb2RlbC9zbGlkZU1ldGFkYXRhJzsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IHsgQXNzYXkgfSBmcm9tICcuLi8uLi9tb2RlbC9zbGlkZU1ldGFkYXRhJzsK</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">Ly8gaW1wb3J0IHsgQXNzYXkgfSBmcm9tICcuLi8uLi9tb2RlbC9zbGlkZU1ldGFkYXRhJzsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU2xpZGUgfSBmcm9tICdwb3J0YWwtdWktYXBpLWdhdGV3YXktZmV0Y2gtY2xpZW50JzsK</text>
+        <text encoding="base64">aW1wb3J0IHsgQXNzYXkgfSBmcm9tICcuLi8uLi9tb2RlbC9zbGlkZU1ldGFkYXRhJzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
