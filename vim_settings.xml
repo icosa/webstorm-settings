@@ -184,6 +184,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="C:/dev/definiens/cp2/portal-ui/src/state/entities/sagas/slideMetadata.saga.ts" timestamp="1593776680458">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/components/SlideMetadataTable/tableEventHandlers.ts" timestamp="1593767073307">
         <mark key="[" line="10" column="35" />
         <mark key="]" line="10" column="56" />
@@ -195,12 +200,6 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
-      </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/state/multiView/selectors.ts" timestamp="1593765898552">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="0" column="30" />
-        <mark key="." line="16" column="0" />
       </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/utils/slideMetadataTableUtils.ts" timestamp="1593767112942">
         <mark key="'" line="60" column="30" />
@@ -215,11 +214,6 @@
         <mark key="]" line="27" column="83" />
         <mark key="." line="27" column="82" />
         <mark key="^" line="27" column="83" />
-      </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/state/multiView/selectors.test.ts" timestamp="1593765845875">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="C:/dev/definiens/cp2/portal-ui/src/utils/agGrid/columnDefinitions.test.ts" timestamp="1593766853979">
         <mark key="[" line="2" column="0" />
@@ -243,7 +237,13 @@
         <mark key="]" line="18" column="9" />
         <mark key="." line="18" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593769088360">
+      <file name="C:/dev/definiens/cp2/portal-ui/src/utils/backendModelConverters.test.ts" timestamp="1593776358011">
+        <mark key="[" line="136" column="4" />
+        <mark key="]" line="136" column="23" />
+        <mark key="." line="136" column="22" />
+        <mark key="^" line="136" column="23" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1593776682306">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="59" />
         <mark key="." line="0" column="1" />
@@ -370,8 +370,8 @@
       <register name="i" type="4">
         <text />
       </register>
-      <register name="*" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="k" type="4">
         <text>kjkjllllllllllljjkkhhhh</text>
@@ -386,7 +386,7 @@
         <text encoding="base64">ICAgICAgY29tbWVudDogJycsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IHsgU2xpZGVNZXRhZGF0YSB9IGZyb20gJy4uLy4uL21vZGVsL3NsaWRlTWV0YWRhdGEnOwo=</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -423,10 +423,10 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQXNzYXkgfSBmcm9tICdwb3J0YWwtdWktYXBpLWdhdGV3YXktZmV0Y2gtY2xpZW50L3NyYy9tb2RlbHMvQXNzYXknOwo=</text>
+        <text encoding="base64">Ly8gaW1wb3J0IHsgU2xpZGVNZXRhZGF0YSB9IGZyb20gJy4uLy4uL21vZGVsL3NsaWRlTWV0YWRhdGEnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQXNzYXkgfSBmcm9tICcuLi8uLi9tb2RlbC9zbGlkZU1ldGFkYXRhJzsK</text>
+        <text encoding="base64">aW1wb3J0IHsgQXNzYXkgfSBmcm9tICdwb3J0YWwtdWktYXBpLWdhdGV3YXktZmV0Y2gtY2xpZW50L3NyYy9tb2RlbHMvQXNzYXknOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IHsgQXNzYXkgfSBmcm9tICcuLi8uLi9tb2RlbC9zbGlkZU1ldGFkYXRhJzsK</text>
@@ -444,10 +444,10 @@
         <text encoding="base64">aW1wb3J0IHsgQXNzYXkgfSBmcm9tICcuLi8uLi9tb2RlbC9zbGlkZU1ldGFkYXRhJzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IHsgQXNzYXkgfSBmcm9tICcuLi8uLi9tb2RlbC9zbGlkZU1ldGFkYXRhJzsK</text>
+        <text encoding="base64">aW1wb3J0IHsgQXNzYXkgfSBmcm9tICcuLi8uLi9tb2RlbC9zbGlkZU1ldGFkYXRhJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQXNzYXkgfSBmcm9tICcuLi8uLi9tb2RlbC9zbGlkZU1ldGFkYXRhJzsK</text>
+        <text encoding="base64">Ly8gaW1wb3J0IHsgQXNzYXkgfSBmcm9tICcuLi8uLi9tb2RlbC9zbGlkZU1ldGFkYXRhJzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
