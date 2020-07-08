@@ -209,18 +209,18 @@
         <mark key="." line="4" column="68" />
         <mark key="^" line="4" column="69" />
       </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/utils/entity/entityCollectionUtils.test.ts" timestamp="1594192628195">
+      <file name="C:/dev/definiens/cp2/portal-ui/src/utils/entity/entityCollectionUtils.test.ts" timestamp="1594194058134">
         <mark key="'" line="3" column="24" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="196" column="47" />
+        <mark key="[" line="199" column="35" />
+        <mark key="]" line="199" column="50" />
+        <mark key="." line="199" column="49" />
+        <mark key="^" line="199" column="50" />
       </file>
       <file name="/slideMetadata.saga.ts" timestamp="1594137707772">
         <mark key="[" line="92" column="0" />
         <mark key="]" line="96" column="63" />
       </file>
-      <file name="C:/dev/definiens/cp2/portal-ui/src/utils/entity/entityCollectionUtils.ts" timestamp="1594191895315">
+      <file name="C:/dev/definiens/cp2/portal-ui/src/utils/entity/entityCollectionUtils.ts" timestamp="1594193952173">
         <mark key="'" line="39" column="12" />
         <mark key="[" line="140" column="86" />
         <mark key="]" line="140" column="86" />
@@ -235,7 +235,7 @@
         <mark key="]" line="56" column="49" />
         <mark key="." line="56" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1594189035287">
+      <file name="/Dummy.txt" timestamp="1594194194713">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -371,19 +371,19 @@
         <text />
       </register>
       <register name="*" type="4">
-        <text>.</text>
+        <text>emptyCollection</text>
       </register>
       <register name="k" type="4">
         <text>kjkjllllllllllljjkkhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>emptyCollection</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGF0ZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBkZXNjcmliZSgndXBkYXRlTWFueScsICgpID0+IHsKICAgIGl0KCdzaG91bGQgcmV0dXJuIG9yaWdpbmFsIHN0YXRlIGlmIG5vdGhpbmcgdXBkYXRlZCcsICgpID0+IHsKICAgICAgY29uc3QgcmVzdWx0ID0gRW50aXR5VXRpbHMudXBkYXRlTWFueTxGYWtlRW50aXR5LCBudW1iZXI+KAogICAgICAgIGRlZmF1bHRJbml0aWFsQnlJZEJsb2NrU3RhdGUsCiAgICAgICAgeyBbZmFrZUVudGl0eUEuaWRdOiB7IG5hbWU6ICdqb2UnIH0gfSwKICAgICAgKTsKICAgICAgZXhwZWN0KHJlc3VsdCkudG9TdHJpY3RFcXVhbChkZWZhdWx0SW5pdGlhbEJ5SWRCbG9ja1N0YXRlKTsKICAgIH0pOwoKICAgIGl0KCdzaG91bGQgdXBkYXRlIGVudGl0aWVzIHdoZW4gc3RvcmFnZSBtb2RlIGlzIHNpbmdsZScsICgpID0+IHsKICAgICAgY29uc3Qgc3RhdGVQcmUgPSBFbnRpdHlVdGlscy5hZGRCeUlkKGRlZmF1bHRJbml0aWFsQnlJZEJsb2NrU3RhdGUsIGZha2VFbnRpdHlBKTsKICAgICAgY29uc3Qgc3RhdGUgPSBFbnRpdHlVdGlscy5hZGRCeUlkKHN0YXRlUHJlLCBmYWtlRW50aXR5Qik7CiAgICAgIGNvbnN0IHJlc3VsdCA9IEVudGl0eVV0aWxzLnVwZGF0ZU1hbnk8RmFrZUVudGl0eSwgbnVtYmVyPigKICAgICAgICBzdGF0ZSwKICAgICAgICB7CiAgICAgICAgICBbZmFrZUVudGl0eUEuaWRdOiB7IG5hbWU6ICdqb2UnIH0sCiAgICAgICAgICBbZmFrZUVudGl0eUIuaWRdOiB7IG5hbWU6ICdzYW0nIH0sCiAgICAgICAgfSwKICAgICAgKTsKICAgICAgZXhwZWN0KHJlc3VsdCkudG9TdHJpY3RFcXVhbDxFbnRpdHlTdGF0ZTxGYWtlRW50aXR5LCBudW1iZXI+Pih7CiAgICAgICAgLi4uSW5pdGlhbEVudGl0eVN0YXRlLAogICAgICAgIGVudGl0aWVzOiB7CiAgICAgICAgICAnNSc6IHsgLi4uZmFrZUVudGl0eUEsICduYW1lJzogJ2pvZScgfSwKICAgICAgICAgICcxMCc6IHsgLi4uZmFrZUVudGl0eUIsICduYW1lJzogJ3NhbScgfSwKICAgICAgICB9LAogICAgICAgIGtleXM6IFs1LCAxMF0sCiAgICAgICAgc3RvcmFnZU1vZGU6IEVudGl0eVN0YXRlU3RvcmFnZU1vZGUuQmxvY2ssCiAgICAgIH0pOwogICAgfSk7CiAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgY29sbGVjdGlvbldpdGhBID0gRW50aXR5Q29sbGVjdGlvblV0aWxzLmFkZEJ5SWQoZW1wdHlDb2xsZWN0aW9uLCBmYWtlRW50aXR5QSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IHsgRW50aXR5U3RhdGUsIEVudGl0eVN0YXRlU3RvcmFnZU1vZGUsIEluaXRpYWxFbnRpdHlTdGF0ZSB9IGZyb20gJy4uLy4uL21vZGVsL2VudGl0eVN0YXRlJzsK</text>
