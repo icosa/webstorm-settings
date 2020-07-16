@@ -1,0 +1,18 @@
+<keymap version="1" name="Windows copy" parent="$default">
+  <action id="CollapseAllRegions" />
+  <action id="CollapseRegion">
+    <keyboard-shortcut first-keystroke="z" second-keystroke="c" />
+  </action>
+  <action id="CollapseRegionRecursively">
+    <keyboard-shortcut first-keystroke="z" second-keystroke="shift c" />
+  </action>
+  <action id="ExpandAllRegions">
+    <keyboard-shortcut first-keystroke="z" second-keystroke="shift e" />
+  </action>
+  <action id="ExpandRegion">
+    <keyboard-shortcut first-keystroke="z" second-keystroke="r" />
+  </action>
+  <action id="ExpandRegionRecursively">
+    <keyboard-shortcut first-keystroke="z" second-keystroke="shift r" />
+  </action>
+</keymap>
